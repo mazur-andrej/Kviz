@@ -934,7 +934,12 @@ Schedule 1 also includes acute meningitis, acute encephalitis, meningococcal sep
 
 **A – T, B – T, C – T, D – F.**
 
-A, B – glucose (without insulin) and mannitol are effective osmoles that draw water out of cells (translocational, hypertonic hyponatraemia); for each 5.5 mmol/L rise in glucose above normal, Na⁺ falls by ~1.6–2.4 mmol/L. C – pseudohyponatraemia: lipids or paraproteins reduce the plasma water fraction with indirect ISE (laboratory analyser); a direct ISE (blood gas analyser) gives the true value and osmolality is normal. D – polydipsia causes hypotonic hyponatraemia with a maximally dilute urine. Reference: Spasovski G, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. **Intensive Care Med** 2014;40:320–331 (and **Eur J Endocrinol** 2014;170:G1–G47).
+- A (True) – without insulin, glucose is an effective osmole that draws water out of cells (translocational, hypertonic hyponatraemia). Na⁺ falls by ~1.6–2.4 mmol/L for each 5.5 mmol/L rise in glucose, i.e. by ~10–15 mmol/L at 40 mmol/L.
+- B (True) – mannitol is also an effective osmole. It causes hyponatraemia with normal or high measured osmolality and a raised osmolar gap.
+- C (True) – this is pseudohyponatraemia: lipids or paraproteins reduce the plasma water fraction, so an indirect ISE (laboratory analyser) underestimates Na⁺. A direct ISE (blood gas analyser) gives the true value, and osmolality is normal.
+- D (False) – primary polydipsia causes **hypotonic** hyponatraemia with maximally dilute urine (U-osm ≤ 100 mOsm/kg).
+
+**Ref:** Spasovski G et al., Clinical practice guideline on diagnosis and treatment of hyponatraemia, Intensive Care Med 2014;40:320–331 (and Eur J Endocrinol 2014;170:G1–G47).
 
 </details>
 
@@ -949,7 +954,14 @@ A, B – glucose (without insulin) and mannitol are effective osmoles that draw 
 
 **A – T, B – F, C – F, D – F.**
 
-Exercise-associated hyponatraemia with seizure and reduced consciousness is a medical emergency: hypertonic saline boluses (150 mL 3 % over 20 min, or 100 mL bolus in some protocols, with re-checks) aiming for a 5 mmol/L rise, which usually improves symptoms. Fluid restriction is too slow; vaptans have unpredictable effects and are not recommended for severe symptoms; isotonic saline may not raise sodium (and can worsen it in SIADH-like states). SALSA showed rapid intermittent bolus therapy was as safe as slow continuous infusion. Reference: Spasovski G, et al. **Intensive Care Med** 2014;40:320–331; Baek SH, et al. SALSA trial. **JAMA Intern Med** 2021;181:81–92.
+- A (True) – exercise-associated hyponatraemia with a seizure and reduced consciousness is an emergency. Give 150 mL of 3 % saline over 20 min (100 mL boluses in some EAH protocols), recheck Na⁺ and repeat until it has risen by ~5 mmol/L, which usually improves symptoms.
+- B (False) – fluid restriction is far too slow with severe symptoms; it suits asymptomatic EAH or chronic SIAD.
+- C (False) – vaptans act slowly and unpredictably and are not recommended for severe symptoms.
+- D (False) – isotonic saline barely raises Na⁺ and, while non-osmotic ADH release persists (as in EAH), it can even lower it.
+
+**EDIC trap:** SALSA showed that rapid intermittent boluses are as safe as a slow continuous infusion, with less need for re-lowering.
+
+**Ref:** Spasovski G et al., Clinical practice guideline on diagnosis and treatment of hyponatraemia, Intensive Care Med 2014;40:320–331 (and Eur J Endocrinol 2014;170:G1–G47); Baek SH et al. (SALSA), JAMA Intern Med 2021;181:81–92; Hew-Butler T et al., Clin J Sport Med 2015;25:303–320.
 
 </details>
 
@@ -964,7 +976,12 @@ Exercise-associated hyponatraemia with seizure and reduced consciousness is a me
 
 **A – F, B – T, C – T, D – F.**
 
-A – mild 130–135, moderate 125–129, profound < 125 mmol/L. B – assume chronic if unknown. C – these factors lower the threshold for osmotic demyelination; correction should not exceed 10 mmol/L in the first 24 h and 8 mmol/L in each subsequent 24 h (lower limits, e.g. 8 mmol/L/24 h, in high-risk patients). D – active re-lowering (stop active treatment, give water/5 % dextrose ± desmopressin) is recommended if the limit is exceeded. Reference: Spasovski G, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. **Intensive Care Med** 2014;40:320–331; Sterns RH. Disorders of plasma sodium. **N Engl J Med** 2015;372:55–65.
+- A (False) – mild is 130–135, moderate 125–129 and profound < 125 mmol/L.
+- B (True) – hyponatraemia is chronic if it has lasted ≥ 48 h, and when the duration is unknown it is treated as chronic.
+- C (True) – hypokalaemia, alcohol use disorder, malnutrition and liver disease (and Na⁺ ≤ 105 mmol/L) lower the threshold for osmotic demyelination. The usual limits are ≤ 10 mmol/L in the first 24 h and ≤ 8 mmol/L per further 24 h; aim for ~8 mmol/L/24 h in high-risk patients.
+- D (False) – active re-lowering is recommended if the limit is exceeded: stop active treatment and give 10 mL/kg of electrolyte-free water (5 % glucose) over 1 h ± desmopressin 2 µg IV.
+
+**Ref:** Spasovski G et al., Clinical practice guideline on diagnosis and treatment of hyponatraemia, Intensive Care Med 2014;40:320–331 (and Eur J Endocrinol 2014;170:G1–G47); Sterns RH, Disorders of plasma sodium, N Engl J Med 2015;372:55–65.
 
 </details>
 
@@ -983,7 +1000,15 @@ A – mild 130–135, moderate 125–129, profound < 125 mmol/L. B – assume ch
 
 **B.**
 
-Long-term proton-pump inhibitor therapy impairs intestinal magnesium absorption (TRPM6/7) and causes severe hypomagnesaemia, which in turn causes refractory hypokalaemia (renal ROMK-mediated K⁺ wasting) and hypocalcaemia (reduced PTH secretion and end-organ resistance). Torsades-type polymorphic VT with long QT is treated with IV magnesium; potassium and calcium will not correct until magnesium is replaced. Amiodarone prolongs QT and is contraindicated in torsades. Reference: Soar J, Böttiger BW, Carli P, et al. European Resuscitation Council Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Hess MW, et al. Systematic review: hypomagnesaemia induced by proton pump inhibition. **Aliment Pharmacol Ther** 2012;36:405–413.
+**Why B:** Long-term PPI therapy impairs active intestinal magnesium absorption (TRPM6/7) and causes severe hypomagnesaemia. This in turn causes refractory hypokalaemia (ROMK-mediated renal K⁺ wasting) and hypocalcaemia (reduced PTH secretion and end-organ resistance). Torsades-type polymorphic VT with a long QT is treated with MgSO₄ 2 g (≈ 8 mmol) IV, whatever the serum Mg²⁺; potassium and calcium will not correct until magnesium is replaced.
+
+**Why not the others:**
+- A – calcium does not treat torsades, and the hypocalcaemia will not correct while Mg²⁺ is low.
+- C – KCl alone will not correct the K⁺ while magnesium depletion keeps the kidney wasting K⁺, and it does not stop torsades.
+- D – amiodarone prolongs the QT and is contraindicated in torsades de pointes.
+- E – alfacalcidol acts over days and does not address the magnesium-driven hypocalcaemia or the arrhythmia.
+
+**Ref:** Soar J, Böttiger BW, Carli P, et al. ERC Guidelines 2025 Adult Advanced Life Support, Resuscitation 2025;215(Suppl 1):110769; Hess MW, et al., Aliment Pharmacol Ther 2012;36:405–413.
 
 </details>
 
@@ -1002,7 +1027,15 @@ Long-term proton-pump inhibitor therapy impairs intestinal magnesium absorption 
 
 **A.**
 
-This is refeeding syndrome: insulin-driven intracellular shift of phosphate, potassium and magnesium with sodium and water retention. Management is to reduce (not stop) energy delivery, replace electrolytes IV (with cardiac monitoring), give thiamine and B vitamins, and re-advance feeding gradually over 4–7 days. In the Refeeding RCT, protocolised caloric restriction improved survival. Stopping feeds (B) prolongs starvation; PN (C) causes the same problem; oral phosphate alone (D) is inadequate for a level < 0.3 mmol/L; diuretics (E) worsen hypokalaemia and hypomagnesaemia. Reference: da Silva JSV, et al. ASPEN consensus recommendations for refeeding syndrome. **Nutr Clin Pract** 2020;35:178–195; Doig GS, et al. Restricted versus continued standard caloric intake during the management of refeeding syndrome in critically ill adults. **Lancet Respir Med** 2015;3:943–952.
+**Why A:** This is refeeding syndrome: an insulin-driven intracellular shift of phosphate, K⁺ and Mg²⁺ with Na⁺ and water retention (oedema, tachycardia). A BMI of 13 alone puts her at high risk by NICE (which suggests even 5 kcal/kg/day if BMI < 14). Reduce energy delivery rather than stopping it, replace electrolytes IV with cardiac monitoring, give thiamine and B vitamins, then advance feeding gradually over 4–7 days. In the Doig trial, protocolised caloric restriction improved 60-day survival (a secondary outcome).
+
+**Why not the others:**
+- B – stopping all feeding prolongs starvation; the evidence supports restricting energy, not stopping it.
+- C – parenteral nutrition at the same target causes the same insulin-driven shift.
+- D – oral phosphate alone is inadequate for a level < 0.3 mmol/L, and the feed rate perpetuates the problem.
+- E – furosemide worsens the hypokalaemia and hypomagnesaemia, and continuing the feed sustains the refeeding.
+
+**Ref:** da Silva JSV, et al. ASPEN consensus recommendations for refeeding syndrome, Nutr Clin Pract 2020;35:178–195; Doig GS, et al., Lancet Respir Med 2015;3:943–952; NICE CG32 (2006, updated 2017).
 
 </details>
 
@@ -1017,7 +1050,14 @@ This is refeeding syndrome: insulin-driven intracellular shift of phosphate, pot
 
 **A – T, B – T, C – T, D – T.**
 
-A – lithium raises the set-point of the calcium-sensing receptor and causes PTH-dependent hypercalcaemia. B – retinoids stimulate osteoclastic bone resorption. C – granulomas express 1α-hydroxylase, producing calcitriol-mediated (PTH-suppressed) hypercalcaemia, responsive to glucocorticoids. D – excess calcium plus absorbable alkali (e.g. calcium carbonate) causes hypercalcaemia, metabolic alkalosis and AKI. Other causes: primary hyperparathyroidism and malignancy (> 90 %), thiazides, thyrotoxicosis, immobilisation, adrenal insufficiency. Reference: Minisola S, et al. The diagnosis and management of hypercalcaemia. **BMJ** 2015;350:h2723; Walker MD, Shane E. Hypercalcemia: a review. **JAMA** 2022;328:1624–1636.
+- A (True) – lithium raises the set-point of the calcium-sensing receptor and causes PTH-dependent hypercalcaemia.
+- B (True) – vitamin A and other retinoids stimulate osteoclastic bone resorption.
+- C (True) – granulomas express 1α-hydroxylase and produce calcitriol, which causes PTH-suppressed hypercalcaemia that responds to glucocorticoids.
+- D (True) – excess calcium with absorbable alkali (e.g. calcium carbonate) causes hypercalcaemia, metabolic alkalosis and AKI.
+
+**EDIC trap:** primary hyperparathyroidism and malignancy cause ~90 % of cases. Thiazides, thyrotoxicosis, immobilisation and adrenal insufficiency are other causes.
+
+**Ref:** Minisola S, et al. The diagnosis and management of hypercalcaemia, BMJ 2015;350:h2723; Walker MD, Shane E. Hypercalcemia: a review, JAMA 2022;328:1624–1636.
 
 </details>
 
@@ -1033,7 +1073,15 @@ A – lithium raises the set-point of the calcium-sensing receptor and causes PT
 
 **E.**
 
-PTHrP-mediated humoral hypercalcaemia of malignancy that remains symptomatic after rehydration needs an IV bisphosphonate (zoledronic acid 4 mg, the most potent; reduce/avoid if creatinine > 400 µmol/L); denosumab is an alternative in bisphosphonate-refractory disease or severe renal impairment. Calcitonin acts within hours but has tachyphylaxis within 48 h – a bridge, not long-term therapy. Loop diuretics are used only for volume overload after rehydration. Glucocorticoids are for calcitriol-mediated causes (lymphoma, granulomatous disease). Dialysis is reserved for severe hypercalcaemia with renal failure or neurological compromise unresponsive to treatment. Reference: El-Hajj Fuleihan G, et al. Treatment of hypercalcemia of malignancy in adults: an Endocrine Society clinical practice guideline. **J Clin Endocrinol Metab** 2023;108:507–528.
+**Why E:** This is PTHrP-mediated humoral hypercalcaemia of malignancy that remains symptomatic after rehydration, so it needs an IV bisphosphonate. Zoledronic acid 4 mg is the most potent; adjust the dose or avoid it in severe renal impairment. The Endocrine Society 2023 guideline suggests an IV bisphosphonate or denosumab, and denosumab is preferred when the disease is bisphosphonate-refractory or renal impairment is severe.
+
+**Why not the others:**
+- A – loop diuretics are used only for volume overload after rehydration, not to lower calcium.
+- B – glucocorticoids are for calcitriol-mediated causes (lymphoma, granulomatous disease), not PTHrP.
+- C – dialysis is reserved for severe hypercalcaemia with renal failure or neurological compromise that does not respond to treatment.
+- D – calcitonin acts within hours but tachyphylaxis develops within 48 h, so it is a bridge, not long-term therapy.
+
+**Ref:** El-Hajj Fuleihan G, et al. Treatment of hypercalcemia of malignancy in adults: an Endocrine Society clinical practice guideline, J Clin Endocrinol Metab 2023;108:507–528; Walker MD, Shane E, JAMA 2022;328:1624–1636.
 
 </details>
 
@@ -1264,7 +1312,14 @@ A, B – the 2022 definition lowered the threshold from mPAP ≥ 25 to > 20 mmHg
 
 **A – T, B – T, C – F, D – T.**
 
-Pre-excited AF risks degeneration to VF because conduction occurs rapidly over the accessory pathway. Drugs that block the AV node (adenosine, verapamil/diltiazem, β-blockers, digoxin) are contraindicated, and the ESC advises against IV amiodarone, which can also enhance accessory pathway conduction. Ibutilide or procainamide (flecainide/propafenone are alternatives) are acceptable if stable; electrical cardioversion if unstable or in doubt. Ablation is recommended after pre-excited AF (high-risk pathway). Reference: Brugada J, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. **Eur Heart J** 2020;41:655–720; Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation. **Eur Heart J** 2024;45:3314–3414.
+- A (True) – in stable pre-excited AF, IV procainamide or ibutilide (or flecainide/propafenone) slow conduction over the accessory pathway and can restore sinus rhythm.
+- B (True) – electrical cardioversion is the treatment if he becomes unstable, or if in doubt, because pre-excited AF at 240/min can degenerate to VF.
+- C (False) – the ESC advises against IV amiodarone in pre-excited AF; like other AV-nodal blockers (adenosine, verapamil/diltiazem, beta-blockers, digoxin) it can increase conduction over the accessory pathway.
+- D (True) – catheter ablation of the accessory pathway is recommended after pre-excited AF, as this is a high-risk pathway.
+
+**EDIC trap:** An irregular, very fast broad-complex tachycardia with changing QRS shape is pre-excited AF until proven otherwise – do not block the AV node.
+
+**Ref:** Brugada J et al., 2019 ESC SVT Guidelines, Eur Heart J 2020;41:655–720; Van Gelder IC et al., 2024 ESC AF Guidelines, Eur Heart J 2024;45:3314–3414.
 
 </details>
 
@@ -1280,7 +1335,15 @@ Pre-excited AF risks degeneration to VF because conduction occurs rapidly over t
 
 **E.**
 
-Her AF is permanent with a large atrium, so cardioversion (A) is unlikely to succeed and not the goal; she is not in shock. In HFrEF with acute decompensation, digoxin (or IV amiodarone) is preferred for acute rate control; β-blockers should be used cautiously and not in high doses during acute pulmonary congestion. Non-dihydropyridine calcium channel blockers (B) and class Ic agents (C) are contraindicated in LVEF < 40 % / structural heart disease. Treating the trigger (sepsis, hypoxaemia, volume) is essential; lenient rate control (< 110/min) is acceptable initially. Reference: Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation. **Eur Heart J** 2024;45:3314–3414.
+**Why E:** Her AF is permanent with a 58-mm left atrium, so the goal is rate control, not rhythm. In HFrEF with acute congestion, IV digoxin (or IV amiodarone) controls the rate without depressing contractility or BP. Treating the trigger (pneumonia, hypoxaemia, volume status) is essential, and lenient rate control (< 110/min) is acceptable at first (ESC 2024).
+
+**Why not the others:**
+- A – she is not in shock, and cardioversion of long-standing permanent AF with a large atrium is unlikely to last.
+- B – verapamil is negatively inotropic and contraindicated with LVEF ≤ 40%.
+- C – flecainide is contraindicated in structural heart disease and HFrEF.
+- D – repeated beta-blocker boluses during acute pulmonary congestion can cause decompensation, and < 80/min is a strict, not initial, target.
+
+**Ref:** Van Gelder IC et al., 2024 ESC AF Guidelines, Eur Heart J 2024;45:3314–3414.
 
 </details>
 
@@ -1296,7 +1359,15 @@ Her AF is permanent with a large atrium, so cardioversion (A) is unlikely to suc
 
 **A.**
 
-Tachyarrhythmia with adverse features (shock, myocardial ischaemia, impaired consciousness) requires immediate synchronised cardioversion under sedation/anaesthesia. ERC guidance suggests that for AF an initial synchronised shock at maximum defibrillator output is reasonable, rather than an escalating approach. Unsynchronised shocks (B) risk R-on-T and VF. Adenosine (C) is for regular narrow-complex tachycardia. Amiodarone (D) is given if cardioversion fails or for stable patients. Haemodynamic instability overrides the usual pre-cardioversion anticoagulation/TOE requirements (E), though heparin should be given as soon as possible. Reference: Soar J, et al. European Resuscitation Council Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Van Gelder IC, et al. 2024 ESC AF Guidelines. **Eur Heart J** 2024;45:3314–3414.
+**Why A:** This tachyarrhythmia has adverse features (shock, myocardial ischaemia, reduced consciousness), so it needs immediate synchronised cardioversion under sedation or anaesthesia. ERC 2025 recommends that for AF the first synchronised shock is delivered at maximum defibrillator output rather than escalating. If it fails, give amiodarone 300 mg IV over 10–20 min and repeat the shock.
+
+**Why not the others:**
+- B – an unsynchronised shock may fall on the T wave (R-on-T) and cause VF.
+- C – adenosine is for regular narrow-complex tachycardia; this rhythm is irregular.
+- D – amiodarone is given after a failed shock or in stable patients; it would delay treatment of shock.
+- E – instability overrides the usual anticoagulation/TOE requirements, although heparin should be started as soon as possible.
+
+**Ref:** Soar J et al., ERC Guidelines 2025 Adult ALS, Resuscitation 2025;215(Suppl 1):110769; Van Gelder IC et al., 2024 ESC AF Guidelines, Eur Heart J 2024;45:3314–3414.
 
 </details>
 
@@ -1314,7 +1385,12 @@ Tachyarrhythmia with adverse features (shock, myocardial ischaemia, impaired con
 
 **A – T, B – F, C – F, D – T.**
 
-A – both imaging and biomarker evidence of RV strain = intermediate-high; only one (or none) = intermediate-low. B – persistent hypotension (SBP < 90 mmHg for ≥ 15 min, or vasopressor need), obstructive shock or cardiac arrest = high risk. C – routine primary thrombolysis is not recommended (PEITHO: fewer decompensations but more major and intracranial bleeding); rescue thrombolysis (or catheter-directed therapy) is recommended if the patient deteriorates. D – RV/LV ≥ 1.0 (CT) or > 1.0 (echo) defines RV dysfunction. Reference: Konstantinides SV, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism. **Eur Heart J** 2020;41:543–603.
+- A (True) – evidence of RV strain on both imaging and biomarkers in a normotensive patient with sPESI ≥ 1 means intermediate-high risk; one or none is intermediate-low.
+- B (False) – persistent hypotension (SBP < 90 mmHg for > 15 min, not explained by another cause) is haemodynamic instability, which makes this **high risk**.
+- C (False) – routine primary thrombolysis is not recommended; in PEITHO it reduced decompensation but increased major and intracranial bleeding. Rescue thrombolysis (or catheter-directed therapy) is used if the patient deteriorates.
+- D (True) – an RV/LV diameter ratio ≥ 1.0 on CTPA (or > 1.0 on echo) indicates RV dysfunction.
+
+**Ref:** Konstantinides SV et al., 2019 ESC PE Guidelines, Eur Heart J 2020;41:543–603.
 
 </details>
 
@@ -1330,7 +1406,15 @@ A – both imaging and biomarker evidence of RV strain = intermediate-high; only
 
 **E.**
 
-ECG signs of acute RV strain include anterior T-wave inversion (V1–V4), QR in V1, S1Q3T3, incomplete or complete RBBB, right axis deviation and atrial arrhythmias; sinus tachycardia is the most frequent finding. Anterior T-wave inversion and RBBB are associated with RV dysfunction and worse outcome. LVH with lateral strain reflects chronic LV pressure overload (e.g. hypertension, aortic stenosis) and is not a feature of PE. Overall, the ECG is neither sensitive nor specific. Reference: Konstantinides SV, et al. 2019 ESC PE Guidelines. **Eur Heart J** 2020;41:543–603; Shopp JD, et al. Findings from 12-lead electrocardiography that predict circulatory shock from pulmonary embolism: systematic review and meta-analysis. **Acad Emerg Med** 2015;22:1127–1137.
+**Why E:** LVH with a lateral strain pattern reflects chronic LV pressure overload (e.g. hypertension, aortic stenosis) and is not a sign of acute PE. Acute PE loads the right ventricle, so the ECG may show sinus tachycardia (most common), anterior T-wave inversion, QR in V1, S1Q3T3, RBBB, right axis deviation or atrial arrhythmias. Overall, the ECG is neither sensitive nor specific for PE.
+
+**Why not the others:**
+- A – T-wave inversion in V1–V4 reflects RV strain and is linked to RV dysfunction and worse outcome.
+- B – new RBBB (complete or incomplete) is a sign of acute RV dilatation.
+- C – the S1Q3T3 pattern is a recognised, though uncommon, sign of acute RV strain.
+- D – atrial arrhythmias, including new AF, occur in acute PE.
+
+**Ref:** Konstantinides SV et al., 2019 ESC PE Guidelines, Eur Heart J 2020;41:543–603; Shopp JD et al., Acad Emerg Med 2015;22:1127–1137.
 
 </details>
 
@@ -1345,7 +1429,14 @@ ECG signs of acute RV strain include anterior T-wave inversion (V1–V4), QR in 
 
 **A – T, B – F, C – T, D – F.**
 
-A – activated protein C resistance; the commonest inherited thrombophilia in Europeans (~5-fold risk when heterozygous). B – deficiency of factor VIII causes bleeding, not thrombosis. C – complement-mediated haemolysis and platelet activation cause thrombosis at unusual sites (hepatic, cerebral, mesenteric veins); thrombosis is the main cause of death. D – vitamin K deficiency reduces factors II, VII, IX, X (and proteins C/S) and causes a bleeding tendency. Reference: Konstantinides SV, et al. 2019 ESC PE Guidelines (Table of predisposing factors). **Eur Heart J** 2020;41:543–603; Hill A, et al. Paroxysmal nocturnal haemoglobinuria. **Nat Rev Dis Primers** 2017;3:17028.
+- A (True) – factor V Leiden causes resistance to activated protein C; it is the most common inherited thrombophilia in Europeans (~5-fold VTE risk when heterozygous).
+- B (False) – haemophilia A is factor VIII deficiency and causes bleeding, not thrombosis.
+- C (True) – in PNH, complement-mediated haemolysis and platelet activation cause thrombosis at unusual sites (hepatic, cerebral, mesenteric veins); thrombosis is the main cause of death.
+- D (False) – vitamin K deficiency lowers factors II, VII, IX and X (and proteins C/S), and the net effect is a bleeding tendency.
+
+**EDIC trap:** Low protein C and S in vitamin K deficiency does not make it prothrombotic overall – the procoagulant factors fall too.
+
+**Ref:** Konstantinides SV et al., 2019 ESC PE Guidelines, Eur Heart J 2020;41:543–603; Hill A et al., Nat Rev Dis Primers 2017;3:17028.
 
 </details>
 
@@ -1360,7 +1451,14 @@ A – activated protein C resistance; the commonest inherited thrombophilia in E
 
 **A – T, B – T, C – T, D – T.**
 
-A – ESC 2019 regimens. B – PEITHO (n = 1005): primary outcome 2.6 % vs 5.6 %, but major extracranial bleeding 6.3 % vs 1.2 % and stroke 2.4 % vs 0.2 %; no 30-day mortality difference. C – ERC guidance: consider continuing CPR for 60–90 min after thrombolysis. D – class I (surgery) / IIa (catheter-directed) recommendations; trials of catheter-directed therapy in intermediate-risk PE (HI-PEITHO, PEERLESS) are reported or ongoing. Reference: Meyer G, et al. PEITHO. **N Engl J Med** 2014;370:1402–1411; Konstantinides SV, et al. 2019 ESC PE Guidelines. **Eur Heart J** 2020;41:543–603; Lott C, et al. ERC Guidelines 2025 Special Circumstances. **Resuscitation** 2025;215(Suppl 1):110753.
+- A (True) – ESC 2019: alteplase 100 mg over 2 h is standard; the accelerated regimen of 0.6 mg/kg over 15 min (max 50 mg) is used mainly in cardiac arrest or extreme instability.
+- B (True) – in PEITHO (1006 patients) the primary outcome fell from 5.6% to 2.6%, but major extracranial bleeding (6.3% vs 1.2%) and stroke (2.4% vs 0.2%, mostly haemorrhagic) rose; 30-day mortality did not differ.
+- C (True) – ERC guidance: consider continuing CPR for 60–90 min after giving a thrombolytic for PE.
+- D (True) – surgical embolectomy (I C) or catheter-directed treatment (IIa C) is an alternative when thrombolysis is contraindicated or has failed.
+
+**EDIC trap:** In intermediate-high-risk PE, HI-PEITHO and PRAGUE-26 (2026) showed that catheter-directed thrombolysis reduced early decompensation, but not mortality.
+
+**Ref:** Meyer G et al. (PEITHO), N Engl J Med 2014;370:1402–1411; Konstantinides SV et al., 2019 ESC PE Guidelines, Eur Heart J 2020;41:543–603; Lott C et al., ERC Guidelines 2025 Special Circumstances, Resuscitation 2025;215(Suppl 1):110753.
 
 </details>
 
@@ -1378,7 +1476,14 @@ A – ESC 2019 regimens. B – PEITHO (n = 1005): primary outcome 2.6 % vs 5.6 %
 
 **A – F, B – F, C – F, D – F.**
 
-A, B – the chest X-ray is normal in ~10–20 % of cases; mediastinal widening is seen in roughly 60 %. C – effusions (haemothorax or reactive) are usually left-sided. D – the calcium sign is displacement of intimal calcification > 6–10 mm from the outer aortic contour. Other signs: abnormal aortic contour, apical cap, tracheal deviation to the right and depression of the left main bronchus. CT angiography (or TOE if unstable) is the diagnostic test. Reference: Erbel R, et al. 2014 ESC Guidelines on the diagnosis and treatment of aortic diseases. **Eur Heart J** 2014;35:2873–2926; Mazzolai L, et al. 2024 ESC Guidelines for the management of peripheral arterial and aortic diseases. **Eur Heart J** 2024;45:3538–3700; Hagan PG, et al. IRAD. **JAMA** 2000;283:897–903.
+- A (False) – the chest X-ray is normal in about 10–20% of dissections, so it cannot exclude the diagnosis.
+- B (False) – mediastinal widening is seen in only about 60% of cases.
+- C (False) – effusions from dissection (haemothorax or reactive) are usually **left-sided**.
+- D (False) – the calcium sign is displacement of intimal calcification by **> 6–10 mm** from the outer aortic contour, not < 2 mm.
+
+**EDIC trap:** Other CXR clues are an abnormal aortic contour, apical cap, tracheal deviation to the right and a depressed left main bronchus – but CT angiography (or TOE if unstable) is the diagnostic test.
+
+**Ref:** Erbel R et al., 2014 ESC Aortic Diseases Guidelines, Eur Heart J 2014;35:2873–2926; Mazzolai L et al., 2024 ESC Guidelines on peripheral arterial and aortic diseases, Eur Heart J 2024;45:3538–3700; Hagan PG et al. (IRAD), JAMA 2000;283:897–903.
 
 </details>
 
@@ -1394,7 +1499,15 @@ A, B – the chest X-ray is normal in ~10–20 % of cases; mediastinal widening 
 
 **B.**
 
-After cardiac surgery, tamponade is often due to localised clot (frequently posterior), so classic signs (equalisation of pressures, pulsus paradoxus) may be incomplete. Rising filling pressures with falling output and abrupt cessation of drainage, confirmed on TOE, requires surgical re-exploration; emergency resternotomy on the ICU is part of the CALS protocol if arrest occurs. Needle pericardiocentesis (A) is ineffective for clot and dangerous after sternotomy. Inotropes (C) and diuretics (D) worsen the situation; delay (E) is inappropriate. Reference: Society of Thoracic Surgeons Task Force on Resuscitation After Cardiac Surgery. The Society of Thoracic Surgeons expert consensus for the resuscitation of patients who arrest after cardiac surgery. **Ann Thorac Surg** 2017;103:1005–1020; Adler Y, et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases. **Eur Heart J** 2015;36:2921–2964.
+**Why B:** Drains that suddenly stop after heavy output, with rising CVP and PAOP, falling cardiac index and rising vasopressor need, mean postoperative tamponade. TOE confirms a localised posterior clot compressing the right atrium. After cardiac surgery, tamponade is often due to localised clot, so classic signs (equal pressures, pulsus paradoxus) may be missing. The treatment is surgical re-exploration; emergency resternotomy on the ICU is part of the CALS protocol if arrest occurs.
+
+**Why not the others:**
+- A – a needle cannot remove clot, and pericardiocentesis is dangerous after sternotomy.
+- C – more inotropes do not relieve the compression and only delay treatment.
+- D – the patient is preload-dependent, so furosemide would worsen output.
+- E – waiting an hour in worsening tamponade risks cardiac arrest.
+
+**Ref:** STS Task Force on Resuscitation After Cardiac Surgery, Ann Thorac Surg 2017;103:1005–1020; Adler Y et al., 2015 ESC Pericardial Diseases Guidelines, Eur Heart J 2015;36:2921–2964.
 
 </details>
 
@@ -1410,7 +1523,17 @@ After cardiac surgery, tamponade is often due to localised clot (frequently post
 
 **C.**
 
-Chest pain with a neurological deficit, inter-arm BP difference and new aortic regurgitation strongly suggest type A aortic dissection extending into the supra-aortic vessels; up to ~5–10 % of dissections present with stroke. Thrombolysis, antiplatelet therapy or anticoagulation (A, B, E) could be fatal; the aorta must be imaged first (CT angiography, or bedside TOE/TTE if unstable). If confirmed: IV β-blocker (target HR < 60/min, SBP 100–120 mmHg) and emergency surgery. Reference: Mazzolai L, et al. 2024 ESC Guidelines for the management of peripheral arterial and aortic diseases. **Eur Heart J** 2024;45:3538–3700; Isselbacher EM, et al. 2022 ACC/AHA Guideline for the diagnosis and management of aortic disease. **Circulation** 2022;146:e334–e482.
+**Why C:** Chest pain followed by a neurological deficit, a 55-mmHg inter-arm BP difference and a new early diastolic (AR) murmur strongly suggest type A dissection extending into the supra-aortic vessels. About 5–10% of dissections present with stroke. The aorta must be imaged before any antithrombotic treatment – CT angiography, or bedside TOE/TTE if unstable. If confirmed: IV beta-blocker (HR < 60/min, SBP 100–120 mmHg) and emergency surgery.
+
+**Why not the others:**
+- A – alteplase in dissection can cause fatal bleeding or tamponade.
+- B – dual antiplatelet loading for presumed ACS increases bleeding at surgery.
+- D – coronary angiography delays diagnosis and catheter manipulation in a dissected aorta is hazardous.
+- E – heparin may extend the dissection or haemopericardium.
+
+**EDIC trap:** Always look for dissection "red flags" before thrombolysis for stroke or STEMI.
+
+**Ref:** Mazzolai L et al., 2024 ESC Guidelines on peripheral arterial and aortic diseases, Eur Heart J 2024;45:3538–3700; Isselbacher EM et al., 2022 ACC/AHA Aortic Disease Guideline, Circulation 2022;146:e334–e482.
 
 </details>
 
@@ -1428,7 +1551,14 @@ Chest pain with a neurological deficit, inter-arm BP difference and new aortic r
 
 **A – T, B – F, C – T, D – F.**
 
-A – organ damage (encephalopathy, retinopathy, AKI, acute HF, ACS, dissection, eclampsia, TMA) defines an emergency; absolute numbers do not. B – without a compelling condition, MAP is reduced by no more than ~20–25 % over several hours to avoid cerebral, renal and coronary hypoperfusion. C – dissection is the exception, requiring immediate reduction (β-blocker first, then vasodilator). D – severe hypertension without acute organ damage is managed by reintroducing or intensifying oral therapy and lowering BP gradually over days; IV therapy is unnecessary and risky. Reference: van den Born BJH, et al. ESC Council on hypertension position document on the management of hypertensive emergencies. **Eur Heart J Cardiovasc Pharmacother** 2019;5:37–46; McEvoy JW, et al. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension. **Eur Heart J** 2024;45:3912–4018.
+- A (True) – acute organ damage (encephalopathy, retinopathy, AKI, acute HF, ACS, dissection, eclampsia, TMA) defines an emergency, not the absolute BP value.
+- B (False) – without a compelling condition, MAP is lowered by no more than ~20–25% over several hours, to avoid cerebral, renal and coronary hypoperfusion (autoregulation shifted right).
+- C (True) – aortic dissection is the exception: SBP ≤ 120 mmHg and HR ≤ 60/min immediately, with a beta-blocker first and then a vasodilator.
+- D (False) – severe hypertension without acute organ damage is an urgency, managed by starting or intensifying oral therapy and lowering BP gradually; IV treatment is unnecessary and risky.
+
+**EDIC trap:** Pulmonary oedema and ACS also need an immediate reduction (SBP < 140 mmHg).
+
+**Ref:** van den Born BJH et al., ESC Council on Hypertension position document, Eur Heart J Cardiovasc Pharmacother 2019;5:37–46; McEvoy JW et al., 2024 ESC Hypertension Guidelines, Eur Heart J 2024;45:3912–4018.
 
 </details>
 
@@ -1447,7 +1577,17 @@ A – organ damage (encephalopathy, retinopathy, AKI, acute HF, ACS, dissection,
 
 **D.**
 
-Right-sided (tricuspid) endocarditis in people who inject drugs is caused by S. aureus in 60–90 % of cases (MRSA in some regions), followed by streptococci, Pseudomonas and Candida. Septic pulmonary emboli are common (cough, haemoptysis, cavitating nodules). Prognosis is relatively good (in-hospital mortality < 10 %), and most patients are treated medically; ESC 2023 indications for surgery include right heart failure from severe TR unresponsive to diuretics, persistent bacteraemia/difficult organisms despite adequate therapy, and tricuspid vegetations > 20 mm with recurrent PE. Reference: Delgado V, et al. 2023 ESC Guidelines for the management of endocarditis. **Eur Heart J** 2023;44:3948–4042.
+**Why D:** Tricuspid endocarditis in people who inject drugs is caused by *S. aureus* in 60–90% of cases (MRSA in some regions). The clinical picture is typical: fever, cough and haemoptysis from septic pulmonary emboli, with cavitating nodules on CT. Other causes are streptococci, *Pseudomonas* and *Candida*.
+
+**Why not the others:**
+- A – the prognosis is relatively good (in-hospital mortality < 10%), better than left-sided NVE.
+- B – most patients are treated medically; ESC 2023 surgery is for right HF from severe TR not responding to diuretics, persistent bacteraemia or difficult organisms, or vegetations > 20 mm with recurrent PE.
+- C – *Candida* is an uncommon cause.
+- E – septic pulmonary emboli are common, as here.
+
+**EDIC trap:** Her 15-mm vegetation does not meet the > 20 mm threshold for right-sided surgery.
+
+**Ref:** Delgado V et al., 2023 ESC Endocarditis Guidelines, Eur Heart J 2023;44:3948–4042.
 
 </details>
 
@@ -1463,7 +1603,15 @@ Right-sided (tricuspid) endocarditis in people who inject drugs is caused by S. 
 
 **B.**
 
-In severe AS, the hypertrophied LV depends on diastolic perfusion pressure and adequate preload, and has a fixed stroke volume; tachycardia shortens diastole and worsens ischaemia. A pure α-agonist (phenylephrine, metaraminol) or noradrenaline restores coronary perfusion pressure without increasing heart rate. Ephedrine (A) and dobutamine (D) increase HR; vasodilators (C) can precipitate cardiovascular collapse; a 1 mg adrenaline bolus (E) is an arrest dose and would cause severe tachycardia and hypertension. Maintain sinus rhythm and treat AF promptly. Reference: Vahanian A, et al. 2021 ESC/EACTS Guidelines for the management of valvular heart disease. **Eur Heart J** 2022;43:561–632; Halvorsen S, et al. 2022 ESC Guidelines on cardiovascular assessment and management of patients undergoing non-cardiac surgery. **Eur Heart J** 2022;43:3826–3924.
+**Why B:** In severe AS the hypertrophied LV has a fixed stroke volume and depends on diastolic pressure for coronary perfusion. Spinal anaesthesia causes vasodilation, and hypotension then leads to ischaemia and a downward spiral; tachycardia shortens diastole and makes it worse. A pure α-agonist (phenylephrine, metaraminol) or noradrenaline restores coronary perfusion pressure without raising heart rate. Keep sinus rhythm and treat AF promptly.
+
+**Why not the others:**
+- A – ephedrine raises heart rate (β effect), which is unwanted at HR 105/min.
+- C – glyceryl trinitrate is a vasodilator and can cause cardiovascular collapse.
+- D – dobutamine causes tachycardia and vasodilation.
+- E – 1 mg of adrenaline is an arrest dose and would cause severe tachycardia and hypertension.
+
+**Ref:** Praz F et al., 2025 ESC/EACTS Valvular Heart Disease Guidelines, Eur Heart J 2025; Halvorsen S et al., 2022 ESC Guidelines on non-cardiac surgery, Eur Heart J 2022;43:3826–3924.
 
 </details>
 
@@ -1478,7 +1626,14 @@ In severe AS, the hypertrophied LV depends on diastolic perfusion pressure and a
 
 **A – T, B – F, C – T, D – F.**
 
-A – reduced LV cavity size or increased contractility increases systolic anterior motion of the mitral valve and the outflow gradient. B – digoxin (a positive inotrope) and vasodilators are avoided in obstructive HCM. C – ESC 2023 recommends β-blockers first-line, then (or in addition) mavacamten (or disopyramide); septal reduction therapy for refractory symptoms. D – treat LVOTO shock with fluids, a pure vasoconstrictor (phenylephrine/noradrenaline), β-blockade and stopping inotropes. Reference: Arbelo E, et al. 2023 ESC Guidelines for the management of cardiomyopathies. **Eur Heart J** 2023;44:3503–3626.
+- A (True) – a smaller LV cavity (hypovolaemia, vasodilators) or stronger contraction (inotropes) increases systolic anterior motion of the mitral valve and the LVOT gradient.
+- B (False) – digoxin is a positive inotrope and is avoided in obstructive HCM, as are vasodilators.
+- C (True) – ESC 2023: beta-blockers first-line, then (or added) the myosin inhibitor mavacamten or disopyramide; septal reduction therapy for refractory symptoms.
+- D (False) – shock from dynamic LVOT obstruction is treated with fluids, a pure vasoconstrictor (phenylephrine/noradrenaline), beta-blockade and stopping inotropes; dobutamine worsens the obstruction.
+
+**EDIC trap:** Dynamic LVOT obstruction can also occur without HCM in hypovolaemic, catecholamine-treated septic patients – look for SAM on echo.
+
+**Ref:** Arbelo E et al., 2023 ESC Cardiomyopathy Guidelines, Eur Heart J 2023;44:3503–3626.
 
 </details>
 
