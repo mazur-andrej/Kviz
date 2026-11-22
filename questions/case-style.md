@@ -1,6 +1,6 @@
 # Questions – case-style
 
-Answer in the [interactive quiz](../index.html) to get marked automatically. Answers are hidden below each question.
+Answer in the [interactive quiz](https://mazur-andrej.github.io/Kviz/) to get marked automatically. Answers are hidden below each question.
 
 
 ## Case-style practice · W01-D2 · Initial septic shock resuscitation
@@ -14,7 +14,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** A – SSC 2026 suggests balanced crystalloids over saline (conditional, moderate certainty; exception TBI). B – static CVP targets came from early goal-directed therapy, which ProCESS, ARISE and ProMISe did not support; SSC suggests dynamic measures and capillary refill time (ANDROMEDA-SHOCK) to guide further fluid. C – in possible septic shock antimicrobials are recommended immediately, ideally within 1 h; cultures should be drawn first only if this causes no substantial delay. D – SSC suggests starting noradrenaline peripherally rather than delaying for central access (conditional, very low certainty). Reference: Prescott HC, et al. Surviving Sepsis Campaign: international guidelines 2026. **Intensive Care Med** 2026; PRISM investigators. Early goal-directed therapy for septic shock – a patient-level meta-analysis. **N Engl J Med** 2017;376:2223–2234.
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – SSC 2026 suggests balanced crystalloids over 0.9 % saline (conditional, moderate certainty); the exception is TBI.
+- B (True) – Static CVP targets came from early goal-directed therapy, which ProCESS, ARISE and ProMISe did not support; dynamic measures and capillary refill time (ANDROMEDA-SHOCK) are suggested to guide further fluid.
+- C (False) – In possible septic shock antimicrobials are recommended immediately, ideally within 1 h; cultures are drawn first only if this causes no substantial delay.
+- D (False) – Noradrenaline may be started peripherally rather than delaying for central access (conditional, very low certainty).
+
+**EDIC trap:** "CVP 8–12 mmHg" is an outdated EGDT target.
+
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026; PRISM investigators. *N Engl J Med* 2017;376:2223–2234.
 
 </details>
 
@@ -30,7 +39,14 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** A – ALBIOS showed no difference in 28- or 90-day mortality (only a post-hoc signal in shock). B – 6S: more deaths and more RRT with HES; the EMA suspended HES licences in the EU in 2022. C – CLASSIC: no mortality difference (42.3 % vs 42.1 %); SSC 2026 therefore suggests either a liberal or a restrictive approach after the initial 30 mL/kg. D – SAFE-TBI: higher 24-month mortality with albumin, probably via raised ICP. Reference: Caironi P, et al. ALBIOS. **N Engl J Med** 2014;370:1412–1421; Perner A, et al. 6S. **N Engl J Med** 2012;367:124–134; Meyhoff TS, et al. CLASSIC. **N Engl J Med** 2022;386:2459–2470; SAFE Study Investigators. **N Engl J Med** 2007;357:874–884.
+**A – F, B – T, C – F, D – T.**
+
+- A (False) – ALBIOS showed no difference in 28- or 90-day mortality (only a post-hoc signal in septic shock).
+- B (True) – 6S: more deaths and more RRT with HES 130/0.42 than with Ringer's acetate; HES licences were suspended in the EU in 2022.
+- C (False) – CLASSIC: no mortality difference (42.3 % vs 42.1 %); SSC 2026 therefore suggests either a liberal or a restrictive approach after the initial 30 mL/kg.
+- D (True) – SAFE-TBI: higher 24-month mortality with 4 % albumin, probably via raised ICP.
+
+**Ref:** Caironi P, et al. ALBIOS. *N Engl J Med* 2014;370:1412–1421; Perner A, et al. 6S. *N Engl J Med* 2012;367:124–134; Meyhoff TS, et al. CLASSIC. *N Engl J Med* 2022;386:2459–2470; SAFE Study Investigators. *N Engl J Med* 2007;357:874–884.
 
 </details>
 
@@ -44,7 +60,18 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** She has already received > 30 mL/kg, is persistently hypotensive with hypoperfusion, and the negative PLR test (< 10 % SV rise) shows she is unlikely to respond to more fluid. SSC 2026 recommends noradrenaline as first-line vasopressor and suggests starting it peripherally rather than delaying for a central line (large proximal vein, extravasation checks, switch to central access if prolonged). More saline (A) is unlikely to raise SV and adds chloride and oedema; albumin (D) is only suggested after large crystalloid volumes and would also not help a fluid-unresponsive patient; dobutamine (E) is for proven cardiac dysfunction with hypoperfusion despite adequate MAP. Reference: Prescott HC, et al. Surviving Sepsis Campaign 2026. **Intensive Care Med** 2026; Monnet X, et al. Passive leg raising: five rules, not a drop of fluid! **Crit Care** 2015;19:18.
+**B.**
+
+**Why B:** She has received > 30 mL/kg, remains hypotensive with hypoperfusion, and a PLR rise in SV of only 4 % (< 10 %) shows she is unlikely to respond to more fluid. SSC 2026 recommends noradrenaline first line and suggests starting it peripherally rather than delaying for a central line (large proximal vein, extravasation checks, switch to central access if prolonged).
+
+**Why not the others:**
+
+- A – More saline is unlikely to raise SV in a fluid non-responder and adds chloride and oedema.
+- C – Waiting for central access needlessly prolongs hypotension.
+- D – Albumin is only suggested after large crystalloid volumes and would not help a fluid non-responder.
+- E – Dobutamine is for proven cardiac dysfunction with hypoperfusion despite adequate MAP.
+
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026; Monnet X, et al. *Crit Care* 2015;19:18.
 
 </details>
 
@@ -60,7 +87,14 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** A – V1a signalling (Gq → IP3 → Ca²⁺, plus K-ATP channel inhibition) is less affected by acidosis than adrenergic receptors, which is one rationale for its catecholamine-sparing role. B – V2 receptors mediate antidiuresis; vasoconstriction is via V1a. C – vasopressin is added at a fixed dose, usually up to 0.03 U/min (sometimes 0.04); higher doses cause digital, mesenteric and myocardial ischaemia. SSC 2026 suggests adding it when noradrenaline requirements escalate. D – VANISH found no difference in kidney failure–free days; less RRT use with vasopressin was a secondary finding. Reference: Gordon AC, et al. VANISH. **JAMA** 2016;316:509–518; Russell JA, et al. VASST. **N Engl J Med** 2008;358:877–887; Prescott HC, et al. SSC 2026. **Intensive Care Med** 2026.
+**A – T, B – F, C – F, D – F.**
+
+- A (True) – V1a signalling (Gq → IP3 → Ca²⁺, plus K-ATP channel inhibition) is less affected by acidosis than adrenergic receptors – one rationale for its catecholamine-sparing role.
+- B (False) – V2 receptors mediate antidiuresis; vasoconstriction is via **V1a** receptors.
+- C (False) – Vasopressin is added at a fixed dose, usually up to 0.03 U/min (sometimes 0.04); higher doses cause digital, mesenteric and myocardial ischaemia. SSC 2026 suggests adding it when noradrenaline requirements escalate.
+- D (False) – VANISH found no difference in kidney failure–free days; less RRT use with vasopressin was a secondary finding.
+
+**Ref:** Gordon AC, et al. VANISH. *JAMA* 2016;316:509–518; Russell JA, et al. VASST. *N Engl J Med* 2008;358:877–887; Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026.
 
 </details>
 
@@ -74,7 +108,18 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** SSC 2026 recommends noradrenaline as first-line vasopressor (strong) over dopamine (more arrhythmias – SOAP II), vasopressin, adrenaline or phenylephrine, with an initial MAP target of 65 mmHg (strong; 60–65 mmHg suggested if ≥ 65 years). Vasopressin is an add-on when noradrenaline requirements escalate, not monotherapy. A target of 80–85 mmHg conferred no survival benefit in SEPSISPAM and increases catecholamine exposure. Reference: Prescott HC, et al. SSC 2026. **Intensive Care Med** 2026; De Backer D, et al. SOAP II. **N Engl J Med** 2010;362:779–789; Asfar P, et al. SEPSISPAM. **N Engl J Med** 2014;370:1583–1593.
+**A.**
+
+**Why A:** SSC 2026 recommends noradrenaline as the first-line vasopressor, with an initial MAP target of 65 mmHg (strong; 60–65 mmHg suggested if ≥ 65 years). He is 52, adequately filled (IVC no longer collapsible) and vasoplegic with a hyperdynamic LV.
+
+**Why not the others:**
+
+- B – Dopamine causes more arrhythmias than noradrenaline (SOAP II) and is recommended against.
+- C – Vasopressin is an add-on when noradrenaline requirements escalate, not monotherapy.
+- D – Phenylephrine is not a recommended agent, and 80 mmHg gave no survival benefit in SEPSISPAM.
+- E – Adrenaline is a second agent (raises lactate, tachycardia), and the 80 mmHg target is too high.
+
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026; De Backer D, et al. SOAP II. *N Engl J Med* 2010;362:779–789; Asfar P, et al. SEPSISPAM. *N Engl J Med* 2014;370:1583–1593.
 
 </details>
 
@@ -88,7 +133,18 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Transfusion to a haematocrit > 30 % and dobutamine to reach ScvO2 ≥ 70 % were elements of early goal-directed therapy that ProCESS, ARISE and ProMISe found no benefit from; TRISS showed a threshold of 70 g/L is as safe as 90 g/L in septic shock, and SSC recommends a restrictive transfusion strategy. Noradrenaline with a 60–65 mmHg target for age ≥ 65 (A), timely source control (B), arterial monitoring once vasopressors are needed (D) and perfusion-guided reassessment (E) are all appropriate. Reference: Holst LB, et al. TRISS. **N Engl J Med** 2014;371:1381–1391; PRISM investigators. **N Engl J Med** 2017;376:2223–2234; Prescott HC, et al. SSC 2026. **Intensive Care Med** 2026.
+**C.**
+
+**Why C:** Transfusion to a haematocrit > 30 % (and dobutamine) to reach ScvO2 ≥ 70 % were elements of early goal-directed therapy; ProCESS, ARISE and ProMISe found no benefit. TRISS showed a threshold of 70 g/L is as safe as 90 g/L in septic shock, and SSC recommends a restrictive transfusion strategy – so this is the inappropriate action.
+
+**Why the others are appropriate:**
+
+- A – Noradrenaline with an initial MAP target of 60–65 mmHg is suggested for age ≥ 65 years.
+- B – Timely biliary decompression is source control, ideally within 6 h.
+- D – An arterial line is reasonable once vasopressors are needed and doses may escalate.
+- E – Capillary refill time and serial lactate are the suggested perfusion markers.
+
+**Ref:** Holst LB, et al. TRISS. *N Engl J Med* 2014;371:1381–1391; PRISM investigators. *N Engl J Med* 2017;376:2223–2234; Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026.
 
 </details>
 
@@ -104,7 +160,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** Linezolid is cleared mainly by non-renal oxidation (metabolites accumulate in severe CKD, but the dose is unchanged). Ceftriaxone has dual biliary and renal elimination and needs no adjustment unless there is combined hepatic and renal failure. Aminoglycosides are renally cleared and nephrotoxic: give a weight-based dose and lengthen the interval according to trough levels. Flucloxacillin needs reduction only in severe impairment (CrCl < 10 mL/min). In sepsis, the first (loading) dose of any hydrophilic agent should never be reduced because the volume of distribution is increased. Reference: Roberts JA, et al. Individualised antibiotic dosing for patients who are critically ill: challenges and potential solutions. **Lancet Infect Dis** 2014;14:498–509; Abdul-Aziz MH, et al. Antimicrobial therapeutic drug monitoring in critically ill adult patients: a position paper. **Intensive Care Med** 2020;46:1127–1153.
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – linezolid is cleared mainly by non-renal oxidation; metabolites accumulate in severe CKD, but the dose is unchanged.
+- B (True) – ceftriaxone has dual biliary and renal elimination and needs no adjustment unless hepatic and renal failure coexist.
+- C (True) – aminoglycosides are renally cleared and nephrotoxic: give a full weight-based dose and extend the interval according to trough levels.
+- D (False) – flucloxacillin needs reduction only in severe impairment (CrCl < 10 mL/min).
+
+**EDIC trap:** in sepsis the first (loading) dose of any hydrophilic agent is never reduced, because Vd is increased.
+
+**Ref:** Roberts JA et al., Lancet Infect Dis 2014;14:498–509; Abdul-Aziz MH et al., Intensive Care Med 2020;46:1127–1153.
 
 </details>
 
@@ -117,7 +182,14 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Enterococci are Gram-positive cocci in pairs/chains (intrinsically resistant to cephalosporins). Corynebacteria are Gram-positive "club-shaped" rods. Neisseria species are Gram-negative diplococci. Legionella is a Gram-negative rod that stains poorly and is diagnosed by urinary antigen (serogroup 1) or PCR rather than by Gram stain. Reference: Murray PR, Rosenthal KS, Pfaller MA. *Medical Microbiology*, 9th ed. Elsevier 2020; Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. **Intensive Care Med** 2023;49:615–632.
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – enterococci are Gram-positive cocci in pairs/chains, intrinsically resistant to cephalosporins.
+- B (True) – corynebacteria are Gram-positive "club-shaped" rods.
+- C (False) – *Neisseria* species are Gram-negative diplococci.
+- D (False) – *Legionella* is a Gram-negative rod that stains poorly; diagnosis is by urinary antigen (serogroup 1) or PCR rather than Gram stain.
+
+**Ref:** Murray PR, Rosenthal KS, Pfaller MA. *Medical Microbiology*, 9th ed. Elsevier 2020; Martin-Loeches I et al., ERS/ESICM/ESCMID/ALAT severe CAP guidelines, Intensive Care Med 2023;49:615–632.
 
 </details>
 
@@ -133,7 +205,14 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** A – ECDC/CDC consensus definitions: MDR = non-susceptible to ≥ 1 agent in ≥ 3 categories; XDR = non-susceptible to ≥ 1 agent in all but ≤ 2 categories; PDR = non-susceptible to all agents in all categories. B – daptomycin is inactivated by pulmonary surfactant and must not be used for pneumonia (linezolid or vancomycin instead). C – ceftaroline (and ceftobiprole) bind PBP2a and are the only β-lactams active against MRSA. D – oral vancomycin is essentially not absorbed (used only for C. difficile); linezolid, by contrast, has ~100 % oral bioavailability. Reference: Magiorakos AP, et al. Multidrug-resistant, extensively drug-resistant and pandrug-resistant bacteria: an international expert proposal for interim standard definitions. **Clin Microbiol Infect** 2012;18:268–281; Silverman JA, et al. Inhibition of daptomycin by pulmonary surfactant. **J Infect Dis** 2005;191:2149–2152.
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – international consensus definitions: MDR = non-susceptible to ≥ 1 agent in ≥ 3 categories; XDR = non-susceptible to ≥ 1 agent in all but ≤ 2 categories; PDR = non-susceptible to all agents in all categories.
+- B (False) – daptomycin is inactivated by pulmonary surfactant and must not be used for pneumonia; use linezolid or vancomycin.
+- C (True) – ceftaroline (and ceftobiprole) bind PBP2a and are the only β-lactams active against MRSA.
+- D (False) – oral vancomycin is essentially not absorbed (used only for *C. difficile*); linezolid, by contrast, has ~100 % oral bioavailability.
+
+**Ref:** Magiorakos AP et al., Clin Microbiol Infect 2012;18:268–281; Silverman JA et al., J Infect Dis 2005;191:2149–2152.
 
 </details>
 
@@ -149,7 +228,14 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** A – VAP requires > 48 h of invasive ventilation (ATS/IDSA 2016; ERS/ESICM/ESCMID/ALAT 2017). B – meta-analyses show fewer VAP episodes with subglottic drainage, without a clear mortality effect. C – circuits should be changed only when visibly soiled or malfunctioning; routine changes do not reduce VAP. D – early-onset VAP (< 5 days) more often involves community flora, whereas late-onset VAP and prior antibiotics increase the risk of Pseudomonas, Acinetobacter, ESBL Enterobacterales and MRSA. Reference: Kalil AC, et al. Management of adults with HAP and VAP: 2016 ATS/IDSA guidelines. **Clin Infect Dis** 2016;63:e61–e111; Torres A, et al. International ERS/ESICM/ESCMID/ALAT guidelines for HAP and VAP. **Eur Respir J** 2017;50:1700582.
+**A – F, B – T, C – F, D – T.**
+
+- A (False) – VAP requires > 48 h of invasive ventilation (ATS/IDSA 2016; ERS/ESICM/ESCMID/ALAT 2017).
+- B (True) – meta-analyses show fewer VAP episodes with subglottic secretion drainage, without a clear mortality effect.
+- C (False) – circuits should be changed only when visibly soiled or malfunctioning; routine changes do not reduce VAP.
+- D (True) – early-onset VAP (< 5 days) more often involves community flora; late onset and prior antibiotics increase the risk of *Pseudomonas*, *Acinetobacter*, ESBL Enterobacterales and MRSA.
+
+**Ref:** Kalil AC et al., ATS/IDSA HAP/VAP guidelines, Clin Infect Dis 2016;63:e61–e111; Torres A et al., Eur Respir J 2017;50:1700582.
 
 </details>
 
@@ -163,7 +249,17 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** New and persistent infiltrate after > 48 h of ventilation plus fever, purulent secretions, leucocytosis and deteriorating oxygenation = clinical VAP; his Clinical Pulmonary Infection Score would exceed 6. CPIS has only moderate sensitivity and specificity, so guidelines recommend a clinical diagnosis supported by (semi-)quantitative respiratory cultures rather than CPIS alone. Tracheobronchitis (A) has no new infiltrate; contusions (E) appear within 24 h and resolve over days; atelectasis (D) does not explain fever and purulence; PE (B) would not produce purulent secretions. Reference: Kalil AC, et al. 2016 ATS/IDSA HAP/VAP guidelines. **Clin Infect Dis** 2016;63:e61–e111; Torres A, et al. ERS/ESICM/ESCMID/ALAT HAP/VAP guidelines. **Eur Respir J** 2017;50:1700582.
+**C.**
+
+**Why C:** A new, persistent infiltrate after > 48 h of ventilation plus fever, purulent secretions, leucocytosis and worsening oxygenation is clinical VAP; his CPIS would exceed 6. CPIS has only moderate sensitivity and specificity, so guidelines rely on clinical diagnosis supported by (semi-)quantitative respiratory cultures rather than CPIS alone.
+
+**Why not the others:**
+- A – ventilator-associated tracheobronchitis has no new infiltrate.
+- B – pulmonary embolism does not cause purulent secretions or a new consolidation with leucocytosis.
+- D – atelectasis from a mucus plug does not explain fever and purulence.
+- E – contusions appear within 24 h of injury and resolve over days; these had been resolving.
+
+**Ref:** Kalil AC et al., ATS/IDSA HAP/VAP guidelines, Clin Infect Dis 2016;63:e61–e111; Torres A et al., Eur Respir J 2017;50:1700582.
 
 </details>
 
@@ -179,7 +275,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** A – delay in aciclovir is the main modifiable determinant of poor outcome; start empirically within hours of presentation. B – early PCR may be negative; repeat 3–7 days later if HSE remains likely, and continue aciclovir meanwhile. C – MRI (FLAIR/DWI hyperintensity of the medial temporal lobes and insula) is far more sensitive than CT, which is often normal early. D – 10 mg/kg 8-hourly for 14–21 days, reduced in renal impairment; ensure hydration to avoid crystal nephropathy. Reference: Solomon T, et al. Management of suspected viral encephalitis in adults – Association of British Neurologists and British Infection Association national guidelines. **J Infect** 2012;64:347–373; Tunkel AR, et al. IDSA encephalitis guidelines. **Clin Infect Dis** 2008;47:303–327.
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – Delay in aciclovir is the main modifiable determinant of poor outcome; start it empirically within hours of presentation, before MRI or LP results.
+- B (True) – CSF HSV PCR in the first 72 h may be falsely negative; repeat 3–7 days later if HSE remains likely, continuing aciclovir meanwhile.
+- C (False) – **MRI** (FLAIR/DWI hyperintensity of the medial temporal lobes and insula) is far more sensitive than CT, which is often normal early.
+- D (True) – 10 mg/kg IV 8-hourly for 14–21 days, reduced in renal impairment; ensure hydration to avoid crystal nephropathy.
+
+**EDIC trap:** A negative day-1 PCR never justifies stopping aciclovir when the clinical picture fits.
+
+**Ref:** Solomon et al., ABN/BIA viral encephalitis guidelines, J Infect 2012; Tunkel et al., IDSA encephalitis guidelines, Clin Infect Dis 2008.
 
 </details>
 
@@ -193,7 +298,20 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Immunosuppression (and age > 50) is a risk factor for Listeria monocytogenes, which typically causes rhombencephalitis (brainstem signs, cranial nerve palsies, ataxia). Gram stain is often negative or misread. Cephalosporins have no activity against Listeria, so amoxicillin/ampicillin must be added to a third-generation cephalosporin (co-trimoxazole if severe penicillin allergy). Vancomycin is added for penicillin-resistant pneumococci but does not cover Listeria; antifungals (E) would fit cryptococcal disease with a lymphocytic CSF and raised opening pressure. Reference: van de Beek D, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. **Clin Microbiol Infect** 2016;22(Suppl 3):S37–S62; Charlier C, et al. MONALISA cohort. **Lancet Infect Dis** 2017;17:510–519.
+**D.**
+
+**Why D:** Immunosuppression (and age > 50) is a risk factor for *Listeria monocytogenes*, which typically causes rhombencephalitis – brainstem signs, cranial nerve palsies, ataxia – and the Gram stain is often negative or misread. Cephalosporins have no activity against *Listeria*, so high-dose amoxicillin/ampicillin must be added to a third-generation cephalosporin (co-trimoxazole if severe penicillin allergy).
+
+**Why not the others:**
+
+- A – Vancomycin covers penicillin-resistant pneumococci but not *Listeria*.
+- B – Ciprofloxacin is not a recommended anti-*Listeria* agent for meningitis.
+- C – Ceftriaxone alone leaves *Listeria* uncovered.
+- E – Amphotericin + flucytosine fits cryptococcal meningitis (lymphocytic CSF, raised opening pressure), not this neutrophilic picture.
+
+**EDIC trap:** *Listeria* meningitis is treated for ≥ 21 days.
+
+**Ref:** van de Beek et al., ESCMID guideline, Clin Microbiol Infect 2016; Charlier et al., MONALISA, Lancet Infect Dis 2017.
 
 </details>
 
@@ -207,7 +325,20 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Subacute lymphocytic meningitis with very high protein, low glucose, basal enhancement, hydrocephalus, cranial nerve palsy and hyponatraemia in advanced HIV points to tuberculous meningitis. WHO recommends Xpert MTB/RIF Ultra as the initial CSF test (sensitivity improves with ≥ 6 mL of CSF); a negative result does not exclude TBM. India ink (A) is less sensitive than the CrAg test, which is already negative. Treatment: 4-drug anti-TB therapy; antiretroviral therapy is deferred for about 4–8 weeks in TBM (early ART increased severe adverse events); adjunctive dexamethasone did not improve survival in HIV-positive adults in the ACT HIV trial. Reference: WHO consolidated guidelines on tuberculosis, Module 3: diagnosis, 2024 update; Donovan J, et al. Adjunctive dexamethasone for tuberculous meningitis in HIV-positive adults (ACT HIV). **N Engl J Med** 2023;389:1357–1367.
+**E.**
+
+**Why E:** Subacute lymphocytic meningitis with very high protein, low glucose, basal meningeal enhancement, hydrocephalus, sixth nerve palsy and hyponatraemia in advanced HIV points to tuberculous meningitis. WHO recommends Xpert MTB/RIF Ultra as the initial CSF test (sensitivity improves with ≥ 6 mL of CSF); a negative result does not exclude TBM.
+
+**Why not the others:**
+
+- A – India ink is less sensitive than cryptococcal antigen, which is already negative.
+- B – Serum *Toxoplasma* IgG shows prior exposure and does not diagnose meningitis; toxoplasmosis causes ring-enhancing lesions.
+- C – CSF VDRL tests for neurosyphilis, which does not explain this subacute basal picture with hydrocephalus.
+- D – CSF cytology for lymphoma has low sensitivity and is not the most likely diagnosis.
+
+**EDIC trap:** In TBM, ART is deferred ~4–8 weeks (early ART increased severe adverse events), and adjunctive dexamethasone did not improve survival in HIV-positive adults (ACT HIV).
+
+**Ref:** WHO consolidated TB guidelines, Module 3: diagnosis, 2024; Donovan et al., ACT HIV, N Engl J Med 2023.
 
 </details>
 
@@ -223,7 +354,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** A – delay to debridement is the strongest modifiable predictor of death; imaging must not delay surgery in an unstable patient. B – crepitus and gas are late and present in a minority (they are specific but insensitive). C – clindamycin inhibits ribosomal toxin synthesis and is unaffected by the inoculum effect; it is combined with a broad-spectrum β-lactam (e.g. piperacillin–tazobactam or a carbapenem) ± MRSA cover. D – the infection spreads along the fascia beneath initially normal-looking skin; pain out of proportion is the classic early clue. Reference: Stevens DL, et al. IDSA practice guidelines for skin and soft tissue infections. **Clin Infect Dis** 2014;59:e10–e52; Sartelli M, et al. WSES/SIS-E consensus on skin and soft-tissue infections 2022. **World J Emerg Surg** 2022;17:3.
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – Delay to debridement is the strongest modifiable predictor of death; imaging must not delay surgery in an unstable patient.
+- B (False) – Crepitus and gas are **late** signs present in a minority – specific but insensitive.
+- C (True) – Clindamycin inhibits ribosomal toxin synthesis and is unaffected by the inoculum (Eagle) effect; it is combined with a broad-spectrum β-lactam (piperacillin–tazobactam or a carbapenem) ± MRSA cover.
+- D (False) – Infection spreads along the fascia beneath initially normal-looking skin; **pain out of proportion** to findings is the classic early clue.
+
+**EDIC trap:** Hypotension plus disproportionate pain after minor trauma = NSTI until surgical exploration proves otherwise.
+
+**Ref:** Stevens et al., IDSA SSTI guidelines, Clin Infect Dis 2014; Sartelli et al., WSES/SIS-E consensus, World J Emerg Surg 2022.
 
 </details>
 
@@ -236,7 +376,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A – streptococcal TSS is bacteraemic in ~60 % of cases; staphylococcal TSS in < 5 %. B – late desquamation is a CDC criterion for confirmed staphylococcal TSS. C – superantigens activate up to 20 % of T cells non-specifically, producing a cytokine storm. D – the CDC definition does not require positive blood cultures for S. aureus (it is a toxin-mediated disease); it requires fever, rash, hypotension, ≥ 3 organ systems and negative tests for alternatives. Reference: Lappin E, Ferguson AJ. Gram-positive toxic shock syndromes. **Lancet Infect Dis** 2009;9:281–290; CDC. Toxic shock syndrome (other than streptococcal) 2011 case definition.
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – Streptococcal TSS is bacteraemic in ~60% of cases, staphylococcal TSS in < 5%.
+- B (True) – Late desquamation (palms and soles, 1–2 weeks after onset) is a CDC criterion for confirmed staphylococcal TSS.
+- C (True) – TSST-1 is a superantigen that cross-links MHC class II and the TCR Vβ chain outside the antigen-binding groove, activating up to 20% of T cells non-specifically and producing a cytokine storm.
+- D (False) – Staphylococcal TSS is toxin-mediated; the CDC definition requires fever, rash, hypotension, ≥ 3 organ systems and negative tests for alternatives – **not** positive *S. aureus* blood cultures.
+
+**EDIC trap:** Negative blood cultures in a shocked woman with erythroderma favour staphylococcal TSS.
+
+**Ref:** Lappin & Ferguson, Lancet Infect Dis 2009; CDC TSS (other than streptococcal) case definition 2011.
 
 </details>
 
@@ -249,7 +398,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** A – type 1 (most common) is polymicrobial: anaerobes, Enterobacterales and streptococci. B – type 2 is monomicrobial group A streptococcus (± S. aureus); clostridial myonecrosis is separate (often grouped with type 1 or as gas gangrene). C – LRINEC has poor sensitivity (~68 % in meta-analysis) and must not be used to rule out NSTI. D – type 3 includes Vibrio (marine wounds, raw shellfish, cirrhosis) and Aeromonas; type 4 is fungal. Reference: Fernando SM, et al. Necrotizing soft tissue infection: diagnostic accuracy of physical examination, imaging and LRINEC score – a systematic review and meta-analysis. **Ann Surg** 2019;269:58–65; Stevens DL, Bryant AE. Necrotizing soft-tissue infections. **N Engl J Med** 2017;377:2253–2265.
+**A – T, B – F, C – F, D – T.**
+
+- A (True) – Type 1 (the most common) is polymicrobial – anaerobes, Enterobacterales, streptococci – and typical of Fournier's gangrene in diabetics.
+- B (False) – Type 2 is monomicrobial, usually **group A streptococcus** (± *S. aureus*); clostridial myonecrosis is classed separately as gas gangrene (or with type 1).
+- C (False) – LRINEC has poor sensitivity (~68% in meta-analysis) and must **not** be used to rule out NSTI.
+- D (True) – *Vibrio vulnificus* (type 3, with *Aeromonas*) is linked to marine wounds, raw shellfish and cirrhosis; type 4 is fungal.
+
+**EDIC trap:** Type 2 GAS NSTI affects healthy people of any age, often without a portal of entry.
+
+**Ref:** Fernando et al., Ann Surg 2019; Stevens & Bryant, N Engl J Med 2017.
 
 </details>
 
@@ -262,7 +420,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** A – gas is absent in many cases; CT findings (fascial thickening, fluid) support but cannot exclude the diagnosis; surgical exploration ("finger test": easy dissection, dishwater fluid, no bleeding) is diagnostic. B – surgical debridement is the cornerstone regardless of type; antibiotics are adjunctive. C – pain out of proportion to the skin findings is the classic early sign. D – necrotising fasciitis is defined by necrosis of the superficial/deep fascia; muscle involvement (myonecrosis) may coexist but does not define it. Reference: Stevens DL, Bryant AE. Necrotizing soft-tissue infections. **N Engl J Med** 2017;377:2253–2265; Sartelli M, et al. WSES/SIS-E consensus 2022. **World J Emerg Surg** 2022;17:3.
+**A – F, B – F, C – F, D – F.**
+
+- A (False) – Gas is absent in many cases; CT findings (fascial thickening, fluid) support but cannot exclude the diagnosis. Surgical exploration ("finger test": easy dissection, dishwater fluid, no bleeding) is diagnostic.
+- B (False) – Surgical debridement is the cornerstone regardless of type or stability; antibiotics are adjunctive.
+- C (False) – Pain is classically **out of proportion** to the visible skin changes.
+- D (False) – Necrotising fasciitis is defined by necrosis of the superficial/deep **fascia**; myonecrosis may coexist but does not define it.
+
+**EDIC trap:** Plan a second-look operation within 24 h.
+
+**Ref:** Stevens & Bryant, N Engl J Med 2017; Sartelli et al., WSES/SIS-E consensus, World J Emerg Surg 2022.
 
 </details>
 
@@ -276,7 +443,20 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Fever, erythroderma, shock and multi-organ involvement (GI, CNS, muscle, platelets) after nasal packing = staphylococcal toxic shock syndrome. Priorities: remove the toxin source, give a bactericidal anti-staphylococcal agent (flucloxacillin/cefazolin; vancomycin or linezolid if MRSA risk) plus a protein-synthesis inhibitor (clindamycin or linezolid) to suppress toxin production. IVIG (A) is an adjunct in refractory cases, not a substitute. Leaving the source (B) or delaying antibiotics for imaging (C) is wrong; meropenem alone (E) lacks an anti-toxin effect. Reference: Lappin E, Ferguson AJ. Gram-positive toxic shock syndromes. **Lancet Infect Dis** 2009;9:281–290; Stevens DL, et al. IDSA SSTI guidelines. **Clin Infect Dis** 2014;59:e10–e52.
+**D.**
+
+**Why D:** Fever, erythroderma, shock and multi-organ involvement (GI, CNS, muscle, platelets, kidney) after nasal packing is staphylococcal toxic shock syndrome. Priorities: remove the toxin source and give a bactericidal anti-staphylococcal agent (flucloxacillin/cefazolin; vancomycin or linezolid if MRSA risk) plus a protein-synthesis inhibitor (clindamycin or linezolid) to suppress toxin production.
+
+**Why not the others:**
+
+- A – IVIG is an adjunct in refractory cases, not a substitute for source control and antibiotics.
+- B – Leaving the packing leaves the toxin source in place; ceftriaxone also lacks an antitoxin effect.
+- C – Delaying antibiotics for imaging is wrong in shock.
+- E – Meropenem alone lacks an antitoxin effect and is unnecessarily broad.
+
+**EDIC trap:** Non-menstrual TSS follows nasal packing, surgical wounds, burns.
+
+**Ref:** Lappin & Ferguson, Lancet Infect Dis 2009; Stevens et al., IDSA SSTI guidelines, Clin Infect Dis 2014.
 
 </details>
 
@@ -292,7 +472,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** A – piperacillin–tazobactam (or cefepime/meropenem) within 1 h; delays increase mortality. B – the standard definition (ESMO/IDSA). C – glycopeptides are added only for specific indications: catheter-related infection, skin/soft-tissue infection, pneumonia, MRSA colonisation or haemodynamic instability in some guidelines – not for the mere presence of a CVC. D – ECIL-4 and ESMO recommend an escalation strategy in shock or with resistance risk (carbapenem ± aminoglycoside, ± anti-MRSA cover). The line need not be removed immediately unless tunnel/pocket infection or S. aureus, Pseudomonas or Candida bacteraemia. Reference: Averbuch D, et al. ECIL-4 European guidelines for empirical antibacterial therapy for febrile neutropenic patients. **Haematologica** 2013;98:1826–1835; Klastersky J, et al. ESMO clinical practice guidelines: management of febrile neutropenia. **Ann Oncol** 2016;27(Suppl 5):v111–v118.
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – An antipseudomonal β-lactam (piperacillin–tazobactam, cefepime or meropenem) within 1 h; delays increase mortality.
+- B (True) – Standard ESMO/IDSA definition: ANC < 0.5 × 10⁹/L or expected to fall below this within 48 h, with fever ≥ 38.3 °C (or ≥ 38.0 °C for 1 h).
+- C (False) – Glycopeptides are added only for specific indications (suspected serious catheter-related infection, skin/soft-tissue infection, pneumonia, MRSA colonisation, haemodynamic instability) – not for the mere presence of a CVC.
+- D (True) – Septic shock is a complicated presentation: ECIL-4 recommends a **de-escalation** approach (carbapenem, or β-lactam + aminoglycoside, ± anti-MRSA cover), narrowing at 72–96 h.
+
+**EDIC trap:** The line need not be removed immediately unless tunnel/pocket infection or *S. aureus*, *Pseudomonas* or *Candida* bacteraemia.
+
+**Ref:** Averbuch et al., ECIL-4, Haematologica 2013; Klastersky et al., ESMO guideline, Ann Oncol 2016.
 
 </details>
 
@@ -306,7 +495,20 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** With a CD4 count > 200 cells/µL, AIDS is defined by an AIDS-defining illness (CDC 2008/2014 stage 3). Candidiasis of the oesophagus, trachea, bronchi or lungs is AIDS-defining; oral candidiasis is not. Herpes zoster, oral hairy leukoplakia, cervical dysplasia/carcinoma in situ and ITP are "category B"/indicator conditions; only invasive cervical carcinoma is AIDS-defining. Other AIDS-defining conditions relevant to ICU include Pneumocystis pneumonia, cerebral toxoplasmosis, cryptococcal meningitis, tuberculosis, recurrent bacterial pneumonia and CMV retinitis. Reference: Selik RM, et al. Revised surveillance case definition for HIV infection – United States, 2014. **MMWR Recomm Rep** 2014;63(RR-03):1–10.
+**D.**
+
+**Why D:** With a CD4 count > 200 cells/µL, AIDS (CDC stage 3) is defined by an AIDS-defining illness. Candidiasis of the oesophagus, trachea, bronchi or lungs is AIDS-defining; oral candidiasis is not. Odynophagia and weight loss fit oesophageal candidiasis.
+
+**Why not the others:**
+
+- A – Multidermatomal herpes zoster is a "category B" indicator condition, not AIDS-defining.
+- B – Oral hairy leukoplakia is a category B condition.
+- C – Cervical dysplasia/carcinoma in situ is category B; only invasive cervical carcinoma is AIDS-defining.
+- E – ITP is an HIV-associated condition but not AIDS-defining.
+
+**EDIC trap:** AIDS-defining conditions relevant to ICU include *Pneumocystis* pneumonia, cerebral toxoplasmosis, cryptococcal meningitis, tuberculosis, recurrent bacterial pneumonia and CMV retinitis.
+
+**Ref:** Selik et al., CDC revised surveillance case definition, MMWR Recomm Rep 2014.
 
 </details>
 
@@ -322,7 +524,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** A – sparing anaerobes maintains colonisation resistance. B – the topical components (classically colistin, tobramycin and amphotericin B/nystatin) are given throughout ventilation, together with a short IV course of a cephalosporin. C – SuDDICU (5982 patients, Australia/Canada) found hospital mortality 27.0 % vs 29.1 %, not significant. D – vancomycin is added only in units with endemic MRSA. Reference: SuDDICU Investigators. Effect of selective decontamination of the digestive tract on hospital mortality in critically ill patients receiving mechanical ventilation. **JAMA** 2022;328:1911–1921.
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – SDD targets aerobic Gram-negative bacilli, *S. aureus* and yeasts while sparing anaerobes, which maintain colonisation resistance.
+- B (True) – Non-absorbable topical agents (classically colistin, tobramycin and amphotericin B/nystatin) are given as oropharyngeal paste and enteral suspension throughout ventilation, plus a short IV cephalosporin course.
+- C (False) – SuDDICU (5982 patients, 19 Australian ICUs) found hospital mortality 27.0% vs 29.1%, OR 0.91 (0.82–1.02) – **not significant**.
+- D (False) – Enteral vancomycin is added only in units with endemic MRSA, not routinely.
+
+**EDIC trap:** The pooled evidence (Hammond 2022) suggests a small benefit that depends on the IV component.
+
+**Ref:** Myburgh et al., SuDDICU, JAMA 2022; Hammond et al., JAMA 2022.
 
 </details>
 
@@ -335,7 +546,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** A – the five moments: before touching a patient, before a clean/aseptic procedure, after body fluid exposure risk, after touching a patient, after touching patient surroundings. B – critical items: sterilisation; semi-critical (mucous membranes, e.g. laryngoscope blades, bronchoscopes): high-level disinfection; non-critical (intact skin): low-level disinfection/cleaning. C – visibly soiled hands (and C. difficile/norovirus exposure) require soap and water. D – Matching Michigan adapted the Keystone (Michigan) CVC bundle to 215 English ICUs; CVC-BSI rates fell, although partly in line with a pre-existing downward trend. Reference: WHO guidelines on hand hygiene in health care. WHO 2009; Bion J, et al. 'Matching Michigan': a 2-year stepped interventional programme to minimise central venous catheter-blood stream infections in intensive care units in England. **BMJ Qual Saf** 2013;22:110–123.
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – The WHO five moments: before touching a patient, before a clean/aseptic procedure, after body fluid exposure risk, after touching a patient, after touching patient surroundings.
+- B (True) – Spaulding: critical items (sterile tissue, vascular system) → sterilisation; semi-critical (mucous membranes, e.g. laryngoscope blades, bronchoscopes) → high-level disinfection; non-critical (intact skin) → low-level disinfection/cleaning.
+- C (False) – Visibly soiled hands (and *C. difficile*/norovirus exposure) require **soap and water**; alcohol rub is preferred otherwise.
+- D (True) – Matching Michigan adapted the Keystone CVC bundle to 215 English ICUs; CVC-BSI rates fell, partly in line with a pre-existing downward trend.
+
+**EDIC trap:** Alcohol does not kill *C. difficile* spores.
+
+**Ref:** WHO guidelines on hand hygiene in health care, 2009; Bion et al., Matching Michigan, BMJ Qual Saf 2013.
 
 </details>
 
@@ -348,7 +568,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** Schedule 1 of the Regulations lists, among others, Legionnaires' disease, botulism, invasive group A streptococcal disease and scarlet fever, acute meningitis, acute encephalitis, meningococcal septicaemia, tuberculosis, tetanus, HUS, measles, diphtheria and viral haemorrhagic fevers. Notification is based on clinical suspicion without waiting for laboratory confirmation. Seasonal influenza is monitored through surveillance (laboratory reporting) but is not a clinician-notifiable disease. Other European countries have analogous lists under their national laws and the EU decision on communicable disease surveillance. Reference: The Health Protection (Notification) Regulations 2010, SI 2010/659 (as amended); UKHSA. Notifiable diseases and causative organisms: how to report (updated 2024).
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – Legionnaires' disease is listed in Schedule 1.
+- B (True) – Botulism is listed in Schedule 1.
+- C (False) – Seasonal influenza is monitored through laboratory surveillance and is **not** clinician-notifiable.
+- D (True) – Invasive group A streptococcal disease (and scarlet fever) is notifiable.
+
+Schedule 1 also includes acute meningitis, acute encephalitis, meningococcal septicaemia, tuberculosis, tetanus, HUS, measles, diphtheria and viral haemorrhagic fevers. Notification is on **clinical suspicion**, without waiting for laboratory confirmation. Other European countries have analogous national lists under the EU decision on communicable disease surveillance.
+
+**Ref:** Health Protection (Notification) Regulations 2010, SI 2010/659 (as amended); UKHSA, Notifiable diseases and causative organisms: how to report, 2024.
 
 </details>
 
@@ -361,7 +590,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** A – chlorhexidine–alcohol halved catheter infections compared with povidone-iodine–alcohol (CLEAN trial). B – in 3SITES the subclavian site had the lowest rate of bloodstream infection and symptomatic DVT (at the cost of more pneumothorax). C – scheduled replacement (over a guidewire or at a new site) does not reduce infection and adds mechanical risk; remove catheters when no longer needed. D – this is why daily review and early removal are the key CAUTI-prevention measures. Reference: Mimoz O, et al. CLEAN. **Lancet** 2015;386:2069–2077; Parienti JJ, et al. 3SITES. **N Engl J Med** 2015;373:1220–1229; Gould CV, et al. CDC guideline for prevention of CAUTI 2009 (updated 2019).
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – In CLEAN, chlorhexidine–alcohol reduced CRBSI by about 80% vs povidone iodine–alcohol (0.28 vs 1.32/1000 catheter-days, HR 0.21).
+- B (True) – In 3SITES the subclavian site had the lowest rate of CRBSI + symptomatic DVT (1.5 vs 4.6/1000 catheter-days for femoral), at the cost of more pneumothorax.
+- C (False) – Scheduled replacement (over a guidewire or at a new site) does **not** reduce infection and adds mechanical risk; remove catheters when no longer needed.
+- D (True) – Bacteriuria risk is roughly 3–7% per catheter-day, which is why daily review and early removal are the key CAUTI-prevention measures.
+
+**EDIC trap:** Keystone's fifth bundle element is removal of unnecessary lines, not routine replacement.
+
+**Ref:** Mimoz et al., CLEAN, Lancet 2015; Parienti et al., 3SITES, N Engl J Med 2015; Gould et al., CDC CAUTI guideline 2009 (updated 2019).
 
 </details>
 
@@ -374,7 +612,16 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A – trials enrolled patients expected to be ventilated beyond the next day or two (SuDDICU: > 48 h). B – SOD uses only the oropharyngeal paste; Dutch trials (de Smet NEJM 2009) compared SDD, SOD and standard care. C – Hammond et al. (JAMA 2022; 32 RCTs, 24 389 patients) estimated RR 0.91 (95 % CrI 0.82–0.99) for hospital mortality, with moderate certainty. D – C. difficile infection is not increased (it may even be lower), and emergence of resistance has not been demonstrated in low-resistance settings – though SuDDICU itself was neutral and data from high-resistance settings are limited. Reference: Hammond NE, et al. Association between selective decontamination of the digestive tract and in-hospital mortality in intensive care unit patients receiving mechanical ventilation. **JAMA** 2022;328:1922–1934; de Smet AM, et al. **N Engl J Med** 2009;360:20–31.
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – Trials enrolled patients expected to be ventilated beyond the next day or two (SuDDICU: > 48 h).
+- B (True) – SOD uses only the oropharyngeal paste, without the enteral suspension or IV component; de Smet (NEJM 2009) compared SDD, SOD and standard care.
+- C (True) – Hammond et al. (32 RCTs, 24,389 patients) estimated hospital mortality RR 0.91 (95% CrI 0.82–0.99), moderate certainty.
+- D (False) – *C. difficile* infection is not increased; SuDDICU's ecological analysis showed non-inferiority for *C. difficile*.
+
+**EDIC trap:** SuDDICU itself was neutral, unit-level non-inferiority for resistant organisms was not confirmed, and data from high-resistance settings (R-GNOSIS) are not reassuring.
+
+**Ref:** Hammond et al., JAMA 2022; Myburgh et al., SuDDICU, JAMA 2022; de Smet et al., N Engl J Med 2009.
 
 </details>
 
@@ -391,7 +638,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Passive leg raising transfers ~300 mL of venous blood and, when its effect is measured with a real-time cardiac output or VTI (threshold ≈ 10 %), predicts fluid responsiveness regardless of spontaneous breathing or arrhythmia. Pulse pressure variation (A) is valid only in fully controlled ventilation with VT ≥ 8 mL/kg, sinus rhythm and a closed chest; triggering invalidates it. Static measures such as CVP (B) and LV end-diastolic area (D) predict poorly. IVC collapsibility (C) in spontaneous or assisted breathing has only modest accuracy and is confounded by inspiratory effort. Reference: Monnet X, et al. Passive leg raising for predicting fluid responsiveness: a systematic review and meta-analysis. **Intensive Care Med** 2016;42:1935–1947; Monnet X, Shi R, Teboul JL. Prediction of fluid responsiveness. What's new? **Ann Intensive Care** 2022;12:46.
+**E.**
+
+Passive leg raising transfers ~300 mL of venous blood and, when its effect is measured with a real-time cardiac output or VTI (threshold ≈ 10 %), predicts fluid responsiveness regardless of spontaneous breathing or arrhythmia. Pulse pressure variation (A) is valid only in fully controlled ventilation with VT ≥ 8 mL/kg, sinus rhythm and a closed chest; triggering invalidates it. Static measures such as CVP (B) and LV end-diastolic area (D) predict poorly. IVC collapsibility (C) in spontaneous or assisted breathing has only modest accuracy and is confounded by inspiratory effort. Reference: Monnet X, et al. Passive leg raising for predicting fluid responsiveness: a systematic review and meta-analysis. **Intensive Care Med** 2016;42:1935–1947; Monnet X, Shi R, Teboul JL. Prediction of fluid responsiveness. What's new? **Ann Intensive Care** 2022;12:46.
 
 </details>
 
@@ -407,7 +656,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** A – peripheral dP/dt max tracks LV contractility directionally but is affected by vascular tone and compliance. B – PPV is invalid with spontaneous breathing efforts and with low tidal volumes (false negatives; a "tidal volume challenge" can help). C – distal pulse amplification (reflected waves) makes radial systolic pressure higher than central; MAP is similar. D – a low dicrotic notch suggests vasodilatation/low SVR; a high notch suggests vasoconstriction. Reference: Saugel B, et al. Cardiac output estimation using pulse wave analysis – physiology, algorithms, and technologies: a narrative review. **Br J Anaesth** 2021;126:67–76; Michard F, et al. Applicability of pulse pressure variation: how many shades of grey? **Crit Care** 2015;19:144.
+**A – T, B – F, C – F, D – F.**
+
+A – peripheral dP/dt max tracks LV contractility directionally but is affected by vascular tone and compliance. B – PPV is invalid with spontaneous breathing efforts and with low tidal volumes (false negatives; a "tidal volume challenge" can help). C – distal pulse amplification (reflected waves) makes radial systolic pressure higher than central; MAP is similar. D – a low dicrotic notch suggests vasodilatation/low SVR; a high notch suggests vasoconstriction. Reference: Saugel B, et al. Cardiac output estimation using pulse wave analysis – physiology, algorithms, and technologies: a narrative review. **Br J Anaesth** 2021;126:67–76; Michard F, et al. Applicability of pulse pressure variation: how many shades of grey? **Crit Care** 2015;19:144.
 
 </details>
 
@@ -420,7 +671,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** Measured: right atrial, RV, PA pressures, PAOP, thermodilution CO, SvO2 (sample or fibreoptic oximetry). Derived: CI, SV, SVR, PVR = 80 × (mPAP − PAOP)/CO in dyn·s·cm⁻⁵ (or (mPAP − PAOP)/CO in Wood units), DO2 = CO × CaO2 × 10 and VO2 = CO × (CaO2 − CvO2) × 10. Thermodilution accuracy falls with severe tricuspid regurgitation, intracardiac shunts and very low output. Reference: Rajaram SS, et al. Pulmonary artery catheters for adult patients in intensive care. **Cochrane Database Syst Rev** 2013;(2):CD003408; Cecconi M, et al. Consensus on circulatory shock and hemodynamic monitoring. Task force of the ESICM. **Intensive Care Med** 2014;40:1795–1815.
+**A – T, B – T, C – T, D – T.**
+
+Measured: right atrial, RV, PA pressures, PAOP, thermodilution CO, SvO2 (sample or fibreoptic oximetry). Derived: CI, SV, SVR, PVR = 80 × (mPAP − PAOP)/CO in dyn·s·cm⁻⁵ (or (mPAP − PAOP)/CO in Wood units), DO2 = CO × CaO2 × 10 and VO2 = CO × (CaO2 − CvO2) × 10. Thermodilution accuracy falls with severe tricuspid regurgitation, intracardiac shunts and very low output. Reference: Rajaram SS, et al. Pulmonary artery catheters for adult patients in intensive care. **Cochrane Database Syst Rev** 2013;(2):CD003408; Cecconi M, et al. Consensus on circulatory shock and hemodynamic monitoring. Task force of the ESICM. **Intensive Care Med** 2014;40:1795–1815.
 
 </details>
 
@@ -433,7 +686,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** A – only the descending aortic flow (~70 % of CO) is measured and corrected by a fixed algorithm; changes in flow distribution (e.g. aortic cross-clamp, pregnancy) introduce errors. B – a short FTc reflects low preload but also high afterload (vasoconstriction, mitral stenosis); it should be interpreted with stroke-volume response to a fluid challenge. C – the Doppler equation includes cos θ; angles > 20° underestimate velocity, which is why probe positioning matters. D – correct; it is best suited to theatre and sedated ICU patients. Reference: Singer M. Oesophageal Doppler. **Curr Opin Crit Care** 2009;15:244–248; Cecconi M, et al. ESICM consensus on circulatory shock and hemodynamic monitoring. **Intensive Care Med** 2014;40:1795–1815.
+**A – T, B – F, C – F, D – T.**
+
+A – only the descending aortic flow (~70 % of CO) is measured and corrected by a fixed algorithm; changes in flow distribution (e.g. aortic cross-clamp, pregnancy) introduce errors. B – a short FTc reflects low preload but also high afterload (vasoconstriction, mitral stenosis); it should be interpreted with stroke-volume response to a fluid challenge. C – the Doppler equation includes cos θ; angles > 20° underestimate velocity, which is why probe positioning matters. D – correct; it is best suited to theatre and sedated ICU patients. Reference: Singer M. Oesophageal Doppler. **Curr Opin Crit Care** 2009;15:244–248; Cecconi M, et al. ESICM consensus on circulatory shock and hemodynamic monitoring. **Intensive Care Med** 2014;40:1795–1815.
 
 </details>
 
@@ -447,7 +702,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Echocardiographic VTI (× LVOT area = SV) averaged over 5–10 cardiac cycles copes with the irregular rhythm and can be repeated after each intervention. PPV and SVV (B, E) require sinus rhythm and controlled ventilation; both conditions fail here. Severe TR causes recirculation of the cold indicator and makes PAC thermodilution unreliable (C). CVP (D) is not a measure of flow and is raised by TR. Reference: Cecconi M, et al. ESICM consensus on circulatory shock and hemodynamic monitoring. **Intensive Care Med** 2014;40:1795–1815; Vieillard-Baron A, et al. A decade of progress in critical care echocardiography: a narrative review. **Intensive Care Med** 2019;45:770–788.
+**A.**
+
+Echocardiographic VTI (× LVOT area = SV) averaged over 5–10 cardiac cycles copes with the irregular rhythm and can be repeated after each intervention. PPV and SVV (B, E) require sinus rhythm and controlled ventilation; both conditions fail here. Severe TR causes recirculation of the cold indicator and makes PAC thermodilution unreliable (C). CVP (D) is not a measure of flow and is raised by TR. Reference: Cecconi M, et al. ESICM consensus on circulatory shock and hemodynamic monitoring. **Intensive Care Med** 2014;40:1795–1815; Vieillard-Baron A, et al. A decade of progress in critical care echocardiography: a narrative review. **Intensive Care Med** 2019;45:770–788.
 
 </details>
 
@@ -460,7 +717,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** A – resonance (ringing) exaggerates systolic peaks; MAP is relatively preserved. B – natural frequency rises with short, stiff, wide-bore tubing and falls with compliance, length, air bubbles and extra stopcocks; it should be well above the frequency content of the arterial wave. C – 10 cmH2O ≈ 7.4 mmHg; levelling (to the phlebostatic axis/right atrium) is distinct from zeroing (opening to atmosphere). D – 1.5–2 oscillations indicate optimal damping; none suggests overdamping, many suggests underdamping. Reference: Saugel B, et al. How to measure blood pressure using an arterial catheter: a systematic 5-step approach. **Crit Care** 2020;24:172.
+**A – T, B – T, C – T, D – T.**
+
+A – resonance (ringing) exaggerates systolic peaks; MAP is relatively preserved. B – natural frequency rises with short, stiff, wide-bore tubing and falls with compliance, length, air bubbles and extra stopcocks; it should be well above the frequency content of the arterial wave. C – 10 cmH2O ≈ 7.4 mmHg; levelling (to the phlebostatic axis/right atrium) is distinct from zeroing (opening to atmosphere). D – 1.5–2 oscillations indicate optimal damping; none suggests overdamping, many suggests underdamping. Reference: Saugel B, et al. How to measure blood pressure using an arterial catheter: a systematic 5-step approach. **Crit Care** 2020;24:172.
 
 </details>
 
@@ -473,7 +732,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – T, D – F.** PAOP reflects left atrial pressure (and LVEDP if the mitral valve is normal). Pre-capillary disorders – pulmonary arterial hypertension, PE – raise PA pressure with a normal PAOP (≤ 15 mmHg), producing a high transpulmonary gradient. Acute MR produces large v waves and a raised PAOP. Diuresis lowers PAOP. Note also that high PEEP and a catheter tip outside West zone 3 can falsely elevate PAOP. Reference: Humbert M, et al. 2022 ESC/ERS guidelines for the diagnosis and treatment of pulmonary hypertension. **Eur Heart J** 2022;43:3618–3731; Magder S. Right atrial pressure in the critically ill: how to measure, what is the value, what are the limitations? **Chest** 2017;151:908–916.
+**A – F, B – F, C – T, D – F.**
+
+PAOP reflects left atrial pressure (and LVEDP if the mitral valve is normal). Pre-capillary disorders – pulmonary arterial hypertension, PE – raise PA pressure with a normal PAOP (≤ 15 mmHg), producing a high transpulmonary gradient. Acute MR produces large v waves and a raised PAOP. Diuresis lowers PAOP. Note also that high PEEP and a catheter tip outside West zone 3 can falsely elevate PAOP. Reference: Humbert M, et al. 2022 ESC/ERS guidelines for the diagnosis and treatment of pulmonary hypertension. **Eur Heart J** 2022;43:3618–3731; Magder S. Right atrial pressure in the critically ill: how to measure, what is the value, what are the limitations? **Chest** 2017;151:908–916.
 
 </details>
 
@@ -489,7 +750,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – F.** A – much septic hyperlactataemia is due to β2-adrenergic stimulation of aerobic glycolysis and reduced hepatic clearance, not only hypoxia; lactate is therefore a marker of severity rather than proof of anaerobiosis. B – metformin inhibits mitochondrial respiration and hepatic gluconeogenesis from lactate; accumulation in AKI causes metformin-associated lactic acidosis (MALA), which may need haemodialysis (EXTRIP). C – the liver clears ~60–70 % (Cori cycle), the kidneys ~20–30 %. D – analysers use L-lactate oxidase; D-lactic acidosis presents with a raised anion gap and encephalopathy but a normal measured lactate. Reference: Garcia-Alvarez M, Marik P, Bellomo R. Sepsis-associated hyperlactatemia. **Crit Care** 2014;18:503; Calello DP, et al. Extracorporeal treatment for metformin poisoning: EXTRIP recommendations. **Crit Care Med** 2015;43:1716–1730; Kraut JA, Madias NE. Lactic acidosis. **N Engl J Med** 2014;371:2309–2319.
+**A – F, B – T, C – F, D – F.**
+
+A – much septic hyperlactataemia is due to β2-adrenergic stimulation of aerobic glycolysis and reduced hepatic clearance, not only hypoxia; lactate is therefore a marker of severity rather than proof of anaerobiosis. B – metformin inhibits mitochondrial respiration and hepatic gluconeogenesis from lactate; accumulation in AKI causes metformin-associated lactic acidosis (MALA), which may need haemodialysis (EXTRIP). C – the liver clears ~60–70 % (Cori cycle), the kidneys ~20–30 %. D – analysers use L-lactate oxidase; D-lactic acidosis presents with a raised anion gap and encephalopathy but a normal measured lactate. Reference: Garcia-Alvarez M, Marik P, Bellomo R. Sepsis-associated hyperlactatemia. **Crit Care** 2014;18:503; Calello DP, et al. Extracorporeal treatment for metformin poisoning: EXTRIP recommendations. **Crit Care Med** 2015;43:1716–1730; Kraut JA, Madias NE. Lactic acidosis. **N Engl J Med** 2014;371:2309–2319.
 
 </details>
 
@@ -505,7 +768,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** A – urine in the colon: chloride is absorbed in exchange for bicarbonate. B – impaired distal H⁺ secretion (urine pH > 5.5, positive urinary anion gap). C – toluene is metabolised to hippuric acid; hippurate is rapidly excreted in urine with Na⁺/K⁺, so the anion gap is often normal and hypokalaemia is prominent. D – early CKD reduces ammoniagenesis, producing a hyperchloraemic acidosis; the gap rises only when GFR falls further and phosphate/sulphate accumulate. Reference: Kraut JA, Madias NE. Metabolic acidosis: pathophysiology, diagnosis and management. **Nat Rev Nephrol** 2010;6:274–285; Berend K, de Vries AP, Gans RO. Physiological approach to assessment of acid–base disturbances. **N Engl J Med** 2014;371:1434–1445.
+**A – T, B – T, C – T, D – T.**
+
+A – urine in the colon: chloride is absorbed in exchange for bicarbonate. B – impaired distal H⁺ secretion (urine pH > 5.5, positive urinary anion gap). C – toluene is metabolised to hippuric acid; hippurate is rapidly excreted in urine with Na⁺/K⁺, so the anion gap is often normal and hypokalaemia is prominent. D – early CKD reduces ammoniagenesis, producing a hyperchloraemic acidosis; the gap rises only when GFR falls further and phosphate/sulphate accumulate. Reference: Kraut JA, Madias NE. Metabolic acidosis: pathophysiology, diagnosis and management. **Nat Rev Nephrol** 2010;6:274–285; Berend K, de Vries AP, Gans RO. Physiological approach to assessment of acid–base disturbances. **N Engl J Med** 2014;371:1434–1445.
 
 </details>
 
@@ -518,7 +783,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** A – as blood is warmed to 37 °C in the analyser, gas solubility falls and partial pressures rise, so uncorrected PO2 and PCO2 overestimate in vivo values in hypothermia. B – alpha-stat uses values measured at 37 °C (uncorrected), maintaining the ionisation state of histidine imidazole groups. C – pH-stat aims for a temperature-corrected PaCO2 of ~5.3 kPa, i.e. relative hypercapnia, achieved by adding CO2 or reducing ventilation. D – metabolising leucocytes (and platelets) consume oxygen ("leucocyte larceny") – PaO2 is falsely low. Reference: Ashwood ER, Kost G, Kenny M. Temperature correction of blood-gas and pH measurements. **Clin Chem** 1983;29:1877–1885; Fox MJ, Brody JS, Weintraub LR. Leukocyte larceny: a cause of spurious hypoxemia. **Am J Med** 1979;67:742–746.
+**A – T, B – F, C – F, D – F.**
+
+A – as blood is warmed to 37 °C in the analyser, gas solubility falls and partial pressures rise, so uncorrected PO2 and PCO2 overestimate in vivo values in hypothermia. B – alpha-stat uses values measured at 37 °C (uncorrected), maintaining the ionisation state of histidine imidazole groups. C – pH-stat aims for a temperature-corrected PaCO2 of ~5.3 kPa, i.e. relative hypercapnia, achieved by adding CO2 or reducing ventilation. D – metabolising leucocytes (and platelets) consume oxygen ("leucocyte larceny") – PaO2 is falsely low. Reference: Ashwood ER, Kost G, Kenny M. Temperature correction of blood-gas and pH measurements. **Clin Chem** 1983;29:1877–1885; Fox MJ, Brody JS, Weintraub LR. Leukocyte larceny: a cause of spurious hypoxemia. **Am J Med** 1979;67:742–746.
 
 </details>
 
@@ -531,7 +798,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A – glutathione depletion leads to 5-oxoproline accumulation; flucloxacillin inhibits 5-oxoprolinase. B – propylene glycol is metabolised to lactate (L and D). C – albumin is the main unmeasured anion; corrected AG ≈ AG + 0.25 × (40 − albumin in g/L). D – saline lowers the SID through hyperchloraemia, a normal anion gap acidosis. Reference: Berend K, et al. **N Engl J Med** 2014;371:1434–1445; Emmett M. Acetaminophen toxicity and 5-oxoproline (pyroglutamic acid): a tale of two cycles. **Clin J Am Soc Nephrol** 2014;9:191–200.
+**A – T, B – T, C – T, D – F.**
+
+A – glutathione depletion leads to 5-oxoproline accumulation; flucloxacillin inhibits 5-oxoprolinase. B – propylene glycol is metabolised to lactate (L and D). C – albumin is the main unmeasured anion; corrected AG ≈ AG + 0.25 × (40 − albumin in g/L). D – saline lowers the SID through hyperchloraemia, a normal anion gap acidosis. Reference: Berend K, et al. **N Engl J Med** 2014;371:1434–1445; Emmett M. Acetaminophen toxicity and 5-oxoproline (pyroglutamic acid): a tale of two cycles. **Clin J Am Soc Nephrol** 2014;9:191–200.
 
 </details>
 
@@ -547,7 +816,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** A – SIDa = (Na⁺ + K⁺) − (Cl⁻ + lactate) = 142 − 111 = 31 mEq/L (normal ~40–42, ignoring Ca²⁺/Mg²⁺): a hyperchloraemic (low SID) acidosis. B – albumin is the main component of ATOT; a low ATOT is alkalinising, which is why her pH is normal. C – two opposing metabolic disorders cancel out; Stewart or albumin-corrected anion gap analysis reveals them. D – acid–base values are not a target; treat the cause (chloride load, underlying illness). Reference: Kellum JA. Determinants of blood pH in health and disease. **Crit Care** 2000;4:6–14; Fencl V, et al. Diagnosis of metabolic acid–base disturbances in critically ill patients. **Am J Respir Crit Care Med** 2000;162:2246–2251.
+**A – T, B – T, C – F, D – F.**
+
+A – SIDa = (Na⁺ + K⁺) − (Cl⁻ + lactate) = 142 − 111 = 31 mEq/L (normal ~40–42, ignoring Ca²⁺/Mg²⁺): a hyperchloraemic (low SID) acidosis. B – albumin is the main component of ATOT; a low ATOT is alkalinising, which is why her pH is normal. C – two opposing metabolic disorders cancel out; Stewart or albumin-corrected anion gap analysis reveals them. D – acid–base values are not a target; treat the cause (chloride load, underlying illness). Reference: Kellum JA. Determinants of blood pH in health and disease. **Crit Care** 2000;4:6–14; Fencl V, et al. Diagnosis of metabolic acid–base disturbances in critically ill patients. **Am J Respir Crit Care Med** 2000;162:2246–2251.
 
 </details>
 
@@ -560,7 +831,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – F.** The three independent variables are PaCO2, SID and ATOT. Lactate is a strong (fully dissociated) anion and therefore a component of the SID – it changes the independent variables rather than being determined by them. HCO3⁻, H⁺, OH⁻, A⁻ and CO3²⁻ are dependent variables determined by the independent ones. Reference: Stewart PA. Modern quantitative acid–base chemistry. **Can J Physiol Pharmacol** 1983;61:1444–1461; Kellum JA. **Crit Care** 2000;4:6–14.
+**A – F, B – T, C – F, D – F.**
+
+The three independent variables are PaCO2, SID and ATOT. Lactate is a strong (fully dissociated) anion and therefore a component of the SID – it changes the independent variables rather than being determined by them. HCO3⁻, H⁺, OH⁻, A⁻ and CO3²⁻ are dependent variables determined by the independent ones. Reference: Stewart PA. Modern quantitative acid–base chemistry. **Can J Physiol Pharmacol** 1983;61:1444–1461; Kellum JA. **Crit Care** 2000;4:6–14.
 
 </details>
 
@@ -576,7 +849,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A, B – glucose (without insulin) and mannitol are effective osmoles that draw water out of cells (translocational, hypertonic hyponatraemia); for each 5.5 mmol/L rise in glucose above normal, Na⁺ falls by ~1.6–2.4 mmol/L. C – pseudohyponatraemia: lipids or paraproteins reduce the plasma water fraction with indirect ISE (laboratory analyser); a direct ISE (blood gas analyser) gives the true value and osmolality is normal. D – polydipsia causes hypotonic hyponatraemia with a maximally dilute urine. Reference: Spasovski G, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. **Intensive Care Med** 2014;40:320–331 (and **Eur J Endocrinol** 2014;170:G1–G47).
+**A – T, B – T, C – T, D – F.**
+
+A, B – glucose (without insulin) and mannitol are effective osmoles that draw water out of cells (translocational, hypertonic hyponatraemia); for each 5.5 mmol/L rise in glucose above normal, Na⁺ falls by ~1.6–2.4 mmol/L. C – pseudohyponatraemia: lipids or paraproteins reduce the plasma water fraction with indirect ISE (laboratory analyser); a direct ISE (blood gas analyser) gives the true value and osmolality is normal. D – polydipsia causes hypotonic hyponatraemia with a maximally dilute urine. Reference: Spasovski G, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. **Intensive Care Med** 2014;40:320–331 (and **Eur J Endocrinol** 2014;170:G1–G47).
 
 </details>
 
@@ -589,7 +864,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Exercise-associated hyponatraemia with seizure and reduced consciousness is a medical emergency: hypertonic saline boluses (150 mL 3 % over 20 min, or 100 mL bolus in some protocols, with re-checks) aiming for a 5 mmol/L rise, which usually improves symptoms. Fluid restriction is too slow; vaptans have unpredictable effects and are not recommended for severe symptoms; isotonic saline may not raise sodium (and can worsen it in SIADH-like states). SALSA showed rapid intermittent bolus therapy was as safe as slow continuous infusion. Reference: Spasovski G, et al. **Intensive Care Med** 2014;40:320–331; Baek SH, et al. SALSA trial. **JAMA Intern Med** 2021;181:81–92.
+**A – T, B – F, C – F, D – F.**
+
+Exercise-associated hyponatraemia with seizure and reduced consciousness is a medical emergency: hypertonic saline boluses (150 mL 3 % over 20 min, or 100 mL bolus in some protocols, with re-checks) aiming for a 5 mmol/L rise, which usually improves symptoms. Fluid restriction is too slow; vaptans have unpredictable effects and are not recommended for severe symptoms; isotonic saline may not raise sodium (and can worsen it in SIADH-like states). SALSA showed rapid intermittent bolus therapy was as safe as slow continuous infusion. Reference: Spasovski G, et al. **Intensive Care Med** 2014;40:320–331; Baek SH, et al. SALSA trial. **JAMA Intern Med** 2021;181:81–92.
 
 </details>
 
@@ -602,7 +879,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – F.** A – mild 130–135, moderate 125–129, profound < 125 mmol/L. B – assume chronic if unknown. C – these factors lower the threshold for osmotic demyelination; correction should not exceed 10 mmol/L in the first 24 h and 8 mmol/L in each subsequent 24 h (lower limits, e.g. 8 mmol/L/24 h, in high-risk patients). D – active re-lowering (stop active treatment, give water/5 % dextrose ± desmopressin) is recommended if the limit is exceeded. Reference: Spasovski G, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. **Intensive Care Med** 2014;40:320–331; Sterns RH. Disorders of plasma sodium. **N Engl J Med** 2015;372:55–65.
+**A – F, B – T, C – T, D – F.**
+
+A – mild 130–135, moderate 125–129, profound < 125 mmol/L. B – assume chronic if unknown. C – these factors lower the threshold for osmotic demyelination; correction should not exceed 10 mmol/L in the first 24 h and 8 mmol/L in each subsequent 24 h (lower limits, e.g. 8 mmol/L/24 h, in high-risk patients). D – active re-lowering (stop active treatment, give water/5 % dextrose ± desmopressin) is recommended if the limit is exceeded. Reference: Spasovski G, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. **Intensive Care Med** 2014;40:320–331; Sterns RH. Disorders of plasma sodium. **N Engl J Med** 2015;372:55–65.
 
 </details>
 
@@ -619,7 +898,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Long-term proton-pump inhibitor therapy impairs intestinal magnesium absorption (TRPM6/7) and causes severe hypomagnesaemia, which in turn causes refractory hypokalaemia (renal ROMK-mediated K⁺ wasting) and hypocalcaemia (reduced PTH secretion and end-organ resistance). Torsades-type polymorphic VT with long QT is treated with IV magnesium; potassium and calcium will not correct until magnesium is replaced. Amiodarone prolongs QT and is contraindicated in torsades. Reference: Soar J, Böttiger BW, Carli P, et al. European Resuscitation Council Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Hess MW, et al. Systematic review: hypomagnesaemia induced by proton pump inhibition. **Aliment Pharmacol Ther** 2012;36:405–413.
+**B.**
+
+Long-term proton-pump inhibitor therapy impairs intestinal magnesium absorption (TRPM6/7) and causes severe hypomagnesaemia, which in turn causes refractory hypokalaemia (renal ROMK-mediated K⁺ wasting) and hypocalcaemia (reduced PTH secretion and end-organ resistance). Torsades-type polymorphic VT with long QT is treated with IV magnesium; potassium and calcium will not correct until magnesium is replaced. Amiodarone prolongs QT and is contraindicated in torsades. Reference: Soar J, Böttiger BW, Carli P, et al. European Resuscitation Council Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Hess MW, et al. Systematic review: hypomagnesaemia induced by proton pump inhibition. **Aliment Pharmacol Ther** 2012;36:405–413.
 
 </details>
 
@@ -636,7 +917,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** This is refeeding syndrome: insulin-driven intracellular shift of phosphate, potassium and magnesium with sodium and water retention. Management is to reduce (not stop) energy delivery, replace electrolytes IV (with cardiac monitoring), give thiamine and B vitamins, and re-advance feeding gradually over 4–7 days. In the Refeeding RCT, protocolised caloric restriction improved survival. Stopping feeds (B) prolongs starvation; PN (C) causes the same problem; oral phosphate alone (D) is inadequate for a level < 0.3 mmol/L; diuretics (E) worsen hypokalaemia and hypomagnesaemia. Reference: da Silva JSV, et al. ASPEN consensus recommendations for refeeding syndrome. **Nutr Clin Pract** 2020;35:178–195; Doig GS, et al. Restricted versus continued standard caloric intake during the management of refeeding syndrome in critically ill adults. **Lancet Respir Med** 2015;3:943–952.
+**A.**
+
+This is refeeding syndrome: insulin-driven intracellular shift of phosphate, potassium and magnesium with sodium and water retention. Management is to reduce (not stop) energy delivery, replace electrolytes IV (with cardiac monitoring), give thiamine and B vitamins, and re-advance feeding gradually over 4–7 days. In the Refeeding RCT, protocolised caloric restriction improved survival. Stopping feeds (B) prolongs starvation; PN (C) causes the same problem; oral phosphate alone (D) is inadequate for a level < 0.3 mmol/L; diuretics (E) worsen hypokalaemia and hypomagnesaemia. Reference: da Silva JSV, et al. ASPEN consensus recommendations for refeeding syndrome. **Nutr Clin Pract** 2020;35:178–195; Doig GS, et al. Restricted versus continued standard caloric intake during the management of refeeding syndrome in critically ill adults. **Lancet Respir Med** 2015;3:943–952.
 
 </details>
 
@@ -649,7 +932,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** A – lithium raises the set-point of the calcium-sensing receptor and causes PTH-dependent hypercalcaemia. B – retinoids stimulate osteoclastic bone resorption. C – granulomas express 1α-hydroxylase, producing calcitriol-mediated (PTH-suppressed) hypercalcaemia, responsive to glucocorticoids. D – excess calcium plus absorbable alkali (e.g. calcium carbonate) causes hypercalcaemia, metabolic alkalosis and AKI. Other causes: primary hyperparathyroidism and malignancy (> 90 %), thiazides, thyrotoxicosis, immobilisation, adrenal insufficiency. Reference: Minisola S, et al. The diagnosis and management of hypercalcaemia. **BMJ** 2015;350:h2723; Walker MD, Shane E. Hypercalcemia: a review. **JAMA** 2022;328:1624–1636.
+**A – T, B – T, C – T, D – T.**
+
+A – lithium raises the set-point of the calcium-sensing receptor and causes PTH-dependent hypercalcaemia. B – retinoids stimulate osteoclastic bone resorption. C – granulomas express 1α-hydroxylase, producing calcitriol-mediated (PTH-suppressed) hypercalcaemia, responsive to glucocorticoids. D – excess calcium plus absorbable alkali (e.g. calcium carbonate) causes hypercalcaemia, metabolic alkalosis and AKI. Other causes: primary hyperparathyroidism and malignancy (> 90 %), thiazides, thyrotoxicosis, immobilisation, adrenal insufficiency. Reference: Minisola S, et al. The diagnosis and management of hypercalcaemia. **BMJ** 2015;350:h2723; Walker MD, Shane E. Hypercalcemia: a review. **JAMA** 2022;328:1624–1636.
 
 </details>
 
@@ -663,7 +948,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** PTHrP-mediated humoral hypercalcaemia of malignancy that remains symptomatic after rehydration needs an IV bisphosphonate (zoledronic acid 4 mg, the most potent; reduce/avoid if creatinine > 400 µmol/L); denosumab is an alternative in bisphosphonate-refractory disease or severe renal impairment. Calcitonin acts within hours but has tachyphylaxis within 48 h – a bridge, not long-term therapy. Loop diuretics are used only for volume overload after rehydration. Glucocorticoids are for calcitriol-mediated causes (lymphoma, granulomatous disease). Dialysis is reserved for severe hypercalcaemia with renal failure or neurological compromise unresponsive to treatment. Reference: El-Hajj Fuleihan G, et al. Treatment of hypercalcemia of malignancy in adults: an Endocrine Society clinical practice guideline. **J Clin Endocrinol Metab** 2023;108:507–528.
+**E.**
+
+PTHrP-mediated humoral hypercalcaemia of malignancy that remains symptomatic after rehydration needs an IV bisphosphonate (zoledronic acid 4 mg, the most potent; reduce/avoid if creatinine > 400 µmol/L); denosumab is an alternative in bisphosphonate-refractory disease or severe renal impairment. Calcitonin acts within hours but has tachyphylaxis within 48 h – a bridge, not long-term therapy. Loop diuretics are used only for volume overload after rehydration. Glucocorticoids are for calcitriol-mediated causes (lymphoma, granulomatous disease). Dialysis is reserved for severe hypercalcaemia with renal failure or neurological compromise unresponsive to treatment. Reference: El-Hajj Fuleihan G, et al. Treatment of hypercalcemia of malignancy in adults: an Endocrine Society clinical practice guideline. **J Clin Endocrinol Metab** 2023;108:507–528.
 
 </details>
 
@@ -679,7 +966,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A – continuous flow reduces pulsatility; a Doppler opening pressure approximates MAP (target ~70–80 mmHg). B – increased venous return and septal shift after LV unloading can unmask RV failure (up to 20–40 %), requiring inotropes, pulmonary vasodilators or temporary RVAD. C – suction events: low flow, arrhythmias; treat with fluid and speed reduction. D – ERC 2025 and the AHA advise that if the patient is unresponsive and the device cannot be restarted or there is no flow, chest compressions should be started; the risk of cannula dislodgement is outweighed by the need for perfusion. Reference: Lott C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. **Resuscitation** 2025;215(Suppl 1):110753; Peberdy MA, et al. Cardiopulmonary resuscitation in adults and children with mechanical circulatory support: a scientific statement from the AHA. **Circulation** 2017;135:e1115–e1134.
+**A – T, B – T, C – T, D – F.**
+
+A – continuous flow reduces pulsatility; a Doppler opening pressure approximates MAP (target ~70–80 mmHg). B – increased venous return and septal shift after LV unloading can unmask RV failure (up to 20–40 %), requiring inotropes, pulmonary vasodilators or temporary RVAD. C – suction events: low flow, arrhythmias; treat with fluid and speed reduction. D – ERC 2025 and the AHA advise that if the patient is unresponsive and the device cannot be restarted or there is no flow, chest compressions should be started; the risk of cannula dislodgement is outweighed by the need for perfusion. Reference: Lott C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. **Resuscitation** 2025;215(Suppl 1):110753; Peberdy MA, et al. Cardiopulmonary resuscitation in adults and children with mechanical circulatory support: a scientific statement from the AHA. **Circulation** 2017;135:e1115–e1134.
 
 </details>
 
@@ -692,7 +981,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – F.** A – inflation occurs at the dicrotic notch (aortic valve closure, around the middle of the T wave); deflation is timed just before the next systole (R wave). B – diastolic inflation would increase regurgitant volume; aortic dissection and severe peripheral vascular disease are other contraindications. C – helium is chosen for its low density (rapid shuttling); CO2 is more soluble and was used earlier for safety in case of rupture. D – balloon size (e.g. 30–50 mL) is chosen by patient height. Reference: Krishna M, Zacharowski K. Principles of intra-aortic balloon pump counterpulsation. **Contin Educ Anaesth Crit Care Pain** 2009;9:24–28; Thiele H, et al. IABP-SHOCK II. **N Engl J Med** 2012;367:1287–1296.
+**A – F, B – T, C – F, D – F.**
+
+A – inflation occurs at the dicrotic notch (aortic valve closure, around the middle of the T wave); deflation is timed just before the next systole (R wave). B – diastolic inflation would increase regurgitant volume; aortic dissection and severe peripheral vascular disease are other contraindications. C – helium is chosen for its low density (rapid shuttling); CO2 is more soluble and was used earlier for safety in case of rupture. D – balloon size (e.g. 30–50 mL) is chosen by patient height. Reference: Krishna M, Zacharowski K. Principles of intra-aortic balloon pump counterpulsation. **Contin Educ Anaesth Crit Care Pain** 2009;9:24–28; Thiele H, et al. IABP-SHOCK II. **N Engl J Med** 2012;367:1287–1296.
 
 </details>
 
@@ -706,7 +997,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Deflation just before systole lowers aortic end-diastolic pressure and afterload, which increases forward stroke volume and reduces the regurgitant fraction in MR (and shunt in post-infarct VSD); LV wall stress, end-diastolic pressure and myocardial O2 demand fall. Inflation in diastole augments diastolic (coronary) perfusion pressure. IABP is still used as a bridge in mechanical complications of MI, but IABP-SHOCK II showed no mortality benefit in AMI cardiogenic shock without mechanical complications, and ESC 2023 does not recommend its routine use there. Reference: Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. **Eur Heart J** 2023;44:3720–3826; Thiele H, et al. IABP-SHOCK II. **N Engl J Med** 2012;367:1287–1296.
+**D.**
+
+Deflation just before systole lowers aortic end-diastolic pressure and afterload, which increases forward stroke volume and reduces the regurgitant fraction in MR (and shunt in post-infarct VSD); LV wall stress, end-diastolic pressure and myocardial O2 demand fall. Inflation in diastole augments diastolic (coronary) perfusion pressure. IABP is still used as a bridge in mechanical complications of MI, but IABP-SHOCK II showed no mortality benefit in AMI cardiogenic shock without mechanical complications, and ESC 2023 does not recommend its routine use there. Reference: Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. **Eur Heart J** 2023;44:3720–3826; Thiele H, et al. IABP-SHOCK II. **N Engl J Med** 2012;367:1287–1296.
 
 </details>
 
@@ -719,7 +1012,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** A – too high risks occluding the left subclavian/carotid; too low risks renal and mesenteric artery occlusion. B – a balloon still inflated during early systole forces the LV to eject against it. C – early inflation causes premature aortic valve closure, reduced stroke volume and increased LVEDV/afterload. D – routine IABP is not recommended (class III) in AMI-CS without mechanical complications, based on IABP-SHOCK II (no difference in 30-day, 1-year or 6-year mortality). Reference: Byrne RA, et al. 2023 ESC ACS Guidelines. **Eur Heart J** 2023;44:3720–3826; Thiele H, et al. Intraaortic balloon pump in cardiogenic shock complicating acute myocardial infarction: long-term 6-year outcome of IABP-SHOCK II. **Circulation** 2019;139:395–403.
+**A – T, B – T, C – F, D – F.**
+
+A – too high risks occluding the left subclavian/carotid; too low risks renal and mesenteric artery occlusion. B – a balloon still inflated during early systole forces the LV to eject against it. C – early inflation causes premature aortic valve closure, reduced stroke volume and increased LVEDV/afterload. D – routine IABP is not recommended (class III) in AMI-CS without mechanical complications, based on IABP-SHOCK II (no difference in 30-day, 1-year or 6-year mortality). Reference: Byrne RA, et al. 2023 ESC ACS Guidelines. **Eur Heart J** 2023;44:3720–3826; Thiele H, et al. Intraaortic balloon pump in cardiogenic shock complicating acute myocardial infarction: long-term 6-year outcome of IABP-SHOCK II. **Circulation** 2019;139:395–403.
 
 </details>
 
@@ -736,7 +1031,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** RV infarction makes cardiac output highly dependent on heart rate, preload and atrial contribution; bradycardia/AV block (common with proximal RCA occlusion) should be treated with temporary pacing, ideally dual-chamber to restore AV synchrony. Nitrates and diuretics (A, C) reduce preload and are harmful. A modest fluid challenge is reasonable, but large volumes (D) overdistend the RV, shift the septum and reduce LV filling. IABP (E) mainly supports the LV. Inotropes (dobutamine) or mechanical RV support are considered if shock persists. Reference: Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. **Eur Heart J** 2023;44:3720–3826; Harjola VP, et al. Contemporary management of acute right ventricular failure: a statement from the Heart Failure Association and the Working Group on Pulmonary Circulation and Right Ventricular Function of the ESC. **Eur J Heart Fail** 2016;18:226–241.
+**B.**
+
+RV infarction makes cardiac output highly dependent on heart rate, preload and atrial contribution; bradycardia/AV block (common with proximal RCA occlusion) should be treated with temporary pacing, ideally dual-chamber to restore AV synchrony. Nitrates and diuretics (A, C) reduce preload and are harmful. A modest fluid challenge is reasonable, but large volumes (D) overdistend the RV, shift the septum and reduce LV filling. IABP (E) mainly supports the LV. Inotropes (dobutamine) or mechanical RV support are considered if shock persists. Reference: Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. **Eur Heart J** 2023;44:3720–3826; Harjola VP, et al. Contemporary management of acute right ventricular failure: a statement from the Heart Failure Association and the Working Group on Pulmonary Circulation and Right Ventricular Function of the ESC. **Eur J Heart Fail** 2016;18:226–241.
 
 </details>
 
@@ -750,7 +1047,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** A rise and fall of troponin above the 99th centile together with evidence of ischaemia (symptoms, new ischaemic ECG changes) caused by an oxygen supply–demand imbalance (anaemia, tachycardia, hypotension) – not acute atherothrombosis – is type 2 MI. Non-ischaemic myocardial injury (C) is a troponin rise without clinical evidence of ischaemia (e.g. sepsis, myocarditis, PE). Type 1 is plaque rupture/erosion with thrombus; type 4a is PCI-related; type 5 CABG-related. Management targets the cause (transfusion, endoscopic haemostasis), not antithrombotic escalation. Reference: Thygesen K, et al. Fourth Universal Definition of Myocardial Infarction (2018). **Eur Heart J** 2019;40:237–269.
+**D.**
+
+A rise and fall of troponin above the 99th centile together with evidence of ischaemia (symptoms, new ischaemic ECG changes) caused by an oxygen supply–demand imbalance (anaemia, tachycardia, hypotension) – not acute atherothrombosis – is type 2 MI. Non-ischaemic myocardial injury (C) is a troponin rise without clinical evidence of ischaemia (e.g. sepsis, myocarditis, PE). Type 1 is plaque rupture/erosion with thrombus; type 4a is PCI-related; type 5 CABG-related. Management targets the cause (transfusion, endoscopic haemostasis), not antithrombotic escalation. Reference: Thygesen K, et al. Fourth Universal Definition of Myocardial Infarction (2018). **Eur Heart J** 2019;40:237–269.
 
 </details>
 
@@ -764,7 +1063,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** In acute cocaine toxicity, non-selective β-blockade may leave α-adrenergic vasoconstriction unopposed, worsening coronary spasm and hypertension; guidelines advise avoiding β-blockers in the acute phase. Benzodiazepines reduce the central sympathetic drive and are first-line, combined with aspirin and nitrates; an α-antagonist (phentolamine) or calcium channel blocker is used for persistent hypertension. Thrombolysis is relatively contraindicated by uncontrolled hypertension, and primary PCI is preferred if STEMI develops. Reference: McCord J, et al. Management of cocaine-associated chest pain and myocardial infarction: a scientific statement from the AHA. **Circulation** 2008;117:1897–1907; Byrne RA, et al. 2023 ESC ACS Guidelines. **Eur Heart J** 2023;44:3720–3826.
+**C.**
+
+In acute cocaine toxicity, non-selective β-blockade may leave α-adrenergic vasoconstriction unopposed, worsening coronary spasm and hypertension; guidelines advise avoiding β-blockers in the acute phase. Benzodiazepines reduce the central sympathetic drive and are first-line, combined with aspirin and nitrates; an α-antagonist (phentolamine) or calcium channel blocker is used for persistent hypertension. Thrombolysis is relatively contraindicated by uncontrolled hypertension, and primary PCI is preferred if STEMI develops. Reference: McCord J, et al. Management of cocaine-associated chest pain and myocardial infarction: a scientific statement from the AHA. **Circulation** 2008;117:1897–1907; Byrne RA, et al. 2023 ESC ACS Guidelines. **Eur Heart J** 2023;44:3720–3826.
 
 </details>
 
@@ -777,7 +1078,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A – the 120-minute threshold defines the pharmaco-invasive alternative. B – a pharmaco-invasive strategy (angiography 2–24 h after successful lysis; immediate rescue PCI if failed) is recommended. C – primary PCI is recommended for resuscitated patients with persistent ST elevation (in contrast, routine immediate angiography is not recommended without ST elevation – COACT, TOMAHAWK). D – prasugrel should be considered in preference to ticagrelor for patients proceeding to PCI (class IIa, ISAR-REACT 5). Reference: Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. **Eur Heart J** 2023;44:3720–3826; Schüpke S, et al. ISAR-REACT 5. **N Engl J Med** 2019;381:1524–1534.
+**A – T, B – T, C – T, D – F.**
+
+A – the 120-minute threshold defines the pharmaco-invasive alternative. B – a pharmaco-invasive strategy (angiography 2–24 h after successful lysis; immediate rescue PCI if failed) is recommended. C – primary PCI is recommended for resuscitated patients with persistent ST elevation (in contrast, routine immediate angiography is not recommended without ST elevation – COACT, TOMAHAWK). D – prasugrel should be considered in preference to ticagrelor for patients proceeding to PCI (class IIa, ISAR-REACT 5). Reference: Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. **Eur Heart J** 2023;44:3720–3826; Schüpke S, et al. ISAR-REACT 5. **N Engl J Med** 2019;381:1524–1534.
 
 </details>
 
@@ -793,7 +1096,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** A – calcium sensitisation (troponin C) plus vasodilatation via K-ATP channel opening; it does not raise intracellular calcium, so myocardial O2 consumption rises little and diastolic relaxation is not impaired. B – LeoPARDS found no reduction in mean SOFA score, more supraventricular tachyarrhythmias and lower likelihood of weaning from ventilation; SSC suggests against levosimendan. C – OR-1896 explains prolonged action; a loading dose is often omitted to avoid hypotension. D – vasodilatation and hypotension (and tachyarrhythmia, hypokalaemia) are the main adverse effects. Reference: Gordon AC, et al. LeoPARDS. **N Engl J Med** 2016;375:1638–1648; Papp Z, et al. Levosimendan: molecular mechanisms and clinical implications – consensus of experts. **Int J Cardiol** 2012;159:82–87.
+**A – T, B – F, C – T, D – F.**
+
+A – calcium sensitisation (troponin C) plus vasodilatation via K-ATP channel opening; it does not raise intracellular calcium, so myocardial O2 consumption rises little and diastolic relaxation is not impaired. B – LeoPARDS found no reduction in mean SOFA score, more supraventricular tachyarrhythmias and lower likelihood of weaning from ventilation; SSC suggests against levosimendan. C – OR-1896 explains prolonged action; a loading dose is often omitted to avoid hypotension. D – vasodilatation and hypotension (and tachyarrhythmia, hypokalaemia) are the main adverse effects. Reference: Gordon AC, et al. LeoPARDS. **N Engl J Med** 2016;375:1638–1648; Papp Z, et al. Levosimendan: molecular mechanisms and clinical implications – consensus of experts. **Int J Cardiol** 2012;159:82–87.
 
 </details>
 
@@ -807,7 +1112,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** This is low cardiac output from RV failure with raised pulmonary vascular resistance after mitral surgery. A phosphodiesterase-3 inhibitor (inodilator) increases RV contractility and lowers PVR with less chronotropy than dobutamine, which would further increase an already high heart rate (A). The bolus of milrinone or levosimendan (C) is omitted to avoid hypotension. IABP (D) supports the LV and does little for RV failure. Raising noradrenaline alone (E) does not improve output. Inhaled pulmonary vasodilators (NO, epoprostenol) are reasonable adjuncts. In DOREMI, milrinone and dobutamine had similar outcomes in cardiogenic shock. Reference: Mathew R, et al. Milrinone as compared with dobutamine in the treatment of cardiogenic shock (DOREMI). **N Engl J Med** 2021;385:516–525; Harjola VP, et al. Contemporary management of acute right ventricular failure: a statement from the HFA and ESC WG on Pulmonary Circulation. **Eur J Heart Fail** 2016;18:226–241.
+**B.**
+
+This is low cardiac output from RV failure with raised pulmonary vascular resistance after mitral surgery. A phosphodiesterase-3 inhibitor (inodilator) increases RV contractility and lowers PVR with less chronotropy than dobutamine, which would further increase an already high heart rate (A). The bolus of milrinone or levosimendan (C) is omitted to avoid hypotension. IABP (D) supports the LV and does little for RV failure. Raising noradrenaline alone (E) does not improve output. Inhaled pulmonary vasodilators (NO, epoprostenol) are reasonable adjuncts. In DOREMI, milrinone and dobutamine had similar outcomes in cardiogenic shock. Reference: Mathew R, et al. Milrinone as compared with dobutamine in the treatment of cardiogenic shock (DOREMI). **N Engl J Med** 2021;385:516–525; Harjola VP, et al. Contemporary management of acute right ventricular failure: a statement from the HFA and ESC WG on Pulmonary Circulation. **Eur J Heart Fail** 2016;18:226–241.
 
 </details>
 
@@ -821,7 +1128,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** This is hypertensive acute heart failure with pulmonary oedema. Non-invasive positive pressure (CPAP/NIV) rapidly improves oxygenation, work of breathing and acidosis and reduces LV afterload; IV nitrates reduce preload and afterload and are the key drug when SBP is high. ESC HF guidelines recommend NIV in respiratory distress (RR > 25, SpO2 < 90 %); 3CPO showed faster physiological improvement (no mortality difference). Intubation is for failure of NIV, coma or exhaustion; morphine is not routinely recommended (associated with harm); fibrinolysis has no role without STEMI. Reference: McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. **Eur Heart J** 2021;42:3599–3726; Gray A, et al. 3CPO. **N Engl J Med** 2008;359:142–151.
+**C.**
+
+This is hypertensive acute heart failure with pulmonary oedema. Non-invasive positive pressure (CPAP/NIV) rapidly improves oxygenation, work of breathing and acidosis and reduces LV afterload; IV nitrates reduce preload and afterload and are the key drug when SBP is high. ESC HF guidelines recommend NIV in respiratory distress (RR > 25, SpO2 < 90 %); 3CPO showed faster physiological improvement (no mortality difference). Intubation is for failure of NIV, coma or exhaustion; morphine is not routinely recommended (associated with harm); fibrinolysis has no role without STEMI. Reference: McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. **Eur Heart J** 2021;42:3599–3726; Gray A, et al. 3CPO. **N Engl J Med** 2008;359:142–151.
 
 </details>
 
@@ -834,7 +1143,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** A – apical ballooning is commonest, but mid-ventricular, basal and focal types are recognised. B – catecholamines worsen LVOTO (and may perpetuate the syndrome); treat with fluids, cautious β-blockade, and levosimendan or mechanical support if cardiogenic shock without obstruction. C – recurrence occurs in ~2 % per year. D – in-hospital mortality (~4–5 %) and complications (cardiogenic shock, LV thrombus, arrhythmia) are comparable to ACS; physical triggers (e.g. critical illness) carry a worse prognosis than emotional ones. Reference: Ghadri JR, et al. International expert consensus document on Takotsubo syndrome (Parts I and II). **Eur Heart J** 2018;39:2032–2046 and 2047–2062; Templin C, et al. **N Engl J Med** 2015;373:929–938.
+**A – T, B – F, C – F, D – F.**
+
+A – apical ballooning is commonest, but mid-ventricular, basal and focal types are recognised. B – catecholamines worsen LVOTO (and may perpetuate the syndrome); treat with fluids, cautious β-blockade, and levosimendan or mechanical support if cardiogenic shock without obstruction. C – recurrence occurs in ~2 % per year. D – in-hospital mortality (~4–5 %) and complications (cardiogenic shock, LV thrombus, arrhythmia) are comparable to ACS; physical triggers (e.g. critical illness) carry a worse prognosis than emotional ones. Reference: Ghadri JR, et al. International expert consensus document on Takotsubo syndrome (Parts I and II). **Eur Heart J** 2018;39:2032–2046 and 2047–2062; Templin C, et al. **N Engl J Med** 2015;373:929–938.
 
 </details>
 
@@ -850,7 +1161,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A, B – the 2022 definition lowered the threshold from mPAP ≥ 25 to > 20 mmHg and PVR from > 3 to > 2 WU; post-capillary PH has PAWP > 15 mmHg. C – group 2 is commonest, followed by group 3 (lung disease/hypoxia). D – PAH-specific drugs are not recommended in group 2 PH (no benefit, possible harm from pulmonary oedema); treat the underlying left heart disease. Reference: Humbert M, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. **Eur Heart J** 2022;43:3618–3731.
+**A – T, B – T, C – T, D – F.**
+
+A, B – the 2022 definition lowered the threshold from mPAP ≥ 25 to > 20 mmHg and PVR from > 3 to > 2 WU; post-capillary PH has PAWP > 15 mmHg. C – group 2 is commonest, followed by group 3 (lung disease/hypoxia). D – PAH-specific drugs are not recommended in group 2 PH (no benefit, possible harm from pulmonary oedema); treat the underlying left heart disease. Reference: Humbert M, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. **Eur Heart J** 2022;43:3618–3731.
 
 </details>
 
@@ -866,7 +1179,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** Pre-excited AF risks degeneration to VF because conduction occurs rapidly over the accessory pathway. Drugs that block the AV node (adenosine, verapamil/diltiazem, β-blockers, digoxin) are contraindicated, and the ESC advises against IV amiodarone, which can also enhance accessory pathway conduction. Ibutilide or procainamide (flecainide/propafenone are alternatives) are acceptable if stable; electrical cardioversion if unstable or in doubt. Ablation is recommended after pre-excited AF (high-risk pathway). Reference: Brugada J, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. **Eur Heart J** 2020;41:655–720; Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation. **Eur Heart J** 2024;45:3314–3414.
+**A – T, B – T, C – F, D – T.**
+
+Pre-excited AF risks degeneration to VF because conduction occurs rapidly over the accessory pathway. Drugs that block the AV node (adenosine, verapamil/diltiazem, β-blockers, digoxin) are contraindicated, and the ESC advises against IV amiodarone, which can also enhance accessory pathway conduction. Ibutilide or procainamide (flecainide/propafenone are alternatives) are acceptable if stable; electrical cardioversion if unstable or in doubt. Ablation is recommended after pre-excited AF (high-risk pathway). Reference: Brugada J, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. **Eur Heart J** 2020;41:655–720; Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation. **Eur Heart J** 2024;45:3314–3414.
 
 </details>
 
@@ -880,7 +1195,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Her AF is permanent with a large atrium, so cardioversion (A) is unlikely to succeed and not the goal; she is not in shock. In HFrEF with acute decompensation, digoxin (or IV amiodarone) is preferred for acute rate control; β-blockers should be used cautiously and not in high doses during acute pulmonary congestion. Non-dihydropyridine calcium channel blockers (B) and class Ic agents (C) are contraindicated in LVEF < 40 % / structural heart disease. Treating the trigger (sepsis, hypoxaemia, volume) is essential; lenient rate control (< 110/min) is acceptable initially. Reference: Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation. **Eur Heart J** 2024;45:3314–3414.
+**E.**
+
+Her AF is permanent with a large atrium, so cardioversion (A) is unlikely to succeed and not the goal; she is not in shock. In HFrEF with acute decompensation, digoxin (or IV amiodarone) is preferred for acute rate control; β-blockers should be used cautiously and not in high doses during acute pulmonary congestion. Non-dihydropyridine calcium channel blockers (B) and class Ic agents (C) are contraindicated in LVEF < 40 % / structural heart disease. Treating the trigger (sepsis, hypoxaemia, volume) is essential; lenient rate control (< 110/min) is acceptable initially. Reference: Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation. **Eur Heart J** 2024;45:3314–3414.
 
 </details>
 
@@ -894,7 +1211,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Tachyarrhythmia with adverse features (shock, myocardial ischaemia, impaired consciousness) requires immediate synchronised cardioversion under sedation/anaesthesia. ERC guidance suggests that for AF an initial synchronised shock at maximum defibrillator output is reasonable, rather than an escalating approach. Unsynchronised shocks (B) risk R-on-T and VF. Adenosine (C) is for regular narrow-complex tachycardia. Amiodarone (D) is given if cardioversion fails or for stable patients. Haemodynamic instability overrides the usual pre-cardioversion anticoagulation/TOE requirements (E), though heparin should be given as soon as possible. Reference: Soar J, et al. European Resuscitation Council Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Van Gelder IC, et al. 2024 ESC AF Guidelines. **Eur Heart J** 2024;45:3314–3414.
+**A.**
+
+Tachyarrhythmia with adverse features (shock, myocardial ischaemia, impaired consciousness) requires immediate synchronised cardioversion under sedation/anaesthesia. ERC guidance suggests that for AF an initial synchronised shock at maximum defibrillator output is reasonable, rather than an escalating approach. Unsynchronised shocks (B) risk R-on-T and VF. Adenosine (C) is for regular narrow-complex tachycardia. Amiodarone (D) is given if cardioversion fails or for stable patients. Haemodynamic instability overrides the usual pre-cardioversion anticoagulation/TOE requirements (E), though heparin should be given as soon as possible. Reference: Soar J, et al. European Resuscitation Council Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Van Gelder IC, et al. 2024 ESC AF Guidelines. **Eur Heart J** 2024;45:3314–3414.
 
 </details>
 
@@ -910,7 +1229,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** A – both imaging and biomarker evidence of RV strain = intermediate-high; only one (or none) = intermediate-low. B – persistent hypotension (SBP < 90 mmHg for ≥ 15 min, or vasopressor need), obstructive shock or cardiac arrest = high risk. C – routine primary thrombolysis is not recommended (PEITHO: fewer decompensations but more major and intracranial bleeding); rescue thrombolysis (or catheter-directed therapy) is recommended if the patient deteriorates. D – RV/LV ≥ 1.0 (CT) or > 1.0 (echo) defines RV dysfunction. Reference: Konstantinides SV, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism. **Eur Heart J** 2020;41:543–603.
+**A – T, B – F, C – F, D – T.**
+
+A – both imaging and biomarker evidence of RV strain = intermediate-high; only one (or none) = intermediate-low. B – persistent hypotension (SBP < 90 mmHg for ≥ 15 min, or vasopressor need), obstructive shock or cardiac arrest = high risk. C – routine primary thrombolysis is not recommended (PEITHO: fewer decompensations but more major and intracranial bleeding); rescue thrombolysis (or catheter-directed therapy) is recommended if the patient deteriorates. D – RV/LV ≥ 1.0 (CT) or > 1.0 (echo) defines RV dysfunction. Reference: Konstantinides SV, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism. **Eur Heart J** 2020;41:543–603.
 
 </details>
 
@@ -924,7 +1245,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** ECG signs of acute RV strain include anterior T-wave inversion (V1–V4), QR in V1, S1Q3T3, incomplete or complete RBBB, right axis deviation and atrial arrhythmias; sinus tachycardia is the most frequent finding. Anterior T-wave inversion and RBBB are associated with RV dysfunction and worse outcome. LVH with lateral strain reflects chronic LV pressure overload (e.g. hypertension, aortic stenosis) and is not a feature of PE. Overall, the ECG is neither sensitive nor specific. Reference: Konstantinides SV, et al. 2019 ESC PE Guidelines. **Eur Heart J** 2020;41:543–603; Shopp JD, et al. Findings from 12-lead electrocardiography that predict circulatory shock from pulmonary embolism: systematic review and meta-analysis. **Acad Emerg Med** 2015;22:1127–1137.
+**E.**
+
+ECG signs of acute RV strain include anterior T-wave inversion (V1–V4), QR in V1, S1Q3T3, incomplete or complete RBBB, right axis deviation and atrial arrhythmias; sinus tachycardia is the most frequent finding. Anterior T-wave inversion and RBBB are associated with RV dysfunction and worse outcome. LVH with lateral strain reflects chronic LV pressure overload (e.g. hypertension, aortic stenosis) and is not a feature of PE. Overall, the ECG is neither sensitive nor specific. Reference: Konstantinides SV, et al. 2019 ESC PE Guidelines. **Eur Heart J** 2020;41:543–603; Shopp JD, et al. Findings from 12-lead electrocardiography that predict circulatory shock from pulmonary embolism: systematic review and meta-analysis. **Acad Emerg Med** 2015;22:1127–1137.
 
 </details>
 
@@ -937,7 +1260,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** A – activated protein C resistance; the commonest inherited thrombophilia in Europeans (~5-fold risk when heterozygous). B – deficiency of factor VIII causes bleeding, not thrombosis. C – complement-mediated haemolysis and platelet activation cause thrombosis at unusual sites (hepatic, cerebral, mesenteric veins); thrombosis is the main cause of death. D – vitamin K deficiency reduces factors II, VII, IX, X (and proteins C/S) and causes a bleeding tendency. Reference: Konstantinides SV, et al. 2019 ESC PE Guidelines (Table of predisposing factors). **Eur Heart J** 2020;41:543–603; Hill A, et al. Paroxysmal nocturnal haemoglobinuria. **Nat Rev Dis Primers** 2017;3:17028.
+**A – T, B – F, C – T, D – F.**
+
+A – activated protein C resistance; the commonest inherited thrombophilia in Europeans (~5-fold risk when heterozygous). B – deficiency of factor VIII causes bleeding, not thrombosis. C – complement-mediated haemolysis and platelet activation cause thrombosis at unusual sites (hepatic, cerebral, mesenteric veins); thrombosis is the main cause of death. D – vitamin K deficiency reduces factors II, VII, IX, X (and proteins C/S) and causes a bleeding tendency. Reference: Konstantinides SV, et al. 2019 ESC PE Guidelines (Table of predisposing factors). **Eur Heart J** 2020;41:543–603; Hill A, et al. Paroxysmal nocturnal haemoglobinuria. **Nat Rev Dis Primers** 2017;3:17028.
 
 </details>
 
@@ -950,7 +1275,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** A – ESC 2019 regimens. B – PEITHO (n = 1005): primary outcome 2.6 % vs 5.6 %, but major extracranial bleeding 6.3 % vs 1.2 % and stroke 2.4 % vs 0.2 %; no 30-day mortality difference. C – ERC guidance: consider continuing CPR for 60–90 min after thrombolysis. D – class I (surgery) / IIa (catheter-directed) recommendations; trials of catheter-directed therapy in intermediate-risk PE (HI-PEITHO, PEERLESS) are reported or ongoing. Reference: Meyer G, et al. PEITHO. **N Engl J Med** 2014;370:1402–1411; Konstantinides SV, et al. 2019 ESC PE Guidelines. **Eur Heart J** 2020;41:543–603; Lott C, et al. ERC Guidelines 2025 Special Circumstances. **Resuscitation** 2025;215(Suppl 1):110753.
+**A – T, B – T, C – T, D – T.**
+
+A – ESC 2019 regimens. B – PEITHO (n = 1005): primary outcome 2.6 % vs 5.6 %, but major extracranial bleeding 6.3 % vs 1.2 % and stroke 2.4 % vs 0.2 %; no 30-day mortality difference. C – ERC guidance: consider continuing CPR for 60–90 min after thrombolysis. D – class I (surgery) / IIa (catheter-directed) recommendations; trials of catheter-directed therapy in intermediate-risk PE (HI-PEITHO, PEERLESS) are reported or ongoing. Reference: Meyer G, et al. PEITHO. **N Engl J Med** 2014;370:1402–1411; Konstantinides SV, et al. 2019 ESC PE Guidelines. **Eur Heart J** 2020;41:543–603; Lott C, et al. ERC Guidelines 2025 Special Circumstances. **Resuscitation** 2025;215(Suppl 1):110753.
 
 </details>
 
@@ -966,7 +1293,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** A, B – the chest X-ray is normal in ~10–20 % of cases; mediastinal widening is seen in roughly 60 %. C – effusions (haemothorax or reactive) are usually left-sided. D – the calcium sign is displacement of intimal calcification > 6–10 mm from the outer aortic contour. Other signs: abnormal aortic contour, apical cap, tracheal deviation to the right and depression of the left main bronchus. CT angiography (or TOE if unstable) is the diagnostic test. Reference: Erbel R, et al. 2014 ESC Guidelines on the diagnosis and treatment of aortic diseases. **Eur Heart J** 2014;35:2873–2926; Mazzolai L, et al. 2024 ESC Guidelines for the management of peripheral arterial and aortic diseases. **Eur Heart J** 2024;45:3538–3700; Hagan PG, et al. IRAD. **JAMA** 2000;283:897–903.
+**A – F, B – F, C – F, D – F.**
+
+A, B – the chest X-ray is normal in ~10–20 % of cases; mediastinal widening is seen in roughly 60 %. C – effusions (haemothorax or reactive) are usually left-sided. D – the calcium sign is displacement of intimal calcification > 6–10 mm from the outer aortic contour. Other signs: abnormal aortic contour, apical cap, tracheal deviation to the right and depression of the left main bronchus. CT angiography (or TOE if unstable) is the diagnostic test. Reference: Erbel R, et al. 2014 ESC Guidelines on the diagnosis and treatment of aortic diseases. **Eur Heart J** 2014;35:2873–2926; Mazzolai L, et al. 2024 ESC Guidelines for the management of peripheral arterial and aortic diseases. **Eur Heart J** 2024;45:3538–3700; Hagan PG, et al. IRAD. **JAMA** 2000;283:897–903.
 
 </details>
 
@@ -980,7 +1309,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** After cardiac surgery, tamponade is often due to localised clot (frequently posterior), so classic signs (equalisation of pressures, pulsus paradoxus) may be incomplete. Rising filling pressures with falling output and abrupt cessation of drainage, confirmed on TOE, requires surgical re-exploration; emergency resternotomy on the ICU is part of the CALS protocol if arrest occurs. Needle pericardiocentesis (A) is ineffective for clot and dangerous after sternotomy. Inotropes (C) and diuretics (D) worsen the situation; delay (E) is inappropriate. Reference: Society of Thoracic Surgeons Task Force on Resuscitation After Cardiac Surgery. The Society of Thoracic Surgeons expert consensus for the resuscitation of patients who arrest after cardiac surgery. **Ann Thorac Surg** 2017;103:1005–1020; Adler Y, et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases. **Eur Heart J** 2015;36:2921–2964.
+**B.**
+
+After cardiac surgery, tamponade is often due to localised clot (frequently posterior), so classic signs (equalisation of pressures, pulsus paradoxus) may be incomplete. Rising filling pressures with falling output and abrupt cessation of drainage, confirmed on TOE, requires surgical re-exploration; emergency resternotomy on the ICU is part of the CALS protocol if arrest occurs. Needle pericardiocentesis (A) is ineffective for clot and dangerous after sternotomy. Inotropes (C) and diuretics (D) worsen the situation; delay (E) is inappropriate. Reference: Society of Thoracic Surgeons Task Force on Resuscitation After Cardiac Surgery. The Society of Thoracic Surgeons expert consensus for the resuscitation of patients who arrest after cardiac surgery. **Ann Thorac Surg** 2017;103:1005–1020; Adler Y, et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases. **Eur Heart J** 2015;36:2921–2964.
 
 </details>
 
@@ -994,7 +1325,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Chest pain with a neurological deficit, inter-arm BP difference and new aortic regurgitation strongly suggest type A aortic dissection extending into the supra-aortic vessels; up to ~5–10 % of dissections present with stroke. Thrombolysis, antiplatelet therapy or anticoagulation (A, B, E) could be fatal; the aorta must be imaged first (CT angiography, or bedside TOE/TTE if unstable). If confirmed: IV β-blocker (target HR < 60/min, SBP 100–120 mmHg) and emergency surgery. Reference: Mazzolai L, et al. 2024 ESC Guidelines for the management of peripheral arterial and aortic diseases. **Eur Heart J** 2024;45:3538–3700; Isselbacher EM, et al. 2022 ACC/AHA Guideline for the diagnosis and management of aortic disease. **Circulation** 2022;146:e334–e482.
+**C.**
+
+Chest pain with a neurological deficit, inter-arm BP difference and new aortic regurgitation strongly suggest type A aortic dissection extending into the supra-aortic vessels; up to ~5–10 % of dissections present with stroke. Thrombolysis, antiplatelet therapy or anticoagulation (A, B, E) could be fatal; the aorta must be imaged first (CT angiography, or bedside TOE/TTE if unstable). If confirmed: IV β-blocker (target HR < 60/min, SBP 100–120 mmHg) and emergency surgery. Reference: Mazzolai L, et al. 2024 ESC Guidelines for the management of peripheral arterial and aortic diseases. **Eur Heart J** 2024;45:3538–3700; Isselbacher EM, et al. 2022 ACC/AHA Guideline for the diagnosis and management of aortic disease. **Circulation** 2022;146:e334–e482.
 
 </details>
 
@@ -1010,7 +1343,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** A – organ damage (encephalopathy, retinopathy, AKI, acute HF, ACS, dissection, eclampsia, TMA) defines an emergency; absolute numbers do not. B – without a compelling condition, MAP is reduced by no more than ~20–25 % over several hours to avoid cerebral, renal and coronary hypoperfusion. C – dissection is the exception, requiring immediate reduction (β-blocker first, then vasodilator). D – severe hypertension without acute organ damage is managed by reintroducing or intensifying oral therapy and lowering BP gradually over days; IV therapy is unnecessary and risky. Reference: van den Born BJH, et al. ESC Council on hypertension position document on the management of hypertensive emergencies. **Eur Heart J Cardiovasc Pharmacother** 2019;5:37–46; McEvoy JW, et al. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension. **Eur Heart J** 2024;45:3912–4018.
+**A – T, B – F, C – T, D – F.**
+
+A – organ damage (encephalopathy, retinopathy, AKI, acute HF, ACS, dissection, eclampsia, TMA) defines an emergency; absolute numbers do not. B – without a compelling condition, MAP is reduced by no more than ~20–25 % over several hours to avoid cerebral, renal and coronary hypoperfusion. C – dissection is the exception, requiring immediate reduction (β-blocker first, then vasodilator). D – severe hypertension without acute organ damage is managed by reintroducing or intensifying oral therapy and lowering BP gradually over days; IV therapy is unnecessary and risky. Reference: van den Born BJH, et al. ESC Council on hypertension position document on the management of hypertensive emergencies. **Eur Heart J Cardiovasc Pharmacother** 2019;5:37–46; McEvoy JW, et al. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension. **Eur Heart J** 2024;45:3912–4018.
 
 </details>
 
@@ -1027,7 +1362,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Right-sided (tricuspid) endocarditis in people who inject drugs is caused by S. aureus in 60–90 % of cases (MRSA in some regions), followed by streptococci, Pseudomonas and Candida. Septic pulmonary emboli are common (cough, haemoptysis, cavitating nodules). Prognosis is relatively good (in-hospital mortality < 10 %), and most patients are treated medically; ESC 2023 indications for surgery include right heart failure from severe TR unresponsive to diuretics, persistent bacteraemia/difficult organisms despite adequate therapy, and tricuspid vegetations > 20 mm with recurrent PE. Reference: Delgado V, et al. 2023 ESC Guidelines for the management of endocarditis. **Eur Heart J** 2023;44:3948–4042.
+**D.**
+
+Right-sided (tricuspid) endocarditis in people who inject drugs is caused by S. aureus in 60–90 % of cases (MRSA in some regions), followed by streptococci, Pseudomonas and Candida. Septic pulmonary emboli are common (cough, haemoptysis, cavitating nodules). Prognosis is relatively good (in-hospital mortality < 10 %), and most patients are treated medically; ESC 2023 indications for surgery include right heart failure from severe TR unresponsive to diuretics, persistent bacteraemia/difficult organisms despite adequate therapy, and tricuspid vegetations > 20 mm with recurrent PE. Reference: Delgado V, et al. 2023 ESC Guidelines for the management of endocarditis. **Eur Heart J** 2023;44:3948–4042.
 
 </details>
 
@@ -1041,7 +1378,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** In severe AS, the hypertrophied LV depends on diastolic perfusion pressure and adequate preload, and has a fixed stroke volume; tachycardia shortens diastole and worsens ischaemia. A pure α-agonist (phenylephrine, metaraminol) or noradrenaline restores coronary perfusion pressure without increasing heart rate. Ephedrine (A) and dobutamine (D) increase HR; vasodilators (C) can precipitate cardiovascular collapse; a 1 mg adrenaline bolus (E) is an arrest dose and would cause severe tachycardia and hypertension. Maintain sinus rhythm and treat AF promptly. Reference: Vahanian A, et al. 2021 ESC/EACTS Guidelines for the management of valvular heart disease. **Eur Heart J** 2022;43:561–632; Halvorsen S, et al. 2022 ESC Guidelines on cardiovascular assessment and management of patients undergoing non-cardiac surgery. **Eur Heart J** 2022;43:3826–3924.
+**B.**
+
+In severe AS, the hypertrophied LV depends on diastolic perfusion pressure and adequate preload, and has a fixed stroke volume; tachycardia shortens diastole and worsens ischaemia. A pure α-agonist (phenylephrine, metaraminol) or noradrenaline restores coronary perfusion pressure without increasing heart rate. Ephedrine (A) and dobutamine (D) increase HR; vasodilators (C) can precipitate cardiovascular collapse; a 1 mg adrenaline bolus (E) is an arrest dose and would cause severe tachycardia and hypertension. Maintain sinus rhythm and treat AF promptly. Reference: Vahanian A, et al. 2021 ESC/EACTS Guidelines for the management of valvular heart disease. **Eur Heart J** 2022;43:561–632; Halvorsen S, et al. 2022 ESC Guidelines on cardiovascular assessment and management of patients undergoing non-cardiac surgery. **Eur Heart J** 2022;43:3826–3924.
 
 </details>
 
@@ -1054,7 +1393,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** A – reduced LV cavity size or increased contractility increases systolic anterior motion of the mitral valve and the outflow gradient. B – digoxin (a positive inotrope) and vasodilators are avoided in obstructive HCM. C – ESC 2023 recommends β-blockers first-line, then (or in addition) mavacamten (or disopyramide); septal reduction therapy for refractory symptoms. D – treat LVOTO shock with fluids, a pure vasoconstrictor (phenylephrine/noradrenaline), β-blockade and stopping inotropes. Reference: Arbelo E, et al. 2023 ESC Guidelines for the management of cardiomyopathies. **Eur Heart J** 2023;44:3503–3626.
+**A – T, B – F, C – T, D – F.**
+
+A – reduced LV cavity size or increased contractility increases systolic anterior motion of the mitral valve and the outflow gradient. B – digoxin (a positive inotrope) and vasodilators are avoided in obstructive HCM. C – ESC 2023 recommends β-blockers first-line, then (or in addition) mavacamten (or disopyramide); septal reduction therapy for refractory symptoms. D – treat LVOTO shock with fluids, a pure vasoconstrictor (phenylephrine/noradrenaline), β-blockade and stopping inotropes. Reference: Arbelo E, et al. 2023 ESC Guidelines for the management of cardiomyopathies. **Eur Heart J** 2023;44:3503–3626.
 
 </details>
 
@@ -1070,7 +1411,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A, B – unchanged since ERC 2015/2021: adrenaline and amiodarone after the third shock. C – lidocaine 1 mg/kg (100 mg), further 50 mg after the fifth shock, is the alternative (ALPS trial). D – in PEA/asystole, give adrenaline 1 mg as soon as IV/IO access is obtained (earlier adrenaline is associated with better outcomes in non-shockable rhythms). Reference: Soar J, Böttiger BW, Carli P, et al. European Resuscitation Council Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Kudenchuk PJ, et al. ALPS. **N Engl J Med** 2016;374:1711–1722.
+**A – T, B – T, C – T, D – F.**
+
+A, B – unchanged since ERC 2015/2021: adrenaline and amiodarone after the third shock. C – lidocaine 1 mg/kg (100 mg), further 50 mg after the fifth shock, is the alternative (ALPS trial). D – in PEA/asystole, give adrenaline 1 mg as soon as IV/IO access is obtained (earlier adrenaline is associated with better outcomes in non-shockable rhythms). Reference: Soar J, Böttiger BW, Carli P, et al. European Resuscitation Council Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Kudenchuk PJ, et al. ALPS. **N Engl J Med** 2016;374:1711–1722.
 
 </details>
 
@@ -1084,7 +1427,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** ERC 2025 recommends attempting IV access first and using the intraosseous route if IV access is not rapidly achievable. IO doses are the same as IV doses. PARAMEDIC-3 and IVIO found no improvement in survival with an IO-first strategy, but IO remains the standard fallback. Tracheal drug administration is no longer recommended (unpredictable absorption); IM adrenaline is not used in arrest; central venous cannulation interrupts CPR and takes too long. Reference: Soar J, et al. ERC Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Couper K, et al. A randomized trial of drug route in out-of-hospital cardiac arrest (PARAMEDIC-3). **N Engl J Med** 2025;392:336–348.
+**E.**
+
+ERC 2025 recommends attempting IV access first and using the intraosseous route if IV access is not rapidly achievable. IO doses are the same as IV doses. PARAMEDIC-3 and IVIO found no improvement in survival with an IO-first strategy, but IO remains the standard fallback. Tracheal drug administration is no longer recommended (unpredictable absorption); IM adrenaline is not used in arrest; central venous cannulation interrupts CPR and takes too long. Reference: Soar J, et al. ERC Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Couper K, et al. A randomized trial of drug route in out-of-hospital cardiac arrest (PARAMEDIC-3). **N Engl J Med** 2025;392:336–348.
 
 </details>
 
@@ -1097,7 +1442,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** A – PARAMEDIC-3 (n = 6082) found no difference in 30-day survival (4.5 % vs 5.1 %), and IVIO (Denmark) likewise found no benefit. B – a 20 mL flush (and limb elevation) speeds delivery to the central circulation. C – the tracheal route is no longer recommended. D – the humerus is closer to the central circulation and allows higher flows, although no outcome benefit by site has been shown. Reference: Couper K, et al. PARAMEDIC-3. **N Engl J Med** 2025;392:336–348; Vallentin MF, et al. IVIO. **N Engl J Med** 2025;392:349–360; Soar J, et al. ERC 2025 ALS. **Resuscitation** 2025;215(Suppl 1):110769.
+**A – F, B – T, C – F, D – T.**
+
+A – PARAMEDIC-3 (n = 6082) found no difference in 30-day survival (4.5 % vs 5.1 %), and IVIO (Denmark) likewise found no benefit. B – a 20 mL flush (and limb elevation) speeds delivery to the central circulation. C – the tracheal route is no longer recommended. D – the humerus is closer to the central circulation and allows higher flows, although no outcome benefit by site has been shown. Reference: Couper K, et al. PARAMEDIC-3. **N Engl J Med** 2025;392:336–348; Vallentin MF, et al. IVIO. **N Engl J Med** 2025;392:349–360; Soar J, et al. ERC 2025 ALS. **Resuscitation** 2025;215(Suppl 1):110769.
 
 </details>
 
@@ -1113,7 +1460,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – T, D – F.** A – TTM2 (n = 1900): no difference in mortality or functional outcome; hypothermia caused more arrhythmias; ERC–ESICM recommends active fever prevention (≤ 37.5 °C) for at least 72 h. B – BOX: PaO2 targets of 9–10 vs 13–14 kPa (and MAP 63 vs 77 mmHg) showed no difference. C – TOMAHAWK and COACT were neutral (TOMAHAWK showed a trend towards harm); delayed/selective angiography is appropriate without STE. D – prophylactic antibiotics are not routinely recommended despite a lower early pneumonia rate in ANTHARTIC. Reference: Nolan JP, Sandroni C, Cariou A, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care. **Resuscitation** 2025;215(Suppl 1):110809; Desch S, et al. TOMAHAWK. **N Engl J Med** 2021;385:2544–2553; Schmidt H, et al. BOX (oxygen). **N Engl J Med** 2022;387:1467–1476.
+**A – F, B – F, C – T, D – F.**
+
+A – TTM2 (n = 1900): no difference in mortality or functional outcome; hypothermia caused more arrhythmias; ERC–ESICM recommends active fever prevention (≤ 37.5 °C) for at least 72 h. B – BOX: PaO2 targets of 9–10 vs 13–14 kPa (and MAP 63 vs 77 mmHg) showed no difference. C – TOMAHAWK and COACT were neutral (TOMAHAWK showed a trend towards harm); delayed/selective angiography is appropriate without STE. D – prophylactic antibiotics are not routinely recommended despite a lower early pneumonia rate in ANTHARTIC. Reference: Nolan JP, Sandroni C, Cariou A, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care. **Resuscitation** 2025;215(Suppl 1):110809; Desch S, et al. TOMAHAWK. **N Engl J Med** 2021;385:2544–2553; Schmidt H, et al. BOX (oxygen). **N Engl J Med** 2022;387:1467–1476.
 
 </details>
 
@@ -1127,7 +1476,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** ERC–ESICM 2025 recommends avoiding both hypoxaemia and hyperoxaemia after ROSC – titrate FiO2 to SpO2 94–98 % (PaO2 10–13 kPa) once SpO2 can be measured reliably – and targeting normocapnia (PaCO2 4.5–6.0 kPa); hypocapnia causes cerebral vasoconstriction. Temperature management means preventing fever (≤ 37.5 °C) rather than cooling to 33 °C (TTM2). Immediate angiography is reserved for ST elevation or high suspicion of ongoing coronary occlusion – here there is a non-coronary cause. Reference: Nolan JP, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care. **Resuscitation** 2025;215(Suppl 1):110809; Dankiewicz J, et al. TTM2. **N Engl J Med** 2021;384:2283–2294.
+**A.**
+
+ERC–ESICM 2025 recommends avoiding both hypoxaemia and hyperoxaemia after ROSC – titrate FiO2 to SpO2 94–98 % (PaO2 10–13 kPa) once SpO2 can be measured reliably – and targeting normocapnia (PaCO2 4.5–6.0 kPa); hypocapnia causes cerebral vasoconstriction. Temperature management means preventing fever (≤ 37.5 °C) rather than cooling to 33 °C (TTM2). Immediate angiography is reserved for ST elevation or high suspicion of ongoing coronary occlusion – here there is a non-coronary cause. Reference: Nolan JP, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care. **Resuscitation** 2025;215(Suppl 1):110809; Dankiewicz J, et al. TTM2. **N Engl J Med** 2021;384:2283–2294.
 
 </details>
 
@@ -1143,7 +1494,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A – intracellular shift and cold diuresis cause hypokalaemia; rewarm slowly (0.25–0.5 °C/h). B – cytochrome P450 activity falls ~7–20 % per °C below 37 °C (propofol, fentanyl, midazolam accumulate), confounding neuroprognostication. C – shivering is treated with sedation, opioids, magnesium, surface counter-warming and, if needed, neuromuscular blockade. D – hypothermia causes bradycardia, PR/QT prolongation and J (Osborn) waves. Other complications: infection (pneumonia), coagulopathy/bleeding, hyperglycaemia and diuresis. TTM2 showed no benefit of 33 °C over fever prevention. Reference: Polderman KH. Mechanisms of action, physiological effects, and complications of hypothermia. **Crit Care Med** 2009;37(7 Suppl):S186–S202; Dankiewicz J, et al. TTM2. **N Engl J Med** 2021;384:2283–2294.
+**A – T, B – T, C – T, D – F.**
+
+A – intracellular shift and cold diuresis cause hypokalaemia; rewarm slowly (0.25–0.5 °C/h). B – cytochrome P450 activity falls ~7–20 % per °C below 37 °C (propofol, fentanyl, midazolam accumulate), confounding neuroprognostication. C – shivering is treated with sedation, opioids, magnesium, surface counter-warming and, if needed, neuromuscular blockade. D – hypothermia causes bradycardia, PR/QT prolongation and J (Osborn) waves. Other complications: infection (pneumonia), coagulopathy/bleeding, hyperglycaemia and diuresis. TTM2 showed no benefit of 33 °C over fever prevention. Reference: Polderman KH. Mechanisms of action, physiological effects, and complications of hypothermia. **Crit Care Med** 2009;37(7 Suppl):S186–S202; Dankiewicz J, et al. TTM2. **N Engl J Med** 2021;384:2283–2294.
 
 </details>
 
@@ -1159,7 +1512,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** The algorithm applies to patients who are comatose (motor score ≤ 3) ≥ 72 h after ROSC, after exclusion of confounders (sedation, hypothermia, metabolic causes). Poor outcome is likely when ≥ 2 of: no pupillary and corneal reflexes, bilaterally absent N20, highly malignant EEG (suppressed background ± periodic discharges, burst-suppression), NSE > 60 µg/L at 48/72 h, status myoclonus ≤ 72 h, diffuse anoxic injury on CT/MRI. A single sign such as motor response alone is not sufficient, and early assessment risks self-fulfilling prophecies. Reference: Nolan JP, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care. **Resuscitation** 2025;215(Suppl 1):110809; Sandroni C, et al. Prognostication after cardiac arrest. **Crit Care** 2018;22:150.
+**A – T, B – T, C – F, D – F.**
+
+The algorithm applies to patients who are comatose (motor score ≤ 3) ≥ 72 h after ROSC, after exclusion of confounders (sedation, hypothermia, metabolic causes). Poor outcome is likely when ≥ 2 of: no pupillary and corneal reflexes, bilaterally absent N20, highly malignant EEG (suppressed background ± periodic discharges, burst-suppression), NSE > 60 µg/L at 48/72 h, status myoclonus ≤ 72 h, diffuse anoxic injury on CT/MRI. A single sign such as motor response alone is not sufficient, and early assessment risks self-fulfilling prophecies. Reference: Nolan JP, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care. **Resuscitation** 2025;215(Suppl 1):110809; Sandroni C, et al. Prognostication after cardiac arrest. **Crit Care** 2018;22:150.
 
 </details>
 
@@ -1175,7 +1530,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** The Global definition keeps the Berlin timing (≤ 1 week) and the requirement that oedema is not fully explained by cardiac failure or fluid overload, but extends to non-intubated patients (HFNO ≥ 30 L/min or NIV/CPAP ≥ 5 cmH2O), accepts SpO2/FiO2 and lung ultrasound, and adds a resource-limited variant without PEEP/flow requirements. The PAOP criterion was abandoned with the Berlin definition (2012); ARDS may coexist with raised hydrostatic pressure. Reference: Matthay MA, et al. A new global definition of acute respiratory distress syndrome. **Am J Respir Crit Care Med** 2024;209:37–47; ARDS Definition Task Force. Berlin definition. **JAMA** 2012;307:2526–2533.
+**A – T, B – T, C – T, D – F.**
+
+The Global definition keeps the Berlin timing (≤ 1 week) and the requirement that oedema is not fully explained by cardiac failure or fluid overload, but extends to non-intubated patients (HFNO ≥ 30 L/min or NIV/CPAP ≥ 5 cmH2O), accepts SpO2/FiO2 and lung ultrasound, and adds a resource-limited variant without PEEP/flow requirements. The PAOP criterion was abandoned with the Berlin definition (2012); ARDS may coexist with raised hydrostatic pressure. Reference: Matthay MA, et al. A new global definition of acute respiratory distress syndrome. **Am J Respir Crit Care Med** 2024;209:37–47; ARDS Definition Task Force. Berlin definition. **JAMA** 2012;307:2526–2533.
 
 </details>
 
@@ -1189,7 +1546,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** TRALI = new acute hypoxaemia with bilateral infiltrates within 6 h of transfusion without evidence of left atrial hypertension; it is often accompanied by fever and hypotension and is associated with plasma-rich products (donor anti-HLA/HNA antibodies). TACO (B) presents with hypertension, raised BNP and fluid overload. Anaphylaxis (C) causes bronchospasm, urticaria and angio-oedema; haemolytic reactions (E) cause haemoglobinuria and DIC rather than isolated lung injury. Management is supportive (lung-protective ventilation, no diuretics) and reporting to haemovigilance. If the hypoxaemia occurred later or with another risk factor, it would be classified as ARDS ("TRALI type II" if ARDS risk factor present). Reference: Vlaar APJ, et al. A consensus redefinition of transfusion-related acute lung injury. **Transfusion** 2019;59:2465–2476; Vlaar APJ, et al. Transfusion strategies in non-bleeding critically ill adults: ESICM clinical practice guideline. **Intensive Care Med** 2020;46:673–696.
+**A.**
+
+TRALI = new acute hypoxaemia with bilateral infiltrates within 6 h of transfusion without evidence of left atrial hypertension; it is often accompanied by fever and hypotension and is associated with plasma-rich products (donor anti-HLA/HNA antibodies). TACO (B) presents with hypertension, raised BNP and fluid overload. Anaphylaxis (C) causes bronchospasm, urticaria and angio-oedema; haemolytic reactions (E) cause haemoglobinuria and DIC rather than isolated lung injury. Management is supportive (lung-protective ventilation, no diuretics) and reporting to haemovigilance. If the hypoxaemia occurred later or with another risk factor, it would be classified as ARDS ("TRALI type II" if ARDS risk factor present). Reference: Vlaar APJ, et al. A consensus redefinition of transfusion-related acute lung injury. **Transfusion** 2019;59:2465–2476; Vlaar APJ, et al. Transfusion strategies in non-bleeding critically ill adults: ESICM clinical practice guideline. **Intensive Care Med** 2020;46:673–696.
 
 </details>
 
@@ -1206,7 +1565,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** In moderate–severe ARDS (P/F < 150 mmHg), prone positioning for ≥ 16 h/day reduces mortality (PROSEVA) and is strongly recommended by ESICM 2023. He does not yet meet EOLIA criteria after optimisation (e.g. P/F < 50 for > 3 h, < 80 for > 6 h, or pH < 7.25 with PaCO2 ≥ 60 mmHg for > 6 h); ECMO should be considered if he fails proning. HFOV increased mortality (OSCILLATE) or had no effect (OSCAR); iNO improves oxygenation transiently without survival benefit; prolonged high-pressure recruitment manoeuvres increased mortality in ART and are recommended against. Reference: Guérin C, et al. PROSEVA. **N Engl J Med** 2013;368:2159–2168; Grasselli G, et al. ESICM guidelines on ARDS. **Intensive Care Med** 2023;49:727–759; Combes A, et al. EOLIA. **N Engl J Med** 2018;378:1965–1975.
+**D.**
+
+In moderate–severe ARDS (P/F < 150 mmHg), prone positioning for ≥ 16 h/day reduces mortality (PROSEVA) and is strongly recommended by ESICM 2023. He does not yet meet EOLIA criteria after optimisation (e.g. P/F < 50 for > 3 h, < 80 for > 6 h, or pH < 7.25 with PaCO2 ≥ 60 mmHg for > 6 h); ECMO should be considered if he fails proning. HFOV increased mortality (OSCILLATE) or had no effect (OSCAR); iNO improves oxygenation transiently without survival benefit; prolonged high-pressure recruitment manoeuvres increased mortality in ART and are recommended against. Reference: Guérin C, et al. PROSEVA. **N Engl J Med** 2013;368:2159–2168; Grasselli G, et al. ESICM guidelines on ARDS. **Intensive Care Med** 2023;49:727–759; Combes A, et al. EOLIA. **N Engl J Med** 2018;378:1965–1975.
 
 </details>
 
@@ -1219,7 +1580,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** A – strong recommendation (PROSEVA, meta-analyses). B – ART (Brazil) showed higher 28-day mortality with high-pressure recruitment and titrated PEEP; brief recruitment manoeuvres are not recommended either way. C – iNO is not recommended to improve survival; it improves oxygenation transiently but does not reduce mortality and may cause AKI. D – after ROSE (no mortality benefit of early cisatracurium with lighter sedation), ESICM recommends against routine continuous NMBA infusion; NMBA may still be used for specific indications (e.g. refractory asynchrony). Reference: Grasselli G, Calfee CS, Camporota L, et al. ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies. **Intensive Care Med** 2023;49:727–759; NHLBI PETAL Network. ROSE. **N Engl J Med** 2019;380:1997–2008; ART Investigators. **JAMA** 2017;318:1335–1345.
+**A – T, B – T, C – F, D – F.**
+
+A – strong recommendation (PROSEVA, meta-analyses). B – ART (Brazil) showed higher 28-day mortality with high-pressure recruitment and titrated PEEP; brief recruitment manoeuvres are not recommended either way. C – iNO is not recommended to improve survival; it improves oxygenation transiently but does not reduce mortality and may cause AKI. D – after ROSE (no mortality benefit of early cisatracurium with lighter sedation), ESICM recommends against routine continuous NMBA infusion; NMBA may still be used for specific indications (e.g. refractory asynchrony). Reference: Grasselli G, Calfee CS, Camporota L, et al. ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies. **Intensive Care Med** 2023;49:727–759; NHLBI PETAL Network. ROSE. **N Engl J Med** 2019;380:1997–2008; ART Investigators. **JAMA** 2017;318:1335–1345.
 
 </details>
 
@@ -1236,7 +1599,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Duration of high-pressure/high-FiO2 ventilation before ECMO (> 7 days) is associated with poor outcome (a component of the RESP score) because established fibroproliferative lung injury is less reversible; ELSO lists mechanical ventilation at high settings for > 7–10 days as a relative contraindication. Severe hypoxaemia and hypercapnic acidosis despite optimisation (B, D) are indications (EOLIA criteria). Age 52 and obesity (A, E) are not contraindications; obesity is not associated with worse ECMO outcomes. Reference: Tonna JE, et al. Management of adult patients supported with VV-ECMO: guideline from the ELSO. **ASAIO J** 2021;67:601–610; Schmidt M, et al. Predicting survival after ECMO for severe acute respiratory failure: the RESP score. **Am J Respir Crit Care Med** 2014;189:1374–1382; Combes A, et al. EOLIA. **N Engl J Med** 2018;378:1965–1975.
+**C.**
+
+Duration of high-pressure/high-FiO2 ventilation before ECMO (> 7 days) is associated with poor outcome (a component of the RESP score) because established fibroproliferative lung injury is less reversible; ELSO lists mechanical ventilation at high settings for > 7–10 days as a relative contraindication. Severe hypoxaemia and hypercapnic acidosis despite optimisation (B, D) are indications (EOLIA criteria). Age 52 and obesity (A, E) are not contraindications; obesity is not associated with worse ECMO outcomes. Reference: Tonna JE, et al. Management of adult patients supported with VV-ECMO: guideline from the ELSO. **ASAIO J** 2021;67:601–610; Schmidt M, et al. Predicting survival after ECMO for severe acute respiratory failure: the RESP score. **Am J Respir Crit Care Med** 2014;189:1374–1382; Combes A, et al. EOLIA. **N Engl J Med** 2018;378:1965–1975.
 
 </details>
 
@@ -1252,7 +1617,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** A – occult hypoxaemia (SaO2 < 88 % with SpO2 92–96 %) was about three times more frequent in Black than in White patients (Sjoding 2020); regulators (FDA 2025 draft guidance) now require more diverse validation. B – methylene blue absorbs strongly at 660 nm. C – oximetry measures the ratio of oxy- to total haemoglobin, so moderate anaemia causes little error at normal saturations (accuracy worsens with severe anaemia and hypoxaemia). D – HbF has similar absorption spectra to HbA and causes negligible error. Reference: Sjoding MW, et al. Racial bias in pulse oximetry measurement. **N Engl J Med** 2020;383:2477–2478; Jubran A. Pulse oximetry. **Crit Care** 2015;19:272.
+**A – T, B – T, C – F, D – F.**
+
+A – occult hypoxaemia (SaO2 < 88 % with SpO2 92–96 %) was about three times more frequent in Black than in White patients (Sjoding 2020); regulators (FDA 2025 draft guidance) now require more diverse validation. B – methylene blue absorbs strongly at 660 nm. C – oximetry measures the ratio of oxy- to total haemoglobin, so moderate anaemia causes little error at normal saturations (accuracy worsens with severe anaemia and hypoxaemia). D – HbF has similar absorption spectra to HbA and causes negligible error. Reference: Sjoding MW, et al. Racial bias in pulse oximetry measurement. **N Engl J Med** 2020;383:2477–2478; Jubran A. Pulse oximetry. **Crit Care** 2015;19:272.
 
 </details>
 
@@ -1265,7 +1632,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** A, B – the ratio of pulsatile (AC) to non-pulsatile (DC) absorbance at the two wavelengths ("ratio of ratios") is converted to SpO2 via a calibration curve; deoxyhaemoglobin absorbs more red, oxyhaemoglobin more infrared light. C – values below ~70–80 % are extrapolated and less accurate. D – the device assumes all pulsatile absorbance is arterial; venous pulsation, tourniquets or probe position below heart level with congestion lower the reading. Carboxyhaemoglobin is read as oxyhaemoglobin; methaemoglobin drives readings towards ~85 %. Reference: Jubran A. Pulse oximetry. **Crit Care** 2015;19:272; Chan ED, Chan MM, Chan MM. Pulse oximetry: understanding its basic principles facilitates appreciation of its limitations. **Respir Med** 2013;107:789–799.
+**A – T, B – T, C – T, D – T.**
+
+A, B – the ratio of pulsatile (AC) to non-pulsatile (DC) absorbance at the two wavelengths ("ratio of ratios") is converted to SpO2 via a calibration curve; deoxyhaemoglobin absorbs more red, oxyhaemoglobin more infrared light. C – values below ~70–80 % are extrapolated and less accurate. D – the device assumes all pulsatile absorbance is arterial; venous pulsation, tourniquets or probe position below heart level with congestion lower the reading. Carboxyhaemoglobin is read as oxyhaemoglobin; methaemoglobin drives readings towards ~85 %. Reference: Jubran A. Pulse oximetry. **Crit Care** 2015;19:272; Chan ED, Chan MM, Chan MM. Pulse oximetry: understanding its basic principles facilitates appreciation of its limitations. **Respir Med** 2013;107:789–799.
 
 </details>
 
@@ -1281,7 +1650,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** A – strong recommendation, high certainty. B – bilevel NIV or CPAP is recommended in cardiogenic pulmonary oedema (strong). C – NIV for established post-extubation failure may delay reintubation and increase mortality (Esteban 2004); it is suggested only to prevent failure in high-risk patients (with HFNO as an alternative). D – no recommendation was made for de novo hypoxaemic failure; HFNO is suggested over NIV in this setting by the 2022 ERS guideline. Reference: Rochwerg B, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. **Eur Respir J** 2017;50:1602426; Oczkowski S, et al. ERS clinical practice guidelines: high-flow nasal cannula in acute respiratory failure. **Eur Respir J** 2022;59:2101574.
+**A – T, B – F, C – F, D – F.**
+
+A – strong recommendation, high certainty. B – bilevel NIV or CPAP is recommended in cardiogenic pulmonary oedema (strong). C – NIV for established post-extubation failure may delay reintubation and increase mortality (Esteban 2004); it is suggested only to prevent failure in high-risk patients (with HFNO as an alternative). D – no recommendation was made for de novo hypoxaemic failure; HFNO is suggested over NIV in this setting by the 2022 ERS guideline. Reference: Rochwerg B, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. **Eur Respir J** 2017;50:1602426; Oczkowski S, et al. ERS clinical practice guidelines: high-flow nasal cannula in acute respiratory failure. **Eur Respir J** 2022;59:2101574.
 
 </details>
 
@@ -1297,7 +1668,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A – Yang & Tobin (1991) described RSBI < 105 as predicting success. B – MIP reflects inspiratory muscle strength but alone has poor specificity. C – guidelines recommend proceeding directly to an SBT (PS 5–8 cmH2O or T-piece, 30–120 min) in patients meeting readiness criteria, rather than relying on predictors. D – RSBI is sensitive but not specific; extubation can still fail from upper-airway, secretion or cardiac causes. Reference: Yang KL, Tobin MJ. A prospective study of indexes predicting the outcome of trials of weaning from mechanical ventilation. **N Engl J Med** 1991;324:1445–1450; Boles JM, et al. Weaning from mechanical ventilation. **Eur Respir J** 2007;29:1033–1056.
+**A – T, B – T, C – T, D – F.**
+
+A – Yang & Tobin (1991) described RSBI < 105 as predicting success. B – MIP reflects inspiratory muscle strength but alone has poor specificity. C – guidelines recommend proceeding directly to an SBT (PS 5–8 cmH2O or T-piece, 30–120 min) in patients meeting readiness criteria, rather than relying on predictors. D – RSBI is sensitive but not specific; extubation can still fail from upper-airway, secretion or cardiac causes. Reference: Yang KL, Tobin MJ. A prospective study of indexes predicting the outcome of trials of weaning from mechanical ventilation. **N Engl J Med** 1991;324:1445–1450; Boles JM, et al. Weaning from mechanical ventilation. **Eur Respir J** 2007;29:1033–1056.
 
 </details>
 
@@ -1313,7 +1686,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Life-threatening features: PEF < 33 % best/predicted, SpO2 < 92 %, PaO2 < 8 kPa, "normal" PaCO2 (4.6–6.0 kPa), silent chest, cyanosis, poor respiratory effort, arrhythmia, exhaustion, altered consciousness, hypotension. HR ≥ 110/min, RR ≥ 25/min, PEF 33–50 % and inability to complete sentences define acute severe asthma. A raised PaCO2 or need for ventilation with raised pressures defines near-fatal asthma. Reference: British Thoracic Society/SIGN. British guideline on the management of asthma (SIGN 158), 2019; BTS/NICE/SIGN. Asthma: diagnosis, monitoring and chronic asthma management (NG245), 2024.
+**A – T, B – T, C – F, D – F.**
+
+Life-threatening features: PEF < 33 % best/predicted, SpO2 < 92 %, PaO2 < 8 kPa, "normal" PaCO2 (4.6–6.0 kPa), silent chest, cyanosis, poor respiratory effort, arrhythmia, exhaustion, altered consciousness, hypotension. HR ≥ 110/min, RR ≥ 25/min, PEF 33–50 % and inability to complete sentences define acute severe asthma. A raised PaCO2 or need for ventilation with raised pressures defines near-fatal asthma. Reference: British Thoracic Society/SIGN. British guideline on the management of asthma (SIGN 158), 2019; BTS/NICE/SIGN. Asthma: diagnosis, monitoring and chronic asthma management (NG245), 2024.
 
 </details>
 
@@ -1326,7 +1701,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** A – oxygen-driven nebulisers are used in hypoxaemic patients (target SpO2 94–98 %). B – oral prednisolone 40–50 mg is as effective as IV steroids if it can be swallowed and retained. C – most exacerbations are viral; antibiotics only with evidence of bacterial infection. D – sedatives are contraindicated outside a critical care setting because they depress respiratory drive. Reference: SIGN 158 British guideline on the management of asthma, 2019; Global Initiative for Asthma (GINA) report 2024.
+**A – F, B – F, C – F, D – F.**
+
+A – oxygen-driven nebulisers are used in hypoxaemic patients (target SpO2 94–98 %). B – oral prednisolone 40–50 mg is as effective as IV steroids if it can be swallowed and retained. C – most exacerbations are viral; antibiotics only with evidence of bacterial infection. D – sedatives are contraindicated outside a critical care setting because they depress respiratory drive. Reference: SIGN 158 British guideline on the management of asthma, 2019; Global Initiative for Asthma (GINA) report 2024.
 
 </details>
 
@@ -1340,7 +1717,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** She has acute severe asthma that has not responded adequately to initial bronchodilator therapy. A single dose of IV magnesium sulphate (1.2–2 g over 20 min) is recommended for acute severe asthma with a poor initial response (reduces admissions in some studies; 3MG found no benefit of nebulised magnesium). Aminophylline (B) is reserved for life-threatening/near-fatal asthma after senior review. She has no indications for intubation (exhaustion, rising PaCO2, altered consciousness). Heliox is not routinely recommended; chest X-ray should not delay treatment. Reference: SIGN 158 British guideline on the management of asthma, 2019; Kew KM, et al. Intravenous magnesium sulfate for treating adults with acute asthma in the emergency department. **Cochrane Database Syst Rev** 2014;(5):CD010909.
+**E.**
+
+She has acute severe asthma that has not responded adequately to initial bronchodilator therapy. A single dose of IV magnesium sulphate (1.2–2 g over 20 min) is recommended for acute severe asthma with a poor initial response (reduces admissions in some studies; 3MG found no benefit of nebulised magnesium). Aminophylline (B) is reserved for life-threatening/near-fatal asthma after senior review. She has no indications for intubation (exhaustion, rising PaCO2, altered consciousness). Heliox is not routinely recommended; chest X-ray should not delay treatment. Reference: SIGN 158 British guideline on the management of asthma, 2019; Kew KM, et al. Intravenous magnesium sulfate for treating adults with acute asthma in the emergency department. **Cochrane Database Syst Rev** 2014;(5):CD010909.
 
 </details>
 
@@ -1354,7 +1733,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Tachycardia ≥ 110/min is a feature of acute severe (not life-threatening) asthma. A "normal" PaCO2 (4.6–6.0 kPa) in a tachypnoeic asthmatic indicates fatigue and is life-threatening; SpO2 < 92 %, altered consciousness and PEF < 33 % are also life-threatening features. Bradycardia or hypotension are pre-terminal signs. Reference: SIGN 158 British guideline on the management of asthma, 2019; GINA 2024.
+**D.**
+
+Tachycardia ≥ 110/min is a feature of acute severe (not life-threatening) asthma. A "normal" PaCO2 (4.6–6.0 kPa) in a tachypnoeic asthmatic indicates fatigue and is life-threatening; SpO2 < 92 %, altered consciousness and PEF < 33 % are also life-threatening features. Bradycardia or hypotension are pre-terminal signs. Reference: SIGN 158 British guideline on the management of asthma, 2019; GINA 2024.
 
 </details>
 
@@ -1368,7 +1749,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Persistent respiratory acidosis (pH < 7.35, PaCO2 > 6.5 kPa) despite optimal medical therapy is the indication for NIV (strong recommendation, ERS/ATS 2017; BTS/ICS 2016). Target SpO2 88–92 % to avoid oxygen-induced hypercapnia (E is harmful). ERS 2022 suggests trying NIV before HFNO in hypercapnic COPD; HFNO with a high FiO2 (B) is inappropriate. Intubation is for NIV failure or contraindications; doxapram is only used when NIV is unavailable or inappropriate. Reference: Davidson AC, et al. BTS/ICS guideline for the ventilatory management of acute hypercapnic respiratory failure in adults. **Thorax** 2016;71(Suppl 2):ii1–ii35; Rochwerg B, et al. ERS/ATS NIV guidelines. **Eur Respir J** 2017;50:1602426.
+**A.**
+
+Persistent respiratory acidosis (pH < 7.35, PaCO2 > 6.5 kPa) despite optimal medical therapy is the indication for NIV (strong recommendation, ERS/ATS 2017; BTS/ICS 2016). Target SpO2 88–92 % to avoid oxygen-induced hypercapnia (E is harmful). ERS 2022 suggests trying NIV before HFNO in hypercapnic COPD; HFNO with a high FiO2 (B) is inappropriate. Intubation is for NIV failure or contraindications; doxapram is only used when NIV is unavailable or inappropriate. Reference: Davidson AC, et al. BTS/ICS guideline for the ventilatory management of acute hypercapnic respiratory failure in adults. **Thorax** 2016;71(Suppl 2):ii1–ii35; Rochwerg B, et al. ERS/ATS NIV guidelines. **Eur Respir J** 2017;50:1602426.
 
 </details>
 
@@ -1384,7 +1767,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A – CAPE COD (n = 800, France): 28-day mortality 6.2 % vs 11.9 % with hydrocortisone 200 mg/day; ERS/ESICM 2023 suggests hydrocortisone in severe CAP with shock (SCCM 2024 recommends corticosteroids in severe CAP); avoid in influenza or uncontrolled fungal infection. B – the two major criteria are septic shock requiring vasopressors and invasive ventilation. C – pH < 7.2 (or frank pus, positive Gram stain/culture) indicates a complicated effusion/empyema needing drainage. D – β-lactam plus macrolide is recommended for severe CAP (ERS/ESICM 2023; ATS/IDSA 2019). Reference: Dequin PF, et al. CAPE COD. **N Engl J Med** 2023;388:1931–1941; Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. **Intensive Care Med** 2023;49:615–632; Metlay JP, et al. ATS/IDSA CAP guideline. **Am J Respir Crit Care Med** 2019;200:e45–e67.
+**A – T, B – T, C – T, D – F.**
+
+A – CAPE COD (n = 800, France): 28-day mortality 6.2 % vs 11.9 % with hydrocortisone 200 mg/day; ERS/ESICM 2023 suggests hydrocortisone in severe CAP with shock (SCCM 2024 recommends corticosteroids in severe CAP); avoid in influenza or uncontrolled fungal infection. B – the two major criteria are septic shock requiring vasopressors and invasive ventilation. C – pH < 7.2 (or frank pus, positive Gram stain/culture) indicates a complicated effusion/empyema needing drainage. D – β-lactam plus macrolide is recommended for severe CAP (ERS/ESICM 2023; ATS/IDSA 2019). Reference: Dequin PF, et al. CAPE COD. **N Engl J Med** 2023;388:1931–1941; Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. **Intensive Care Med** 2023;49:615–632; Metlay JP, et al. ATS/IDSA CAP guideline. **Am J Respir Crit Care Med** 2019;200:e45–e67.
 
 </details>
 
@@ -1398,7 +1783,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** PVL-associated necrotising pneumonia (young, post-influenza, haemoptysis, leucopenia, cavitation) has high mortality. UK guidance recommends toxin-suppressing agents: linezolid plus clindamycin and rifampicin (covering MRSA until susceptibilities are known), and considering IVIG to neutralise toxin. Flucloxacillin alone (A) lacks toxin suppression and misses MRSA; vancomycin (B) has poor lung penetration and does not suppress toxin production. Standard CAP regimens (C, D) do not reliably cover PVL-MRSA. Reference: Health Protection Agency (UKHSA). Guidance on the diagnosis and management of PVL-associated Staphylococcus aureus infections in England, 2nd ed., 2008 (updated); Gillet Y, et al. Factors predicting mortality in necrotizing community-acquired pneumonia caused by S. aureus containing PVL. **Clin Infect Dis** 2007;45:315–321.
+**E.**
+
+PVL-associated necrotising pneumonia (young, post-influenza, haemoptysis, leucopenia, cavitation) has high mortality. UK guidance recommends toxin-suppressing agents: linezolid plus clindamycin and rifampicin (covering MRSA until susceptibilities are known), and considering IVIG to neutralise toxin. Flucloxacillin alone (A) lacks toxin suppression and misses MRSA; vancomycin (B) has poor lung penetration and does not suppress toxin production. Standard CAP regimens (C, D) do not reliably cover PVL-MRSA. Reference: Health Protection Agency (UKHSA). Guidance on the diagnosis and management of PVL-associated Staphylococcus aureus infections in England, 2nd ed., 2008 (updated); Gillet Y, et al. Factors predicting mortality in necrotizing community-acquired pneumonia caused by S. aureus containing PVL. **Clin Infect Dis** 2007;45:315–321.
 
 </details>
 
@@ -1412,7 +1799,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Pregnancy (especially the third trimester) and obesity were the leading risk factors for critical illness and death in the 2009 H1N1 pandemic, and pregnant women remain a high-risk group for seasonal influenza. Neuraminidase inhibitors should be started as soon as possible in any hospitalised or high-risk patient, regardless of symptom duration (benefit is still seen > 48 h). Corticosteroids are associated with higher mortality in influenza pneumonia. Imaging must not be withheld (shielded CXR/CT dose is low). The threshold for ICU review should be low. Reference: Uyeki TM, et al. Clinical practice guidelines by the IDSA: 2018 update on diagnosis, treatment, chemoprophylaxis and institutional outbreak management of seasonal influenza. **Clin Infect Dis** 2019;68:e1–e47; Siston AM, et al. Pandemic 2009 influenza A(H1N1) virus illness among pregnant women in the United States. **JAMA** 2010;303:1517–1525.
+**B.**
+
+Pregnancy (especially the third trimester) and obesity were the leading risk factors for critical illness and death in the 2009 H1N1 pandemic, and pregnant women remain a high-risk group for seasonal influenza. Neuraminidase inhibitors should be started as soon as possible in any hospitalised or high-risk patient, regardless of symptom duration (benefit is still seen > 48 h). Corticosteroids are associated with higher mortality in influenza pneumonia. Imaging must not be withheld (shielded CXR/CT dose is low). The threshold for ICU review should be low. Reference: Uyeki TM, et al. Clinical practice guidelines by the IDSA: 2018 update on diagnosis, treatment, chemoprophylaxis and institutional outbreak management of seasonal influenza. **Clin Infect Dis** 2019;68:e1–e47; Siston AM, et al. Pandemic 2009 influenza A(H1N1) virus illness among pregnant women in the United States. **JAMA** 2010;303:1517–1525.
 
 </details>
 
@@ -1429,7 +1818,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** In the NTSP algorithm, once a non-patent tube has been removed, primary emergency oxygenation in a patient with a patent upper airway is via the mouth/nose (bag–mask, oral airway or supraglottic device) with the stoma covered; alternatively via the stoma (paediatric face mask or LMA over the stoma). Secondary manoeuvres are oral intubation or, by an experienced operator, stoma intubation (ideally fibreoptic-guided). Blind reinsertion through an immature (< 7–10 days) percutaneous tract risks false passage. Reference: McGrath BA, Bates L, Atkinson D, Moore JA; National Tracheostomy Safety Project. Multidisciplinary guidelines for the management of tracheostomy and laryngectomy airway emergencies. **Anaesthesia** 2012;67:1025–1041.
+**C.**
+
+In the NTSP algorithm, once a non-patent tube has been removed, primary emergency oxygenation in a patient with a patent upper airway is via the mouth/nose (bag–mask, oral airway or supraglottic device) with the stoma covered; alternatively via the stoma (paediatric face mask or LMA over the stoma). Secondary manoeuvres are oral intubation or, by an experienced operator, stoma intubation (ideally fibreoptic-guided). Blind reinsertion through an immature (< 7–10 days) percutaneous tract risks false passage. Reference: McGrath BA, Bates L, Atkinson D, Moore JA; National Tracheostomy Safety Project. Multidisciplinary guidelines for the management of tracheostomy and laryngectomy airway emergencies. **Anaesthesia** 2012;67:1025–1041.
 
 </details>
 
@@ -1442,7 +1833,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** A – capnography is mandatory for ventilated tracheostomy patients; absence of a trace indicates obstruction or displacement. B – this is the first step in the algorithm. C – after laryngectomy, the trachea is disconnected from the upper airway: oxygenate only via the stoma (and bedside signage must state this). D – immature tracts (particularly percutaneous) can close or allow false passage; reinsertion should be by an experienced operator with a fibreoptic scope or bougie, or the patient intubated orally. Reference: McGrath BA, et al. NTSP guidelines. **Anaesthesia** 2012;67:1025–1041.
+**A – T, B – T, C – F, D – F.**
+
+A – capnography is mandatory for ventilated tracheostomy patients; absence of a trace indicates obstruction or displacement. B – this is the first step in the algorithm. C – after laryngectomy, the trachea is disconnected from the upper airway: oxygenate only via the stoma (and bedside signage must state this). D – immature tracts (particularly percutaneous) can close or allow false passage; reinsertion should be by an experienced operator with a fibreoptic scope or bougie, or the patient intubated orally. Reference: McGrath BA, et al. NTSP guidelines. **Anaesthesia** 2012;67:1025–1041.
 
 </details>
 
@@ -1459,7 +1852,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** She has a symptomatic secondary spontaneous pneumothorax (underlying lung disease, age > 50) of > 2 cm. BTS guidance favours intervention with a small-bore drain and admission; aspiration is reserved for smaller (1–2 cm), minimally symptomatic SSP, and observation alone or discharge is unsafe with significant symptoms and poor reserve. Small-bore drains are as effective as large-bore drains and better tolerated. Definitive surgery is considered for a persistent air leak (> 3–5 days) or recurrence. Reference: Roberts ME, et al. British Thoracic Society Guideline for pleural disease. **Thorax** 2023;78(Suppl 3):s1–s42; MacDuff A, et al. Management of spontaneous pneumothorax: BTS pleural disease guideline 2010. **Thorax** 2010;65(Suppl 2):ii18–ii31.
+**B.**
+
+She has a symptomatic secondary spontaneous pneumothorax (underlying lung disease, age > 50) of > 2 cm. BTS guidance favours intervention with a small-bore drain and admission; aspiration is reserved for smaller (1–2 cm), minimally symptomatic SSP, and observation alone or discharge is unsafe with significant symptoms and poor reserve. Small-bore drains are as effective as large-bore drains and better tolerated. Definitive surgery is considered for a persistent air leak (> 3–5 days) or recurrence. Reference: Roberts ME, et al. British Thoracic Society Guideline for pleural disease. **Thorax** 2023;78(Suppl 3):s1–s42; MacDuff A, et al. Management of spontaneous pneumothorax: BTS pleural disease guideline 2010. **Thorax** 2010;65(Suppl 2):ii18–ii31.
 
 </details>
 
@@ -1472,7 +1867,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A, B – Light's criteria (any one = exudate): protein ratio > 0.5, LDH ratio > 0.6, or pleural LDH > 2/3 ULN serum LDH. C – diuresis concentrates pleural protein and LDH, so ~25 % of cardiac transudates are misclassified; the albumin gradient (or NT-proBNP) helps. D – frank pus indicates empyema needing drainage regardless of pH, and pus can damage the blood gas analyser; pH is measured in non-purulent fluid when infection is suspected (< 7.2 → drain). Reference: Light RW, et al. Pleural effusions: the diagnostic separation of transudates and exudates. **Ann Intern Med** 1972;77:507–513; Roberts ME, et al. BTS Guideline for pleural disease. **Thorax** 2023;78(Suppl 3):s1–s42.
+**A – T, B – T, C – T, D – F.**
+
+A, B – Light's criteria (any one = exudate): protein ratio > 0.5, LDH ratio > 0.6, or pleural LDH > 2/3 ULN serum LDH. C – diuresis concentrates pleural protein and LDH, so ~25 % of cardiac transudates are misclassified; the albumin gradient (or NT-proBNP) helps. D – frank pus indicates empyema needing drainage regardless of pH, and pus can damage the blood gas analyser; pH is measured in non-purulent fluid when infection is suspected (< 7.2 → drain). Reference: Light RW, et al. Pleural effusions: the diagnostic separation of transudates and exudates. **Ann Intern Med** 1972;77:507–513; Roberts ME, et al. BTS Guideline for pleural disease. **Thorax** 2023;78(Suppl 3):s1–s42.
 
 </details>
 
@@ -1488,7 +1885,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** A – at the ISB inspired gas reaches 37 °C and 100 % relative humidity (44 mg/L); intubation bypasses the upper airway and moves the ISB distally. B – HMEs are contraindicated with copious or bloody secretions (risk of occlusion), large leaks, hypothermia and very high minute ventilation; use a heated humidifier. C – extra flow from an external jet nebuliser adds to the delivered volume, alters FiO2 and can impair triggering; vibrating-mesh nebulisers add no gas. D – an HME must not be placed between the nebuliser and the patient (it filters the aerosol), and placing the nebuliser proximal to the HME wets it; remove the HME during nebulisation or use a heated humidifier. Reference: Restrepo RD, Walsh BK. Humidification during invasive and noninvasive mechanical ventilation: 2012 AARC clinical practice guideline. **Respir Care** 2012;57:782–788; Dhand R. Aerosol delivery during mechanical ventilation: from basic techniques to new devices. **J Aerosol Med Pulm Drug Deliv** 2008;21:45–60.
+**A – T, B – F, C – F, D – F.**
+
+A – at the ISB inspired gas reaches 37 °C and 100 % relative humidity (44 mg/L); intubation bypasses the upper airway and moves the ISB distally. B – HMEs are contraindicated with copious or bloody secretions (risk of occlusion), large leaks, hypothermia and very high minute ventilation; use a heated humidifier. C – extra flow from an external jet nebuliser adds to the delivered volume, alters FiO2 and can impair triggering; vibrating-mesh nebulisers add no gas. D – an HME must not be placed between the nebuliser and the patient (it filters the aerosol), and placing the nebuliser proximal to the HME wets it; remove the HME during nebulisation or use a heated humidifier. Reference: Restrepo RD, Walsh BK. Humidification during invasive and noninvasive mechanical ventilation: 2012 AARC clinical practice guideline. **Respir Care** 2012;57:782–788; Dhand R. Aerosol delivery during mechanical ventilation: from basic techniques to new devices. **J Aerosol Med Pulm Drug Deliv** 2008;21:45–60.
 
 </details>
 
@@ -1504,7 +1903,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** A – Ppeak − Pplat = flow × resistance. B – static compliance = VT / (Pplat − total PEEP); using peak pressure gives "dynamic" compliance, which includes resistance. C – external PEEP up to ~80 % of PEEPi reduces the inspiratory threshold load without worsening hyperinflation; PEEP exceeding PEEPi adds to end-expiratory volume. D – PCV produces a decelerating flow pattern; volume control is usually constant flow. Reference: Hess DR. Respiratory mechanics in mechanically ventilated patients. **Respir Care** 2014;59:1773–1794; Marini JJ. Dynamic hyperinflation and auto-PEEP: two concepts that should be distinguished. **Am J Respir Crit Care Med** 2011;184:756–762.
+**A – T, B – F, C – F, D – F.**
+
+A – Ppeak − Pplat = flow × resistance. B – static compliance = VT / (Pplat − total PEEP); using peak pressure gives "dynamic" compliance, which includes resistance. C – external PEEP up to ~80 % of PEEPi reduces the inspiratory threshold load without worsening hyperinflation; PEEP exceeding PEEPi adds to end-expiratory volume. D – PCV produces a decelerating flow pattern; volume control is usually constant flow. Reference: Hess DR. Respiratory mechanics in mechanically ventilated patients. **Respir Care** 2014;59:1773–1794; Marini JJ. Dynamic hyperinflation and auto-PEEP: two concepts that should be distinguished. **Am J Respir Crit Care Med** 2011;184:756–762.
 
 </details>
 
@@ -1517,7 +1918,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** Raised intrathoracic pressure lowers LV transmural (afterload) pressure – beneficial in LV failure and cardiogenic pulmonary oedema – but reduces venous return by raising right atrial pressure. Overdistension compresses alveolar vessels and increases PVR, potentially causing acute cor pulmonale. Recruitment increases FRC and reduces shunt. The net effect on cardiac output depends on volume status and ventricular function. Reference: Mahmood SS, Pinsky MR. Heart–lung interactions during mechanical ventilation: the basics. **Ann Transl Med** 2018;6:349; Vieillard-Baron A, et al. Experts' opinion on management of hemodynamics in ARDS patients: focus on the effects of mechanical ventilation. **Intensive Care Med** 2016;42:739–749.
+**A – T, B – T, C – T, D – T.**
+
+Raised intrathoracic pressure lowers LV transmural (afterload) pressure – beneficial in LV failure and cardiogenic pulmonary oedema – but reduces venous return by raising right atrial pressure. Overdistension compresses alveolar vessels and increases PVR, potentially causing acute cor pulmonale. Recruitment increases FRC and reduces shunt. The net effect on cardiac output depends on volume status and ventricular function. Reference: Mahmood SS, Pinsky MR. Heart–lung interactions during mechanical ventilation: the basics. **Ann Transl Med** 2018;6:349; Vieillard-Baron A, et al. Experts' opinion on management of hemodynamics in ARDS patients: focus on the effects of mechanical ventilation. **Intensive Care Med** 2016;42:739–749.
 
 </details>
 
@@ -1530,7 +1933,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** A – PaCO2 ∝ VCO2 / [VE × (1 − VD/VT)]. B – alveolar ventilation = RR × (VT − VD); with a fixed dead space, halving VT reduces alveolar ventilation even though minute ventilation is unchanged. C – basal alveoli start smaller, on a steeper part of the pressure–volume curve. D – elastances add (1/Crs = 1/CL + 1/Ccw), so respiratory system compliance is lower than either component. Reference: West JB, Luks AM. *West's Respiratory Physiology: The Essentials*, 11th ed. Wolters Kluwer 2021; Hess DR. **Respir Care** 2014;59:1773–1794.
+**A – T, B – F, C – T, D – F.**
+
+A – PaCO2 ∝ VCO2 / [VE × (1 − VD/VT)]. B – alveolar ventilation = RR × (VT − VD); with a fixed dead space, halving VT reduces alveolar ventilation even though minute ventilation is unchanged. C – basal alveoli start smaller, on a steeper part of the pressure–volume curve. D – elastances add (1/Crs = 1/CL + 1/Ccw), so respiratory system compliance is lower than either component. Reference: West JB, Luks AM. *West's Respiratory Physiology: The Essentials*, 11th ed. Wolters Kluwer 2021; Hess DR. **Respir Care** 2014;59:1773–1794.
 
 </details>
 
@@ -1546,7 +1951,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** IMPACT core = age, GCS motor score and pupillary reactivity. The extended model adds pre-hospital hypoxia and hypotension, Marshall CT class, traumatic SAH and epidural haematoma; the lab model adds glucose and haemoglobin (not sodium). Neither IMPACT nor CRASH uses ICU-phase data such as ICP – both are admission models built for baseline risk stratification. CRASH uses age, GCS, pupils, major extracranial injury and CT findings, with country-income adjustment. Ref: Steyerberg EW et al. *PLoS Med* 2008; MRC CRASH Trial Collaborators. *BMJ* 2008.
+**A – T, B – T, C – F, D – F.**
+
+IMPACT core = age, GCS motor score and pupillary reactivity. The extended model adds pre-hospital hypoxia and hypotension, Marshall CT class, traumatic SAH and epidural haematoma; the lab model adds glucose and haemoglobin (not sodium). Neither IMPACT nor CRASH uses ICU-phase data such as ICP – both are admission models built for baseline risk stratification. CRASH uses age, GCS, pupils, major extracranial injury and CT findings, with country-income adjustment. Ref: Steyerberg EW et al. *PLoS Med* 2008; MRC CRASH Trial Collaborators. *BMJ* 2008.
 
 </details>
 
@@ -1559,7 +1966,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – F.** BTF 4th ed. (2016) does not recommend prophylactic hypothermia (POLAR 2018 found no benefit; Eurotherm3235 showed harm when used for ICP control). Prolonged hyperventilation ≤ 25 mmHg is a Level IIB "not recommended". Steroids are Level I contraindicated after CRASH-1 (increased mortality). Phenytoin (or levetiracetam) reduces early (< 7 days) seizures only – it does not prevent late post-traumatic epilepsy. Ref: Carney N et al. *Neurosurgery* 2017; Cooper DJ et al. *JAMA* 2018 (POLAR).
+**A – F, B – T, C – T, D – F.**
+
+BTF 4th ed. (2016) does not recommend prophylactic hypothermia (POLAR 2018 found no benefit; Eurotherm3235 showed harm when used for ICP control). Prolonged hyperventilation ≤ 25 mmHg is a Level IIB "not recommended". Steroids are Level I contraindicated after CRASH-1 (increased mortality). Phenytoin (or levetiracetam) reduces early (< 7 days) seizures only – it does not prevent late post-traumatic epilepsy. Ref: Carney N et al. *Neurosurgery* 2017; Cooper DJ et al. *JAMA* 2018 (POLAR).
 
 </details>
 
@@ -1573,7 +1982,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Sustained ICP > 22 mmHg despite basic measures (sedation, positioning, normocapnia, normothermia) should be treated next with intermittent hyperosmolar boluses – a tier 1 SIBICC intervention. Barbiturate coma and hypothermia are tier 3 rescue options with significant harms (Eurotherm3235 showed worse outcome with hypothermia for ICP). Albumin was associated with higher mortality in TBI (SAFE-TBI) and steroids are harmful (CRASH-1). Ref: Hawryluk GWJ et al. *Intensive Care Med* 2019 (SIBICC); Andrews PJD et al. *N Engl J Med* 2015.
+**D.**
+
+Sustained ICP > 22 mmHg despite basic measures (sedation, positioning, normocapnia, normothermia) should be treated next with intermittent hyperosmolar boluses – a tier 1 SIBICC intervention. Barbiturate coma and hypothermia are tier 3 rescue options with significant harms (Eurotherm3235 showed worse outcome with hypothermia for ICP). Albumin was associated with higher mortality in TBI (SAFE-TBI) and steroids are harmful (CRASH-1). Ref: Hawryluk GWJ et al. *Intensive Care Med* 2019 (SIBICC); Andrews PJD et al. *N Engl J Med* 2015.
 
 </details>
 
@@ -1589,7 +2000,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** Nimodipine is the only drug with proven outcome benefit (it reduces DCI rather than angiographic spasm). Prophylactic hypertension and hypervolaemia ("triple H") are not recommended; the aim is euvolaemia and avoidance of hypotension. TCD MCA velocity > 200 cm/s with Lindegaard (MCA/ICA) > 6 indicates severe vasospasm; a ratio < 3 suggests hyperaemia. Ref: Hoh BL et al. *Stroke* 2023 (AHA/ASA aSAH guideline); Treggiari MM et al. *Neurocrit Care* 2023.
+**A – T, B – F, C – F, D – T.**
+
+Nimodipine is the only drug with proven outcome benefit (it reduces DCI rather than angiographic spasm). Prophylactic hypertension and hypervolaemia ("triple H") are not recommended; the aim is euvolaemia and avoidance of hypotension. TCD MCA velocity > 200 cm/s with Lindegaard (MCA/ICA) > 6 indicates severe vasospasm; a ratio < 3 suggests hyperaemia. Ref: Hoh BL et al. *Stroke* 2023 (AHA/ASA aSAH guideline); Treggiari MM et al. *Neurocrit Care* 2023.
 
 </details>
 
@@ -1602,7 +2015,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** ADPKD (and other connective-tissue disorders) carries a several-fold higher aneurysm prevalence. Alcohol intake shows a dose-dependent increase in risk, not protection; the main modifiable factors are smoking, hypertension and heavy alcohol. Diabetes and hypercholesterolaemia are not positively associated (some studies even show an inverse association). Screening is usually advised when ≥ 2 first-degree relatives are affected or in ADPKD, not for a single affected relative. Ref: Feigin VL et al. *Stroke* 2005; Claassen J, Park S. *Lancet* 2022.
+**A – T, B – F, C – F, D – F.**
+
+ADPKD (and other connective-tissue disorders) carries a several-fold higher aneurysm prevalence. Alcohol intake shows a dose-dependent increase in risk, not protection; the main modifiable factors are smoking, hypertension and heavy alcohol. Diabetes and hypercholesterolaemia are not positively associated (some studies even show an inverse association). Screening is usually advised when ≥ 2 first-degree relatives are affected or in ADPKD, not for a single affected relative. Ref: Feigin VL et al. *Stroke* 2005; Claassen J, Park S. *Lancet* 2022.
 
 </details>
 
@@ -1616,7 +2031,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Early decline in consciousness with upgaze palsy and ventriculomegaly with transependymal oedema is acute obstructive/communicating hydrocephalus, which occurs in ~20–30 % of SAH and is treated with CSF diversion (EVD). DCI is unusual before day 3 and TCD is normal; no new blood argues against rebleeding; sodium and glucose are normal. Ref: Hoh BL et al. *Stroke* 2023; Claassen J, Park S. *Lancet* 2022.
+**E.**
+
+Early decline in consciousness with upgaze palsy and ventriculomegaly with transependymal oedema is acute obstructive/communicating hydrocephalus, which occurs in ~20–30 % of SAH and is treated with CSF diversion (EVD). DCI is unusual before day 3 and TCD is normal; no new blood argues against rebleeding; sodium and glucose are normal. Ref: Hoh BL et al. *Stroke* 2023; Claassen J, Park S. *Lancet* 2022.
 
 </details>
 
@@ -1630,7 +2047,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Symptomatic DCI after the aneurysm is secured is usually treated with a trial of induced hypertension (stepwise MAP increase while assessing neurological response), with endovascular rescue (angioplasty/intra-arterial vasodilators) if refractory. The evidence is weak (HIMALAIA stopped early), but hypervolaemia and haemodilution are harmful, high-dose statin (STASH) showed no benefit, and IV nimodipine causes hypotension without proven advantage over oral. Ref: Gathier CS et al. *Stroke* 2018 (HIMALAIA); Treggiari MM et al. *Neurocrit Care* 2023.
+**B.**
+
+Symptomatic DCI after the aneurysm is secured is usually treated with a trial of induced hypertension (stepwise MAP increase while assessing neurological response), with endovascular rescue (angioplasty/intra-arterial vasodilators) if refractory. The evidence is weak (HIMALAIA stopped early), but hypervolaemia and haemodilution are harmful, high-dose statin (STASH) showed no benefit, and IV nimodipine causes hypotension without proven advantage over oral. Ref: Gathier CS et al. *Stroke* 2018 (HIMALAIA); Treggiari MM et al. *Neurocrit Care* 2023.
 
 </details>
 
@@ -1647,7 +2066,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** In unknown-onset/wake-up stroke with a proximal anterior-circulation large-vessel occlusion and a favourable imaging profile, thrombectomy improves functional outcome up to 24 h from last seen well (DAWN, DEFUSE-3), and more recent trials extend benefit to larger cores. IV thrombolysis can also be considered with imaging selection (WAKE-UP, EXTEND), but thrombectomy is the key intervention here. BP needs only to be kept ≤ 185/110 mmHg peri-procedure; heparin and hemicraniectomy are not indicated. Ref: Nogueira RG et al. *N Engl J Med* 2018; Albers GW et al. *N Engl J Med* 2018; Turc G et al. *Eur Stroke J* 2023 (ESO).
+**C.**
+
+In unknown-onset/wake-up stroke with a proximal anterior-circulation large-vessel occlusion and a favourable imaging profile, thrombectomy improves functional outcome up to 24 h from last seen well (DAWN, DEFUSE-3), and more recent trials extend benefit to larger cores. IV thrombolysis can also be considered with imaging selection (WAKE-UP, EXTEND), but thrombectomy is the key intervention here. BP needs only to be kept ≤ 185/110 mmHg peri-procedure; heparin and hemicraniectomy are not indicated. Ref: Nogueira RG et al. *N Engl J Med* 2018; Albers GW et al. *N Engl J Med* 2018; Turc G et al. *Eur Stroke J* 2023 (ESO).
 
 </details>
 
@@ -1661,7 +2082,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** The decision for hemicraniectomy in malignant MCA infarction is clinical and radiological (infarct volume, midline shift, decreasing consciousness); ICP monitoring is not required and ICP may be normal despite life-threatening shift. Pooled DECIMAL/DESTINY/HAMLET data show a large mortality reduction in ≤ 60 years when done within 48 h; DESTINY II showed survival benefit in > 60 years at the cost of more disability, so shared decision-making is essential. Aphasia is not an exclusion. Ref: Vahedi K et al. *Lancet Neurol* 2007; Jüttler E et al. *N Engl J Med* 2014; van der Worp HB et al. *Eur Stroke J* 2021.
+**E.**
+
+The decision for hemicraniectomy in malignant MCA infarction is clinical and radiological (infarct volume, midline shift, decreasing consciousness); ICP monitoring is not required and ICP may be normal despite life-threatening shift. Pooled DECIMAL/DESTINY/HAMLET data show a large mortality reduction in ≤ 60 years when done within 48 h; DESTINY II showed survival benefit in > 60 years at the cost of more disability, so shared decision-making is essential. Aphasia is not an exclusion. Ref: Vahedi K et al. *Lancet Neurol* 2007; Jüttler E et al. *N Engl J Med* 2014; van der Worp HB et al. *Eur Stroke J* 2021.
 
 </details>
 
@@ -1674,7 +2097,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** ATTENTION and BAOCHE (2022) showed better functional outcome with thrombectomy for basilar occlusion. In HINTS, a normal head-impulse test in a patient with acute continuous vertigo suggests a central (stroke) cause. DWI is falsely negative in up to ~20 % of small posterior-fossa infarcts within 24–48 h. Space-occupying cerebellar infarction is treated with suboccipital decompression (± EVD); EVD alone risks upward herniation and does not relieve brainstem compression. Ref: Tao C et al. *N Engl J Med* 2022; Jovin TG et al. *N Engl J Med* 2022; Wijdicks EFM et al. *Stroke* 2014.
+**A – T, B – F, C – T, D – F.**
+
+ATTENTION and BAOCHE (2022) showed better functional outcome with thrombectomy for basilar occlusion. In HINTS, a normal head-impulse test in a patient with acute continuous vertigo suggests a central (stroke) cause. DWI is falsely negative in up to ~20 % of small posterior-fossa infarcts within 24–48 h. Space-occupying cerebellar infarction is treated with suboccipital decompression (± EVD); EVD alone risks upward herniation and does not relieve brainstem compression. Ref: Tao C et al. *N Engl J Med* 2022; Jovin TG et al. *N Engl J Med* 2022; Wijdicks EFM et al. *Stroke* 2014.
 
 </details>
 
@@ -1687,7 +2112,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** ESO 2023 recommends tenecteplase 0.25 mg/kg as an alternative to alteplase. BP must be ≤ 185/110 before and < 180/105 for 24 h after lysis. In immobile stroke patients, IPC reduced DVT (CLOTS 3); early LMWH has no mortality benefit and increases bleeding. ELAN (2023) and OPTIMAS (2024) showed early DOAC initiation is non-inferior and not associated with more bleeding. Ref: Alamowitch S et al. *Eur Stroke J* 2023; Fischer U et al. *N Engl J Med* 2023 (ELAN); CLOTS 3 Collaboration. *Lancet* 2013.
+**A – T, B – T, C – F, D – T.**
+
+ESO 2023 recommends tenecteplase 0.25 mg/kg as an alternative to alteplase. BP must be ≤ 185/110 before and < 180/105 for 24 h after lysis. In immobile stroke patients, IPC reduced DVT (CLOTS 3); early LMWH has no mortality benefit and increases bleeding. ELAN (2023) and OPTIMAS (2024) showed early DOAC initiation is non-inferior and not associated with more bleeding. Ref: Alamowitch S et al. *Eur Stroke J* 2023; Fischer U et al. *N Engl J Med* 2023 (ELAN); CLOTS 3 Collaboration. *Lancet* 2013.
 
 </details>
 
@@ -1701,7 +2128,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** TACS requires all three: higher cerebral dysfunction (dysphasia, neglect), homonymous visual field defect and motor/sensory deficit in ≥ 2 of face, arm, leg. PACS = two of the three or isolated cortical deficit; LACS = pure motor/sensory without cortical signs; POCS = brainstem/cerebellar or isolated hemianopia. TACS has the worst prognosis (~40 % 30-day mortality) and usually reflects a proximal MCA/ICA occlusion – a thrombectomy candidate. Ref: Bamford J et al. *Lancet* 1991.
+**D.**
+
+TACS requires all three: higher cerebral dysfunction (dysphasia, neglect), homonymous visual field defect and motor/sensory deficit in ≥ 2 of face, arm, leg. PACS = two of the three or isolated cortical deficit; LACS = pure motor/sensory without cortical signs; POCS = brainstem/cerebellar or isolated hemianopia. TACS has the worst prognosis (~40 % 30-day mortality) and usually reflects a proximal MCA/ICA occlusion – a thrombectomy candidate. Ref: Bamford J et al. *Lancet* 1991.
 
 </details>
 
@@ -1717,7 +2146,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** RAMPART showed IM midazolam (autoinjector) was at least as effective as IV lorazepam pre-hospital. ESETT found levetiracetam 60 mg/kg, fosphenytoin 20 mg PE/kg and valproate 40 mg/kg each stopped seizures in ~50 %. Refractory SE = failure of first- and second-line therapy, requiring anaesthetic agents (midazolam, propofol, thiopental) with EEG monitoring. Neuromuscular blockers abolish the motor signs only – seizures continue electrographically, so EEG is mandatory if they are used. Ref: Silbergleit R et al. *N Engl J Med* 2012; Kapur J et al. *N Engl J Med* 2019; Trinka E et al. *Epilepsia* 2015.
+**A – T, B – T, C – T, D – F.**
+
+RAMPART showed IM midazolam (autoinjector) was at least as effective as IV lorazepam pre-hospital. ESETT found levetiracetam 60 mg/kg, fosphenytoin 20 mg PE/kg and valproate 40 mg/kg each stopped seizures in ~50 %. Refractory SE = failure of first- and second-line therapy, requiring anaesthetic agents (midazolam, propofol, thiopental) with EEG monitoring. Neuromuscular blockers abolish the motor signs only – seizures continue electrographically, so EEG is mandatory if they are used. Ref: Silbergleit R et al. *N Engl J Med* 2012; Kapur J et al. *N Engl J Med* 2019; Trinka E et al. *Epilepsia* 2015.
 
 </details>
 
@@ -1734,7 +2165,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Remifentanil is hydrolysed by non-specific blood and tissue esterases, so its context-sensitive half-time (~3–4 min) is unchanged by liver or kidney failure. Morphine-6-glucuronide (active) and morphine-3-glucuronide accumulate in renal failure; oxycodone depends on hepatic CYP metabolism and renal excretion; norpethidine accumulates and causes seizures; codeine is a prodrug with unpredictable CYP2D6 activation. Note that the remifentanil metabolite (remifentanil acid) accumulates in renal failure but has negligible activity. Ref: Devlin JW et al. *Crit Care Med* 2018 (PADIS); Breen D et al. *Crit Care* 2004.
+**A.**
+
+Remifentanil is hydrolysed by non-specific blood and tissue esterases, so its context-sensitive half-time (~3–4 min) is unchanged by liver or kidney failure. Morphine-6-glucuronide (active) and morphine-3-glucuronide accumulate in renal failure; oxycodone depends on hepatic CYP metabolism and renal excretion; norpethidine accumulates and causes seizures; codeine is a prodrug with unpredictable CYP2D6 activation. Note that the remifentanil metabolite (remifentanil acid) accumulates in renal failure but has negligible activity. Ref: Devlin JW et al. *Crit Care Med* 2018 (PADIS); Breen D et al. *Crit Care* 2004.
 
 </details>
 
@@ -1748,7 +2181,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Low-dose ketamine (e.g. 0.1–0.3 mg/kg/h) is an effective opioid-sparing adjunct, especially in opioid-tolerant patients and after major abdominal surgery; PADIS suggests it in post-surgical ICU patients. NSAIDs are inadvisable with AKI and vasopressor need; clonidine worsens hypotension; gabapentinoids require enteral absorption (ileus) and act slowly; further opioid escalation worsens ileus without solving tolerance. Ref: Devlin JW et al. *Crit Care Med* 2018 (PADIS); Brinck ECV et al. *Cochrane Database Syst Rev* 2018.
+**E.**
+
+Low-dose ketamine (e.g. 0.1–0.3 mg/kg/h) is an effective opioid-sparing adjunct, especially in opioid-tolerant patients and after major abdominal surgery; PADIS suggests it in post-surgical ICU patients. NSAIDs are inadvisable with AKI and vasopressor need; clonidine worsens hypotension; gabapentinoids require enteral absorption (ileus) and act slowly; further opioid escalation worsens ileus without solving tolerance. Ref: Devlin JW et al. *Crit Care Med* 2018 (PADIS); Brinck ECV et al. *Cochrane Database Syst Rev* 2018.
 
 </details>
 
@@ -1765,7 +2200,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** For agitated delirium that prevents weaning/extubation, PADIS suggests dexmedetomidine; DahLIA showed more ventilator-free hours with dexmedetomidine than placebo in agitated delirium. With QTc 520 ms, haloperidol and quetiapine add arrhythmic risk, and neither shortens delirium (MIND-USA, AID-ICU). Benzodiazepines are a risk factor for delirium; deep propofol sedation delays weaning. Ref: Reade MC et al. *JAMA* 2016 (DahLIA); Devlin JW et al. *Crit Care Med* 2018 (PADIS); Andersen-Ranberg NC et al. *N Engl J Med* 2022.
+**B.**
+
+For agitated delirium that prevents weaning/extubation, PADIS suggests dexmedetomidine; DahLIA showed more ventilator-free hours with dexmedetomidine than placebo in agitated delirium. With QTc 520 ms, haloperidol and quetiapine add arrhythmic risk, and neither shortens delirium (MIND-USA, AID-ICU). Benzodiazepines are a risk factor for delirium; deep propofol sedation delays weaning. Ref: Reade MC et al. *JAMA* 2016 (DahLIA); Devlin JW et al. *Crit Care Med* 2018 (PADIS); Andersen-Ranberg NC et al. *N Engl J Med* 2022.
 
 </details>
 
@@ -1778,7 +2215,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** In >15 000 patients, ABCDEF bundle compliance was associated with less delirium, coma, restraint use and mortality. REDUCE (haloperidol 1–2 mg 8-hourly in 1789 patients) showed no effect on 28-day survival or delirium. PADIS suggests a multicomponent sleep-promoting strategy. The rivastigmine trial was stopped early because of higher mortality and longer delirium. Ref: Pun BT et al. *Crit Care Med* 2019; van den Boogaard M et al. *JAMA* 2018; van Eijk MM et al. *Lancet* 2010.
+**A – T, B – F, C – T, D – F.**
+
+In >15 000 patients, ABCDEF bundle compliance was associated with less delirium, coma, restraint use and mortality. REDUCE (haloperidol 1–2 mg 8-hourly in 1789 patients) showed no effect on 28-day survival or delirium. PADIS suggests a multicomponent sleep-promoting strategy. The rivastigmine trial was stopped early because of higher mortality and longer delirium. Ref: Pun BT et al. *Crit Care Med* 2019; van den Boogaard M et al. *JAMA* 2018; van Eijk MM et al. *Lancet* 2010.
 
 </details>
 
@@ -1791,7 +2230,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Assessment starts with the RASS: at −4/−5 the patient is comatose and is reassessed later. Inattention is tested with the letters test (squeeze on "A") or pictures. CAM-ICU is positive with features 1 (acute change/fluctuation) + 2 (inattention) + either 3 (altered level of consciousness, RASS ≠ 0) or 4 (disorganised thinking). It remains valid in patients with dementia (it detects acute change from baseline). Ref: Ely EW et al. *JAMA* 2001; Devlin JW et al. *Crit Care Med* 2018.
+**A – T, B – F, C – F, D – F.**
+
+Assessment starts with the RASS: at −4/−5 the patient is comatose and is reassessed later. Inattention is tested with the letters test (squeeze on "A") or pictures. CAM-ICU is positive with features 1 (acute change/fluctuation) + 2 (inattention) + either 3 (altered level of consciousness, RASS ≠ 0) or 4 (disorganised thinking). It remains valid in patients with dementia (it detects acute change from baseline). Ref: Ely EW et al. *JAMA* 2001; Devlin JW et al. *Crit Care Med* 2018.
 
 </details>
 
@@ -1804,7 +2245,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** BRAIN-ICU showed delirium duration predicted global cognition at 3 and 12 months. Hypoactive and mixed forms predominate and are often missed. ICDSC (8 items) ≥ 4 indicates delirium. MIND-USA found no difference in days alive without delirium or coma with haloperidol or ziprasidone versus placebo. Ref: Pandharipande PP et al. *N Engl J Med* 2013; Girard TD et al. *N Engl J Med* 2018; Bergeron N et al. *Intensive Care Med* 2001.
+**A – T, B – F, C – T, D – F.**
+
+BRAIN-ICU showed delirium duration predicted global cognition at 3 and 12 months. Hypoactive and mixed forms predominate and are often missed. ICDSC (8 items) ≥ 4 indicates delirium. MIND-USA found no difference in days alive without delirium or coma with haloperidol or ziprasidone versus placebo. Ref: Pandharipande PP et al. *N Engl J Med* 2013; Girard TD et al. *N Engl J Med* 2018; Bergeron N et al. *Intensive Care Med* 2001.
 
 </details>
 
@@ -1820,7 +2263,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Around two-thirds have a preceding respiratory or gastrointestinal infection (Campylobacter jejuni most often; also CMV, EBV, Mycoplasma, Zika, SARS-CoV-2). Anti-GQ1b is associated with Miller Fisher syndrome and Bickerstaff encephalitis; AMAN is associated with anti-GM1/GD1a. Incidence is ~1–2 per 100 000/year. Nadir is reached within 4 weeks (usually 2); progression > 8 weeks suggests CIDP. Ref: Shahrizaila N et al. *Lancet* 2021; Leonhard SE et al. *Nat Rev Neurol* 2019.
+**A – T, B – F, C – F, D – F.**
+
+Around two-thirds have a preceding respiratory or gastrointestinal infection (Campylobacter jejuni most often; also CMV, EBV, Mycoplasma, Zika, SARS-CoV-2). Anti-GQ1b is associated with Miller Fisher syndrome and Bickerstaff encephalitis; AMAN is associated with anti-GM1/GD1a. Incidence is ~1–2 per 100 000/year. Nadir is reached within 4 weeks (usually 2); progression > 8 weeks suggests CIDP. Ref: Shahrizaila N et al. *Lancet* 2021; Leonhard SE et al. *Nat Rev Neurol* 2019.
 
 </details>
 
@@ -1833,7 +2278,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** Dystrophic and denervated muscle can release large amounts of potassium (rhabdomyolysis/upregulated receptors) after suxamethonium. Myotonic patients may develop sustained contracture. Myasthenic patients are resistant to suxamethonium but very sensitive to non-depolarising agents – use reduced doses with quantitative monitoring. Sugammadex encapsulates rocuronium independently of acetylcholinesterase and has been used successfully in MG. Ref: Martyn JAJ, Richtsfeld M. *Anesthesiology* 2006; Blichfeldt-Lauridsen L, Hansen BD. *Acta Anaesthesiol Scand* 2012.
+**A – T, B – T, C – F, D – T.**
+
+Dystrophic and denervated muscle can release large amounts of potassium (rhabdomyolysis/upregulated receptors) after suxamethonium. Myotonic patients may develop sustained contracture. Myasthenic patients are resistant to suxamethonium but very sensitive to non-depolarising agents – use reduced doses with quantitative monitoring. Sugammadex encapsulates rocuronium independently of acetylcholinesterase and has been used successfully in MG. Ref: Martyn JAJ, Richtsfeld M. *Anesthesiology* 2006; Blichfeldt-Lauridsen L, Hansen BD. *Acta Anaesthesiol Scand* 2012.
 
 </details>
 
@@ -1846,7 +2293,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Magnesium reduces presynaptic acetylcholine release and can provoke crisis. Macrolides, fluoroquinolones and aminoglycosides impair neuromuscular transmission (FDA warnings for macrolides and quinolones). Others include beta-blockers, immune checkpoint inhibitors, quinine and botulinum toxin. Third-generation cephalosporins and paracetamol are considered safe choices. Ref: Sheikh S et al. *Muscle Nerve* 2021; Narayanaswami P et al. *Neurology* 2021.
+**A – T, B – T, C – F, D – F.**
+
+Magnesium reduces presynaptic acetylcholine release and can provoke crisis. Macrolides, fluoroquinolones and aminoglycosides impair neuromuscular transmission (FDA warnings for macrolides and quinolones). Others include beta-blockers, immune checkpoint inhibitors, quinine and botulinum toxin. Third-generation cephalosporins and paracetamol are considered safe choices. Ref: Sheikh S et al. *Muscle Nerve* 2021; Narayanaswami P et al. *Neurology* 2021.
 
 </details>
 
@@ -1860,7 +2309,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** The "20/30/40 rule" (VC < 20 ml/kg, MIP weaker than −30 cmH2O, MEP < 40 cmH2O), rapid decline and bulbar dysfunction predict respiratory failure; intubation should be elective before hypoxaemia or hypercapnia, which are late signs. NIV is unsafe with bulbar weakness and aspiration risk. Changing immunotherapy does not address the imminent airway problem (and PE after IVIg is not beneficial); pyridostigmine has no role in GBS. Ref: Lawn ND et al. *Arch Neurol* 2001; Shahrizaila N et al. *Lancet* 2021.
+**A.**
+
+The "20/30/40 rule" (VC < 20 ml/kg, MIP weaker than −30 cmH2O, MEP < 40 cmH2O), rapid decline and bulbar dysfunction predict respiratory failure; intubation should be elective before hypoxaemia or hypercapnia, which are late signs. NIV is unsafe with bulbar weakness and aspiration risk. Changing immunotherapy does not address the imminent airway problem (and PE after IVIg is not beneficial); pyridostigmine has no role in GBS. Ref: Lawn ND et al. *Arch Neurol* 2001; Shahrizaila N et al. *Lancet* 2021.
 
 </details>
 
@@ -1874,7 +2325,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Fatigable ocular, bulbar and proximal weakness without sensory signs, normal reflexes and CK, plus a thymic mass (thymoma or hyperplasia), is typical of acetylcholine-receptor antibody myasthenia gravis. LEMS has proximal leg weakness, areflexia that improves after exercise, autonomic features and is associated with small-cell lung cancer. Polymyositis raises CK; Miller Fisher gives ophthalmoplegia, ataxia and areflexia; myotonic dystrophy has myotonia and distal weakness. Ref: Gilhus NE. *N Engl J Med* 2016.
+**C.**
+
+Fatigable ocular, bulbar and proximal weakness without sensory signs, normal reflexes and CK, plus a thymic mass (thymoma or hyperplasia), is typical of acetylcholine-receptor antibody myasthenia gravis. LEMS has proximal leg weakness, areflexia that improves after exercise, autonomic features and is associated with small-cell lung cancer. Polymyositis raises CK; Miller Fisher gives ophthalmoplegia, ataxia and areflexia; myotonic dystrophy has myotonia and distal weakness. Ref: Gilhus NE. *N Engl J Med* 2016.
 
 </details>
 
@@ -1887,7 +2340,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Protein is raised in only ~50 % in the first week (~90 % by week 3), so a normal early result does not exclude GBS. Mild pleocytosis (5–50/µl) is compatible, but > 50/µl suggests infection (HIV, Lyme, CMV polyradiculitis), leptomeningeal malignancy or sarcoid. Glucose is normal. Raised protein with normal cells is also seen in CIDP, spinal block, diabetes and other conditions. Ref: Leonhard SE et al. *Nat Rev Neurol* 2019; Fokke C et al. *Brain* 2014.
+**A – T, B – T, C – F, D – F.**
+
+Protein is raised in only ~50 % in the first week (~90 % by week 3), so a normal early result does not exclude GBS. Mild pleocytosis (5–50/µl) is compatible, but > 50/µl suggests infection (HIV, Lyme, CMV polyradiculitis), leptomeningeal malignancy or sarcoid. Glucose is normal. Raised protein with normal cells is also seen in CIDP, spinal block, diabetes and other conditions. Ref: Leonhard SE et al. *Nat Rev Neurol* 2019; Fokke C et al. *Brain* 2014.
 
 </details>
 
@@ -1901,7 +2356,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Descending symmetrical paralysis starting with cranial nerves, autonomic signs (dilated pupils, dry mouth), normal sensation and preserved consciousness in an injecting drug user = wound botulism. Antitoxin should be given as early as possible on clinical suspicion without waiting for confirmation, because it only neutralises circulating toxin. Antibiotics are given after antitoxin with debridement; IVIg/plasma exchange are GBS treatments; pyridostigmine is ineffective. Ref: Rao AK et al. *MMWR Recomm Rep* 2021 (CDC botulism guidelines).
+**E.**
+
+Descending symmetrical paralysis starting with cranial nerves, autonomic signs (dilated pupils, dry mouth), normal sensation and preserved consciousness in an injecting drug user = wound botulism. Antitoxin should be given as early as possible on clinical suspicion without waiting for confirmation, because it only neutralises circulating toxin. Antibiotics are given after antitoxin with debridement; IVIg/plasma exchange are GBS treatments; pyridostigmine is ineffective. Ref: Rao AK et al. *MMWR Recomm Rep* 2021 (CDC botulism guidelines).
 
 </details>
 
@@ -1917,7 +2374,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** The tests assess the cranial-nerve reflex arcs: pupils (II/III), corneal (V/VII), vestibulo-ocular (VIII/III/VI, ≥ 50 ml ice-cold water over 1 min with tympanic membranes visible), motor response in cranial nerve distribution to central pain, gag and cough (IX/X), then apnoea. Mid-sized fixed pupils are compatible. Spinal reflexes – tendon reflexes, triple flexion, even Lazarus sign – may persist and do not preclude diagnosis. Ref: Academy of Medical Royal Colleges. *Code of Practice for the Diagnosis and Confirmation of Death* 2008 (rev. 2025); Greer DM et al. *JAMA* 2020 (World Brain Death Project).
+**A – T, B – T, C – T, D – F.**
+
+The tests assess the cranial-nerve reflex arcs: pupils (II/III), corneal (V/VII), vestibulo-ocular (VIII/III/VI, ≥ 50 ml ice-cold water over 1 min with tympanic membranes visible), motor response in cranial nerve distribution to central pain, gag and cough (IX/X), then apnoea. Mid-sized fixed pupils are compatible. Spinal reflexes – tendon reflexes, triple flexion, even Lazarus sign – may persist and do not preclude diagnosis. Ref: Academy of Medical Royal Colleges. *Code of Practice for the Diagnosis and Confirmation of Death* 2008 (rev. 2025); Greer DM et al. *JAMA* 2020 (World Brain Death Project).
 
 </details>
 
@@ -1930,7 +2389,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** UK guidance requires reversible causes to be excluded: core temperature > 34 °C, sodium 115–160 mmol/L, potassium > 2 mmol/L, phosphate and magnesium 0.5–3.0 mmol/L, glucose 3.0–20 mmol/L, and no residual sedative or neuromuscular blocking effect. In the apnoea test, starting PaCO2 ≥ 6.0 kPa (pH < 7.40) and a rise ≥ 0.5 kPa without respiratory effort over 5 min confirm apnoea (higher starting values in chronic CO2 retainers). Ref: Academy of Medical Royal Colleges. *Code of Practice for the Diagnosis and Confirmation of Death* 2008 (rev. 2025); Greer DM et al. *JAMA* 2020.
+**A – T, B – T, C – F, D – F.**
+
+UK guidance requires reversible causes to be excluded: core temperature > 34 °C, sodium 115–160 mmol/L, potassium > 2 mmol/L, phosphate and magnesium 0.5–3.0 mmol/L, glucose 3.0–20 mmol/L, and no residual sedative or neuromuscular blocking effect. In the apnoea test, starting PaCO2 ≥ 6.0 kPa (pH < 7.40) and a rise ≥ 0.5 kPa without respiratory effort over 5 min confirm apnoea (higher starting values in chronic CO2 retainers). Ref: Academy of Medical Royal Colleges. *Code of Practice for the Diagnosis and Confirmation of Death* 2008 (rev. 2025); Greer DM et al. *JAMA* 2020.
 
 </details>
 
@@ -1943,7 +2404,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** After 5 min of continuous asystole (ECG, absent arterial pulsatility or echo), absence of pupillary and corneal reflexes and of motor response to supraorbital pressure is confirmed and the time recorded. Any return of cardiac or respiratory activity restarts a fresh 5-minute observation. EEG is not part of confirmation. In the UK, ancillary tests are only needed when the clinical tests cannot be completed or confounders cannot be excluded (e.g. high cervical cord injury, extensive facial trauma). Ref: Academy of Medical Royal Colleges. *Code of Practice for the Diagnosis and Confirmation of Death* 2008 (rev. 2025).
+**A – T, B – F, C – F, D – F.**
+
+After 5 min of continuous asystole (ECG, absent arterial pulsatility or echo), absence of pupillary and corneal reflexes and of motor response to supraorbital pressure is confirmed and the time recorded. Any return of cardiac or respiratory activity restarts a fresh 5-minute observation. EEG is not part of confirmation. In the UK, ancillary tests are only needed when the clinical tests cannot be completed or confounders cannot be excluded (e.g. high cervical cord injury, extensive facial trauma). Ref: Academy of Medical Royal Colleges. *Code of Practice for the Diagnosis and Confirmation of Death* 2008 (rev. 2025).
 
 </details>
 
@@ -1959,7 +2422,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** Parenchymal sensors are zeroed only before insertion and may drift by a few mmHg over days; an EVD is the reference standard and can drain CSF (but not measure accurately while open). PRx is a moving correlation between slow waves of MAP and ICP: negative/near-zero values indicate preserved reactivity; positive values (> 0.2–0.3) indicate impaired autoregulation and are associated with worse outcome and are used to estimate CPPopt. B waves reflect vasogenic oscillations and are seen with reduced compensatory reserve. Ref: Le Roux P et al. *Neurocrit Care* 2014; Czosnyka M, Pickard JD. *J Neurol Neurosurg Psychiatry* 2004.
+**A – T, B – T, C – F, D – T.**
+
+Parenchymal sensors are zeroed only before insertion and may drift by a few mmHg over days; an EVD is the reference standard and can drain CSF (but not measure accurately while open). PRx is a moving correlation between slow waves of MAP and ICP: negative/near-zero values indicate preserved reactivity; positive values (> 0.2–0.3) indicate impaired autoregulation and are associated with worse outcome and are used to estimate CPPopt. B waves reflect vasogenic oscillations and are seen with reduced compensatory reserve. Ref: Le Roux P et al. *Neurocrit Care* 2014; Czosnyka M, Pickard JD. *J Neurol Neurosurg Psychiatry* 2004.
 
 </details>
 
@@ -1972,7 +2437,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** P1 = arterial pulsation (choroid plexus), P2 = tidal wave reflecting brain compliance (P2 > P1 when compliance is poor), P3 = dicrotic wave after the notch. RAP (correlation between pulse amplitude and mean ICP) near 0 means good reserve, near +1 means exhausted reserve, and falling values at very high ICP signal terminal vasomotor collapse. Plateau waves (5–20 min) occur with intact autoregulation but poor compliance and indicate risk of ischaemia. Ref: Czosnyka M, Pickard JD. *J Neurol Neurosurg Psychiatry* 2004; Hawryluk GWJ et al. *Intensive Care Med* 2019.
+**A – T, B – T, C – T, D – T.**
+
+P1 = arterial pulsation (choroid plexus), P2 = tidal wave reflecting brain compliance (P2 > P1 when compliance is poor), P3 = dicrotic wave after the notch. RAP (correlation between pulse amplitude and mean ICP) near 0 means good reserve, near +1 means exhausted reserve, and falling values at very high ICP signal terminal vasomotor collapse. Plateau waves (5–20 min) occur with intact autoregulation but poor compliance and indicate risk of ischaemia. Ref: Czosnyka M, Pickard JD. *J Neurol Neurosurg Psychiatry* 2004; Hawryluk GWJ et al. *Intensive Care Med* 2019.
 
 </details>
 
@@ -1989,7 +2456,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** AIS A = complete (no sensory or motor function in S4–5); B = sensory but no motor function preserved below the level (including sacral segments); C = motor function preserved below the level with more than half of key muscles below grade 3; D = motor incomplete with at least half of key muscles below the level grade ≥ 3; E = normal. Voluntary anal contraction makes him motor incomplete, and most key muscles ≥ 3 makes him AIS D. Ref: Kirshblum SC et al. *J Spinal Cord Med* 2011; Rupp R et al. *Top Spinal Cord Inj Rehabil* 2021.
+**D.**
+
+AIS A = complete (no sensory or motor function in S4–5); B = sensory but no motor function preserved below the level (including sacral segments); C = motor function preserved below the level with more than half of key muscles below grade 3; D = motor incomplete with at least half of key muscles below the level grade ≥ 3; E = normal. Voluntary anal contraction makes him motor incomplete, and most key muscles ≥ 3 makes him AIS D. Ref: Kirshblum SC et al. *J Spinal Cord Med* 2011; Rupp R et al. *Top Spinal Cord Inj Rehabil* 2021.
 
 </details>
 
@@ -2003,7 +2472,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** From about 72 h after denervation, extrajunctional acetylcholine receptors proliferate and suxamethonium can cause life-threatening hyperkalaemia; it should be avoided for ~6–9 months. Neurogenic shock (bradycardia, vasodilatation) must be distinguished from haemorrhage. Vagal reflexes are unopposed, so suction may cause asystole – atropine should be available. The 2024 AO Spine/Praxis guideline suggests MAP ≥ 75–80 (upper 90–95) mmHg for 3–7 days. VC monitoring is key since C3–5 lesions compromise the diaphragm. Ref: Kwon BK et al. *Global Spine J* 2024; Martyn JAJ, Richtsfeld M. *Anesthesiology* 2006.
+**C.**
+
+From about 72 h after denervation, extrajunctional acetylcholine receptors proliferate and suxamethonium can cause life-threatening hyperkalaemia; it should be avoided for ~6–9 months. Neurogenic shock (bradycardia, vasodilatation) must be distinguished from haemorrhage. Vagal reflexes are unopposed, so suction may cause asystole – atropine should be available. The 2024 AO Spine/Praxis guideline suggests MAP ≥ 75–80 (upper 90–95) mmHg for 3–7 days. VC monitoring is key since C3–5 lesions compromise the diaphragm. Ref: Kwon BK et al. *Global Spine J* 2024; Martyn JAJ, Richtsfeld M. *Anesthesiology* 2006.
 
 </details>
 
@@ -2016,7 +2487,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** The phrenic nerve (C3–5) is affected, and fatigue often causes deterioration over the first days. In tetraplegia, VC is better supine; when sitting, abdominal contents drop and the diaphragm flattens – a binder restores its position. Autonomic dysreflexia (paroxysmal hypertension with reflex bradycardia, often from bladder or bowel distension) occurs with lesions at or above T6. STASCIS and later meta-analyses support decompression within 24 h. Ref: Fehlings MG et al. *PLoS One* 2012 (STASCIS); Fehlings MG et al. *Global Spine J* 2017.
+**A – T, B – T, C – F, D – T.**
+
+The phrenic nerve (C3–5) is affected, and fatigue often causes deterioration over the first days. In tetraplegia, VC is better supine; when sitting, abdominal contents drop and the diaphragm flattens – a binder restores its position. Autonomic dysreflexia (paroxysmal hypertension with reflex bradycardia, often from bladder or bowel distension) occurs with lesions at or above T6. STASCIS and later meta-analyses support decompression within 24 h. Ref: Fehlings MG et al. *PLoS One* 2012 (STASCIS); Fehlings MG et al. *Global Spine J* 2017.
 
 </details>
 
@@ -2030,7 +2503,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** In obtunded adult blunt trauma patients, a negative high-quality CT reported by an experienced radiologist has a very high negative predictive value for unstable injury; EAST recommends collar removal on CT alone. Prolonged collars raise ICP (jugular venous compression), cause pressure ulcers, and complicate airway care and line access. MRI rarely detects injuries that change management, and dynamic fluoroscopy is unsafe and not recommended. Ref: Patel MB et al. *J Trauma Acute Care Surg* 2015 (EAST).
+**B.**
+
+In obtunded adult blunt trauma patients, a negative high-quality CT reported by an experienced radiologist has a very high negative predictive value for unstable injury; EAST recommends collar removal on CT alone. Prolonged collars raise ICP (jugular venous compression), cause pressure ulcers, and complicate airway care and line access. MRI rarely detects injuries that change management, and dynamic fluoroscopy is unsafe and not recommended. Ref: Patel MB et al. *J Trauma Acute Care Surg* 2015 (EAST).
 
 </details>
 
@@ -2046,7 +2521,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** Hyperglycaemia, sepsis/multiorgan failure, immobility and prolonged ventilation are risk factors; intensive insulin reduced electrophysiological CIP/CIM in the Leuven trials (at a hypoglycaemia cost). In EPaNIC, late PN (withholding PN for a week) reduced weakness and accelerated recovery compared with early PN. MRC-SS < 48 in a cooperative patient defines ICUAW; handgrip dynamometry (< 11 kg men, < 7 kg women) is a quick screening tool. Ref: Hermans G et al. *Lancet Respir Med* 2013; Vanhorebeek I et al. *Intensive Care Med* 2020.
+**A – T, B – F, C – T, D – T.**
+
+Hyperglycaemia, sepsis/multiorgan failure, immobility and prolonged ventilation are risk factors; intensive insulin reduced electrophysiological CIP/CIM in the Leuven trials (at a hypoglycaemia cost). In EPaNIC, late PN (withholding PN for a week) reduced weakness and accelerated recovery compared with early PN. MRC-SS < 48 in a cooperative patient defines ICUAW; handgrip dynamometry (< 11 kg men, < 7 kg women) is a quick screening tool. Ref: Hermans G et al. *Lancet Respir Med* 2013; Vanhorebeek I et al. *Intensive Care Med* 2020.
 
 </details>
 
@@ -2060,7 +2537,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Both CIP and CIM reduce CMAP amplitudes with relatively preserved conduction velocities, and fibrillation potentials can occur in both. The discriminating feature is sensory involvement: SNAP amplitudes are reduced in CIP (axonal sensorimotor neuropathy) but normal in pure CIM. In CIM, CMAPs are prolonged and direct muscle stimulation shows reduced muscle excitability. A decrement on repetitive stimulation suggests a junctional disorder such as myasthenia or persisting neuromuscular block. Ref: Latronico N, Bolton CF. *Lancet Neurol* 2011; Vanhorebeek I et al. *Intensive Care Med* 2020.
+**C.**
+
+Both CIP and CIM reduce CMAP amplitudes with relatively preserved conduction velocities, and fibrillation potentials can occur in both. The discriminating feature is sensory involvement: SNAP amplitudes are reduced in CIP (axonal sensorimotor neuropathy) but normal in pure CIM. In CIM, CMAPs are prolonged and direct muscle stimulation shows reduced muscle excitability. A decrement on repetitive stimulation suggests a junctional disorder such as myasthenia or persisting neuromuscular block. Ref: Latronico N, Bolton CF. *Lancet Neurol* 2011; Vanhorebeek I et al. *Intensive Care Med* 2020.
 
 </details>
 
@@ -2077,7 +2556,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Confusion, ataxia and ophthalmoplegia (the full triad is present in only ~10–20 %) in a malnourished drinker = Wernicke's encephalopathy, a medical emergency treated with high-dose parenteral thiamine (e.g. 200–500 mg three times daily for 3–5 days). Oral thiamine is poorly absorbed in alcohol users. He is normoglycaemic, so glucose is not needed – but in hypoglycaemic patients glucose must never be delayed for thiamine; give both together. There are no signs of withdrawal requiring benzodiazepines. Ref: Galvin R et al. *Eur J Neurol* 2010 (EFNS guideline); Sechi G, Serra A. *Lancet Neurol* 2007.
+**C.**
+
+Confusion, ataxia and ophthalmoplegia (the full triad is present in only ~10–20 %) in a malnourished drinker = Wernicke's encephalopathy, a medical emergency treated with high-dose parenteral thiamine (e.g. 200–500 mg three times daily for 3–5 days). Oral thiamine is poorly absorbed in alcohol users. He is normoglycaemic, so glucose is not needed – but in hypoglycaemic patients glucose must never be delayed for thiamine; give both together. There are no signs of withdrawal requiring benzodiazepines. Ref: Galvin R et al. *Eur J Neurol* 2010 (EFNS guideline); Sechi G, Serra A. *Lancet Neurol* 2007.
 
 </details>
 
@@ -2093,7 +2574,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** SMART (15 802 patients) showed fewer MAKE30 events with balanced crystalloids (absolute difference ~1 %). KDIGO recommends against fenoldopam, low-dose dopamine and diuretics to prevent or treat AKI (except for volume overload). The KDIGO "bundle" – avoid nephrotoxins, optimise volume and perfusion, monitor creatinine and urine output, avoid hyperglycaemia and radiocontrast where possible – reduced AKI after cardiac surgery in PrevAKI. Ref: Semler MW et al. *N Engl J Med* 2018; KDIGO. *Kidney Int Suppl* 2012; Meersch M et al. *Intensive Care Med* 2017.
+**A – T, B – F, C – F, D – T.**
+
+SMART (15 802 patients) showed fewer MAKE30 events with balanced crystalloids (absolute difference ~1 %). KDIGO recommends against fenoldopam, low-dose dopamine and diuretics to prevent or treat AKI (except for volume overload). The KDIGO "bundle" – avoid nephrotoxins, optimise volume and perfusion, monitor creatinine and urine output, avoid hyperglycaemia and radiocontrast where possible – reduced AKI after cardiac surgery in PrevAKI. Ref: Semler MW et al. *N Engl J Med* 2018; KDIGO. *Kidney Int Suppl* 2012; Meersch M et al. *Intensive Care Med* 2017.
 
 </details>
 
@@ -2106,7 +2589,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** Stage 3 = creatinine ≥ 3.0 × baseline, ≥ 354 µmol/L, initiation of RRT or UO < 0.3 ml/kg/h for ≥ 24 h or anuria ≥ 12 h (2.0–2.9 × is stage 2). TIMP-2·IGFBP7 is a tubular cell-cycle-arrest (stress/damage) marker, not a filtration marker. Stage 1 = rise ≥ 26.5 µmol/L (0.3 mg/dl) within 48 h or 1.5–1.9 × baseline within 7 days, or UO < 0.5 ml/kg/h for 6–12 h. Cystatin C is less dependent on muscle mass than creatinine (useful in sarcopenia). This patient's 1.9-fold rise is stage 1. Ref: KDIGO. *Kidney Int Suppl* 2012; Kashani K et al. *Crit Care* 2013; Ostermann M et al. *JAMA Netw Open* 2020.
+**A – F, B – F, C – F, D – F.**
+
+Stage 3 = creatinine ≥ 3.0 × baseline, ≥ 354 µmol/L, initiation of RRT or UO < 0.3 ml/kg/h for ≥ 24 h or anuria ≥ 12 h (2.0–2.9 × is stage 2). TIMP-2·IGFBP7 is a tubular cell-cycle-arrest (stress/damage) marker, not a filtration marker. Stage 1 = rise ≥ 26.5 µmol/L (0.3 mg/dl) within 48 h or 1.5–1.9 × baseline within 7 days, or UO < 0.5 ml/kg/h for 6–12 h. Cystatin C is less dependent on muscle mass than creatinine (useful in sarcopenia). This patient's 1.9-fold rise is stage 1. Ref: KDIGO. *Kidney Int Suppl* 2012; Kashani K et al. *Crit Care* 2013; Ostermann M et al. *JAMA Netw Open* 2020.
 
 </details>
 
@@ -2120,7 +2605,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Avid sodium and water retention (UNa < 20 mmol/L, FeNa < 1 %, urine osmolality > 500 mOsm/kg) with a bland sediment and high urea:creatinine ratio indicates preserved tubular function – prerenal AKI from volume depletion compounded by ACE inhibition. ATN typically shows FeNa > 2 %, isosthenuric urine and muddy brown granular/epithelial casts; AIN white cell casts; glomerulonephritis red cell casts and proteinuria. (After diuretics, FeUrea < 35 % is more reliable.) These indices have limited accuracy in sepsis and CKD. Ref: Kellum JA et al. *Nat Rev Dis Primers* 2021; KDIGO. *Kidney Int Suppl* 2012.
+**E.**
+
+Avid sodium and water retention (UNa < 20 mmol/L, FeNa < 1 %, urine osmolality > 500 mOsm/kg) with a bland sediment and high urea:creatinine ratio indicates preserved tubular function – prerenal AKI from volume depletion compounded by ACE inhibition. ATN typically shows FeNa > 2 %, isosthenuric urine and muddy brown granular/epithelial casts; AIN white cell casts; glomerulonephritis red cell casts and proteinuria. (After diuretics, FeUrea < 35 % is more reliable.) These indices have limited accuracy in sepsis and CKD. Ref: Kellum JA et al. *Nat Rev Dis Primers* 2021; KDIGO. *Kidney Int Suppl* 2012.
 
 </details>
 
@@ -2136,7 +2623,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** In RICH (2020), regional citrate extended filter life (~47 vs 26 h) with fewer bleeding complications than systemic heparin; KDIGO recommends citrate first-line if no contraindication. Citrate chelates ionised calcium (a cofactor of the clotting cascade), keeping circuit iCa ~0.25–0.35 mmol/L; calcium is reinfused systemically. Accumulation (impaired hepatic metabolism, poor perfusion) causes a rising total/ionised Ca ratio (> 2.5), falling systemic iCa and high-anion-gap acidosis. Liver dysfunction is a relative caution, not an absolute contraindication – citrate is used with close monitoring. Ref: Zarbock A et al. *JAMA* 2020 (RICH); KDIGO. *Kidney Int Suppl* 2012.
+**A – T, B – T, C – F, D – T.**
+
+In RICH (2020), regional citrate extended filter life (~47 vs 26 h) with fewer bleeding complications than systemic heparin; KDIGO recommends citrate first-line if no contraindication. Citrate chelates ionised calcium (a cofactor of the clotting cascade), keeping circuit iCa ~0.25–0.35 mmol/L; calcium is reinfused systemically. Accumulation (impaired hepatic metabolism, poor perfusion) causes a rising total/ionised Ca ratio (> 2.5), falling systemic iCa and high-anion-gap acidosis. Liver dysfunction is a relative caution, not an absolute contraindication – citrate is used with close monitoring. Ref: Zarbock A et al. *JAMA* 2020 (RICH); KDIGO. *Kidney Int Suppl* 2012.
 
 </details>
 
@@ -2152,7 +2641,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – F.** Early, generous isotonic crystalloid to a high urine output is the mainstay; no RCT supports bicarbonate or mannitol, and they cause hypocalcaemia/alkalosis or osmotic problems. The McMahon score (≥ 6 identifies high risk) outperforms CK alone in predicting RRT or death. Potassium released from damaged muscle can cause early arrhythmias and must be monitored closely. Ref: Bosch X et al. *N Engl J Med* 2009; McMahon GM et al. *JAMA Intern Med* 2013.
+**A – F, B – T, C – T, D – F.**
+
+Early, generous isotonic crystalloid to a high urine output is the mainstay; no RCT supports bicarbonate or mannitol, and they cause hypocalcaemia/alkalosis or osmotic problems. The McMahon score (≥ 6 identifies high risk) outperforms CK alone in predicting RRT or death. Potassium released from damaged muscle can cause early arrhythmias and must be monitored closely. Ref: Bosch X et al. *N Engl J Med* 2009; McMahon GM et al. *JAMA Intern Med* 2013.
 
 </details>
 
@@ -2166,7 +2657,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** In crush injury, release of compression causes sudden hypovolaemia, hyperkalaemia and myoglobin release. IV isotonic fluid (e.g. saline ~1 L/h, 10–15 ml/kg/h) should start before extrication and continue afterwards (titrated to urine output and volume tolerance), which reduces crush-related AKI and cardiac arrest. Tourniquets are only for uncontrolled haemorrhage; diuretics and mannitol are not first-line; oral fluid alone is insufficient. Ref: Sever MS, Vanholder R. *Nephrol Dial Transplant* 2012 (Renal Disaster Relief Task Force recommendations); Bosch X et al. *N Engl J Med* 2009.
+**B.**
+
+In crush injury, release of compression causes sudden hypovolaemia, hyperkalaemia and myoglobin release. IV isotonic fluid (e.g. saline ~1 L/h, 10–15 ml/kg/h) should start before extrication and continue afterwards (titrated to urine output and volume tolerance), which reduces crush-related AKI and cardiac arrest. Tourniquets are only for uncontrolled haemorrhage; diuretics and mannitol are not first-line; oral fluid alone is insufficient. Ref: Sever MS, Vanholder R. *Nephrol Dial Transplant* 2012 (Renal Disaster Relief Task Force recommendations); Bosch X et al. *N Engl J Med* 2009.
 
 </details>
 
@@ -2179,7 +2672,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** Myoglobin is small and freely filtered; in acidic, concentrated urine it precipitates with Tamm–Horsfall protein to form casts, while haem iron drives lipid peroxidation and scavenges NO, causing vasoconstriction. Gemfibrozil inhibits statin glucuronidation and raises statin levels. Hypermetabolic states (MH, NMS, serotonin syndrome, exertional heat stroke), trauma, ischaemia, drugs, toxins and infections are common causes. Ref: Bosch X et al. *N Engl J Med* 2009; Petejova N, Martinek A. *Crit Care* 2014.
+**A – T, B – T, C – T, D – T.**
+
+Myoglobin is small and freely filtered; in acidic, concentrated urine it precipitates with Tamm–Horsfall protein to form casts, while haem iron drives lipid peroxidation and scavenges NO, causing vasoconstriction. Gemfibrozil inhibits statin glucuronidation and raises statin levels. Hypermetabolic states (MH, NMS, serotonin syndrome, exertional heat stroke), trauma, ischaemia, drugs, toxins and infections are common causes. Ref: Bosch X et al. *N Engl J Med* 2009; Petejova N, Martinek A. *Crit Care* 2014.
 
 </details>
 
@@ -2193,7 +2688,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** PRESERVE (2018) showed no benefit of IV bicarbonate over saline or of NAC over placebo. Current ACR/NKF consensus: the risk of contrast-associated AKI with modern agents at eGFR ≥ 30 is low; prophylactic isotonic fluid is reasonable for eGFR < 30 or high-risk patients, and a medically indicated urgent scan should never be withheld. Prophylactic haemofiltration is not recommended. Ref: Weisbord SD et al. *N Engl J Med* 2018 (PRESERVE); Davenport MS et al. *Radiology* 2020.
+**D.**
+
+PRESERVE (2018) showed no benefit of IV bicarbonate over saline or of NAC over placebo. Current ACR/NKF consensus: the risk of contrast-associated AKI with modern agents at eGFR ≥ 30 is low; prophylactic isotonic fluid is reasonable for eGFR < 30 or high-risk patients, and a medically indicated urgent scan should never be withheld. Prophylactic haemofiltration is not recommended. Ref: Weisbord SD et al. *N Engl J Med* 2018 (PRESERVE); Davenport MS et al. *Radiology* 2020.
 
 </details>
 
@@ -2207,7 +2704,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Muscle necrosis releases potassium, phosphate, purines (→ uric acid), organic acids and creatine (→ creatinine), so hyperkalaemia, hyperphosphataemia, hyperuricaemia, high-anion-gap acidosis and a low urea:creatinine ratio are typical. Calcium falls early (deposition in damaged muscle), with rebound hypercalcaemia in the recovery phase. Ref: Bosch X et al. *N Engl J Med* 2009.
+**D.**
+
+Muscle necrosis releases potassium, phosphate, purines (→ uric acid), organic acids and creatine (→ creatinine), so hyperkalaemia, hyperphosphataemia, hyperuricaemia, high-anion-gap acidosis and a low urea:creatinine ratio are typical. Calcium falls early (deposition in damaged muscle), with rebound hypercalcaemia in the recovery phase. Ref: Bosch X et al. *N Engl J Med* 2009.
 
 </details>
 
@@ -2224,7 +2723,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** He has no urgent indication for RRT (refractory hyperkalaemia, severe acidosis, diuretic-resistant fluid overload, uraemic complications). AKIKI and STARRT-AKI showed that pre-emptive/accelerated RRT without such indications does not improve survival and increases RRT exposure, and a large proportion of patients in the delayed arms never needed RRT. Removing myoglobin with extracorporeal therapy has no proven outcome benefit; mannitol, diuretics and bicarbonate are unproven. Ref: Gaudry S et al. *N Engl J Med* 2016 (AKIKI); STARRT-AKI Investigators. *N Engl J Med* 2020.
+**C.**
+
+He has no urgent indication for RRT (refractory hyperkalaemia, severe acidosis, diuretic-resistant fluid overload, uraemic complications). AKIKI and STARRT-AKI showed that pre-emptive/accelerated RRT without such indications does not improve survival and increases RRT exposure, and a large proportion of patients in the delayed arms never needed RRT. Removing myoglobin with extracorporeal therapy has no proven outcome benefit; mannitol, diuretics and bicarbonate are unproven. Ref: Gaudry S et al. *N Engl J Med* 2016 (AKIKI); STARRT-AKI Investigators. *N Engl J Med* 2020.
 
 </details>
 
@@ -2240,7 +2741,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** Insulin drives potassium into cells; starting it with K < 3.3–3.5 mmol/L risks arrhythmia, so replace potassium first (2024 consensus). Add 40 mmol/L KCl to fluids when K is 3.5–5.5. Bicarbonate is not recommended unless pH < 7.0 (consensus) – it does not speed resolution and risks hypokalaemia and paradoxical CSF acidosis. Continuing basal insulin reduces rebound hyperglycaemia and ketosis when the IV infusion stops. Ref: Umpierrez GE et al. *Diabetes Care* 2024 (ADA/EASD/JBDS/AACE/DTS consensus).
+**A – T, B – T, C – F, D – T.**
+
+Insulin drives potassium into cells; starting it with K < 3.3–3.5 mmol/L risks arrhythmia, so replace potassium first (2024 consensus). Add 40 mmol/L KCl to fluids when K is 3.5–5.5. Bicarbonate is not recommended unless pH < 7.0 (consensus) – it does not speed resolution and risks hypokalaemia and paradoxical CSF acidosis. Continuing basal insulin reduces rebound hyperglycaemia and ketosis when the IV infusion stops. Ref: Umpierrez GE et al. *Diabetes Care* 2024 (ADA/EASD/JBDS/AACE/DTS consensus).
 
 </details>
 
@@ -2253,7 +2756,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Insulin and correction of acidosis shift potassium intracellularly – hypokalaemia is the commonest dangerous complication. Large-volume saline causes hyperchloraemic, normal-anion-gap acidosis, which can be mistaken for persisting ketoacidosis (check ketones); balanced crystalloids resolve DKA slightly faster. Rapid osmolality falls are a suspected contributor to cerebral oedema (mainly in children). Routine phosphate replacement has no proven benefit; replace only if severe (< 0.32 mmol/L) or with cardiac/respiratory compromise. Ref: Umpierrez GE et al. *Diabetes Care* 2024; Self WH et al. *JAMA Netw Open* 2020.
+**A – T, B – F, C – F, D – F.**
+
+Insulin and correction of acidosis shift potassium intracellularly – hypokalaemia is the commonest dangerous complication. Large-volume saline causes hyperchloraemic, normal-anion-gap acidosis, which can be mistaken for persisting ketoacidosis (check ketones); balanced crystalloids resolve DKA slightly faster. Rapid osmolality falls are a suspected contributor to cerebral oedema (mainly in children). Routine phosphate replacement has no proven benefit; replace only if severe (< 0.32 mmol/L) or with cardiac/respiratory compromise. Ref: Umpierrez GE et al. *Diabetes Care* 2024; Self WH et al. *JAMA Netw Open* 2020.
 
 </details>
 
@@ -2266,7 +2771,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** HHS criteria (2024 consensus): glucose ≥ 33.3 mmol/L, effective osmolality > 300–320 mOsm/kg, no significant ketonaemia (< 3 mmol/L) and pH ≥ 7.3. Fluid alone lowers glucose; as glucose falls, sodium rises – acceptable if osmolality falls slowly (target 3–8 mOsm/kg/h). JBDS advises starting insulin only once glucose stops falling with fluids (at 0.05 U/kg/h), unless there is significant ketonaemia, because early insulin causes rapid osmotic shifts and hypovolaemia. Mixed DKA–HHS occurs in up to a third. Ref: Mustafa OG et al. *Diabet Med* 2023 (JBDS HHS); Umpierrez GE et al. *Diabetes Care* 2024.
+**A – T, B – T, C – T, D – F.**
+
+HHS criteria (2024 consensus): glucose ≥ 33.3 mmol/L, effective osmolality > 300–320 mOsm/kg, no significant ketonaemia (< 3 mmol/L) and pH ≥ 7.3. Fluid alone lowers glucose; as glucose falls, sodium rises – acceptable if osmolality falls slowly (target 3–8 mOsm/kg/h). JBDS advises starting insulin only once glucose stops falling with fluids (at 0.05 U/kg/h), unless there is significant ketonaemia, because early insulin causes rapid osmotic shifts and hypovolaemia. Mixed DKA–HHS occurs in up to a third. Ref: Mustafa OG et al. *Diabet Med* 2023 (JBDS HHS); Umpierrez GE et al. *Diabetes Care* 2024.
 
 </details>
 
@@ -2282,7 +2789,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** NICE-SUGAR (6104 patients) found higher 90-day mortality with intensive control (27.5 % vs 24.9 %) and far more severe hypoglycaemia. Leuven I was a surgical (mostly cardiac) ICU trial with early PN; Leuven II (medical ICU) showed no overall mortality benefit. TGC-fast (9230 patients, no early PN) found no difference in ICU dependency or mortality. In a post hoc NICE-SUGAR analysis, both moderate and severe hypoglycaemia were associated with dose-dependent increases in mortality. Current targets are ~7.8–10 mmol/L. Ref: NICE-SUGAR Investigators. *N Engl J Med* 2009 and 2012; Gunst J et al. *N Engl J Med* 2023.
+**A – T, B – F, C – F, D – F.**
+
+NICE-SUGAR (6104 patients) found higher 90-day mortality with intensive control (27.5 % vs 24.9 %) and far more severe hypoglycaemia. Leuven I was a surgical (mostly cardiac) ICU trial with early PN; Leuven II (medical ICU) showed no overall mortality benefit. TGC-fast (9230 patients, no early PN) found no difference in ICU dependency or mortality. In a post hoc NICE-SUGAR analysis, both moderate and severe hypoglycaemia were associated with dose-dependent increases in mortality. Current targets are ~7.8–10 mmol/L. Ref: NICE-SUGAR Investigators. *N Engl J Med* 2009 and 2012; Gunst J et al. *N Engl J Med* 2023.
 
 </details>
 
@@ -2299,7 +2808,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Thyroid storm is treated by blocking synthesis (thionamide; PTU also inhibits peripheral T4→T3 conversion), blocking release (iodine, given ≥ 1 h after the thionamide so it is not used as substrate), beta-blockade (cautious, short-acting in heart failure), glucocorticoids, cooling and treating the precipitant; cholestyramine and plasma exchange are adjuncts. Salicylates displace T4/T3 from binding proteins and raise free hormone levels – use paracetamol and active cooling instead. Ref: Ross DS et al. *Thyroid* 2016 (ATA guidelines); Akamizu T et al. *Thyroid* 2012.
+**A.**
+
+Thyroid storm is treated by blocking synthesis (thionamide; PTU also inhibits peripheral T4→T3 conversion), blocking release (iodine, given ≥ 1 h after the thionamide so it is not used as substrate), beta-blockade (cautious, short-acting in heart failure), glucocorticoids, cooling and treating the precipitant; cholestyramine and plasma exchange are adjuncts. Salicylates displace T4/T3 from binding proteins and raise free hormone levels – use paracetamol and active cooling instead. Ref: Ross DS et al. *Thyroid* 2016 (ATA guidelines); Akamizu T et al. *Thyroid* 2012.
 
 </details>
 
@@ -2316,7 +2827,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Hypernatraemia with inappropriately dilute urine that fails to concentrate (< 50 % rise) after desmopressin, together with a high copeptin (> 21 pmol/L without prior stimulation), indicates renal resistance to vasopressin – classically lithium-induced. Central DI responds to desmopressin and has a low copeptin; primary polydipsia does not cause hypernatraemia; osmotic diuresis would have urine osmolality ≈ 300 or higher; cerebral salt wasting causes hyponatraemia. The 2022 nomenclature renames these AVP resistance and AVP deficiency. Ref: Fenske W et al. *N Engl J Med* 2018; Arima H et al. *Endocr J* 2022.
+**A.**
+
+Hypernatraemia with inappropriately dilute urine that fails to concentrate (< 50 % rise) after desmopressin, together with a high copeptin (> 21 pmol/L without prior stimulation), indicates renal resistance to vasopressin – classically lithium-induced. Central DI responds to desmopressin and has a low copeptin; primary polydipsia does not cause hypernatraemia; osmotic diuresis would have urine osmolality ≈ 300 or higher; cerebral salt wasting causes hyponatraemia. The 2022 nomenclature renames these AVP resistance and AVP deficiency. Ref: Fenske W et al. *N Engl J Med* 2018; Arima H et al. *Endocr J* 2022.
 
 </details>
 
@@ -2332,7 +2845,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** Andexanet or 4F-PCC (25–50 IU/kg) is suggested for life-threatening FXa-inhibitor bleeding. Routine platelet transfusion for antiplatelet-associated GI bleeding with a normal count is not recommended (no benefit, possible harm). Vitamin K has no effect on DOACs and, for warfarin, takes 6–24 h – PCC is needed for rapid reversal. In major bleeding, fibrinogen < 1.5 g/L should be replaced with fibrinogen concentrate or cryoprecipitate. Ref: Gralnek IM et al. *Endoscopy* 2021 (ESGE); Rossaint R et al. *Crit Care* 2023.
+**A – T, B – F, C – F, D – T.**
+
+Andexanet or 4F-PCC (25–50 IU/kg) is suggested for life-threatening FXa-inhibitor bleeding. Routine platelet transfusion for antiplatelet-associated GI bleeding with a normal count is not recommended (no benefit, possible harm). Vitamin K has no effect on DOACs and, for warfarin, takes 6–24 h – PCC is needed for rapid reversal. In major bleeding, fibrinogen < 1.5 g/L should be replaced with fibrinogen concentrate or cryoprecipitate. Ref: Gralnek IM et al. *Endoscopy* 2021 (ESGE); Rossaint R et al. *Crit Care* 2023.
 
 </details>
 
@@ -2345,7 +2860,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** Baveno VII: in refractory oesophageal variceal bleeding, balloon tamponade or (preferably, if available) a self-expanding metal stent can bridge to rescue TIPS; stents caused fewer adverse events in an RCT. Pre-emptive TIPS within 72 h is for high-risk patients (Child C 10–13, or Child B > 7 with active bleeding at endoscopy). Tamponade should be limited to ~24 h because of pressure necrosis. Ref: de Franchis R et al. *J Hepatol* 2022 (Baveno VII); Escorsell À et al. *Hepatology* 2016.
+**A – T, B – F, C – F, D – T.**
+
+Baveno VII: in refractory oesophageal variceal bleeding, balloon tamponade or (preferably, if available) a self-expanding metal stent can bridge to rescue TIPS; stents caused fewer adverse events in an RCT. Pre-emptive TIPS within 72 h is for high-risk patients (Child C 10–13, or Child B > 7 with active bleeding at endoscopy). Tamponade should be limited to ~24 h because of pressure necrosis. Ref: de Franchis R et al. *J Hepatol* 2022 (Baveno VII); Escorsell À et al. *Hepatology* 2016.
 
 </details>
 
@@ -2358,7 +2875,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** HALT-IT (12 009 patients) found no benefit of high-dose TXA and more VTE. ESGE suggests GBS ≤ 1 as a threshold for outpatient management. Lau et al. (2020) found no mortality benefit of endoscopy within 6 h versus 6–24 h after resuscitation in high-risk patients. Erythromycin 250 mg IV 30–120 min before endoscopy improves mucosal visualisation and reduces the need for second-look endoscopy. Ref: HALT-IT Trial Collaborators. *Lancet* 2020; Lau JYW et al. *N Engl J Med* 2020; Gralnek IM et al. *Endoscopy* 2021.
+**A – T, B – T, C – F, D – F.**
+
+HALT-IT (12 009 patients) found no benefit of high-dose TXA and more VTE. ESGE suggests GBS ≤ 1 as a threshold for outpatient management. Lau et al. (2020) found no mortality benefit of endoscopy within 6 h versus 6–24 h after resuscitation in high-risk patients. Erythromycin 250 mg IV 30–120 min before endoscopy improves mucosal visualisation and reduces the need for second-look endoscopy. Ref: HALT-IT Trial Collaborators. *Lancet* 2020; Lau JYW et al. *N Engl J Med* 2020; Gralnek IM et al. *Endoscopy* 2021.
 
 </details>
 
@@ -2371,7 +2890,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** Inflation of the gastric balloon in the oesophagus causes rupture, so position must be confirmed (partial inflation and X-ray) before full inflation and gentle traction. The gastric balloon alone often controls bleeding; the oesophageal balloon is inflated only if bleeding persists, to ~30–40 mmHg, and deflated periodically. Airway protection is recommended because of aspiration risk. Ref: de Franchis R et al. *J Hepatol* 2022 (Baveno VII); Tripathi D et al. *Gut* 2015 (BSG guidelines).
+**A – T, B – F, C – F, D – T.**
+
+Inflation of the gastric balloon in the oesophagus causes rupture, so position must be confirmed (partial inflation and X-ray) before full inflation and gentle traction. The gastric balloon alone often controls bleeding; the oesophageal balloon is inflated only if bleeding persists, to ~30–40 mmHg, and deflated periodically. Airway protection is recommended because of aspiration risk. Ref: de Franchis R et al. *J Hepatol* 2022 (Baveno VII); Tripathi D et al. *Gut* 2015 (BSG guidelines).
 
 </details>
 
@@ -2387,7 +2908,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** Revised Atlanta: mild = no organ failure or local complications; moderately severe = transient organ failure (< 48 h) and/or local or systemic complications; severe = persistent organ failure > 48 h. Organ failure = modified Marshall score ≥ 2 in respiratory, cardiovascular or renal systems. Enzyme levels support the diagnosis but do not predict severity. Ref: Banks PA et al. *Gut* 2013.
+**A – T, B – T, C – T, D – F.**
+
+Revised Atlanta: mild = no organ failure or local complications; moderately severe = transient organ failure (< 48 h) and/or local or systemic complications; severe = persistent organ failure > 48 h. Organ failure = modified Marshall score ≥ 2 in respiratory, cardiovascular or renal systems. Enzyme levels support the diagnosis but do not predict severity. Ref: Banks PA et al. *Gut* 2013.
 
 </details>
 
@@ -2400,7 +2923,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** WATERFALL (2022) was stopped for harm: aggressive Ringer's lactate caused more fluid overload with no benefit. PANTER and TENSION established step-up drainage over primary necrosectomy; POINTER found no advantage of immediate drainage over postponed. APEC (2020) showed no benefit of urgent ERCP in predicted severe biliary pancreatitis without cholangitis. Early enteral nutrition is preferred to PN, and nasogastric feeding is non-inferior to nasojejunal. Ref: de-Madaria E et al. *N Engl J Med* 2022; van Santvoort HC et al. *N Engl J Med* 2010; Schepers NJ et al. *Lancet* 2020.
+**A – T, B – T, C – F, D – T.**
+
+WATERFALL (2022) was stopped for harm: aggressive Ringer's lactate caused more fluid overload with no benefit. PANTER and TENSION established step-up drainage over primary necrosectomy; POINTER found no advantage of immediate drainage over postponed. APEC (2020) showed no benefit of urgent ERCP in predicted severe biliary pancreatitis without cholangitis. Early enteral nutrition is preferred to PN, and nasogastric feeding is non-inferior to nasojejunal. Ref: de-Madaria E et al. *N Engl J Med* 2022; van Santvoort HC et al. *N Engl J Med* 2010; Schepers NJ et al. *Lancet* 2020.
 
 </details>
 
@@ -2417,7 +2942,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** In ALF the INR overestimates bleeding risk: pro- and anticoagulant factors are both reduced and global haemostasis (viscoelastic testing) is usually rebalanced. Prophylactic correction is not recommended; it adds volume, may precipitate thrombosis and removes the INR as a key prognostic marker for transplant listing. Procedures under ultrasound guidance are safe; correct only for active bleeding or high-risk procedures (e.g. ICP bolt). Vitamin K once IV is reasonable to exclude deficiency. Ref: Wendon J et al. *J Hepatol* 2017 (EASL ALF guideline); Stravitz RT et al. *J Hepatol* 2012.
+**A.**
+
+In ALF the INR overestimates bleeding risk: pro- and anticoagulant factors are both reduced and global haemostasis (viscoelastic testing) is usually rebalanced. Prophylactic correction is not recommended; it adds volume, may precipitate thrombosis and removes the INR as a key prognostic marker for transplant listing. Procedures under ultrasound guidance are safe; correct only for active bleeding or high-risk procedures (e.g. ICP bolt). Vitamin K once IV is reasonable to exclude deficiency. Ref: Wendon J et al. *J Hepatol* 2017 (EASL ALF guideline); Stravitz RT et al. *J Hepatol* 2012.
 
 </details>
 
@@ -2431,7 +2958,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Ammonia > 150–200 µmol/L, grade 3–4 encephalopathy, young age and vasopressor need predict cerebral oedema in hyperacute ALF. Hypertonic saline to Na 145–150 mmol/L reduced the incidence and severity of intracranial hypertension in an RCT. Early CRRT also lowers ammonia. Lactulose is ineffective and causes distension; prolonged hyperventilation is reserved for acute surges; steroids are ineffective; a trial of moderate hypothermia (33–34 °C) showed no benefit. Ref: Murphy N et al. *Hepatology* 2004; Bernal W et al. *J Hepatol* 2016; Wendon J et al. *J Hepatol* 2017.
+**B.**
+
+Ammonia > 150–200 µmol/L, grade 3–4 encephalopathy, young age and vasopressor need predict cerebral oedema in hyperacute ALF. Hypertonic saline to Na 145–150 mmol/L reduced the incidence and severity of intracranial hypertension in an RCT. Early CRRT also lowers ammonia. Lactulose is ineffective and causes distension; prolonged hyperventilation is reserved for acute surges; steroids are ineffective; a trial of moderate hypothermia (33–34 °C) showed no benefit. Ref: Murphy N et al. *Hepatology* 2004; Bernal W et al. *J Hepatol* 2016; Wendon J et al. *J Hepatol* 2017.
 
 </details>
 
@@ -2444,7 +2973,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** ALF = coagulopathy (INR ≥ 1.5) and any degree of encephalopathy in a patient without pre-existing liver disease, within 26 weeks; acute severe liver injury without encephalopathy is a separate entity. Wilson's disease, vertically acquired HBV and autoimmune hepatitis are included despite possible pre-existing disease. Hyperacute (< 7 days, typically paracetamol) carries the highest risk of cerebral oedema but the best spontaneous survival; subacute (5–26 weeks) has less cerebral oedema but worse transplant-free survival. Ref: O'Grady JG et al. *Lancet* 1993; Wendon J et al. *J Hepatol* 2017.
+**A – T, B – F, C – F, D – F.**
+
+ALF = coagulopathy (INR ≥ 1.5) and any degree of encephalopathy in a patient without pre-existing liver disease, within 26 weeks; acute severe liver injury without encephalopathy is a separate entity. Wilson's disease, vertically acquired HBV and autoimmune hepatitis are included despite possible pre-existing disease. Hyperacute (< 7 days, typically paracetamol) carries the highest risk of cerebral oedema but the best spontaneous survival; subacute (5–26 weeks) has less cerebral oedema but worse transplant-free survival. Ref: O'Grady JG et al. *Lancet* 1993; Wendon J et al. *J Hepatol* 2017.
 
 </details>
 
@@ -2460,7 +2991,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** HRS-AKI requires cirrhosis with ascites, KDIGO-defined AKI, no response to 2 days of diuretic withdrawal and albumin volume expansion, absence of shock and nephrotoxins, and no signs of structural kidney injury (proteinuria > 500 mg/day, microhaematuria > 50 RBC/hpf, abnormal ultrasound). Intense renal vasoconstriction produces avid sodium retention (UNa usually < 10–20 mmol/L, FeNa < 0.2 %). The 2024 ICA–ADQI update replaced types 1/2 with HRS-AKI and HRS-NAKI. Ref: Nadim MK et al. *J Hepatol* 2024; Angeli P et al. *J Hepatol* 2015.
+**A – T, B – T, C – F, D – F.**
+
+HRS-AKI requires cirrhosis with ascites, KDIGO-defined AKI, no response to 2 days of diuretic withdrawal and albumin volume expansion, absence of shock and nephrotoxins, and no signs of structural kidney injury (proteinuria > 500 mg/day, microhaematuria > 50 RBC/hpf, abnormal ultrasound). Intense renal vasoconstriction produces avid sodium retention (UNa usually < 10–20 mmol/L, FeNa < 0.2 %). The 2024 ICA–ADQI update replaced types 1/2 with HRS-AKI and HRS-NAKI. Ref: Nadim MK et al. *J Hepatol* 2024; Angeli P et al. *J Hepatol* 2015.
 
 </details>
 
@@ -2474,7 +3007,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** HRS-AKI is treated with a vasoconstrictor plus albumin (20–40 g/day): terlipressin (bolus or, increasingly, continuous infusion with fewer adverse effects) or noradrenaline in an ICU setting. CONFIRM (2021) showed more HRS reversal with terlipressin but more respiratory failure, so oxygenation and volume must be monitored (avoid if SpO2 < 90 % or ACLF grade 3 with high creatinine). Transplantation is the definitive treatment. Diuretics are stopped – they worsen renal hypoperfusion. Ref: Wong F et al. *N Engl J Med* 2021 (CONFIRM); EASL. *J Hepatol* 2018.
+**D.**
+
+HRS-AKI is treated with a vasoconstrictor plus albumin (20–40 g/day): terlipressin (bolus or, increasingly, continuous infusion with fewer adverse effects) or noradrenaline in an ICU setting. CONFIRM (2021) showed more HRS reversal with terlipressin but more respiratory failure, so oxygenation and volume must be monitored (avoid if SpO2 < 90 % or ACLF grade 3 with high creatinine). Transplantation is the definitive treatment. Diuretics are stopped – they worsen renal hypoperfusion. Ref: Wong F et al. *N Engl J Med* 2021 (CONFIRM); EASL. *J Hepatol* 2018.
 
 </details>
 
@@ -2488,7 +3023,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** EASL recommends 8 g of albumin per litre removed for paracentesis > 5 L to prevent post-paracentesis circulatory dysfunction (rising renin, hyponatraemia, AKI and mortality). 7 L × 8 g = 56 g ≈ 280 ml of 20 % albumin. Synthetic colloids are less effective and HES is associated with AKI; dilute albumin delivers too much volume and sodium. Ref: EASL. *J Hepatol* 2018 (decompensated cirrhosis guideline); Bernardi M et al. *Hepatology* 2012.
+**B.**
+
+EASL recommends 8 g of albumin per litre removed for paracentesis > 5 L to prevent post-paracentesis circulatory dysfunction (rising renin, hyponatraemia, AKI and mortality). 7 L × 8 g = 56 g ≈ 280 ml of 20 % albumin. Synthetic colloids are less effective and HES is associated with AKI; dilute albumin delivers too much volume and sodium. Ref: EASL. *J Hepatol* 2018 (decompensated cirrhosis guideline); Bernardi M et al. *Hepatology* 2012.
 
 </details>
 
@@ -2502,7 +3039,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** She has acute-on-chronic liver failure with ≥ 3 organ failures (ACLF grade 3). The CLIF-C ACLF score (CLIF-C OF score + age + WBC) predicts 28- and 90-day mortality more accurately than Child–Pugh or MELD; reassessment at days 3–7 refines prognosis and guides decisions about transplant or futility. Maddrey and Glasgow scores guide corticosteroid use in alcoholic hepatitis. Ref: Jalan R et al. *J Hepatol* 2014; EASL. *J Hepatol* 2023 (ACLF guideline).
+**A.**
+
+She has acute-on-chronic liver failure with ≥ 3 organ failures (ACLF grade 3). The CLIF-C ACLF score (CLIF-C OF score + age + WBC) predicts 28- and 90-day mortality more accurately than Child–Pugh or MELD; reassessment at days 3–7 refines prognosis and guides decisions about transplant or futility. Maddrey and Glasgow scores guide corticosteroid use in alcoholic hepatitis. Ref: Jalan R et al. *J Hepatol* 2014; EASL. *J Hepatol* 2023 (ACLF guideline).
 
 </details>
 
@@ -2519,7 +3058,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** IAP 18 mmHg = grade II intra-abdominal hypertension (12–15 grade I, 16–20 grade II, 21–25 grade III, > 25 grade IV). Without new organ dysfunction this is not abdominal compartment syndrome (sustained IAP > 20 mmHg with new organ failure), so medical measures are first: evacuate intraluminal contents, improve wall compliance (analgesia, sedation, avoid head-up > 30°, brief NMB only if needed), drain ascites if present, avoid fluid overload. Decompressive laparotomy is reserved for overt ACS. Ref: Kirkpatrick AW et al. *Intensive Care Med* 2013 (WSACS).
+**B.**
+
+IAP 18 mmHg = grade II intra-abdominal hypertension (12–15 grade I, 16–20 grade II, 21–25 grade III, > 25 grade IV). Without new organ dysfunction this is not abdominal compartment syndrome (sustained IAP > 20 mmHg with new organ failure), so medical measures are first: evacuate intraluminal contents, improve wall compliance (analgesia, sedation, avoid head-up > 30°, brief NMB only if needed), drain ascites if present, avoid fluid overload. Decompressive laparotomy is reserved for overt ACS. Ref: Kirkpatrick AW et al. *Intensive Care Med* 2013 (WSACS).
 
 </details>
 
@@ -2535,7 +3076,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Peripheral veins tolerate only low-osmolarity solutions (< ~850–900 mOsm/L), otherwise thrombophlebitis occurs. In Doig's RCT, caloric restriction for 48 h when refeeding hypophosphataemia developed improved survival. ESPEN advises against early full feeding; when EN is contraindicated, PN should be introduced progressively (hypocaloric < 70 % of energy expenditure early), and in EPaNIC late PN (after day 8) was superior to early PN. Propofol lipid (1.1 kcal/ml) must be counted, and lipid dose adjusted, but it is not a contraindication. Ref: Singer P et al. *Clin Nutr* 2019 and 2023 (ESPEN); Doig GS et al. *Lancet Respir Med* 2015; Casaer MP et al. *N Engl J Med* 2011.
+**A – T, B – T, C – F, D – F.**
+
+Peripheral veins tolerate only low-osmolarity solutions (< ~850–900 mOsm/L), otherwise thrombophlebitis occurs. In Doig's RCT, caloric restriction for 48 h when refeeding hypophosphataemia developed improved survival. ESPEN advises against early full feeding; when EN is contraindicated, PN should be introduced progressively (hypocaloric < 70 % of energy expenditure early), and in EPaNIC late PN (after day 8) was superior to early PN. Propofol lipid (1.1 kcal/ml) must be counted, and lipid dose adjusted, but it is not a contraindication. Ref: Singer P et al. *Clin Nutr* 2019 and 2023 (ESPEN); Doig GS et al. *Lancet Respir Med* 2015; Casaer MP et al. *N Engl J Med* 2011.
 
 </details>
 
@@ -2549,7 +3092,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Propofol 1 % in 10 % lipid emulsion provides ~1.1 kcal/ml: 20 ml/h × 24 h = 480 ml × 1.1 ≈ 530 kcal/day. Together with his feed (1400 kcal) he receives ~1930 kcal – above target. ESPEN recommends counting non-nutritional calories (propofol, glucose infusions, citrate) to avoid overfeeding, and monitoring triglycerides (propofol infusion syndrome and pancreatitis risk). Reducing the feed volume would also lower protein, so a high-protein formula may be needed. Ref: Singer P et al. *Clin Nutr* 2019 (ESPEN); Bousie E et al. *Clin Nutr* 2016.
+**E.**
+
+Propofol 1 % in 10 % lipid emulsion provides ~1.1 kcal/ml: 20 ml/h × 24 h = 480 ml × 1.1 ≈ 530 kcal/day. Together with his feed (1400 kcal) he receives ~1930 kcal – above target. ESPEN recommends counting non-nutritional calories (propofol, glucose infusions, citrate) to avoid overfeeding, and monitoring triglycerides (propofol infusion syndrome and pancreatitis risk). Reducing the feed volume would also lower protein, so a high-protein formula may be needed. Ref: Singer P et al. *Clin Nutr* 2019 (ESPEN); Bousie E et al. *Clin Nutr* 2016.
 
 </details>
 
@@ -2566,7 +3111,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Shock and coagulopathy are major risk factors for clinically important GI bleeding. The 2024 SCCM/ASHP guideline recommends PPI or H2RA prophylaxis for patients with these risk factors, irrespective of enteral feeding; REVISE (2024, 4821 ventilated patients) showed pantoprazole reduced clinically important upper GI bleeding without a mortality difference or significant increase in pneumonia or C. difficile. Sucralfate is less effective; alginates and misoprostol have no role. Stop prophylaxis once risk factors resolve. Ref: MacLaren R et al. *Crit Care Med* 2024; Cook D et al. *N Engl J Med* 2024 (REVISE).
+**C.**
+
+Shock and coagulopathy are major risk factors for clinically important GI bleeding. The 2024 SCCM/ASHP guideline recommends PPI or H2RA prophylaxis for patients with these risk factors, irrespective of enteral feeding; REVISE (2024, 4821 ventilated patients) showed pantoprazole reduced clinically important upper GI bleeding without a mortality difference or significant increase in pneumonia or C. difficile. Sucralfate is less effective; alginates and misoprostol have no role. Stop prophylaxis once risk factors resolve. Ref: MacLaren R et al. *Crit Care Med* 2024; Cook D et al. *N Engl J Med* 2024 (REVISE).
 
 </details>
 
@@ -2582,7 +3129,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** Acid suppression, antibiotics (clindamycin, cephalosporins, fluoroquinolones, co-amoxiclav), age and hospitalisation are risk factors. Hypervirulent ribotype 027 produces binary toxin and more toxin A/B. Spores resist alcohol – soap-and-water hand washing, contact precautions and sporicidal (chlorine) cleaning are needed. Two-step testing (GDH or NAAT followed by toxin EIA) distinguishes infection from colonisation. Ref: McDonald LC et al. *Clin Infect Dis* 2018 (IDSA/SHEA); Crobach MJT et al. *Clin Microbiol Infect* 2016 (ESCMID).
+**A – T, B – T, C – F, D – T.**
+
+Acid suppression, antibiotics (clindamycin, cephalosporins, fluoroquinolones, co-amoxiclav), age and hospitalisation are risk factors. Hypervirulent ribotype 027 produces binary toxin and more toxin A/B. Spores resist alcohol – soap-and-water hand washing, contact precautions and sporicidal (chlorine) cleaning are needed. Two-step testing (GDH or NAAT followed by toxin EIA) distinguishes infection from colonisation. Ref: McDonald LC et al. *Clin Infect Dis* 2018 (IDSA/SHEA); Crobach MJT et al. *Clin Microbiol Infect* 2016 (ESCMID).
 
 </details>
 
@@ -2596,7 +3145,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Fulminant CDI (hypotension, ileus, megacolon) is treated with high-dose enteral vancomycin – via NG tube and, with ileus, as a retention enema – plus IV metronidazole (which reaches the colon via biliary excretion and inflamed mucosa), with early surgical review for colectomy or loop ileostomy with lavage. IV vancomycin does not reach the colonic lumen. Fidaxomicin is first-line for non-fulminant episodes but has limited data in fulminant disease; FMT is used for recurrences or refractory cases. Ref: Johnson S et al. *Clin Infect Dis* 2021 (IDSA/SHEA update); van Prehn J et al. *Clin Microbiol Infect* 2021 (ESCMID).
+**D.**
+
+Fulminant CDI (hypotension, ileus, megacolon) is treated with high-dose enteral vancomycin – via NG tube and, with ileus, as a retention enema – plus IV metronidazole (which reaches the colon via biliary excretion and inflamed mucosa), with early surgical review for colectomy or loop ileostomy with lavage. IV vancomycin does not reach the colonic lumen. Fidaxomicin is first-line for non-fulminant episodes but has limited data in fulminant disease; FMT is used for recurrences or refractory cases. Ref: Johnson S et al. *Clin Infect Dis* 2021 (IDSA/SHEA update); van Prehn J et al. *Clin Microbiol Infect* 2021 (ESCMID).
 
 </details>
 
@@ -2612,7 +3163,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** TRISS (n = 1005) showed no mortality difference and halved transfusion use. MINT (n = 3504) found a non-significant trend towards fewer events with a liberal strategy (16.9 % vs 14.5 %; RR 1.15, p = 0.07) – so a liberal approach is reasonable but not proven. TRAIN (2024) found fewer unfavourable 180-day outcomes with a 90 g/L threshold in TBI, SAH and ICH; HEMOTION (TBI) showed a non-significant trend in the same direction. TRICS-III showed non-inferiority of restrictive transfusion. Ref: Holst LB et al. *N Engl J Med* 2014; Carson JL et al. *N Engl J Med* 2023; Taccone FS et al. *JAMA* 2024; Mazer CD et al. *N Engl J Med* 2017.
+**A – T, B – F, C – T, D – F.**
+
+TRISS (n = 1005) showed no mortality difference and halved transfusion use. MINT (n = 3504) found a non-significant trend towards fewer events with a liberal strategy (16.9 % vs 14.5 %; RR 1.15, p = 0.07) – so a liberal approach is reasonable but not proven. TRAIN (2024) found fewer unfavourable 180-day outcomes with a 90 g/L threshold in TBI, SAH and ICH; HEMOTION (TBI) showed a non-significant trend in the same direction. TRICS-III showed non-inferiority of restrictive transfusion. Ref: Holst LB et al. *N Engl J Med* 2014; Carson JL et al. *N Engl J Med* 2023; Taccone FS et al. *JAMA* 2024; Mazer CD et al. *N Engl J Med* 2017.
 
 </details>
 
@@ -2628,7 +3181,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Cryoprecipitate contains fibrinogen, FVIII, FXIII, vWF and fibronectin; fibrinogen concentrate is purified fibrinogen (FXIII only in small amounts). 4F-PCC contains II, VII, IX, X (plus protein C/S); 3F-PCC lacks adequate FVII. Calcium is a cofactor for several clotting steps and hypocalcaemia (frequent with citrated products) independently predicts mortality in major haemorrhage – keep iCa > 1.1 mmol/L. Ref: Rossaint R et al. *Crit Care* 2023 (European trauma bleeding guideline); Stanworth SJ et al. *Br J Haematol* 2022 (BSH major haemorrhage).
+**A – T, B – T, C – F, D – F.**
+
+Cryoprecipitate contains fibrinogen, FVIII, FXIII, vWF and fibronectin; fibrinogen concentrate is purified fibrinogen (FXIII only in small amounts). 4F-PCC contains II, VII, IX, X (plus protein C/S); 3F-PCC lacks adequate FVII. Calcium is a cofactor for several clotting steps and hypocalcaemia (frequent with citrated products) independently predicts mortality in major haemorrhage – keep iCa > 1.1 mmol/L. Ref: Rossaint R et al. *Crit Care* 2023 (European trauma bleeding guideline); Stanworth SJ et al. *Br J Haematol* 2022 (BSH major haemorrhage).
 
 </details>
 
@@ -2641,7 +3196,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** The 4Ts (thrombocytopenia, timing, thrombosis, other causes) has an NPV > 99 % when low. With intermediate/high probability, stop all heparin (including flushes) and start a non-heparin anticoagulant (argatroban, bivalirudin, fondaparinux or a DOAC). An inhibitor (autoantibody to FVIII) prevents APTT correction on mixing, unlike factor deficiency. Warfarin started in acute HIT causes protein C depletion and venous limb gangrene – start only once platelets recover (> 150 × 10⁹/L) with overlap. Ref: Cuker A et al. *Blood Adv* 2018 (ASH HIT guideline); Tiede A et al. *Haematologica* 2020.
+**A – T, B – T, C – T, D – F.**
+
+The 4Ts (thrombocytopenia, timing, thrombosis, other causes) has an NPV > 99 % when low. With intermediate/high probability, stop all heparin (including flushes) and start a non-heparin anticoagulant (argatroban, bivalirudin, fondaparinux or a DOAC). An inhibitor (autoantibody to FVIII) prevents APTT correction on mixing, unlike factor deficiency. Warfarin started in acute HIT causes protein C depletion and venous limb gangrene – start only once platelets recover (> 150 × 10⁹/L) with overlap. Ref: Cuker A et al. *Blood Adv* 2018 (ASH HIT guideline); Tiede A et al. *Haematologica* 2020.
 
 </details>
 
@@ -2657,7 +3214,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Removal follows first-order kinetics: one plasma volume removes ~63 %, 1.5 volumes ~78 %. ASFA 2023 category I indications include TTP, GBS, myasthenia gravis, anti-GBM disease and hyperviscosity; sepsis is category III (individualised). Drugs with small Vd and high protein binding are removed by TPE, so they are given after a session. Albumin replacement depletes coagulation factors and fibrinogen (and immunoglobulins), sometimes requiring plasma for the last part of the exchange. Ref: Connelly-Smith L et al. *J Clin Apher* 2023 (ASFA guidelines).
+**A – T, B – F, C – F, D – F.**
+
+Removal follows first-order kinetics: one plasma volume removes ~63 %, 1.5 volumes ~78 %. ASFA 2023 category I indications include TTP, GBS, myasthenia gravis, anti-GBM disease and hyperviscosity; sepsis is category III (individualised). Drugs with small Vd and high protein binding are removed by TPE, so they are given after a session. Albumin replacement depletes coagulation factors and fibrinogen (and immunoglobulins), sometimes requiring plasma for the last part of the exchange. Ref: Connelly-Smith L et al. *J Clin Apher* 2023 (ASFA guidelines).
 
 </details>
 
@@ -2670,7 +3229,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Immune TTP is caused by autoantibodies against ADAMTS13 (vWF-cleaving protease), producing ultra-large vWF multimers and platelet microthrombi. Diagnosis rests on microangiopathic haemolytic anaemia, thrombocytopenia and ADAMTS13 < 10 %; PLASMIC (score 6–7 = high probability) guides empirical treatment while awaiting results. Haemolysis is DAT-negative. Renal impairment is usually mild – severe AKI suggests HUS or complement-mediated TMA. Ref: Zheng XL et al. *J Thromb Haemost* 2020 (ISTH); Bendapudi PK et al. *Lancet Haematol* 2017.
+**A – T, B – T, C – F, D – F.**
+
+Immune TTP is caused by autoantibodies against ADAMTS13 (vWF-cleaving protease), producing ultra-large vWF multimers and platelet microthrombi. Diagnosis rests on microangiopathic haemolytic anaemia, thrombocytopenia and ADAMTS13 < 10 %; PLASMIC (score 6–7 = high probability) guides empirical treatment while awaiting results. Haemolysis is DAT-negative. Renal impairment is usually mild – severe AKI suggests HUS or complement-mediated TMA. Ref: Zheng XL et al. *J Thromb Haemost* 2020 (ISTH); Bendapudi PK et al. *Lancet Haematol* 2017.
 
 </details>
 
@@ -2683,7 +3244,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** Standard immune TTP treatment is daily plasma exchange (with plasma as replacement), corticosteroids, rituximab and caplacizumab (anti-vWF nanobody blocking vWF–platelet interaction; HERCULES). Caplacizumab causes mild bleeding (gingival, epistaxis) through vWF inhibition. Recombinant ADAMTS13 is licensed for congenital TTP; in immune TTP it is still investigational. Platelet transfusion is avoided unless life-threatening bleeding. Ref: Scully M et al. *N Engl J Med* 2019 (HERCULES); Zheng XL et al. *J Thromb Haemost* 2020.
+**A – T, B – T, C – T, D – F.**
+
+Standard immune TTP treatment is daily plasma exchange (with plasma as replacement), corticosteroids, rituximab and caplacizumab (anti-vWF nanobody blocking vWF–platelet interaction; HERCULES). Caplacizumab causes mild bleeding (gingival, epistaxis) through vWF inhibition. Recombinant ADAMTS13 is licensed for congenital TTP; in immune TTP it is still investigational. Platelet transfusion is avoided unless life-threatening bleeding. Ref: Scully M et al. *N Engl J Med* 2019 (HERCULES); Zheng XL et al. *J Thromb Haemost* 2020.
 
 </details>
 
@@ -2699,7 +3262,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** D-dimer is used only to exclude PE in low/intermediate (PE-unlikely) probability; high-probability patients go straight to imaging. The age-adjusted cut-off (ADJUST-PE) safely increases the number of patients in whom PE can be excluded. CTPA is acceptable in pregnancy (low fetal dose; pregnancy-adapted YEARS reduces imaging). Caravaggio showed apixaban non-inferior to dalteparin without more major bleeding; DOACs are now first-line for most cancer-associated VTE (caution in luminal GI/GU cancers). Ref: Konstantinides SV et al. *Eur Heart J* 2020 (ESC 2019 PE guideline); Agnelli G et al. *N Engl J Med* 2020.
+**A – T, B – F, C – F, D – T.**
+
+D-dimer is used only to exclude PE in low/intermediate (PE-unlikely) probability; high-probability patients go straight to imaging. The age-adjusted cut-off (ADJUST-PE) safely increases the number of patients in whom PE can be excluded. CTPA is acceptable in pregnancy (low fetal dose; pregnancy-adapted YEARS reduces imaging). Caravaggio showed apixaban non-inferior to dalteparin without more major bleeding; DOACs are now first-line for most cancer-associated VTE (caution in luminal GI/GU cancers). Ref: Konstantinides SV et al. *Eur Heart J* 2020 (ESC 2019 PE guideline); Agnelli G et al. *N Engl J Med* 2020.
 
 </details>
 
@@ -2712,7 +3277,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** Filters are reserved for patients with acute VTE who cannot be anticoagulated (here, an intracranial bleed) or rarely for recurrence despite therapeutic anticoagulation. PREPIC2 (n = 399) found no reduction in recurrent PE. Filters increase later DVT and have complications (thrombosis, migration, fracture), so anticoagulation should be started when safe and retrievable filters removed. A prophylactic filter in major trauma did not reduce PE or death at 90 days (Ho et al. 2019). Ref: Mismetti P et al. *JAMA* 2015 (PREPIC2); Ho KM et al. *N Engl J Med* 2019; Konstantinides SV et al. *Eur Heart J* 2020.
+**A – T, B – T, C – T, D – T.**
+
+Filters are reserved for patients with acute VTE who cannot be anticoagulated (here, an intracranial bleed) or rarely for recurrence despite therapeutic anticoagulation. PREPIC2 (n = 399) found no reduction in recurrent PE. Filters increase later DVT and have complications (thrombosis, migration, fracture), so anticoagulation should be started when safe and retrievable filters removed. A prophylactic filter in major trauma did not reduce PE or death at 90 days (Ho et al. 2019). Ref: Mismetti P et al. *JAMA* 2015 (PREPIC2); Ho KM et al. *N Engl J Med* 2019; Konstantinides SV et al. *Eur Heart J* 2020.
 
 </details>
 
@@ -2729,7 +3296,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** A low EXTEM A5 with a low FIBTEM A5 (< 7–9 mm) indicates impaired clot firmness due to fibrinogen deficiency (FIBTEM removes the platelet contribution). A normal clotting time argues against significant factor deficiency (plasma), adequate platelet count with low FIBTEM points away from platelets, normal lysis means no extra antifibrinolytic, and there is no heparin effect (INTEM/HEPTEM would show it). European guidance recommends fibrinogen concentrate or cryoprecipitate for FIBTEM-defined hypofibrinogenaemia or fibrinogen < 1.5 g/L. Ref: Rossaint R et al. *Crit Care* 2023.
+**A.**
+
+A low EXTEM A5 with a low FIBTEM A5 (< 7–9 mm) indicates impaired clot firmness due to fibrinogen deficiency (FIBTEM removes the platelet contribution). A normal clotting time argues against significant factor deficiency (plasma), adequate platelet count with low FIBTEM points away from platelets, normal lysis means no extra antifibrinolytic, and there is no heparin effect (INTEM/HEPTEM would show it). European guidance recommends fibrinogen concentrate or cryoprecipitate for FIBTEM-defined hypofibrinogenaemia or fibrinogen < 1.5 g/L. Ref: Rossaint R et al. *Crit Care* 2023.
 
 </details>
 
@@ -2742,7 +3311,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** R = time to initial fibrin formation (factors, heparin); comparison with a heparinase cup isolates heparin effect. MA reflects clot strength (≈ 80 % platelets, 20 % fibrinogen); a functional fibrinogen assay separates the two. LY30 > 3 % (TEG) indicates fibrinolysis in trauma. Thrombin generated in standard assays overrides the thromboxane and ADP pathways, so aspirin and clopidogrel effects are missed unless platelet mapping is used. Ref: Bolliger D et al. *Transfus Med Rev* 2012; Wikkelsø A et al. *Cochrane Database Syst Rev* 2016.
+**A – T, B – T, C – T, D – T.**
+
+R = time to initial fibrin formation (factors, heparin); comparison with a heparinase cup isolates heparin effect. MA reflects clot strength (≈ 80 % platelets, 20 % fibrinogen); a functional fibrinogen assay separates the two. LY30 > 3 % (TEG) indicates fibrinolysis in trauma. Thrombin generated in standard assays overrides the thromboxane and ADP pathways, so aspirin and clopidogrel effects are missed unless platelet mapping is used. Ref: Bolliger D et al. *Transfus Med Rev* 2012; Wikkelsø A et al. *Cochrane Database Syst Rev* 2016.
 
 </details>
 
@@ -2755,7 +3326,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** ITACTIC (n = 396) found no difference in patients alive and free of massive transfusion at 24 h. Meta-analyses (mainly cardiac surgery) show VHA-guided algorithms reduce transfusion of plasma and platelets, with low-certainty evidence on mortality. DOAC effects are detected inconsistently (dedicated assays such as anti-Xa levels are needed). Samples are warmed to 37 °C, so hypothermia-induced enzyme slowing is masked unless the analyser temperature is set to the patient's. Ref: Baksaas-Aasen K et al. *Intensive Care Med* 2021 (ITACTIC); Wikkelsø A et al. *Cochrane Database Syst Rev* 2016.
+**A – T, B – T, C – F, D – F.**
+
+ITACTIC (n = 396) found no difference in patients alive and free of massive transfusion at 24 h. Meta-analyses (mainly cardiac surgery) show VHA-guided algorithms reduce transfusion of plasma and platelets, with low-certainty evidence on mortality. DOAC effects are detected inconsistently (dedicated assays such as anti-Xa levels are needed). Samples are warmed to 37 °C, so hypothermia-induced enzyme slowing is masked unless the analyser temperature is set to the patient's. Ref: Baksaas-Aasen K et al. *Intensive Care Med* 2021 (ITACTIC); Wikkelsø A et al. *Cochrane Database Syst Rev* 2016.
 
 </details>
 
@@ -2768,7 +3341,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** CRASH-2 showed reduced bleeding deaths when TXA is given within 3 h (harm after 3 h). Hypocalcaemia from citrate is common and should be corrected. The European guideline recommends fibrinogen replacement when < 1.5 g/L or VHA signs of deficiency, and an Hb target of 70–90 g/L during bleeding. Ref: CRASH-2 Collaborators. *Lancet* 2010; Rossaint R et al. *Crit Care* 2023.
+**A – T, B – T, C – T, D – F.**
+
+CRASH-2 showed reduced bleeding deaths when TXA is given within 3 h (harm after 3 h). Hypocalcaemia from citrate is common and should be corrected. The European guideline recommends fibrinogen replacement when < 1.5 g/L or VHA signs of deficiency, and an Hb target of 70–90 g/L during bleeding. Ref: CRASH-2 Collaborators. *Lancet* 2010; Rossaint R et al. *Crit Care* 2023.
 
 </details>
 
@@ -2784,7 +3359,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** ISS (range 1–75) uses six body regions; ISS > 15 defines major trauma. An AIS 6 (currently untreatable) injury sets ISS to 75. NISS counts multiple severe injuries in one region (e.g. several abdominal injuries) and predicts mortality slightly better. RTS is a weighted physiological score; TRISS combines ISS, RTS, age and blunt/penetrating mechanism to estimate probability of survival. Ref: Baker SP et al. *J Trauma* 1974; Osler T et al. *J Trauma* 1997; Boyd CR et al. *J Trauma* 1987.
+**A – T, B – T, C – T, D – T.**
+
+ISS (range 1–75) uses six body regions; ISS > 15 defines major trauma. An AIS 6 (currently untreatable) injury sets ISS to 75. NISS counts multiple severe injuries in one region (e.g. several abdominal injuries) and predicts mortality slightly better. RTS is a weighted physiological score; TRISS combines ISS, RTS, age and blunt/penetrating mechanism to estimate probability of survival. Ref: Baker SP et al. *J Trauma* 1974; Osler T et al. *J Trauma* 1997; Boyd CR et al. *J Trauma* 1987.
 
 </details>
 
@@ -2797,7 +3374,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** NEXUS (five criteria) and the Canadian C-spine rule (high-risk factors: age ≥ 65, dangerous mechanism, paraesthesia; then low-risk factors permitting range-of-motion assessment) identify patients who need no imaging; the Canadian rule is more sensitive and specific. Both apply only to alert, stable patients (GCS 15). CT is first-line in adults; flexion-extension views add little and are not recommended. Ref: Hoffman JR et al. *N Engl J Med* 2000; Stiell IG et al. *N Engl J Med* 2003; NICE NG232 2023.
+**A – T, B – T, C – F, D – F.**
+
+NEXUS (five criteria) and the Canadian C-spine rule (high-risk factors: age ≥ 65, dangerous mechanism, paraesthesia; then low-risk factors permitting range-of-motion assessment) identify patients who need no imaging; the Canadian rule is more sensitive and specific. Both apply only to alert, stable patients (GCS 15). CT is first-line in adults; flexion-extension views add little and are not recommended. Ref: Hoffman JR et al. *N Engl J Med* 2000; Stiell IG et al. *N Engl J Med* 2003; NICE NG232 2023.
 
 </details>
 
@@ -2811,7 +3390,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Orbital compartment syndrome (usually retrobulbar haematoma) causes irreversible optic nerve ischaemia within ~90–120 min. Proptosis, a tense orbit, raised IOP (> 40 mmHg) and an afferent pupillary defect mandate immediate lateral canthotomy and cantholysis; imaging must not delay decompression. Medical measures (acetazolamide, mannitol) are adjuncts only. Ocular massage is contraindicated; ICP monitoring does not address the orbit. Ref: Lima V et al. *Surv Ophthalmol* 2009.
+**E.**
+
+Orbital compartment syndrome (usually retrobulbar haematoma) causes irreversible optic nerve ischaemia within ~90–120 min. Proptosis, a tense orbit, raised IOP (> 40 mmHg) and an afferent pupillary defect mandate immediate lateral canthotomy and cantholysis; imaging must not delay decompression. Medical measures (acetazolamide, mannitol) are adjuncts only. Ocular massage is contraindicated; ICP monitoring does not address the orbit. Ref: Lima V et al. *Surv Ophthalmol* 2009.
 
 </details>
 
@@ -2827,7 +3408,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Permissive hypotension (SBP 80–90 mmHg) is acceptable until bleeding is controlled except with severe TBI, where MAP ≥ 80 mmHg is recommended to protect cerebral perfusion. TXA should be given early (each 15 min delay reduces benefit). Idarucizumab reverses only dabigatran; for apixaban use andexanet alfa or PCC. PROPPR showed no difference in 24-h or 30-day mortality, although 1:1:1 achieved haemostasis more often and reduced exsanguination deaths at 24 h. Ref: Rossaint R et al. *Crit Care* 2023; Holcomb JB et al. *JAMA* 2015 (PROPPR).
+**A – T, B – T, C – F, D – F.**
+
+Permissive hypotension (SBP 80–90 mmHg) is acceptable until bleeding is controlled except with severe TBI, where MAP ≥ 80 mmHg is recommended to protect cerebral perfusion. TXA should be given early (each 15 min delay reduces benefit). Idarucizumab reverses only dabigatran; for apixaban use andexanet alfa or PCC. PROPPR showed no difference in 24-h or 30-day mortality, although 1:1:1 achieved haemostasis more often and reduced exsanguination deaths at 24 h. Ref: Rossaint R et al. *Crit Care* 2023; Holcomb JB et al. *JAMA* 2015 (PROPPR).
 
 </details>
 
@@ -2840,7 +3423,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** CRASH-3 (12 737 patients) showed reduced head-injury death in mild-moderate TBI treated within 3 h, but not in severe TBI (GCS 3 or bilateral unreactive pupils). PATCH-Trauma (2023) showed no improvement in favourable GOS-E at 6 months, although 24-h and 28-day mortality were lower. CRASH-2 exploratory analysis found benefit within 1 h, less at 1–3 h and harm after 3 h. CRASH-1 (methylprednisolone) increased mortality. Ref: CRASH-3 Collaborators. *Lancet* 2019; PATCH-Trauma Investigators. *N Engl J Med* 2023; CRASH-2 Collaborators. *Lancet* 2011.
+**A – T, B – T, C – T, D – F.**
+
+CRASH-3 (12 737 patients) showed reduced head-injury death in mild-moderate TBI treated within 3 h, but not in severe TBI (GCS 3 or bilateral unreactive pupils). PATCH-Trauma (2023) showed no improvement in favourable GOS-E at 6 months, although 24-h and 28-day mortality were lower. CRASH-2 exploratory analysis found benefit within 1 h, less at 1–3 h and harm after 3 h. CRASH-1 (methylprednisolone) increased mortality. Ref: CRASH-3 Collaborators. *Lancet* 2019; PATCH-Trauma Investigators. *N Engl J Med* 2023; CRASH-2 Collaborators. *Lancet* 2011.
 
 </details>
 
@@ -2857,7 +3442,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Elderly patients with ≥ 3 rib fractures have high morbidity; effective regional analgesia improves cough and reduces pulmonary complications. With recent apixaban, neuraxial and deep blocks (epidural, paravertebral) are contraindicated under ASRA/ESAIC guidance, whereas superficial fascial plane blocks (erector spinae, serratus anterior) are compressible and considered acceptable. Escalating opioids plus sedatives risks hypoventilation; nitrous oxide can enlarge an occult pneumothorax. Ref: Horlocker TT et al. *Reg Anesth Pain Med* 2018; Kietaibl S et al. *Eur J Anaesthesiol* 2022.
+**B.**
+
+Elderly patients with ≥ 3 rib fractures have high morbidity; effective regional analgesia improves cough and reduces pulmonary complications. With recent apixaban, neuraxial and deep blocks (epidural, paravertebral) are contraindicated under ASRA/ESAIC guidance, whereas superficial fascial plane blocks (erector spinae, serratus anterior) are compressible and considered acceptable. Escalating opioids plus sedatives risks hypoventilation; nitrous oxide can enlarge an occult pneumothorax. Ref: Horlocker TT et al. *Reg Anesth Pain Med* 2018; Kietaibl S et al. *Eur J Anaesthesiol* 2022.
 
 </details>
 
@@ -2870,7 +3457,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** ATLS 10 moved adult needle decompression to the 4th/5th ICS anterior to the mid-axillary line because the chest wall is thinner there. Massive haemothorax (≥ 1500 ml immediately or > 200 ml/h for 2–4 h) prompts thoracotomy. Aortic injury and diaphragmatic injury are secondary-survey diagnoses requiring CT; a supine CXR can be normal in aortic injury. Primary-survey thoracic problems are airway obstruction, tension/open pneumothorax, massive haemothorax, flail chest with contusion and cardiac tamponade. Ref: American College of Surgeons. *ATLS Student Course Manual*, 10th ed. 2018; ATLS Subcommittee. *J Trauma Acute Care Surg* 2013.
+**A – T, B – F, C – F, D – F.**
+
+ATLS 10 moved adult needle decompression to the 4th/5th ICS anterior to the mid-axillary line because the chest wall is thinner there. Massive haemothorax (≥ 1500 ml immediately or > 200 ml/h for 2–4 h) prompts thoracotomy. Aortic injury and diaphragmatic injury are secondary-survey diagnoses requiring CT; a supine CXR can be normal in aortic injury. Primary-survey thoracic problems are airway obstruction, tension/open pneumothorax, massive haemothorax, flail chest with contusion and cardiac tamponade. Ref: American College of Surgeons. *ATLS Student Course Manual*, 10th ed. 2018; ATLS Subcommittee. *J Trauma Acute Care Surg* 2013.
 
 </details>
 
@@ -2883,7 +3472,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** The modern "no-zone" approach (WTA 2019) bases management on clinical signs rather than anatomical zones: hard signs → operating room; soft signs (minor haematoma, dysphonia, dysphagia, minor emphysema) or no signs → multidetector CTA, followed by endoscopy if aerodigestive injury is suspected. Mandatory exploration of zone II produced high negative exploration rates. Ref: Sperry JL et al. *J Trauma Acute Care Surg* 2019 (WTA algorithm).
+**A – T, B – F, C – F, D – T.**
+
+The modern "no-zone" approach (WTA 2019) bases management on clinical signs rather than anatomical zones: hard signs → operating room; soft signs (minor haematoma, dysphonia, dysphagia, minor emphysema) or no signs → multidetector CTA, followed by endoscopy if aerodigestive injury is suspected. Mandatory exploration of zone II produced high negative exploration rates. Ref: Sperry JL et al. *J Trauma Acute Care Surg* 2019 (WTA algorithm).
 
 </details>
 
@@ -2899,7 +3490,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** The patient's palm including the fingers ≈ 1 % TBSA (palm alone ≈ 0.5 %). Parkland = 4 ml/kg/%TBSA; modified Brooke = 2 ml/kg/%TBSA; current ABA guidance suggests starting at 2–4 ml/kg/%TBSA and titrating. Revised Baux = age + %TBSA + 17 for inhalation injury. Erythema (superficial epidermal) burns are excluded from TBSA. Ref: Osler T et al. *J Trauma* 2010; Pham TN et al. *J Burn Care Res* 2008; ISBI Practice Guidelines Committee. *Burns* 2016.
+**A – F, B – F, C – F, D – F.**
+
+The patient's palm including the fingers ≈ 1 % TBSA (palm alone ≈ 0.5 %). Parkland = 4 ml/kg/%TBSA; modified Brooke = 2 ml/kg/%TBSA; current ABA guidance suggests starting at 2–4 ml/kg/%TBSA and titrating. Revised Baux = age + %TBSA + 17 for inhalation injury. Erythema (superficial epidermal) burns are excluded from TBSA. Ref: Osler T et al. *J Trauma* 2010; Pham TN et al. *J Burn Care Res* 2008; ISBI Practice Guidelines Committee. *Burns* 2016.
 
 </details>
 
@@ -2913,7 +3506,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Airway oedema peaks at 12–36 h and intubation becomes progressively harder, so early intubation (with an uncut tube) is indicated for signs of airway obstruction (stridor, voice change, progressive swelling), deep facial/circumferential neck burns, reduced consciousness or respiratory failure. Singed nasal hair or facial burns alone are not an indication; such patients need close observation, and many are intubated unnecessarily – unnecessary intubation has its own harms. Fibreoptic laryngoscopy helps when uncertain. Ref: Walker PF et al. *Crit Care* 2015; Romanowski KS et al. *J Burn Care Res* 2016.
+**C.**
+
+Airway oedema peaks at 12–36 h and intubation becomes progressively harder, so early intubation (with an uncut tube) is indicated for signs of airway obstruction (stridor, voice change, progressive swelling), deep facial/circumferential neck burns, reduced consciousness or respiratory failure. Singed nasal hair or facial burns alone are not an indication; such patients need close observation, and many are intubated unnecessarily – unnecessary intubation has its own harms. Fibreoptic laryngoscopy helps when uncertain. Ref: Walker PF et al. *Crit Care* 2015; Romanowski KS et al. *J Burn Care Res* 2016.
 
 </details>
 
@@ -2926,7 +3521,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** In infants the head is ~18–20 % TBSA and the legs proportionally smaller, so the rule of nines overestimates or underestimates – use Lund–Browder. Children need resuscitation from > 10 % TBSA (adults > 15–20 %), plus glucose-containing maintenance because of limited glycogen stores. Superficial partial-thickness burns are moist, pink, blanch and are painful; deep partial-thickness burns are blotchy, with sluggish or absent capillary refill and reduced sensation. Ref: ISBI Practice Guidelines Committee. *Burns* 2016; Jeschke MG et al. *Nat Rev Dis Primers* 2020.
+**A – T, B – T, C – T, D – F.**
+
+In infants the head is ~18–20 % TBSA and the legs proportionally smaller, so the rule of nines overestimates or underestimates – use Lund–Browder. Children need resuscitation from > 10 % TBSA (adults > 15–20 %), plus glucose-containing maintenance because of limited glycogen stores. Superficial partial-thickness burns are moist, pink, blanch and are painful; deep partial-thickness burns are blotchy, with sluggish or absent capillary refill and reduced sensation. Ref: ISBI Practice Guidelines Committee. *Burns* 2016; Jeschke MG et al. *Nat Rev Dis Primers* 2020.
 
 </details>
 
@@ -2940,7 +3537,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Formulae only give a starting rate; fluids should be titrated hourly to a urine output of ~0.5 ml/kg/h (≈ 30–50 ml/h) in adults (1 ml/kg/h in children). Persistently high urine output indicates over-resuscitation ("fluid creep"), which causes abdominal and extremity compartment syndromes, pulmonary oedema and conversion of wound depth. Tachycardia is expected in burn shock and is a poor guide; CVP-targeted resuscitation increases fluid loading. Albumin as rescue may be considered when requirements escalate, not with an excessive urine output. Ref: Pham TN et al. *J Burn Care Res* 2008 (ABA guidelines); ISBI Practice Guidelines Committee. *Burns* 2016.
+**D.**
+
+Formulae only give a starting rate; fluids should be titrated hourly to a urine output of ~0.5 ml/kg/h (≈ 30–50 ml/h) in adults (1 ml/kg/h in children). Persistently high urine output indicates over-resuscitation ("fluid creep"), which causes abdominal and extremity compartment syndromes, pulmonary oedema and conversion of wound depth. Tachycardia is expected in burn shock and is a poor guide; CVP-targeted resuscitation increases fluid loading. Albumin as rescue may be considered when requirements escalate, not with an excessive urine output. Ref: Pham TN et al. *J Burn Care Res* 2008 (ABA guidelines); ISBI Practice Guidelines Committee. *Burns* 2016.
 
 </details>
 
@@ -2956,7 +3555,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** ΔP = diastolic pressure − compartment pressure < 30 mmHg (McQueen) is the most used threshold, especially valuable in obtunded patients where pain (the key early clinical sign, particularly on passive stretch) cannot be assessed – continuous pressure monitoring is advised. Tibial fractures account for ~40 % of cases. Elevation reduces arterial inflow; the limb should be kept at heart level, with circumferential dressings removed and urgent fasciotomy if confirmed. Ref: McQueen MM, Court-Brown CM. *J Bone Joint Surg Br* 1996; von Keudell AG et al. *Lancet* 2015.
+**A – T, B – T, C – F, D – T.**
+
+ΔP = diastolic pressure − compartment pressure < 30 mmHg (McQueen) is the most used threshold, especially valuable in obtunded patients where pain (the key early clinical sign, particularly on passive stretch) cannot be assessed – continuous pressure monitoring is advised. Tibial fractures account for ~40 % of cases. Elevation reduces arterial inflow; the limb should be kept at heart level, with circumferential dressings removed and urgent fasciotomy if confirmed. Ref: McQueen MM, Court-Brown CM. *J Bone Joint Surg Br* 1996; von Keudell AG et al. *Lancet* 2015.
 
 </details>
 
@@ -2972,7 +3573,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** She has ingested ~78 mg/kg elemental iron (3900 mg/50 kg): < 20 mg/kg rarely causes toxicity, 20–60 mg/kg moderate, > 60 mg/kg potentially severe. Serum iron should be measured at ~4 h (peak 4–6 h; later for modified-release). Desferrioxamine is given for severe toxicity (shock, acidosis, altered consciousness) or high levels; ferrioxamine is renally excreted and colours the urine. Infusions beyond 24 h are linked to pulmonary toxicity. Activated charcoal does not bind iron; whole-bowel irrigation is considered if many tablets are visible on X-ray. Ref: Chang TP, Rangan C. *Pediatr Emerg Care* 2011; Manoguerra AS et al. *Clin Toxicol* 2005.
+**A – T, B – F, C – T, D – T.**
+
+She has ingested ~78 mg/kg elemental iron (3900 mg/50 kg): < 20 mg/kg rarely causes toxicity, 20–60 mg/kg moderate, > 60 mg/kg potentially severe. Serum iron should be measured at ~4 h (peak 4–6 h; later for modified-release). Desferrioxamine is given for severe toxicity (shock, acidosis, altered consciousness) or high levels; ferrioxamine is renally excreted and colours the urine. Infusions beyond 24 h are linked to pulmonary toxicity. Activated charcoal does not bind iron; whole-bowel irrigation is considered if many tablets are visible on X-ray. Ref: Chang TP, Rangan C. *Pediatr Emerg Care* 2011; Manoguerra AS et al. *Clin Toxicol* 2005.
 
 </details>
 
@@ -2985,7 +3588,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** Hydroxocobalamin is first-line for cyanide (with sodium thiosulfate as adjunct). Methylene blue treats methaemoglobinaemia but is ineffective and can cause haemolysis in G6PD deficiency – exchange transfusion or ascorbic acid are alternatives. Flumazenil can precipitate seizures in mixed overdoses (TCA, benzodiazepine dependence) and is not used routinely. Tramadol seizures are serotonergic/monoaminergic; naloxone does not prevent them – use benzodiazepines. Ref: Dart RC et al. *Ann Emerg Med* 2018 (antidote stocking consensus); Jang DH, Hoffman RS. *Ann Emerg Med* 2011 (methylene blue).
+**A – F, B – F, C – F, D – F.**
+
+Hydroxocobalamin is first-line for cyanide (with sodium thiosulfate as adjunct). Methylene blue treats methaemoglobinaemia but is ineffective and can cause haemolysis in G6PD deficiency – exchange transfusion or ascorbic acid are alternatives. Flumazenil can precipitate seizures in mixed overdoses (TCA, benzodiazepine dependence) and is not used routinely. Tramadol seizures are serotonergic/monoaminergic; naloxone does not prevent them – use benzodiazepines. Ref: Dart RC et al. *Ann Emerg Med* 2018 (antidote stocking consensus); Jang DH, Hoffman RS. *Ann Emerg Med* 2011 (methylene blue).
 
 </details>
 
@@ -3001,7 +3606,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** Since 2012 the MHRA uses a single 100 mg/L line because "high-risk" factors (enzyme inducers, alcohol, malnutrition) are poorly predictive. SNAP showed fewer adverse reactions with a 12-h regimen, now widely adopted. Staggered or unknown-time ingestion invalidates the nomogram. Late acetylcysteine still reduces mortality in established liver failure (improved haemodynamics and oxygen delivery), so it should be given at any time with evidence of toxicity. Ref: Bateman DN et al. *Lancet* 2014 (SNAP); Keays R et al. *BMJ* 1991; MHRA. *Drug Safety Update* 2012.
+**A – T, B – T, C – T, D – F.**
+
+Since 2012 the MHRA uses a single 100 mg/L line because "high-risk" factors (enzyme inducers, alcohol, malnutrition) are poorly predictive. SNAP showed fewer adverse reactions with a 12-h regimen, now widely adopted. Staggered or unknown-time ingestion invalidates the nomogram. Late acetylcysteine still reduces mortality in established liver failure (improved haemodynamics and oxygen delivery), so it should be given at any time with evidence of toxicity. Ref: Bateman DN et al. *Lancet* 2014 (SNAP); Keays R et al. *BMJ* 1991; MHRA. *Drug Safety Update* 2012.
 
 </details>
 
@@ -3017,7 +3624,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** TCAs block fast sodium channels; sodium bicarbonate (1–2 mmol/kg boluses) provides a sodium load and alkalinisation that reduce drug binding, aiming for pH 7.45–7.55. Class IA and IC drugs (procainamide, flecainide) block sodium channels and worsen toxicity; lidocaine (IB) is a second-line option. Physostigmine may cause bradycardia, asystole and seizures in TCA poisoning. Lipid emulsion and ECMO are rescue options. Ref: Body R et al. *Emerg Med J* 2011; Bruccoleri RE, Burns MM. *J Med Toxicol* 2016.
+**A – F, B – T, C – F, D – T.**
+
+TCAs block fast sodium channels; sodium bicarbonate (1–2 mmol/kg boluses) provides a sodium load and alkalinisation that reduce drug binding, aiming for pH 7.45–7.55. Class IA and IC drugs (procainamide, flecainide) block sodium channels and worsen toxicity; lidocaine (IB) is a second-line option. Physostigmine may cause bradycardia, asystole and seizures in TCA poisoning. Lipid emulsion and ECMO are rescue options. Ref: Body R et al. *Emerg Med J* 2011; Bruccoleri RE, Burns MM. *J Med Toxicol* 2016.
 
 </details>
 
@@ -3030,7 +3639,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** TCAs have anticholinergic effects: tachycardia (the most common ECG finding), dilated pupils, dry flushed skin, ileus, urinary retention and agitation/delirium, plus sodium-channel blockade (wide QRS, R in aVR > 3 mm), alpha-blockade (hypotension), seizures and coma. Miosis, increased bowel activity and sweating suggest cholinergic (organophosphate) or opioid toxicity. Ref: Kerr GW et al. *Emerg Med J* 2001; Body R et al. *Emerg Med J* 2011.
+**A – T, B – F, C – F, D – F.**
+
+TCAs have anticholinergic effects: tachycardia (the most common ECG finding), dilated pupils, dry flushed skin, ileus, urinary retention and agitation/delirium, plus sodium-channel blockade (wide QRS, R in aVR > 3 mm), alpha-blockade (hypotension), seizures and coma. Miosis, increased bowel activity and sweating suggest cholinergic (organophosphate) or opioid toxicity. Ref: Kerr GW et al. *Emerg Med J* 2001; Body R et al. *Emerg Med J* 2011.
 
 </details>
 
@@ -3044,7 +3655,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** QRS > 100 ms (seizure risk) and > 160 ms (ventricular arrhythmia risk), a prominent terminal R in aVR, hypotension and acidosis indicate sodium-channel cardiotoxicity – treat with hypertonic sodium bicarbonate boluses, repeated to narrow the QRS and maintain pH 7.45–7.55, together with airway protection and fluids/vasopressors. Amiodarone prolongs QT and worsens hypotension; magnesium is for torsades; physostigmine and flumazenil can precipitate arrhythmias and seizures. Ref: Bruccoleri RE, Burns MM. *J Med Toxicol* 2016; Body R et al. *Emerg Med J* 2011.
+**E.**
+
+QRS > 100 ms (seizure risk) and > 160 ms (ventricular arrhythmia risk), a prominent terminal R in aVR, hypotension and acidosis indicate sodium-channel cardiotoxicity – treat with hypertonic sodium bicarbonate boluses, repeated to narrow the QRS and maintain pH 7.45–7.55, together with airway protection and fluids/vasopressors. Amiodarone prolongs QT and worsens hypotension; magnesium is for torsades; physostigmine and flumazenil can precipitate arrhythmias and seizures. Ref: Bruccoleri RE, Burns MM. *J Med Toxicol* 2016; Body R et al. *Emerg Med J* 2011.
 
 </details>
 
@@ -3061,7 +3674,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Visual disturbance, severe high-anion-gap acidosis and an osmolar gap of 35 suggest methanol poisoning (formic acid toxicity to the retina and basal ganglia). Fomepizole (or ethanol) blocks alcohol dehydrogenase to stop formation of toxic metabolites; EXTRIP recommends haemodialysis for methanol poisoning with severe acidosis (pH ≤ 7.15), visual or neurological signs, or high levels, as it removes both parent alcohol and formate. Bicarbonate and folinic acid are adjuncts; thiamine/pyridoxine are adjuncts for ethylene glycol. Ref: Roberts DM et al. *Crit Care Med* 2015 (EXTRIP); McMartin K et al. *Br J Clin Pharmacol* 2016.
+**A.**
+
+Visual disturbance, severe high-anion-gap acidosis and an osmolar gap of 35 suggest methanol poisoning (formic acid toxicity to the retina and basal ganglia). Fomepizole (or ethanol) blocks alcohol dehydrogenase to stop formation of toxic metabolites; EXTRIP recommends haemodialysis for methanol poisoning with severe acidosis (pH ≤ 7.15), visual or neurological signs, or high levels, as it removes both parent alcohol and formate. Bicarbonate and folinic acid are adjuncts; thiamine/pyridoxine are adjuncts for ethylene glycol. Ref: Roberts DM et al. *Crit Care Med* 2015 (EXTRIP); McMartin K et al. *Br J Clin Pharmacol* 2016.
 
 </details>
 
@@ -3075,7 +3690,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** In smoke inhalation, combined CO and cyanide toxicity is common; coma, shock and lactate > 8–10 mmol/L despite high PaO2 and a raised ScvO2 (impaired cellular O2 extraction) suggest cyanide. Hydroxocobalamin is first-line because it does not impair oxygen transport. Nitrites induce methaemoglobinaemia, which further reduces oxygen-carrying capacity already compromised by carboxyhaemoglobin, so they are avoided in fire victims. Thiosulfate (rhodanese substrate) is an acceptable adjunct. Ref: Anseeuw K et al. *Eur J Emerg Med* 2013; Baud FJ et al. *N Engl J Med* 1991.
+**D.**
+
+In smoke inhalation, combined CO and cyanide toxicity is common; coma, shock and lactate > 8–10 mmol/L despite high PaO2 and a raised ScvO2 (impaired cellular O2 extraction) suggest cyanide. Hydroxocobalamin is first-line because it does not impair oxygen transport. Nitrites induce methaemoglobinaemia, which further reduces oxygen-carrying capacity already compromised by carboxyhaemoglobin, so they are avoided in fire victims. Thiosulfate (rhodanese substrate) is an acceptable adjunct. Ref: Anseeuw K et al. *Eur J Emerg Med* 2013; Baud FJ et al. *N Engl J Med* 1991.
 
 </details>
 
@@ -3092,7 +3709,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Third-trimester hepatic failure with hypoglycaemia, coagulopathy with low fibrinogen, encephalopathy, AKI, raised urate and ammonia, polydipsia and only modest transaminase rise fulfils the Swansea criteria (≥ 6) for AFLP. Treatment is prompt delivery after stabilisation (glucose, blood products) with intensive care. HELLP typically has marked hypertension, haemolysis and severe thrombocytopenia with preserved glucose and fibrinogen; cholestasis has pruritus and raised bile acids without liver failure; hepatitis E gives much higher transaminases; TTP has severe thrombocytopenia and MAHA. Ref: Ch'ng CL et al. *Gut* 2002; Knight M et al. *Gut* 2008.
+**C.**
+
+Third-trimester hepatic failure with hypoglycaemia, coagulopathy with low fibrinogen, encephalopathy, AKI, raised urate and ammonia, polydipsia and only modest transaminase rise fulfils the Swansea criteria (≥ 6) for AFLP. Treatment is prompt delivery after stabilisation (glucose, blood products) with intensive care. HELLP typically has marked hypertension, haemolysis and severe thrombocytopenia with preserved glucose and fibrinogen; cholestasis has pruritus and raised bile acids without liver failure; hepatitis E gives much higher transaminases; TTP has severe thrombocytopenia and MAHA. Ref: Ch'ng CL et al. *Gut* 2002; Knight M et al. *Gut* 2008.
 
 </details>
 
@@ -3109,7 +3728,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Sudden cardiorespiratory collapse during labour or delivery (or within 30 min of placental delivery) with acute RV failure, hypoxaemia and early overt DIC (fibrinogen often < 2 g/L) in the absence of fever meets the SMFM diagnostic criteria for amniotic fluid embolism. Diagnosis is clinical; there is no confirmatory laboratory test. PE rarely causes early consumptive coagulopathy; anaphylaxis has bronchospasm/urticaria and no DIC; high spinal causes bradycardia and weakness without DIC; abruption precedes delivery with pain and bleeding. Management is supportive: CPR, RV support, early aggressive correction of coagulopathy and, if needed, ECMO. Ref: Clark SL et al. *Am J Obstet Gynecol* 2016; Pacheco LD et al. *Am J Obstet Gynecol* 2016 (SMFM).
+**B.**
+
+Sudden cardiorespiratory collapse during labour or delivery (or within 30 min of placental delivery) with acute RV failure, hypoxaemia and early overt DIC (fibrinogen often < 2 g/L) in the absence of fever meets the SMFM diagnostic criteria for amniotic fluid embolism. Diagnosis is clinical; there is no confirmatory laboratory test. PE rarely causes early consumptive coagulopathy; anaphylaxis has bronchospasm/urticaria and no DIC; high spinal causes bradycardia and weakness without DIC; abruption precedes delivery with pain and bleeding. Management is supportive: CPR, RV support, early aggressive correction of coagulopathy and, if needed, ECMO. Ref: Clark SL et al. *Am J Obstet Gynecol* 2016; Pacheco LD et al. *Am J Obstet Gynecol* 2016 (SMFM).
 
 </details>
 
@@ -3126,7 +3747,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** This is septic shock, most likely from invasive group A streptococcal endometritis (household contact with pharyngitis, pain out of proportion). Antimicrobials should be given within 1 hour (after cultures, without delaying), with fluid resuscitation and early critical care input. Clindamycin is added to suppress toxin production in suspected GAS. Imaging and source control (which may include surgery) follow resuscitation; oral therapy and waiting for cultures are inappropriate. Ref: Royal College of Obstetricians and Gynaecologists. *Green-top Guideline 64b* 2012; Evans L et al. *Intensive Care Med* 2021 (Surviving Sepsis Campaign).
+**E.**
+
+This is septic shock, most likely from invasive group A streptococcal endometritis (household contact with pharyngitis, pain out of proportion). Antimicrobials should be given within 1 hour (after cultures, without delaying), with fluid resuscitation and early critical care input. Clindamycin is added to suppress toxin production in suspected GAS. Imaging and source control (which may include surgery) follow resuscitation; oral therapy and waiting for cultures are inappropriate. Ref: Royal College of Obstetricians and Gynaecologists. *Green-top Guideline 64b* 2012; Evans L et al. *Intensive Care Med* 2021 (Surviving Sepsis Campaign).
 
 </details>
 
@@ -3142,7 +3765,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Rasburicase converts uric acid to allantoin, producing hydrogen peroxide that causes haemolysis and methaemoglobinaemia in G6PD deficiency. Allopurinol only prevents new uric acid formation (and increases xanthine); rasburicase is preferred for high-risk or established hyperuricaemia. Alkalinisation is no longer recommended – it promotes calcium phosphate and xanthine precipitation. TLS causes hyperkalaemia, hyperphosphataemia, hyperuricaemia and secondary hypocalcaemia; clinical TLS adds AKI, arrhythmia or seizures (Cairo–Bishop). Ref: Howard SC et al. *N Engl J Med* 2011; Cairo MS, Bishop M. *Br J Haematol* 2004.
+**A – T, B – F, C – F, D – F.**
+
+Rasburicase converts uric acid to allantoin, producing hydrogen peroxide that causes haemolysis and methaemoglobinaemia in G6PD deficiency. Allopurinol only prevents new uric acid formation (and increases xanthine); rasburicase is preferred for high-risk or established hyperuricaemia. Alkalinisation is no longer recommended – it promotes calcium phosphate and xanthine precipitation. TLS causes hyperkalaemia, hyperphosphataemia, hyperuricaemia and secondary hypocalcaemia; clinical TLS adds AKI, arrhythmia or seizures (Cairo–Bishop). Ref: Howard SC et al. *N Engl J Med* 2011; Cairo MS, Bishop M. *Br J Haematol* 2004.
 
 </details>
 
@@ -3158,7 +3783,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – F.** CPET measures VO2 directly from expired gas (heart rate–based estimates are unreliable). The anaerobic threshold is detected when VCO2 rises disproportionately to VO2 (V-slope); AT < ~10–11 ml/kg/min and high VE/VCO2 (ventilatory inefficiency) predict complications. METS (1401 patients) showed that subjective assessment had poor sensitivity for detecting low fitness, whereas DASI and NT-proBNP added predictive value. Ref: Levett DZH et al. *Br J Anaesth* 2018 (POETTS); Wijeysundera DN et al. *Lancet* 2018 (METS).
+**A – F, B – T, C – T, D – F.**
+
+CPET measures VO2 directly from expired gas (heart rate–based estimates are unreliable). The anaerobic threshold is detected when VCO2 rises disproportionately to VO2 (V-slope); AT < ~10–11 ml/kg/min and high VE/VCO2 (ventilatory inefficiency) predict complications. METS (1401 patients) showed that subjective assessment had poor sensitivity for detecting low fitness, whereas DASI and NT-proBNP added predictive value. Ref: Levett DZH et al. *Br J Anaesth* 2018 (POETTS); Wijeysundera DN et al. *Lancet* 2018 (METS).
 
 </details>
 
@@ -3171,7 +3798,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** POSSUM (12 physiological + 6 operative variables) overpredicts mortality in low-risk patients; P-POSSUM recalibrated the equation. The NELA model (UK National Emergency Laparotomy Audit) is specific to emergency laparotomy. ASA grades the patient's pre-existing condition only. RCRI predictors: high-risk surgery, ischaemic heart disease, heart failure, cerebrovascular disease, insulin-treated diabetes and creatinine > 177 µmol/L; age is not included. Ref: Prytherch DR et al. *Br J Surg* 1998; Lee TH et al. *Circulation* 1999; Eugene N et al. *Br J Anaesth* 2018 (NELA model).
+**A – T, B – T, C – F, D – T.**
+
+POSSUM (12 physiological + 6 operative variables) overpredicts mortality in low-risk patients; P-POSSUM recalibrated the equation. The NELA model (UK National Emergency Laparotomy Audit) is specific to emergency laparotomy. ASA grades the patient's pre-existing condition only. RCRI predictors: high-risk surgery, ischaemic heart disease, heart failure, cerebrovascular disease, insulin-treated diabetes and creatinine > 177 µmol/L; age is not included. Ref: Prytherch DR et al. *Br J Surg* 1998; Lee TH et al. *Circulation* 1999; Eugene N et al. *Br J Anaesth* 2018 (NELA model).
 
 </details>
 
@@ -3187,7 +3816,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Risk factors include CKD, older age, diabetes, heart failure/low EF, emergency or combined surgery, long cardiopulmonary bypass and transfusion. Off-pump surgery reduced mild AKI in CORONARY but did not change dialysis or longer-term renal outcomes, and AKI still occurs. High-dose perioperative atorvastatin did not reduce AKI (Billings 2016). The KDIGO bundle in high-risk patients (biomarker-guided) reduced AKI in PrevAKI. Ref: Billings FT et al. *JAMA* 2016; Garg AX et al. *JAMA* 2014; Meersch M et al. *Intensive Care Med* 2017.
+**A – T, B – T, C – F, D – F.**
+
+Risk factors include CKD, older age, diabetes, heart failure/low EF, emergency or combined surgery, long cardiopulmonary bypass and transfusion. Off-pump surgery reduced mild AKI in CORONARY but did not change dialysis or longer-term renal outcomes, and AKI still occurs. High-dose perioperative atorvastatin did not reduce AKI (Billings 2016). The KDIGO bundle in high-risk patients (biomarker-guided) reduced AKI in PrevAKI. Ref: Billings FT et al. *JAMA* 2016; Garg AX et al. *JAMA* 2014; Meersch M et al. *Intensive Care Med* 2017.
 
 </details>
 
@@ -3201,7 +3832,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Pacing spikes despite an intrinsic rhythm faster than the set rate = undersensing; spikes on the T wave risk R-on-T ventricular fibrillation. Making the pacemaker more sensitive (lower mV number) allows it to detect native QRS complexes and inhibit. Increasing output treats failure to capture; asynchronous mode is used to avoid inappropriate inhibition from oversensing (e.g. diathermy) and would worsen the competition. If undersensing persists, the generator should be set to a rate below the intrinsic rate or switched off with wires kept ready. Ref: Reade MC. *Anaesthesia* 2007; Gammage MD. *Heart* 2000.
+**A.**
+
+Pacing spikes despite an intrinsic rhythm faster than the set rate = undersensing; spikes on the T wave risk R-on-T ventricular fibrillation. Making the pacemaker more sensitive (lower mV number) allows it to detect native QRS complexes and inhibit. Increasing output treats failure to capture; asynchronous mode is used to avoid inappropriate inhibition from oversensing (e.g. diathermy) and would worsen the competition. If undersensing persists, the generator should be set to a rate below the intrinsic rate or switched off with wires kept ready. Ref: Reade MC. *Anaesthesia* 2007; Gammage MD. *Heart* 2000.
 
 </details>
 
@@ -3217,7 +3850,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Functional WIT starts with significant hypotension/hypoxia after withdrawal; organ-specific limits apply. NRP (abdominal or thoracoabdominal) deliberately excludes cerebral circulation by clamping/occluding the aortic arch vessels. Cold ischaemia tolerance: kidney ~24–36 h, liver ~12 h, heart ~4–6 h (ex-situ perfusion extends this). Lungs with poor initial oxygenation can often be optimised with recruitment, bronchoscopy and protective ventilation (or ex-vivo lung perfusion), so a low ratio is not an absolute exclusion. Ref: Meyfroidt G et al. *Intensive Care Med* 2019; Thuong M et al. *Transpl Int* 2016 (DCD consensus).
+**A – T, B – F, C – F, D – F.**
+
+Functional WIT starts with significant hypotension/hypoxia after withdrawal; organ-specific limits apply. NRP (abdominal or thoracoabdominal) deliberately excludes cerebral circulation by clamping/occluding the aortic arch vessels. Cold ischaemia tolerance: kidney ~24–36 h, liver ~12 h, heart ~4–6 h (ex-situ perfusion extends this). Lungs with poor initial oxygenation can often be optimised with recruitment, bronchoscopy and protective ventilation (or ex-vivo lung perfusion), so a low ratio is not an absolute exclusion. Ref: Meyfroidt G et al. *Intensive Care Med* 2019; Thuong M et al. *Transpl Int* 2016 (DCD consensus).
 
 </details>
 
@@ -3231,7 +3866,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Central diabetes insipidus develops in most DBD donors; untreated hypernatraemia (> 155 mmol/L) is associated with graft dysfunction, particularly of the liver. Desmopressin (V2-selective) treats DI without vasoconstriction; low-dose vasopressin is an alternative that also supports BP. Losses should be replaced with hypotonic fluid (e.g. 5 % glucose), not saline, which worsens hypernatraemia. Hydrocortisone is part of donor management (and for vasopressor-refractory shock) and T3 is no longer routinely recommended, but neither treats DI. Ref: Meyfroidt G et al. *Intensive Care Med* 2019; Kotloff RM et al. *Crit Care Med* 2015.
+**C.**
+
+Central diabetes insipidus develops in most DBD donors; untreated hypernatraemia (> 155 mmol/L) is associated with graft dysfunction, particularly of the liver. Desmopressin (V2-selective) treats DI without vasoconstriction; low-dose vasopressin is an alternative that also supports BP. Losses should be replaced with hypotonic fluid (e.g. 5 % glucose), not saline, which worsens hypernatraemia. Hydrocortisone is part of donor management (and for vasopressor-refractory shock) and T3 is no longer routinely recommended, but neither treats DI. Ref: Meyfroidt G et al. *Intensive Care Med* 2019; Kotloff RM et al. *Crit Care Med* 2015.
 
 </details>
 
@@ -3247,7 +3884,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** The transplanted heart lacks autonomic innervation: vagal tone is absent (higher intrinsic rate, no response to atropine or vagal manoeuvres), and it relies on circulating catecholamines and the Frank–Starling mechanism to raise output. Direct-acting agents (isoprenaline, adrenaline, dobutamine) work normally (beta-receptors may even be upregulated), whereas indirect agents relying on neuronal noradrenaline release (ephedrine) are less effective. Neostigmine can still cause bradycardia (and has caused asystole) owing to direct cardiac muscarinic effects. Ref: Costanzo MR et al. *J Heart Lung Transplant* 2010 (ISHLT guidelines); Cheng DCH, Ong DD. *Can J Anaesth* 1993.
+**A – T, B – T, C – T, D – T.**
+
+The transplanted heart lacks autonomic innervation: vagal tone is absent (higher intrinsic rate, no response to atropine or vagal manoeuvres), and it relies on circulating catecholamines and the Frank–Starling mechanism to raise output. Direct-acting agents (isoprenaline, adrenaline, dobutamine) work normally (beta-receptors may even be upregulated), whereas indirect agents relying on neuronal noradrenaline release (ephedrine) are less effective. Neostigmine can still cause bradycardia (and has caused asystole) owing to direct cardiac muscarinic effects. Ref: Costanzo MR et al. *J Heart Lung Transplant* 2010 (ISHLT guidelines); Cheng DCH, Ong DD. *Can J Anaesth* 1993.
 
 </details>
 
@@ -3261,7 +3900,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Recent augmented immunosuppression, stopped prophylaxis, hypoxaemia with diffuse ground glass, high LDH and beta-D-glucan point to Pneumocystis jirovecii pneumonia; diagnosis is confirmed by BAL PCR/immunofluorescence but treatment should not be delayed. TMP-SMX (15–20 mg/kg/day of trimethoprim) is first-line; atovaquone is for mild disease or intolerance. Adjunctive steroids are standard in HIV with hypoxaemia but their benefit in non-HIV patients is uncertain. Voriconazole has no activity against Pneumocystis; ganciclovir is for CMV. Ref: Maschmeyer G et al. *J Antimicrob Chemother* 2016 (ECIL); Fishman JA, Gans H. *Clin Transplant* 2019 (AST).
+**B.**
+
+Recent augmented immunosuppression, stopped prophylaxis, hypoxaemia with diffuse ground glass, high LDH and beta-D-glucan point to Pneumocystis jirovecii pneumonia; diagnosis is confirmed by BAL PCR/immunofluorescence but treatment should not be delayed. TMP-SMX (15–20 mg/kg/day of trimethoprim) is first-line; atovaquone is for mild disease or intolerance. Adjunctive steroids are standard in HIV with hypoxaemia but their benefit in non-HIV patients is uncertain. Voriconazole has no activity against Pneumocystis; ganciclovir is for CMV. Ref: Maschmeyer G et al. *J Antimicrob Chemother* 2016 (ECIL); Fishman JA, Gans H. *Clin Transplant* 2019 (AST).
 
 </details>
 
@@ -3277,7 +3918,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** Remifentanil, esmolol and clevidipine are ester drugs hydrolysed by blood/tissue esterases, giving short, organ-independent half-lives (clevidipine t½ ~1 min). Cisatracurium undergoes temperature- and pH-dependent Hofmann elimination (producing laudanosine, less than atracurium). Suxamethonium and mivacurium are hydrolysed by plasma cholinesterase – prolonged block occurs with genetic variants or severe liver disease. Ref: Egan TD. *Clin Pharmacokinet* 1995; Kisor DF, Schmith VD. *Clin Pharmacokinet* 1999; Varon J, Marik PE. *Crit Care* 2008.
+**A – T, B – T, C – T, D – F.**
+
+Remifentanil, esmolol and clevidipine are ester drugs hydrolysed by blood/tissue esterases, giving short, organ-independent half-lives (clevidipine t½ ~1 min). Cisatracurium undergoes temperature- and pH-dependent Hofmann elimination (producing laudanosine, less than atracurium). Suxamethonium and mivacurium are hydrolysed by plasma cholinesterase – prolonged block occurs with genetic variants or severe liver disease. Ref: Egan TD. *Clin Pharmacokinet* 1995; Kisor DF, Schmith VD. *Clin Pharmacokinet* 1999; Varon J, Marik PE. *Crit Care* 2008.
 
 </details>
 
@@ -3294,7 +3937,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Propofol infusion syndrome (PRIS) – metabolic acidosis, rhabdomyolysis, hypertriglyceridaemia, Brugada-like ECG, bradyarrhythmias progressing to asystole, AKI and cardiac failure – is associated with doses > 4 mg/kg/h for > 48 h, young age, TBI, catecholamines and steroids. Mitochondrial fatty-acid oxidation is impaired. Management is immediate cessation of propofol, supportive care, pacing for bradycardia, and RRT or ECMO in refractory cases; carbohydrate supply may help. Amiodarone worsens bradycardia. Ref: Hemphill S et al. *Br J Anaesth* 2019; Kam PCA, Cardone D. *Anaesthesia* 2007.
+**D.**
+
+Propofol infusion syndrome (PRIS) – metabolic acidosis, rhabdomyolysis, hypertriglyceridaemia, Brugada-like ECG, bradyarrhythmias progressing to asystole, AKI and cardiac failure – is associated with doses > 4 mg/kg/h for > 48 h, young age, TBI, catecholamines and steroids. Mitochondrial fatty-acid oxidation is impaired. Management is immediate cessation of propofol, supportive care, pacing for bradycardia, and RRT or ECMO in refractory cases; carbohydrate supply may help. Amiodarone worsens bradycardia. Ref: Hemphill S et al. *Br J Anaesth* 2019; Kam PCA, Cardone D. *Anaesthesia* 2007.
 
 </details>
 
@@ -3310,7 +3955,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Inverse agonists stabilise the inactive receptor state and reduce constitutive activity. Competitive antagonists cause a parallel rightward shift (surmountable, Emax unchanged); non-competitive or irreversible antagonists decrease Emax. Partial agonists have submaximal intrinsic efficacy but may have high affinity (e.g. buprenorphine), so they can antagonise full agonists. Potency (EC50) depends on both affinity and efficacy (and on receptor reserve). Ref: Neubig RR et al. *Pharmacol Rev* 2003 (IUPHAR nomenclature); Rang HP. *Br J Pharmacol* 2006.
+**A – T, B – F, C – F, D – F.**
+
+Inverse agonists stabilise the inactive receptor state and reduce constitutive activity. Competitive antagonists cause a parallel rightward shift (surmountable, Emax unchanged); non-competitive or irreversible antagonists decrease Emax. Partial agonists have submaximal intrinsic efficacy but may have high affinity (e.g. buprenorphine), so they can antagonise full agonists. Potency (EC50) depends on both affinity and efficacy (and on receptor reserve). Ref: Neubig RR et al. *Pharmacol Rev* 2003 (IUPHAR nomenclature); Rang HP. *Br J Pharmacol* 2006.
 
 </details>
 
@@ -3323,7 +3970,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** Beta-1 (and beta-2) → Gs → adenylate cyclase → cAMP (dobutamine; PDE3 inhibitors such as milrinone prevent cAMP breakdown). Steroids and thyroid hormones act on intracellular nuclear receptors that alter gene transcription; insulin acts via a tyrosine-kinase receptor. GABA-A (benzodiazepines, propofol) and nicotinic receptors are ligand-gated ion channels. Cardiac M2 receptors couple to Gi (reducing cAMP and opening K channels → bradycardia); M1/M3 and alpha-1 couple to Gq. Ref: Alexander SPH et al. *Br J Pharmacol* 2023 (Concise Guide to Pharmacology).
+**A – T, B – F, C – T, D – F.**
+
+Beta-1 (and beta-2) → Gs → adenylate cyclase → cAMP (dobutamine; PDE3 inhibitors such as milrinone prevent cAMP breakdown). Steroids and thyroid hormones act on intracellular nuclear receptors that alter gene transcription; insulin acts via a tyrosine-kinase receptor. GABA-A (benzodiazepines, propofol) and nicotinic receptors are ligand-gated ion channels. Cardiac M2 receptors couple to Gi (reducing cAMP and opening K channels → bradycardia); M1/M3 and alpha-1 couple to Gq. Ref: Alexander SPH et al. *Br J Pharmacol* 2023 (Concise Guide to Pharmacology).
 
 </details>
 
@@ -3339,7 +3988,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** Argatroban (direct thrombin inhibitor) is hepatically cleared and is therefore suitable in renal failure (dose-reduce in liver failure); bivalirudin is partly renally cleared. Idarucizumab is a humanised antibody fragment that binds dabigatran (direct thrombin inhibitor). Andexanet alfa is a decoy factor Xa that binds FXa inhibitors (apixaban, rivaroxaban, edoxaban). Fondaparinux (indirect, antithrombin-mediated FXa inhibitor) has no protamine binding; protamine fully reverses UFH and only partially LMWH. Ref: Pollack CV et al. *N Engl J Med* 2017 (RE-VERSE AD); Connolly SJ et al. *N Engl J Med* 2019 (ANNEXA-4); Cuker A et al. *Am J Hematol* 2019.
+**A – F, B – F, C – F, D – F.**
+
+Argatroban (direct thrombin inhibitor) is hepatically cleared and is therefore suitable in renal failure (dose-reduce in liver failure); bivalirudin is partly renally cleared. Idarucizumab is a humanised antibody fragment that binds dabigatran (direct thrombin inhibitor). Andexanet alfa is a decoy factor Xa that binds FXa inhibitors (apixaban, rivaroxaban, edoxaban). Fondaparinux (indirect, antithrombin-mediated FXa inhibitor) has no protamine binding; protamine fully reverses UFH and only partially LMWH. Ref: Pollack CV et al. *N Engl J Med* 2017 (RE-VERSE AD); Connolly SJ et al. *N Engl J Med* 2019 (ANNEXA-4); Cuker A et al. *Am J Hematol* 2019.
 
 </details>
 
@@ -3355,7 +4006,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** The radial artery lies between the brachioradialis and flexor carpi radialis tendons (lateral to FCR). The brachial artery lies MEDIAL to the biceps tendon, with the median nerve medial to the artery – hence the nerve-injury risk of brachial cannulation. The femoral artery is at the mid-inguinal point (the mid-point of the inguinal ligament is slightly more lateral). Dorsalis pedis runs lateral to EHL and is absent or impalpable in a minority of people. Ultrasound guidance improves first-pass success at all of these sites. Reference: Lamperti M et al. International evidence-based recommendations on ultrasound-guided vascular access. **Intensive Care Med** 2012;38:1105–17.
+**A – T, B – F, C – T, D – T.**
+
+The radial artery lies between the brachioradialis and flexor carpi radialis tendons (lateral to FCR). The brachial artery lies MEDIAL to the biceps tendon, with the median nerve medial to the artery – hence the nerve-injury risk of brachial cannulation. The femoral artery is at the mid-inguinal point (the mid-point of the inguinal ligament is slightly more lateral). Dorsalis pedis runs lateral to EHL and is absent or impalpable in a minority of people. Ultrasound guidance improves first-pass success at all of these sites. Reference: Lamperti M et al. International evidence-based recommendations on ultrasound-guided vascular access. **Intensive Care Med** 2012;38:1105–17.
 
 </details>
 
@@ -3368,7 +4021,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** The IJV lies lateral/anterolateral to the carotid within the carotid sheath; excessive head rotation increases arterial overlap, so a neutral or slightly rotated head is preferred with real-time ultrasound. The posterior triangle is bounded by SCM (anterior), trapezius (posterior) and clavicle (base). The external jugular vein is SUPERFICIAL, crossing over SCM beneath platysma. The vagus lies INSIDE the carotid sheath, posterior and between the artery and vein. Reference: Lamperti M et al. International evidence-based recommendations on ultrasound-guided vascular access. **Intensive Care Med** 2012;38:1105–17.
+**A – T, B – T, C – F, D – F.**
+
+The IJV lies lateral/anterolateral to the carotid within the carotid sheath; excessive head rotation increases arterial overlap, so a neutral or slightly rotated head is preferred with real-time ultrasound. The posterior triangle is bounded by SCM (anterior), trapezius (posterior) and clavicle (base). The external jugular vein is SUPERFICIAL, crossing over SCM beneath platysma. The vagus lies INSIDE the carotid sheath, posterior and between the artery and vein. Reference: Lamperti M et al. International evidence-based recommendations on ultrasound-guided vascular access. **Intensive Care Med** 2012;38:1105–17.
 
 </details>
 
@@ -3384,7 +4039,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** ASRA guidance (adopted widely for neuraxial needle placement) recommends ≥24 h after therapeutic LMWH. Signs of brain shift (reduced consciousness, focal signs, pupillary abnormality) require CT first; empirical antimicrobials must not be delayed for imaging/LP. Local skin/soft-tissue infection is a contraindication at that site. Most guidance accepts LP with platelets ≥40–50 × 10⁹/L, so 70 × 10⁹/L needs no transfusion. Reference: Horlocker TT et al. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy (ASRA 4th ed.). **Reg Anesth Pain Med** 2018;43:263–309; van de Beek D et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. **Clin Microbiol Infect** 2016;22:S37–62.
+**A – T, B – T, C – T, D – F.**
+
+ASRA guidance (adopted widely for neuraxial needle placement) recommends ≥24 h after therapeutic LMWH. Signs of brain shift (reduced consciousness, focal signs, pupillary abnormality) require CT first; empirical antimicrobials must not be delayed for imaging/LP. Local skin/soft-tissue infection is a contraindication at that site. Most guidance accepts LP with platelets ≥40–50 × 10⁹/L, so 70 × 10⁹/L needs no transfusion. Reference: Horlocker TT et al. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy (ASRA 4th ed.). **Reg Anesth Pain Med** 2018;43:263–309; van de Beek D et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. **Clin Microbiol Infect** 2016;22:S37–62.
 
 </details>
 
@@ -3397,7 +4054,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** The inferior epigastric vessels run deep to the rectus muscles (roughly at the junction of the medial two-thirds and lateral third of a line from umbilicus to mid-inguinal point), so the lateral LLQ (and the avascular linea alba) are the safer sites; ultrasound guidance is recommended. In the femoral triangle the order from lateral to medial is Nerve–Artery–Vein (NAVY). Echo-guided pericardiocentesis (apical, parasternal or subxiphoid) has a lower complication rate than blind subxiphoid puncture. Reference: Adler Y et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases. **Eur Heart J** 2015;36:2921–64; Biggins SW et al. AASLD practice guidance on ascites. **Hepatology** 2021;74:1014–48.
+**A – T, B – F, C – T, D – F.**
+
+The inferior epigastric vessels run deep to the rectus muscles (roughly at the junction of the medial two-thirds and lateral third of a line from umbilicus to mid-inguinal point), so the lateral LLQ (and the avascular linea alba) are the safer sites; ultrasound guidance is recommended. In the femoral triangle the order from lateral to medial is Nerve–Artery–Vein (NAVY). Echo-guided pericardiocentesis (apical, parasternal or subxiphoid) has a lower complication rate than blind subxiphoid puncture. Reference: Adler Y et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases. **Eur Heart J** 2015;36:2921–64; Biggins SW et al. AASLD practice guidance on ascites. **Hepatology** 2021;74:1014–48.
 
 </details>
 
@@ -3410,7 +4069,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** Tuffier's line is the usual landmark for L3–4/L4–5 (it may be higher in obesity, so ultrasound helps). CSF volume ~125–150 mL and turnover ~3–4 times/day. CSF:plasma glucose ratio normally ~0.6; <0.4 suggests bacterial/fungal/TB infection. Opening pressure must be measured in the LATERAL decubitus position with legs extended – sitting values are spuriously high and uninterpretable; normal adult values are up to ~20–25 cmH₂O. Reference: Sakka L, Coll G, Chazal J. Anatomy and physiology of cerebrospinal fluid. **Eur Ann Otorhinolaryngol Head Neck Dis** 2011;128:309–16.
+**A – T, B – T, C – T, D – F.**
+
+Tuffier's line is the usual landmark for L3–4/L4–5 (it may be higher in obesity, so ultrasound helps). CSF volume ~125–150 mL and turnover ~3–4 times/day. CSF:plasma glucose ratio normally ~0.6; <0.4 suggests bacterial/fungal/TB infection. Opening pressure must be measured in the LATERAL decubitus position with legs extended – sitting values are spuriously high and uninterpretable; normal adult values are up to ~20–25 cmH₂O. Reference: Sakka L, Coll G, Chazal J. Anatomy and physiology of cerebrospinal fluid. **Eur Ann Otorhinolaryngol Head Neck Dis** 2011;128:309–16.
 
 </details>
 
@@ -3423,7 +4084,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** The vein–artery–nerve bundle lies in the costal groove on the INFERIOR border of each rib, so entry is over the upper border of the rib below. BTS guidance recommends image (ultrasound) guidance for all pleural procedures for fluid, and the safe triangle (lateral border of pectoralis major, anterior border of latissimus dorsi, line at the level of the 5th ICS, apex below the axilla). Small-bore drains are inserted by Seldinger technique; trocars should not be used because of visceral injury risk. Reference: Roberts ME et al. British Thoracic Society guideline for pleural disease. **Thorax** 2023;78(Suppl 3):s1–42.
+**A – T, B – F, C – T, D – F.**
+
+The vein–artery–nerve bundle lies in the costal groove on the INFERIOR border of each rib, so entry is over the upper border of the rib below. BTS guidance recommends image (ultrasound) guidance for all pleural procedures for fluid, and the safe triangle (lateral border of pectoralis major, anterior border of latissimus dorsi, line at the level of the 5th ICS, apex below the axilla). Small-bore drains are inserted by Seldinger technique; trocars should not be used because of visceral injury risk. Reference: Roberts ME et al. British Thoracic Society guideline for pleural disease. **Thorax** 2023;78(Suppl 3):s1–42.
 
 </details>
 
@@ -3439,7 +4102,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** The thyroid isthmus overlies the 2nd–4th tracheal rings, below the cricoid – the cricothyroid membrane is relatively avascular, which is why scalpel–bougie–tube cricothyroidotomy is the DAS technique. The cricoid is the only complete ring. The RIGHT main bronchus is shorter, wider and more vertical (hence right endobronchial intubation/aspiration). All intrinsic laryngeal muscles are supplied by the recurrent laryngeal nerve except cricothyroid (external laryngeal nerve). Reference: Frerk C et al. Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults. **Br J Anaesth** 2015;115:827–48.
+**A – F, B – T, C – F, D – T.**
+
+The thyroid isthmus overlies the 2nd–4th tracheal rings, below the cricoid – the cricothyroid membrane is relatively avascular, which is why scalpel–bougie–tube cricothyroidotomy is the DAS technique. The cricoid is the only complete ring. The RIGHT main bronchus is shorter, wider and more vertical (hence right endobronchial intubation/aspiration). All intrinsic laryngeal muscles are supplied by the recurrent laryngeal nerve except cricothyroid (external laryngeal nerve). Reference: Frerk C et al. Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults. **Br J Anaesth** 2015;115:827–48.
 
 </details>
 
@@ -3452,7 +4117,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** DAS/ICS-FICM guidance: after failed intubation, insert a second-generation SGA (maximum three attempts), releasing cricoid pressure if necessary. If oxygenation is achieved, options include waking the patient, intubating through the SGA with a flexible scope (often via an Aintree catheter), or proceeding with the SGA in rare circumstances. Second-generation devices have higher seal pressures and allow gastric drainage, although none fully protects against aspiration. Reference: Higgs A et al. Guidelines for the management of tracheal intubation in critically ill adults. **Br J Anaesth** 2018;120:323–52.
+**A – T, B – T, C – T, D – T.**
+
+DAS/ICS-FICM guidance: after failed intubation, insert a second-generation SGA (maximum three attempts), releasing cricoid pressure if necessary. If oxygenation is achieved, options include waking the patient, intubating through the SGA with a flexible scope (often via an Aintree catheter), or proceeding with the SGA in rare circumstances. Second-generation devices have higher seal pressures and allow gastric drainage, although none fully protects against aspiration. Reference: Higgs A et al. Guidelines for the management of tracheal intubation in critically ill adults. **Br J Anaesth** 2018;120:323–52.
 
 </details>
 
@@ -3466,7 +4133,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Post-thyroid/parathyroid surgery haematoma compresses the airway and causes venous/lymphatic laryngeal oedema. The multidisciplinary consensus guideline uses the 'SCOOP' approach (Skin exposure, Cut sutures, Open skin, Open muscles, Pack) at the bedside as soon as airway compromise is recognised, in parallel with calling for help and giving oxygen. Imaging delays treatment; steroids/adrenaline do not decompress the haematoma; gas induction and awake techniques are hazardous in a distressed, obstructing patient. If tracheal intubation is then needed it should be performed by the most experienced operator with front-of-neck access prepared. Reference: Iliff HA et al. Management of haematoma after thyroid surgery: systematic review and multidisciplinary consensus guidelines. **Anaesthesia** 2022;77:82–95.
+**C.**
+
+Post-thyroid/parathyroid surgery haematoma compresses the airway and causes venous/lymphatic laryngeal oedema. The multidisciplinary consensus guideline uses the 'SCOOP' approach (Skin exposure, Cut sutures, Open skin, Open muscles, Pack) at the bedside as soon as airway compromise is recognised, in parallel with calling for help and giving oxygen. Imaging delays treatment; steroids/adrenaline do not decompress the haematoma; gas induction and awake techniques are hazardous in a distressed, obstructing patient. If tracheal intubation is then needed it should be performed by the most experienced operator with front-of-neck access prepared. Reference: Iliff HA et al. Management of haematoma after thyroid surgery: systematic review and multidisciplinary consensus guidelines. **Anaesthesia** 2022;77:82–95.
 
 </details>
 
@@ -3482,7 +4151,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Hypomagnesaemia and hypocalcaemia prolong QT (hypocalcaemia by lengthening the ST segment). Digoxin SHORTENS QT and causes 'reverse tick' ST depression. Hyperkalaemia causes peaked T waves, PR/QRS widening and a normal or shortened QT; it is hypokalaemia that prolongs QT(U). Management of QT prolongation: stop offending drugs (e.g. haloperidol, macrolides, fluoroquinolones, ondansetron), correct K⁺ and Mg²⁺, monitor. Reference: Drew BJ et al. Prevention of torsade de pointes in hospital settings: AHA/ACCF scientific statement. **J Am Coll Cardiol** 2010;55:934–47.
+**A – T, B – T, C – F, D – F.**
+
+Hypomagnesaemia and hypocalcaemia prolong QT (hypocalcaemia by lengthening the ST segment). Digoxin SHORTENS QT and causes 'reverse tick' ST depression. Hyperkalaemia causes peaked T waves, PR/QRS widening and a normal or shortened QT; it is hypokalaemia that prolongs QT(U). Management of QT prolongation: stop offending drugs (e.g. haloperidol, macrolides, fluoroquinolones, ondansetron), correct K⁺ and Mg²⁺, monitor. Reference: Drew BJ et al. Prevention of torsade de pointes in hospital settings: AHA/ACCF scientific statement. **J Am Coll Cardiol** 2010;55:934–47.
 
 </details>
 
@@ -3495,7 +4166,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** S1Q3T3 is specific but insensitive (~10–20 %). Sinus TACHYCARDIA is the commonest abnormality; other signs of RV strain include T-wave inversion in V1–V4, new RBBB, RIGHT axis deviation and P pulmonale. The ECG is neither sensitive nor specific; a normal ECG does not exclude PE, and diagnostic work-up follows clinical probability, D-dimer and CTPA/echo. Reference: Konstantinides SV et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism. **Eur Heart J** 2020;41:543–603.
+**A – T, B – F, C – F, D – F.**
+
+S1Q3T3 is specific but insensitive (~10–20 %). Sinus TACHYCARDIA is the commonest abnormality; other signs of RV strain include T-wave inversion in V1–V4, new RBBB, RIGHT axis deviation and P pulmonale. The ECG is neither sensitive nor specific; a normal ECG does not exclude PE, and diagnostic work-up follows clinical probability, D-dimer and CTPA/echo. Reference: Konstantinides SV et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism. **Eur Heart J** 2020;41:543–603.
 
 </details>
 
@@ -3508,7 +4181,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** CVC tips should lie in the lower SVC/cavo-atrial junction (roughly at or just below the carina). Left-sided catheters may end perpendicular to the SVC wall – perforation/tamponade risk. A PAC tip should be within ~2 cm of the hilum; a peripheral position risks infarction and PA rupture. The IABP tip should be in the descending thoracic aorta ~2 cm distal to the left subclavian artery – radiologically at about the level of the carina / 2nd–3rd anterior intercostal space; a low balloon occludes visceral/renal arteries. Reference: Godoy MCB et al. Chest radiography in the ICU: Part 2, Evaluation of cardiovascular lines and other devices. **AJR Am J Roentgenol** 2012;198:572–81.
+**A – T, B – T, C – T, D – F.**
+
+CVC tips should lie in the lower SVC/cavo-atrial junction (roughly at or just below the carina). Left-sided catheters may end perpendicular to the SVC wall – perforation/tamponade risk. A PAC tip should be within ~2 cm of the hilum; a peripheral position risks infarction and PA rupture. The IABP tip should be in the descending thoracic aorta ~2 cm distal to the left subclavian artery – radiologically at about the level of the carina / 2nd–3rd anterior intercostal space; a low balloon occludes visceral/renal arteries. Reference: Godoy MCB et al. Chest radiography in the ICU: Part 2, Evaluation of cardiovascular lines and other devices. **AJR Am J Roentgenol** 2012;198:572–81.
 
 </details>
 
@@ -3524,7 +4199,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** J waves enlarge with falling temperature. Shivering (in mild hypothermia) causes artefact. Moderate hypothermia typically produces sinus bradycardia, AF with slow ventricular response and prolonged PR/QRS/QT; below ~28 °C the risk of VF and asystole rises sharply. J waves also occur with hypercalcaemia, brain injury/SAH and early repolarisation, so they are not pathognomonic. Reference: Brown DJA et al. Accidental hypothermia. **N Engl J Med** 2012;367:1930–8; Paal P et al. Accidental hypothermia: 2021 update. **Int J Environ Res Public Health** 2022;19:501.
+**A – T, B – T, C – F, D – F.**
+
+J waves enlarge with falling temperature. Shivering (in mild hypothermia) causes artefact. Moderate hypothermia typically produces sinus bradycardia, AF with slow ventricular response and prolonged PR/QRS/QT; below ~28 °C the risk of VF and asystole rises sharply. J waves also occur with hypercalcaemia, brain injury/SAH and early repolarisation, so they are not pathognomonic. Reference: Brown DJA et al. Accidental hypothermia. **N Engl J Med** 2012;367:1930–8; Paal P et al. Accidental hypothermia: 2021 update. **Int J Environ Res Public Health** 2022;19:501.
 
 </details>
 
@@ -3537,7 +4214,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Bladder temperature is accurate at steady state with good urine flow but lags during rapid change (and in anuria). Axillary readings UNDERESTIMATE core temperature. The oesophageal probe should be in the LOWER third (behind the heart); the upper oesophagus is cooled by tracheal gas. Rectal temperature lags considerably; oesophageal (or pulmonary artery) temperature is the reference during rewarming. Reference: Paal P et al. Accidental hypothermia – an update. **Scand J Trauma Resusc Emerg Med** 2016;24:111.
+**A – T, B – F, C – F, D – F.**
+
+Bladder temperature is accurate at steady state with good urine flow but lags during rapid change (and in anuria). Axillary readings UNDERESTIMATE core temperature. The oesophageal probe should be in the LOWER third (behind the heart); the upper oesophagus is cooled by tracheal gas. Rectal temperature lags considerably; oesophageal (or pulmonary artery) temperature is the reference during rewarming. Reference: Paal P et al. Accidental hypothermia – an update. **Scand J Trauma Resusc Emerg Med** 2016;24:111.
 
 </details>
 
@@ -3553,7 +4232,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** The Hunter criteria (clonus – spontaneous, inducible or ocular – plus agitation/diaphoresis, or tremor plus hyperreflexia, or hypertonia with temperature >38 °C and clonus) are more sensitive and specific than Sternbach's. Linezolid is a recognised precipitant. Restraint worsens isometric muscle contraction, hyperthermia and lactic acidosis – benzodiazepines are first-line, with cyproheptadine as an adjunct. Hyperthermia is due to muscle activity, so antipyretics do not work; severe cases need sedation, paralysis and intubation. Reference: Boyer EW, Shannon M. The serotonin syndrome. **N Engl J Med** 2005;352:1112–20.
+**A – T, B – T, C – F, D – F.**
+
+The Hunter criteria (clonus – spontaneous, inducible or ocular – plus agitation/diaphoresis, or tremor plus hyperreflexia, or hypertonia with temperature >38 °C and clonus) are more sensitive and specific than Sternbach's. Linezolid is a recognised precipitant. Restraint worsens isometric muscle contraction, hyperthermia and lactic acidosis – benzodiazepines are first-line, with cyproheptadine as an adjunct. Hyperthermia is due to muscle activity, so antipyretics do not work; severe cases need sedation, paralysis and intubation. Reference: Boyer EW, Shannon M. The serotonin syndrome. **N Engl J Med** 2005;352:1112–20.
 
 </details>
 
@@ -3566,7 +4247,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** MDMA causes SIADH-like ADH release plus excessive water intake; young women are over-represented among severe cases. Hyperthermia (with rhabdomyolysis, DIC, AKI and liver injury) is the main killer: rapid cooling, benzodiazepines, and paralysis/ventilation if temperature persists (dantrolene is not of proven benefit). Symptomatic acute hyponatraemia: hypertonic saline bolus (e.g. 150 mL 3 %). Sympathomimetic toxicity is treated with benzodiazepines first; beta-blockers risk unopposed alpha-stimulation. Reference: Hall AP, Henry JA. Acute toxic effects of 'Ecstasy' (MDMA) and related compounds. **Br J Anaesth** 2006;96:678–85; Spasovski G et al. Clinical practice guideline on hyponatraemia. **Eur J Endocrinol** 2014;170:G1–47.
+**A – T, B – T, C – T, D – F.**
+
+MDMA causes SIADH-like ADH release plus excessive water intake; young women are over-represented among severe cases. Hyperthermia (with rhabdomyolysis, DIC, AKI and liver injury) is the main killer: rapid cooling, benzodiazepines, and paralysis/ventilation if temperature persists (dantrolene is not of proven benefit). Symptomatic acute hyponatraemia: hypertonic saline bolus (e.g. 150 mL 3 %). Sympathomimetic toxicity is treated with benzodiazepines first; beta-blockers risk unopposed alpha-stimulation. Reference: Hall AP, Henry JA. Acute toxic effects of 'Ecstasy' (MDMA) and related compounds. **Br J Anaesth** 2006;96:678–85; Spasovski G et al. Clinical practice guideline on hyponatraemia. **Eur J Endocrinol** 2014;170:G1–47.
 
 </details>
 
@@ -3580,7 +4263,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Early MH signs reflect hypermetabolism: unexplained rising ETCO₂ (the most sensitive early sign), tachycardia, tachypnoea (if breathing spontaneously), muscle rigidity (masseter or generalised) and a mixed respiratory/metabolic acidosis. Myoglobinuria, hyperkalaemia, rising CK, hyperthermia and arrhythmias are LATE features. Management: stop volatile, hyperventilate with high-flow O₂, dantrolene 2.5 mg/kg IV repeated as needed, active cooling and treatment of hyperkalaemia. Reference: Glahn KPE et al. Recognizing and managing a malignant hyperthermia crisis: guidelines from the European Malignant Hyperthermia Group. **Br J Anaesth** 2020;125:133–40.
+**B.**
+
+Early MH signs reflect hypermetabolism: unexplained rising ETCO₂ (the most sensitive early sign), tachycardia, tachypnoea (if breathing spontaneously), muscle rigidity (masseter or generalised) and a mixed respiratory/metabolic acidosis. Myoglobinuria, hyperkalaemia, rising CK, hyperthermia and arrhythmias are LATE features. Management: stop volatile, hyperventilate with high-flow O₂, dantrolene 2.5 mg/kg IV repeated as needed, active cooling and treatment of hyperkalaemia. Reference: Glahn KPE et al. Recognizing and managing a malignant hyperthermia crisis: guidelines from the European Malignant Hyperthermia Group. **Br J Anaesth** 2020;125:133–40.
 
 </details>
 
@@ -3596,7 +4281,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Because current is concentrated at the myocardium, very small currents (~50–150 µA) can induce VF via an intracardiac conductor (macroshock through the skin needs ~100 mA). Class I equipment has a protective earth; class II is double-insulated. Only Type CF ('cardiac floating', leakage <10 µA normal / <50 µA single fault) equipment is suitable for direct cardiac connection – B and BF are not. Mains-frequency AC (50–60 Hz) is particularly arrhythmogenic and causes tetany preventing release; DC is less likely to cause VF at the same current. Reference: Boumphrey S, Langton JA. Electrical safety in the operating theatre. **BJA CEPD Reviews** 2003;3:10–4.
+**A – T, B – T, C – F, D – F.**
+
+Because current is concentrated at the myocardium, very small currents (~50–150 µA) can induce VF via an intracardiac conductor (macroshock through the skin needs ~100 mA). Class I equipment has a protective earth; class II is double-insulated. Only Type CF ('cardiac floating', leakage <10 µA normal / <50 µA single fault) equipment is suitable for direct cardiac connection – B and BF are not. Mains-frequency AC (50–60 Hz) is particularly arrhythmogenic and causes tetany preventing release; DC is less likely to cause VF at the same current. Reference: Boumphrey S, Langton JA. Electrical safety in the operating theatre. **BJA CEPD Reviews** 2003;3:10–4.
 
 </details>
 
@@ -3612,7 +4299,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** International consensus treats withholding and withdrawing as morally equivalent, although clinicians often find withdrawal harder. A valid, applicable advance decision to refuse treatment (written, witnessed, with an explicit statement if life-sustaining) is binding under the Mental Capacity Act; requests for treatment are not. Families must be consulted about the patient's values and wishes, but they cannot demand non-beneficial treatment and (unless a legally appointed proxy) do not consent on the patient's behalf; persistent disagreement should be managed by second opinions, mediation and, ultimately, the courts. Reference: Cook D, Rocker G. Dying with dignity in the intensive care unit. **N Engl J Med** 2014;370:2506–14; Sprung CL et al. Changes in end-of-life practices in European intensive care units from 1999 to 2016. **JAMA** 2019;322:1692–1704.
+**A – T, B – T, C – F, D – F.**
+
+International consensus treats withholding and withdrawing as morally equivalent, although clinicians often find withdrawal harder. A valid, applicable advance decision to refuse treatment (written, witnessed, with an explicit statement if life-sustaining) is binding under the Mental Capacity Act; requests for treatment are not. Families must be consulted about the patient's values and wishes, but they cannot demand non-beneficial treatment and (unless a legally appointed proxy) do not consent on the patient's behalf; persistent disagreement should be managed by second opinions, mediation and, ultimately, the courts. Reference: Cook D, Rocker G. Dying with dignity in the intensive care unit. **N Engl J Med** 2014;370:2506–14; Sprung CL et al. Changes in end-of-life practices in European intensive care units from 1999 to 2016. **JAMA** 2019;322:1692–1704.
 
 </details>
 
@@ -3628,7 +4317,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** Confidentiality persists after death. A capacitous patient's refusal must generally be respected; disclosure without consent is justified only by law, a court order, or a sufficiently serious public interest (e.g. to protect an identifiable person from serious harm such as transmission risk to a sexual partner, after encouraging the patient to disclose). There is no general duty to report every crime – only specific statutory duties (e.g. gunshot/knife wounds in UK guidance, notifiable diseases). After loss of capacity, sharing with those close to the patient is guided by best interests and the patient's known wishes, not by self-declared kinship; health data are 'special category' data under GDPR. Reference: Regulation (EU) 2016/679 (General Data Protection Regulation). **Official Journal of the European Union** 2016;L119:1–88.
+**A – F, B – F, C – F, D – F.**
+
+Confidentiality persists after death. A capacitous patient's refusal must generally be respected; disclosure without consent is justified only by law, a court order, or a sufficiently serious public interest (e.g. to protect an identifiable person from serious harm such as transmission risk to a sexual partner, after encouraging the patient to disclose). There is no general duty to report every crime – only specific statutory duties (e.g. gunshot/knife wounds in UK guidance, notifiable diseases). After loss of capacity, sharing with those close to the patient is guided by best interests and the patient's known wishes, not by self-declared kinship; health data are 'special category' data under GDPR. Reference: Regulation (EU) 2016/679 (General Data Protection Regulation). **Official Journal of the European Union** 2016;L119:1–88.
 
 </details>
 
@@ -3641,7 +4332,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** A patient may have capacity for one decision but not another, and capacity fluctuates (e.g. delirium). Montgomery (UK Supreme Court 2015) replaced the Bolam 'reasonable doctor' test with a patient-centred test: risks a reasonable person in the patient's position – or this particular patient – would consider significant. Deferred (or 'research without prior consent') models are accepted in emergency/ICU research under ethics approval and EU Clinical Trials Regulation 536/2014. Under the MCA, an LPA attorney can refuse life-sustaining treatment only when expressly authorised. Reference: Chan SW et al. Montgomery and informed consent: where are we now? **BMJ** 2017;357:j2224.
+**A – T, B – F, C – T, D – T.**
+
+A patient may have capacity for one decision but not another, and capacity fluctuates (e.g. delirium). Montgomery (UK Supreme Court 2015) replaced the Bolam 'reasonable doctor' test with a patient-centred test: risks a reasonable person in the patient's position – or this particular patient – would consider significant. Deferred (or 'research without prior consent') models are accepted in emergency/ICU research under ethics approval and EU Clinical Trials Regulation 536/2014. Under the MCA, an LPA attorney can refuse life-sustaining treatment only when expressly authorised. Reference: Chan SW et al. Montgomery and informed consent: where are we now? **BMJ** 2017;357:j2224.
 
 </details>
 
@@ -3657,7 +4350,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** In opt-out systems families remain central – they provide information on the person's last known wishes and in practice their support is sought. A recorded decision NOT to donate must be respected. The decision to withdraw treatment must be made independently of, and before, any donation discussion, without transplant team involvement (separation of roles). Ante-mortem interventions (heparin, cannulation, NRP) vary considerably between countries and are not universally permitted. Reference: Lomero M et al. Donation after circulatory death today: an updated overview of the European landscape. **Transpl Int** 2020;33:76–88.
+**A – T, B – F, C – T, D – F.**
+
+In opt-out systems families remain central – they provide information on the person's last known wishes and in practice their support is sought. A recorded decision NOT to donate must be respected. The decision to withdraw treatment must be made independently of, and before, any donation discussion, without transplant team involvement (separation of roles). Ante-mortem interventions (heparin, cannulation, NRP) vary considerably between countries and are not universally permitted. Reference: Lomero M et al. Donation after circulatory death today: an updated overview of the European landscape. **Transpl Int** 2020;33:76–88.
 
 </details>
 
@@ -3670,7 +4365,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Madrid 2011 modified Maastricht: I found dead, II unsuccessful resuscitation (both uncontrolled), III awaiting arrest after withdrawal of treatment (controlled), IV arrest in a brain-dead donor; V (euthanasia) in some countries. NRP restores oxygenated flow to abdominal (or thoraco-abdominal) organs only – the aortic arch vessels are occluded/ligated to exclude cerebral perfusion. Uncontrolled DCD has much longer warm ischaemia (arrest, CPR, transfer). No-touch periods vary from 5 min (e.g. UK, Spain, France) to 20 min (Italy). Reference: Thuong M et al. New classification of donation after circulatory death donors definitions and terminology. **Transpl Int** 2016;29:749–59; Lomero M et al. **Transpl Int** 2020;33:76–88.
+**A – T, B – F, C – F, D – F.**
+
+Madrid 2011 modified Maastricht: I found dead, II unsuccessful resuscitation (both uncontrolled), III awaiting arrest after withdrawal of treatment (controlled), IV arrest in a brain-dead donor; V (euthanasia) in some countries. NRP restores oxygenated flow to abdominal (or thoraco-abdominal) organs only – the aortic arch vessels are occluded/ligated to exclude cerebral perfusion. Uncontrolled DCD has much longer warm ischaemia (arrest, CPR, transfer). No-touch periods vary from 5 min (e.g. UK, Spain, France) to 20 min (Italy). Reference: Thuong M et al. New classification of donation after circulatory death donors definitions and terminology. **Transpl Int** 2016;29:749–59; Lomero M et al. **Transpl Int** 2020;33:76–88.
 
 </details>
 
@@ -3686,7 +4383,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** SAPS 3 uses data from the first hour of ICU admission and has regional customisation equations. Child–Pugh (like MELD) is disease-specific for cirrhosis. NEWS2 (UK RCP 2017) aggregates physiological parameters to trigger escalation. SOFA-2, like the original SOFA, describes organ dysfunction (six systems, 0–4 each); its association with mortality was validated, but it is not a mortality model. Reference: Ranzani OT et al. Development and validation of the Sequential Organ Failure Assessment (SOFA)-2 score. **JAMA** 2025; Vincent JL, Moreno R. Clinical review: scoring systems in the critically ill. **Crit Care** 2010;14:207.
+**A – T, B – F, C – T, D – F.**
+
+SAPS 3 uses data from the first hour of ICU admission and has regional customisation equations. Child–Pugh (like MELD) is disease-specific for cirrhosis. NEWS2 (UK RCP 2017) aggregates physiological parameters to trigger escalation. SOFA-2, like the original SOFA, describes organ dysfunction (six systems, 0–4 each); its association with mortality was validated, but it is not a mortality model. Reference: Ranzani OT et al. Development and validation of the Sequential Organ Failure Assessment (SOFA)-2 score. **JAMA** 2025; Vincent JL, Moreno R. Clinical review: scoring systems in the critically ill. **Crit Care** 2010;14:207.
 
 </details>
 
@@ -3699,7 +4398,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – F.** Discrimination (ranking survivors vs non-survivors) and calibration (agreement between predicted and observed risk across strata) are independent; a model can rank perfectly yet systematically over- or under-estimate risk. 'Model drift' with improving care leads to over-prediction, hence periodic recalibration or new versions (APACHE IV, SAPS 3). SMR = observed/predicted deaths; 0.8 means 20 % FEWER deaths than predicted. Reference: Vincent JL, Moreno R. Clinical review: scoring systems in the critically ill. **Crit Care** 2010;14:207.
+**A – F, B – T, C – T, D – F.**
+
+Discrimination (ranking survivors vs non-survivors) and calibration (agreement between predicted and observed risk across strata) are independent; a model can rank perfectly yet systematically over- or under-estimate risk. 'Model drift' with improving care leads to over-prediction, hence periodic recalibration or new versions (APACHE IV, SAPS 3). SMR = observed/predicted deaths; 0.8 means 20 % FEWER deaths than predicted. Reference: Vincent JL, Moreno R. Clinical review: scoring systems in the critically ill. **Crit Care** 2010;14:207.
 
 </details>
 
@@ -3712,7 +4413,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** ISS = sum of squares of the three highest AIS scores from different regions (range 1–75; any AIS 6 = 75). GCS 3–15. qSOFA is a bedside prompt to identify patients at risk outside the ICU; sepsis itself is defined as infection plus an acute SOFA increase ≥2 – and qSOFA is no longer recommended as a single screening tool (SSC 2021). RASS ranges from +4 (combative) to −5 (unrousable), 0 = alert and calm. Reference: Singer M et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). **JAMA** 2016;315:801–10; Sessler CN et al. The Richmond Agitation–Sedation Scale. **Am J Respir Crit Care Med** 2002;166:1338–44.
+**A – T, B – T, C – F, D – T.**
+
+ISS = sum of squares of the three highest AIS scores from different regions (range 1–75; any AIS 6 = 75). GCS 3–15. qSOFA is a bedside prompt to identify patients at risk outside the ICU; sepsis itself is defined as infection plus an acute SOFA increase ≥2 – and qSOFA is no longer recommended as a single screening tool (SSC 2021). RASS ranges from +4 (combative) to −5 (unrousable), 0 = alert and calm. Reference: Singer M et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). **JAMA** 2016;315:801–10; Sessler CN et al. The Richmond Agitation–Sedation Scale. **Am J Respir Crit Care Med** 2002;166:1338–44.
 
 </details>
 
@@ -3726,7 +4429,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Discrimination is preserved (AUROC 0.84), but predicted and observed risks disagree consistently across deciles – a calibration failure. Benchmarking with such a model would produce a flattering SMR (0.6) for every unit. Causes include case-mix differences, changes in care since derivation (model drift) and differences in data collection; remedies are first-level customisation (recalibration) or a newer model. A useful score must first be valid and well-calibrated for the population in which it is used. Reference: Vincent JL, Moreno R. Clinical review: scoring systems in the critically ill. **Crit Care** 2010;14:207.
+**D.**
+
+Discrimination is preserved (AUROC 0.84), but predicted and observed risks disagree consistently across deciles – a calibration failure. Benchmarking with such a model would produce a flattering SMR (0.6) for every unit. Causes include case-mix differences, changes in care since derivation (model drift) and differences in data collection; remedies are first-level customisation (recalibration) or a newer model. A useful score must first be valid and well-calibrated for the population in which it is used. Reference: Vincent JL, Moreno R. Clinical review: scoring systems in the critically ill. **Crit Care** 2010;14:207.
 
 </details>
 
@@ -3739,7 +4444,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** APACHE II = Acute Physiology Score (12 variables, worst value in the first 24 h: temperature, MAP, heart rate, respiratory rate, oxygenation, arterial pH/HCO₃⁻, Na⁺, K⁺, creatinine – doubled in ARF – haematocrit, WBC and 15 − GCS) + age points + chronic health points (cirrhosis, NYHA IV, severe COPD, dialysis, immunocompromise), with more points for emergency surgery/non-operative admission. Bilirubin, albumin, lactate and sex are not included. Reference: Knaus WA et al. APACHE II: a severity of disease classification system. **Crit Care Med** 1985;13:818–29.
+**A – T, B – T, C – T, D – T.**
+
+APACHE II = Acute Physiology Score (12 variables, worst value in the first 24 h: temperature, MAP, heart rate, respiratory rate, oxygenation, arterial pH/HCO₃⁻, Na⁺, K⁺, creatinine – doubled in ARF – haematocrit, WBC and 15 − GCS) + age points + chronic health points (cirrhosis, NYHA IV, severe COPD, dialysis, immunocompromise), with more points for emergency surgery/non-operative admission. Bilirubin, albumin, lactate and sex are not included. Reference: Knaus WA et al. APACHE II: a severity of disease classification system. **Crit Care Med** 1985;13:818–29.
 
 </details>
 
@@ -3755,7 +4462,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** Pronovost (2002) found lower ICU and hospital mortality with high-intensity staffing. Kerlin et al. (RCT, 2013) found no benefit of nighttime intensivists where daytime intensivist care was already present; observational data (Wallace 2012) suggested benefit only in low-intensity units. Night discharge and high patient-to-nurse ratios/workload are associated with worse outcomes, though data are observational. Reference: Pronovost PJ et al. **JAMA** 2002;288:2151–62; Kerlin MP et al. A randomized trial of nighttime physician staffing in an intensive care unit. **N Engl J Med** 2013;368:2201–9; Neuraz A et al. **Crit Care Med** 2015;43:1587–94.
+**A – T, B – F, C – T, D – T.**
+
+Pronovost (2002) found lower ICU and hospital mortality with high-intensity staffing. Kerlin et al. (RCT, 2013) found no benefit of nighttime intensivists where daytime intensivist care was already present; observational data (Wallace 2012) suggested benefit only in low-intensity units. Night discharge and high patient-to-nurse ratios/workload are associated with worse outcomes, though data are observational. Reference: Pronovost PJ et al. **JAMA** 2002;288:2151–62; Kerlin MP et al. A randomized trial of nighttime physician staffing in an intensive care unit. **N Engl J Med** 2013;368:2201–9; Neuraz A et al. **Crit Care Med** 2015;43:1587–94.
 
 </details>
 
@@ -3768,7 +4477,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Boyle's law (P₁V₁ = P₂V₂ at constant temperature): 760/565 ≈ 1.35 – a ~35 % volume increase in trapped gas (cuffs, pneumothorax, bowel, air in IV bags). Cabins are usually pressurised to 6000–8000 ft; sea-level cabins are possible only at reduced cruising altitude and cost. Charles' law relates volume to temperature. Although FiO₂ is unchanged, barometric pressure falls, so PiO₂ (Dalton's law) and PaO₂ fall – FiO₂/PEEP may need increasing; undrained pneumothorax should be drained before flight. Reference: Droogh JM et al. Transferring the critically ill patient: are we there yet? **Crit Care** 2015;19:62.
+**A – T, B – F, C – F, D – F.**
+
+Boyle's law (P₁V₁ = P₂V₂ at constant temperature): 760/565 ≈ 1.35 – a ~35 % volume increase in trapped gas (cuffs, pneumothorax, bowel, air in IV bags). Cabins are usually pressurised to 6000–8000 ft; sea-level cabins are possible only at reduced cruising altitude and cost. Charles' law relates volume to temperature. Although FiO₂ is unchanged, barometric pressure falls, so PiO₂ (Dalton's law) and PaO₂ fall – FiO₂/PEEP may need increasing; undrained pneumothorax should be drained before flight. Reference: Droogh JM et al. Transferring the critically ill patient: are we there yet? **Crit Care** 2015;19:62.
 
 </details>
 
@@ -3784,7 +4495,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Stage 1 = non-blanchable erythema of intact skin; stage 2 = partial-thickness loss with exposed dermis; stage 3 = full-thickness skin loss (fat visible) without exposed fascia, muscle, tendon, ligament, cartilage or bone; stage 4 = full-thickness skin AND tissue loss with these structures exposed; plus unstageable and deep tissue pressure injury. Device-related injuries are staged using the same system (mucosal ones are not). Prone positioning INCREASES pressure injuries (face, chest, knees). Reference: Edsberg LE et al. Revised National Pressure Ulcer Advisory Panel pressure injury staging system. **J Wound Ostomy Continence Nurs** 2016;43:585–97; Guérin C et al. (PROSEVA). **N Engl J Med** 2013;368:2159–68.
+**A – T, B – F, C – F, D – F.**
+
+Stage 1 = non-blanchable erythema of intact skin; stage 2 = partial-thickness loss with exposed dermis; stage 3 = full-thickness skin loss (fat visible) without exposed fascia, muscle, tendon, ligament, cartilage or bone; stage 4 = full-thickness skin AND tissue loss with these structures exposed; plus unstageable and deep tissue pressure injury. Device-related injuries are staged using the same system (mucosal ones are not). Prone positioning INCREASES pressure injuries (face, chest, knees). Reference: Edsberg LE et al. Revised National Pressure Ulcer Advisory Panel pressure injury staging system. **J Wound Ostomy Continence Nurs** 2016;43:585–97; Guérin C et al. (PROSEVA). **N Engl J Med** 2013;368:2159–68.
 
 </details>
 
@@ -3797,7 +4510,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** Head-up positioning is a standard VAP-prevention measure. ABCDEF = Assess/manage pain, Both SAT and SBT, Choice of sedation, Delirium, Early mobility, Family engagement. SUP should be reserved for patients at high risk of GI bleeding (SUP-ICU found no mortality benefit of pantoprazole; REVISE 2024 showed fewer bleeds in ventilated patients without mortality effect). NICE-SUGAR showed higher mortality with 4.5–6.0 mmol/L vs <10 mmol/L. Reference: Vincent JL. Give your patient a fast hug (at least) once a day. **Crit Care Med** 2005;33:1225–9; Krag M et al. (SUP-ICU). **N Engl J Med** 2018;379:2199–208; NICE-SUGAR Investigators. **N Engl J Med** 2009;360:1283–97.
+**A – T, B – T, C – F, D – F.**
+
+Head-up positioning is a standard VAP-prevention measure. ABCDEF = Assess/manage pain, Both SAT and SBT, Choice of sedation, Delirium, Early mobility, Family engagement. SUP should be reserved for patients at high risk of GI bleeding (SUP-ICU found no mortality benefit of pantoprazole; REVISE 2024 showed fewer bleeds in ventilated patients without mortality effect). NICE-SUGAR showed higher mortality with 4.5–6.0 mmol/L vs <10 mmol/L. Reference: Vincent JL. Give your patient a fast hug (at least) once a day. **Crit Care Med** 2005;33:1225–9; Krag M et al. (SUP-ICU). **N Engl J Med** 2018;379:2199–208; NICE-SUGAR Investigators. **N Engl J Med** 2009;360:1283–97.
 
 </details>
 
@@ -3813,7 +4528,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** EQ-5D is a generic, patient-reported utility measure (five dimensions) whose index can be used to calculate QALYs. IES-R (22 items) screens for PTSD symptoms; HADS for anxiety/depression; MoCA for cognition – all recommended in PICS core outcome sets. SF-36 yields eight domains and two summary scores (physical and mental component); utilities require conversion to the SF-6D. Reference: Needham DM et al. Core outcome measures for clinical research in acute respiratory failure survivors. **Am J Respir Crit Care Med** 2017;196:1122–30.
+**A – T, B – T, C – T, D – F.**
+
+EQ-5D is a generic, patient-reported utility measure (five dimensions) whose index can be used to calculate QALYs. IES-R (22 items) screens for PTSD symptoms; HADS for anxiety/depression; MoCA for cognition – all recommended in PICS core outcome sets. SF-36 yields eight domains and two summary scores (physical and mental component); utilities require conversion to the SF-6D. Reference: Needham DM et al. Core outcome measures for clinical research in acute respiratory failure survivors. **Am J Respir Crit Care Med** 2017;196:1122–30.
 
 </details>
 
@@ -3829,7 +4546,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** ARISE (2014) – like ProCESS and ProMISe – found no difference with EGDT. NICE-SUGAR (2009) found increased 90-day mortality with 4.5–6.0 mmol/L targets (the null can be rejected in the direction of harm). TTM2 (2021) found no difference in 6-month mortality. 'Absence of evidence is not evidence of absence': equivalence or non-inferiority must be tested with a pre-specified margin and appropriate design. Reference: ARISE Investigators. **N Engl J Med** 2014;371:1496–506; Dankiewicz J et al. (TTM2). **N Engl J Med** 2021;384:2283–94.
+**A – T, B – T, C – T, D – F.**
+
+ARISE (2014) – like ProCESS and ProMISe – found no difference with EGDT. NICE-SUGAR (2009) found increased 90-day mortality with 4.5–6.0 mmol/L targets (the null can be rejected in the direction of harm). TTM2 (2021) found no difference in 6-month mortality. 'Absence of evidence is not evidence of absence': equivalence or non-inferiority must be tested with a pre-specified margin and appropriate design. Reference: ARISE Investigators. **N Engl J Med** 2014;371:1496–506; Dankiewicz J et al. (TTM2). **N Engl J Med** 2021;384:2283–94.
 
 </details>
 
@@ -3842,7 +4561,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Phase 1 = first-in-human safety/PK; phase 2 = dose-finding/preliminary efficacy; phase 3 = confirmatory efficacy; phase 4 = post-marketing. GRADE: RCT evidence starts HIGH and observational evidence LOW, then is rated down (risk of bias, inconsistency, indirectness, imprecision, publication bias) or up. Power = 1 − β (β = type II error probability); α is the type I error rate. A CI crossing 1 (no effect) is not significant at the 5 % level. Reference: Guyatt GH et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. **BMJ** 2008;336:924–6.
+**A – T, B – F, C – F, D – F.**
+
+Phase 1 = first-in-human safety/PK; phase 2 = dose-finding/preliminary efficacy; phase 3 = confirmatory efficacy; phase 4 = post-marketing. GRADE: RCT evidence starts HIGH and observational evidence LOW, then is rated down (risk of bias, inconsistency, indirectness, imprecision, publication bias) or up. Power = 1 − β (β = type II error probability); α is the type I error rate. A CI crossing 1 (no effect) is not significant at the 5 % level. Reference: Guyatt GH et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. **BMJ** 2008;336:924–6.
 
 </details>
 
@@ -3858,7 +4579,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** LR+ = sens/(1 − spec) = 0.9/0.2 = 4.5. LR− = (1 − sens)/spec = 0.1/0.8 = 0.125. With 10 % prevalence per 1000: TP = 90, FP = 0.2 × 900 = 180, PPV = 90/270 ≈ 33 % (NPV = 720/730 ≈ 99 %). Sensitivity and specificity are (in principle) independent of prevalence, whereas predictive values change with prevalence (spectrum effects can still alter sensitivity in practice). Raising a cut-off moves along the ROC curve, trading sensitivity for specificity. Reference: Akobeng AK. Understanding diagnostic tests 1: sensitivity, specificity and predictive values. **Acta Paediatr** 2007;96:338–41; Akobeng AK. Understanding diagnostic tests 2: likelihood ratios, pre- and post-test probabilities and their use in clinical practice. **Acta Paediatr** 2007;96:487–91.
+**A – T, B – F, C – T, D – F.**
+
+LR+ = sens/(1 − spec) = 0.9/0.2 = 4.5. LR− = (1 − sens)/spec = 0.1/0.8 = 0.125. With 10 % prevalence per 1000: TP = 90, FP = 0.2 × 900 = 180, PPV = 90/270 ≈ 33 % (NPV = 720/730 ≈ 99 %). Sensitivity and specificity are (in principle) independent of prevalence, whereas predictive values change with prevalence (spectrum effects can still alter sensitivity in practice). Raising a cut-off moves along the ROC curve, trading sensitivity for specificity. Reference: Akobeng AK. Understanding diagnostic tests 1: sensitivity, specificity and predictive values. **Acta Paediatr** 2007;96:338–41; Akobeng AK. Understanding diagnostic tests 2: likelihood ratios, pre- and post-test probabilities and their use in clinical practice. **Acta Paediatr** 2007;96:487–91.
 
 </details>
 
@@ -3874,7 +4597,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** ARR = 25 − 20 = 5 %; NNT = 1/0.05 = 20. RR = 0.20/0.25 = 0.80, RRR = 20 %. OR = (0.20/0.80)/(0.25/0.75) = 0.25/0.333 = 0.75; the OR exaggerates the RR when the outcome is common and approximates it only for rare outcomes (<~10 %). Type I error = false positive (α); type II = false negative (β). Reference: Schechtman E. Odds ratio, relative risk, absolute risk reduction, and the number needed to treat – which of these should we use? **Value Health** 2002;5:431–6.
+**A – T, B – T, C – T, D – T.**
+
+ARR = 25 − 20 = 5 %; NNT = 1/0.05 = 20. RR = 0.20/0.25 = 0.80, RRR = 20 %. OR = (0.20/0.80)/(0.25/0.75) = 0.25/0.333 = 0.75; the OR exaggerates the RR when the outcome is common and approximates it only for rare outcomes (<~10 %). Type I error = false positive (α); type II = false negative (β). Reference: Schechtman E. Odds ratio, relative risk, absolute risk reduction, and the number needed to treat – which of these should we use? **Value Health** 2002;5:431–6.
 
 </details>
 
@@ -3890,7 +4615,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** Adrenaline 10 µg/kg = 120 µg = 1.2 mL of 100 µg/mL; in shockable rhythms it is given after the 3rd shock (then every 3–5 min). Defibrillation 4 J/kg (max 120–150 J in ERC guidance). Fluid boluses are 10 mL/kg (balanced crystalloid preferred) and reassessed. Amiodarone 5 mg/kg (max 300 mg) is given after the 3rd and 5th shocks (lidocaine 1 mg/kg is an alternative). Reference: Van de Voorde P et al. European Resuscitation Council Guidelines 2021: Paediatric Life Support. **Resuscitation** 2021;161:327–87 (unchanged in principle in ERC Guidelines 2025: Paediatric Life Support, **Resuscitation** 2025).
+**A – T, B – T, C – T, D – F.**
+
+Adrenaline 10 µg/kg = 120 µg = 1.2 mL of 100 µg/mL; in shockable rhythms it is given after the 3rd shock (then every 3–5 min). Defibrillation 4 J/kg (max 120–150 J in ERC guidance). Fluid boluses are 10 mL/kg (balanced crystalloid preferred) and reassessed. Amiodarone 5 mg/kg (max 300 mg) is given after the 3rd and 5th shocks (lidocaine 1 mg/kg is an alternative). Reference: Van de Voorde P et al. European Resuscitation Council Guidelines 2021: Paediatric Life Support. **Resuscitation** 2021;161:327–87 (unchanged in principle in ERC Guidelines 2025: Paediatric Life Support, **Resuscitation** 2025).
 
 </details>
 
@@ -3903,7 +4630,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** ERC PLS recommends length-based methods (or parental estimate/known weight) over age formulae, which perform poorly at extremes of body habitus. Cuffed tubes are preferred: ID ≈ age/4 + 3.5 (age/4 + 4 is the uncuffed formula). Oral depth ≈ age/2 + 12 cm (nasal ≈ age/2 + 15), confirmed by capnography and imaging. Synchronised cardioversion starts at 1 J/kg, then 2 J/kg; 4 J/kg is the defibrillation dose. Reference: Van de Voorde P et al. European Resuscitation Council Guidelines 2021: Paediatric Life Support. **Resuscitation** 2021;161:327–87.
+**A – T, B – F, C – T, D – F.**
+
+ERC PLS recommends length-based methods (or parental estimate/known weight) over age formulae, which perform poorly at extremes of body habitus. Cuffed tubes are preferred: ID ≈ age/4 + 3.5 (age/4 + 4 is the uncuffed formula). Oral depth ≈ age/2 + 12 cm (nasal ≈ age/2 + 15), confirmed by capnography and imaging. Synchronised cardioversion starts at 1 J/kg, then 2 J/kg; 4 J/kg is the defibrillation dose. Reference: Van de Voorde P et al. European Resuscitation Council Guidelines 2021: Paediatric Life Support. **Resuscitation** 2021;161:327–87.
 
 </details>
 
@@ -3919,7 +4648,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A – VTE risk rises steeply when albumin falls below ~20–25 g/L (urinary loss of antithrombin, increased hepatic synthesis of fibrinogen and factors V/VIII); membranous nephropathy has the highest risk, and prophylactic anticoagulation is considered. B – urinary loss of IgG and complement factors. C – hypoalbuminaemia lowers total calcium (and vitamin D-binding protein is lost); ionised calcium may be normal or low. D – hyperlipidaemia results from increased hepatic lipoprotein synthesis and reduced catabolism. Reference: KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. **Kidney Int** 2021;100(4S):S1–S276; Kerlin BA, Ayoob R, Smoyer WE. Epidemiology and pathophysiology of nephrotic syndrome-associated thromboembolic disease. **Clin J Am Soc Nephrol** 2012;7:513–520.
+**A – T, B – T, C – T, D – F.**
+
+A – VTE risk rises steeply when albumin falls below ~20–25 g/L (urinary loss of antithrombin, increased hepatic synthesis of fibrinogen and factors V/VIII); membranous nephropathy has the highest risk, and prophylactic anticoagulation is considered. B – urinary loss of IgG and complement factors. C – hypoalbuminaemia lowers total calcium (and vitamin D-binding protein is lost); ionised calcium may be normal or low. D – hyperlipidaemia results from increased hepatic lipoprotein synthesis and reduced catabolism. Reference: KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases. **Kidney Int** 2021;100(4S):S1–S276; Kerlin BA, Ayoob R, Smoyer WE. Epidemiology and pathophysiology of nephrotic syndrome-associated thromboembolic disease. **Clin J Am Soc Nephrol** 2012;7:513–520.
 
 </details>
 
@@ -3933,7 +4664,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** This is infectious mononucleosis (EBV). Heterophile antibody (Monospot) or EBV-specific serology confirms it (A). Splenic rupture risk is highest in the first 3–4 weeks (B). The aminopenicillin rash in EBV is usually not IgE-mediated and does not mandate lifelong penicillin avoidance (C). Corticosteroids are reserved for complications such as impending airway obstruction, haemolytic anaemia or severe thrombocytopenia (E). Antivirals (aciclovir, valaciclovir) reduce viral shedding but have no proven clinical benefit and are not recommended routinely (D). Reference: Dunmire SK, Verghese PS, Balfour HH Jr. Primary Epstein–Barr virus infection. **J Clin Virol** 2018;102:84–92; Luzuriaga K, Sullivan JL. Infectious mononucleosis. **N Engl J Med** 2010;362:1993–2000.
+**D.**
+
+This is infectious mononucleosis (EBV). Heterophile antibody (Monospot) or EBV-specific serology confirms it (A). Splenic rupture risk is highest in the first 3–4 weeks (B). The aminopenicillin rash in EBV is usually not IgE-mediated and does not mandate lifelong penicillin avoidance (C). Corticosteroids are reserved for complications such as impending airway obstruction, haemolytic anaemia or severe thrombocytopenia (E). Antivirals (aciclovir, valaciclovir) reduce viral shedding but have no proven clinical benefit and are not recommended routinely (D). Reference: Dunmire SK, Verghese PS, Balfour HH Jr. Primary Epstein–Barr virus infection. **J Clin Virol** 2018;102:84–92; Luzuriaga K, Sullivan JL. Infectious mononucleosis. **N Engl J Med** 2010;362:1993–2000.
 
 </details>
 
@@ -3946,6 +4679,8 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** A – higher counts increase likelihood (LR rises with > 50 000 and > 100 000/µL), but sensitivity is limited, especially in immunosuppression or prosthetic joints. B – crystal arthropathy and infection can coexist. C – S. aureus is the commonest pathogen in adults; gonococcal arthritis affects younger sexually active adults. D – blood cultures are positive in about half of cases and should be taken before antibiotics, together with synovial Gram stain and culture (Gram stain is negative in a substantial proportion). Reference: Margaretten ME, et al. Does this adult patient have septic arthritis? **JAMA** 2007;297:1478–1488; Mathews CJ, et al. Bacterial septic arthritis in adults. **Lancet** 2010;375:846–855.
+**A – T, B – F, C – F, D – F.**
+
+A – higher counts increase likelihood (LR rises with > 50 000 and > 100 000/µL), but sensitivity is limited, especially in immunosuppression or prosthetic joints. B – crystal arthropathy and infection can coexist. C – S. aureus is the commonest pathogen in adults; gonococcal arthritis affects younger sexually active adults. D – blood cultures are positive in about half of cases and should be taken before antibiotics, together with synovial Gram stain and culture (Gram stain is negative in a substantial proportion). Reference: Margaretten ME, et al. Does this adult patient have septic arthritis? **JAMA** 2007;297:1478–1488; Mathews CJ, et al. Bacterial septic arthritis in adults. **Lancet** 2010;375:846–855.
 
 </details>

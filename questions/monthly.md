@@ -1,6 +1,6 @@
 # Questions – monthly
 
-Answer in the [interactive quiz](../index.html) to get marked automatically. Answers are hidden below each question.
+Answer in the [interactive quiz](https://mazur-andrej.github.io/Kviz/) to get marked automatically. Answers are hidden below each question.
 
 
 ## Monthly review – November + December (W01–W05)
@@ -15,7 +15,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Septic shock = vasopressor to keep MAP ≥ 65 **and** lactate > 2 mmol/L despite adequate fluids; mortality > 40 %. The 4 mmol/L threshold is from an older era; "severe sepsis" has been abolished. ([W01/D1](#W01-D1))
+**B.**
+
+Septic shock = vasopressor to keep MAP ≥ 65 **and** lactate > 2 mmol/L despite adequate fluids; mortality > 40 %. The 4 mmol/L threshold is from an older era; "severe sepsis" has been abolished. ([W01/D1](#W01-D1))
 
 </details>
 
@@ -28,7 +30,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** Probable/definite sepsis without shock → within 1 h is a **strong** recommendation (very low certainty). Possible sepsis without shock → within **3 h** if concern persists. ICU admission within 6 h – conditional, low certainty. ([W01/D2](#W01-D2))
+**A – F, B – T, C – F, D – T.**
+
+Probable/definite sepsis without shock → within 1 h is a **strong** recommendation (very low certainty). Possible sepsis without shock → within **3 h** if concern persists. ICU admission within 6 h – conditional, low certainty. ([W01/D2](#W01-D2))
 
 </details>
 
@@ -42,7 +46,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** New in 2026: no anaerobic coverage without risk factors, coverage with risk factors (e.g. intra-abdominal source). Shock → antibiotics immediately/within 1 h; PCT not for starting; source control as soon as possible. ([W01/D2](#W01-D2))
+**C.**
+
+New in 2026: no anaerobic coverage without risk factors, coverage with risk factors (e.g. intra-abdominal source). Shock → antibiotics immediately/within 1 h; PCT not for starting; source control as soon as possible. ([W01/D2](#W01-D2))
 
 </details>
 
@@ -55,7 +61,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** B: ~−2.1 L. In CLOVERS the incidence of serious adverse events was similar; both trials were negative for mortality. ([W01/D3](#W01-D3))
+**A – T, B – T, C – T, D – T.**
+
+B: ~−2.1 L. In CLOVERS the incidence of serious adverse events was similar; both trials were negative for mortality. ([W01/D3](#W01-D3))
 
 </details>
 
@@ -69,7 +77,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Albumin may be appropriate after large volumes of crystalloid or in cirrhosis (conditional, moderate certainty). Not HES or gelatins. ([W01/D3](#W01-D3))
+**A.**
+
+Albumin may be appropriate after large volumes of crystalloid or in cirrhosis (conditional, moderate certainty). Not HES or gelatins. ([W01/D3](#W01-D3))
 
 </details>
 
@@ -82,7 +92,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** Vasopressin acts via V1 receptors independently of adrenergic receptors and remains effective in acidosis. VANISH: **less** RRT with vasopressin (secondary outcome). ([W01/D4](#W01-D4))
+**A – T, B – F, C – F, D – T.**
+
+Vasopressin acts via V1 receptors independently of adrenergic receptors and remains effective in acidosis. VANISH: **less** RRT with vasopressin (secondary outcome). ([W01/D4](#W01-D4))
 
 </details>
 
@@ -96,7 +108,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** 65 trial (JAMA 2020): permissive hypotension in patients ≥ 65 y, 90-d mortality 41.0 vs 43.8 % (NS), no signal of harm. ([W01/D4](#W01-D4))
+**D.**
+
+65 trial (JAMA 2020): permissive hypotension in patients ≥ 65 y, 90-d mortality 41.0 vs 43.8 % (NS), no signal of harm. ([W01/D4](#W01-D4))
 
 </details>
 
@@ -109,7 +123,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** SSC 2021: start with NA/adrenaline ≥ 0.25 µg/kg/min for ≥ 4 h; no ACTH test (CORTICUS). ([W01/D5](#W01-D5))
+**A – T, B – F, C – T, D – T.**
+
+SSC 2021: start with NA/adrenaline ≥ 0.25 µg/kg/min for ≥ 4 h; no ACTH test (CORTICUS). ([W01/D5](#W01-D5))
 
 </details>
 
@@ -123,7 +139,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** APROCCHSS (HC + fludrocortisone): 43.0 vs 49.1 %. ADRENAL and CORTICUS without mortality benefit; CAPE COD was in severe CAP (septic shock excluded, 28-d mortality); VANISH is about vasopressin. ([W01/D5](#W01-D5), [W01/D4](#W01-D4))
+**E.**
+
+APROCCHSS (HC + fludrocortisone): 43.0 vs 49.1 %. ADRENAL and CORTICUS without mortality benefit; CAPE COD was in severe CAP (septic shock excluded, 28-d mortality); VANISH is about vasopressin. ([W01/D5](#W01-D5), [W01/D4](#W01-D4))
 
 </details>
 
@@ -136,7 +154,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** Lactate kinetics are slow (hours). Sepsis-3 septic shock = vasopressors for MAP ≥ 65 **and** lactate > **2** mmol/L despite adequate fluids. ([W01/D1](#W01-D1), [W01/D2](#W01-D2), [W04/D4](#W04-D4))
+**A – T, B – F, C – T, D – F.**
+
+Lactate kinetics are slow (hours). Sepsis-3 septic shock = vasopressors for MAP ≥ 65 **and** lactate > **2** mmol/L despite adequate fluids. ([W01/D1](#W01-D1), [W01/D2](#W01-D2), [W04/D4](#W04-D4))
 
 </details>
 
@@ -150,7 +170,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Saline contains 154 mmol/L Cl⁻ → fall in SID (acidosis) and renal vasoconstriction via Cl⁻ at the macula densa. ([W01/D3](#W01-D3))
+**E.**
+
+Saline contains 154 mmol/L Cl⁻ → fall in SID (acidosis) and renal vasoconstriction via Cl⁻ at the macula densa. ([W01/D3](#W01-D3))
 
 </details>
 
@@ -163,7 +185,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – F.** ATHOS-3: ↑ MAP, mortality benefit not shown → angiotensin II not first choice. LeoPARDS: **more** supraventricular tachyarrhythmias with levosimendan. Methylene blue **inhibits** NO/guanylate cyclase. ([W01/D4](#W01-D4))
+**A – F, B – T, C – F, D – F.**
+
+ATHOS-3: ↑ MAP, mortality benefit not shown → angiotensin II not first choice. LeoPARDS: **more** supraventricular tachyarrhythmias with levosimendan. Methylene blue **inhibits** NO/guanylate cyclase. ([W01/D4](#W01-D4))
 
 </details>
 
@@ -177,7 +201,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** RR ≥ 22 and SBP ≤ 100 = 2 points; qSOFA is prognostic, not diagnostic. SIRS is among the recommended tools instead of qSOFA (strong, moderate certainty). ([W01/D1](#W01-D1))
+**E.**
+
+RR ≥ 22 and SBP ≤ 100 = 2 points; qSOFA is prognostic, not diagnostic. SIRS is among the recommended tools instead of qSOFA (strong, moderate certainty). ([W01/D1](#W01-D1))
 
 </details>
 
@@ -190,7 +216,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** 30 mL/kg – conditional, low certainty and to be individualised; crystalloids as first choice – strong, moderate certainty. ([W01/D3](#W01-D3))
+**A – T, B – T, C – T, D – F.**
+
+30 mL/kg – conditional, low certainty and to be individualised; crystalloids as first choice – strong, moderate certainty. ([W01/D3](#W01-D3))
 
 </details>
 
@@ -204,7 +232,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Classic GRADE trap – a strong recommendation can rest on very low certainty. C (conditional, low), A (conditional, low), B (conditional, moderate), D (conditional, moderate). ([W01/D2](#W01-D2), [W01/D3](#W01-D3))
+**E.**
+
+Classic GRADE trap – a strong recommendation can rest on very low certainty. C (conditional, low), A (conditional, low), B (conditional, moderate), D (conditional, moderate). ([W01/D2](#W01-D2), [W01/D3](#W01-D3))
 
 </details>
 
@@ -217,7 +247,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – F.** β-lactams are time-dependent: efficacy follows % fT>MIC, and the position paper proposes 100 % fT>MIC in critically ill patients. The loading dose depends on Vd; AKI in sepsis is often transient and β-lactam underdosing is a greater risk than toxicity. ([W02/D1](#W02-D1))
+**A – F, B – T, C – T, D – F.**
+
+β-lactams are time-dependent: efficacy follows % fT>MIC, and the position paper proposes 100 % fT>MIC in critically ill patients. The loading dose depends on Vd; AKI in sepsis is often transient and β-lactam underdosing is a greater risk than toxicity. ([W02/D1](#W02-D1))
 
 </details>
 
@@ -231,7 +263,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Aminoglycosides = concentration-dependent (Cmax/MIC 8–10, AUC 80–120 mg·h/L); amikacin trough < 2.5 mg/L (high trough = toxicity). Routine TDM is recommended. ([W02/D1](#W02-D1))
+**A.**
+
+Aminoglycosides = concentration-dependent (Cmax/MIC 8–10, AUC 80–120 mg·h/L); amikacin trough < 2.5 mg/L (high trough = toxicity). Routine TDM is recommended. ([W02/D1](#W02-D1))
 
 </details>
 
@@ -244,7 +278,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – T.** In BLING III there was no difference in MDR colonisation/infection or *C. difficile*. ([W02/D1](#W02-D1))
+**A – F, B – T, C – T, D – T.**
+
+In BLING III there was no difference in MDR colonisation/infection or *C. difficile*. ([W02/D1](#W02-D1))
 
 </details>
 
@@ -258,7 +294,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** De-escalate according to susceptibility, stop anti-MRSA therapy with a negative screen; SSC 2021 advises against continuing double Gram-negative coverage; BALANCE: 7 days non-inferior to 14 (except *S. aureus* and candidaemia). ([W02/D2](#W02-D2))
+**E.**
+
+De-escalate according to susceptibility, stop anti-MRSA therapy with a negative screen; SSC 2021 advises against continuing double Gram-negative coverage; BALANCE: 7 days non-inferior to 14 (except *S. aureus* and candidaemia). ([W02/D2](#W02-D2))
 
 </details>
 
@@ -271,7 +309,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – T.** SAPS: 28-day mortality was **lower** with procalcitonin guidance (19.6 vs 25.0 %). ADAPT-Sepsis: only the PCT protocol shortened therapy; CRP did not shorten therapy and non-inferiority was not shown. ERS/ESICM does not recommend routine serial PCT when 7–8 days are planned (strong). ([W02/D2](#W02-D2), [W02/D5](#W02-D5))
+**A – F, B – F, C – F, D – T.**
+
+SAPS: 28-day mortality was **lower** with procalcitonin guidance (19.6 vs 25.0 %). ADAPT-Sepsis: only the PCT protocol shortened therapy; CRP did not shorten therapy and non-inferiority was not shown. ERS/ESICM does not recommend routine serial PCT when 7–8 days are planned (strong). ([W02/D2](#W02-D2), [W02/D5](#W02-D5))
 
 </details>
 
@@ -285,7 +325,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** 1.5 / 5.0 = 30 % of peak → a 70 % fall; rule: < 0.5 µg/L or a fall ≥ 80 % (80 % of 5.0 = a value of 1.0). ([W02/D2](#W02-D2))
+**C.**
+
+1.5 / 5.0 = 30 % of peak → a 70 % fall; rule: < 0.5 µg/L or a fall ≥ 80 % (80 % of 5.0 = a value of 1.0). ([W02/D2](#W02-D2))
 
 </details>
 
@@ -298,7 +340,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – T, D – F.** Vaborbactam is inactive against MBL and OXA-48; OXA-48 → ceftazidime-avibactam; NDM → aztreonam-avibactam or cefiderocol. Ceftolozane-tazobactam is potent against *Pseudomonas* but inactive against carbapenemases. ([W02/D3](#W02-D3))
+**A – F, B – F, C – T, D – F.**
+
+Vaborbactam is inactive against MBL and OXA-48; OXA-48 → ceftazidime-avibactam; NDM → aztreonam-avibactam or cefiderocol. Ceftolozane-tazobactam is potent against *Pseudomonas* but inactive against carbapenemases. ([W02/D3](#W02-D3))
 
 </details>
 
@@ -312,7 +356,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** BSI without septic shock → ertapenem (conditional, moderate). Against tigecycline (strong) and cefepime for ESBL; MERINO did not show non-inferiority of pip-tazo; new BL/BLIs should be reserved for XDR. ([W02/D3](#W02-D3))
+**D.**
+
+BSI without septic shock → ertapenem (conditional, moderate). Against tigecycline (strong) and cefepime for ESBL; MERINO did not show non-inferiority of pip-tazo; new BL/BLIs should be reserved for XDR. ([W02/D3](#W02-D3))
 
 </details>
 
@@ -325,7 +371,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** IDSA 2024: sulbactam-durlobactam + a carbapenem; caution with cefiderocol (CREDIBLE-CR – higher mortality with *Acinetobacter*). ([W02/D3](#W02-D3))
+**A – T, B – T, C – T, D – T.**
+
+IDSA 2024: sulbactam-durlobactam + a carbapenem; caution with cefiderocol (CREDIBLE-CR – higher mortality with *Acinetobacter*). ([W02/D3](#W02-D3))
 
 </details>
 
@@ -339,7 +387,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Echinocandins penetrate poorly into the eye, CNS and urine → for endophthalmitis use an azole/amphotericin B. ([W02/D4](#W02-D4))
+**B.**
+
+Echinocandins penetrate poorly into the eye, CNS and urine → for endophthalmitis use an azole/amphotericin B. ([W02/D4](#W02-D4))
 
 </details>
 
@@ -352,7 +402,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** A: adj. OR 5.19. B: classic criteria require a host factor and therefore **miss** most ICU patients. First line: voriconazole or isavuconazole; L-AmB for azole resistance. ([W02/D4](#W02-D4))
+**A – T, B – F, C – F, D – T.**
+
+A: adj. OR 5.19. B: classic criteria require a host factor and therefore **miss** most ICU patients. First line: voriconazole or isavuconazole; L-AmB for azole resistance. ([W02/D4](#W02-D4))
 
 </details>
 
@@ -366,7 +418,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** No response after 4–5 days and no further evidence of invasive candidiasis (or a negative non-culture test with high NPV) → consider stopping. ([W02/D4](#W02-D4))
+**B.**
+
+No response after 4–5 days and no further evidence of invasive candidiasis (or a negative non-culture test with high NPV) → consider stopping. ([W02/D4](#W02-D4))
 
 </details>
 
@@ -379,7 +433,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** ERS/ESICM: stop after 3 days if HAP is unlikely and there is no deterioration. IDSA/ATS 2016 suggests **non-invasive** sampling with semiquantitative cultures and **not** using PCT/CRP/CPIS to decide whether to start. HCAP was abandoned because the patients **did not** have as many MDR pathogens as assumed (excessive broad-spectrum therapy). ([W02/D5](#W02-D5))
+**A – F, B – F, C – F, D – F.**
+
+ERS/ESICM: stop after 3 days if HAP is unlikely and there is no deterioration. IDSA/ATS 2016 suggests **non-invasive** sampling with semiquantitative cultures and **not** using PCT/CRP/CPIS to decide whether to start. HCAP was abandoned because the patients **did not** have as many MDR pathogens as assumed (excessive broad-spectrum therapy). ([W02/D5](#W02-D5))
 
 </details>
 
@@ -393,7 +449,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** MRSA coverage when MRSA > 10–20 %; double antipseudomonal coverage only with MDR risk factors or > 10 % resistance. ([W02/D5](#W02-D5))
+**E.**
+
+MRSA coverage when MRSA > 10–20 %; double antipseudomonal coverage only with MDR risk factors or > 10 % resistance. ([W02/D5](#W02-D5))
 
 </details>
 
@@ -406,7 +464,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** iDIAPASON: death/recurrence 35.2 vs 25.5 %, non-inferiority not shown, stopped early. ([W02/D5](#W02-D5), [W02/D2](#W02-D2))
+**A – T, B – T, C – F, D – T.**
+
+iDIAPASON: death/recurrence 35.2 vs 25.5 %, non-inferiority not shown, stopped early. ([W02/D5](#W02-D5), [W02/D2](#W02-D2))
 
 </details>
 
@@ -420,7 +480,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Remove a short-term CVC with Gram-negatives (including *Pseudomonas*); no salvage with *Pseudomonas*; guidewire exchange does not remove the biofilm; uncomplicated Gram-negative BSI 7 days (BALANCE). ([W03/D1](#W03-D1))
+**A.**
+
+Remove a short-term CVC with Gram-negatives (including *Pseudomonas*); no salvage with *Pseudomonas*; guidewire exchange does not remove the biofilm; uncomplicated Gram-negative BSI 7 days (BALANCE). ([W03/D1](#W03-D1))
 
 </details>
 
@@ -433,7 +495,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** Keystone was a before–after cohort, not an RCT. Pneumothorax was most frequent with the subclavian site (2.1 vs 1.4 vs 0.7 %); the subclavian site also had the fewest CRBSI + DVT. CLEAN: chlorhexidine–alcohol reduced CRBSI (HR 0.21), with more severe skin reactions. ([W03/D1](#W03-D1))
+**A – T, B – F, C – F, D – F.**
+
+Keystone was a before–after cohort, not an RCT. Pneumothorax was most frequent with the subclavian site (2.1 vs 1.4 vs 0.7 %); the subclavian site also had the fewest CRBSI + DVT. CLEAN: chlorhexidine–alcohol reduced CRBSI (HR 0.21), with more severe skin reactions. ([W03/D1](#W03-D1))
 
 </details>
 
@@ -447,7 +511,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** CoNS: 5–7 days after removal; 10–14 days only if the catheter is retained with lock therapy. ([W03/D1](#W03-D1))
+**B.**
+
+CoNS: 5–7 days after removal; 10–14 days only if the catheter is retained with lock therapy. ([W03/D1](#W03-D1))
 
 </details>
 
@@ -460,7 +526,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** Age > 50 y and a cell-mediated immune defect (corticosteroids) → *Listeria*. Stop dexamethasone if the pathogen is other than *S. pneumoniae* or *H. influenzae*. ([W03/D2](#W03-D2), [W03/D4](#W03-D4))
+**A – T, B – F, C – T, D – T.**
+
+Age > 50 y and a cell-mediated immune defect (corticosteroids) → *Listeria*. Stop dexamethasone if the pathogen is other than *S. pneumoniae* or *H. influenzae*. ([W03/D2](#W03-D2), [W03/D4](#W03-D4))
 
 </details>
 
@@ -474,7 +542,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** If antibiotics have already been started, dexamethasone can be started up to 4 h after the first dose. Reduced vancomycin penetration is not a reason to omit it. ([W03/D2](#W03-D2))
+**A.**
+
+If antibiotics have already been started, dexamethasone can be started up to 4 h after the first dose. Reduced vancomycin penetration is not a reason to omit it. ([W03/D2](#W03-D2))
 
 </details>
 
@@ -487,7 +557,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** Corticosteroids in HSV encephalitis are not routinely recommended (only retrospective data). ([W03/D2](#W03-D2))
+**A – T, B – T, C – T, D – F.**
+
+Corticosteroids in HSV encephalitis are not routinely recommended (only retrospective data). ([W03/D2](#W03-D2))
 
 </details>
 
@@ -501,7 +573,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Type II NSTI (GAS; varicella, NSAID). GAS → penicillin + clindamycin (IDSA, strong); never clindamycin monotherapy (resistance). Doxycycline + ceftriaxone is for *Vibrio*. ([W03/D3](#W03-D3))
+**A.**
+
+Type II NSTI (GAS; varicella, NSAID). GAS → penicillin + clindamycin (IDSA, strong); never clindamycin monotherapy (resistance). Doxycycline + ceftriaxone is for *Vibrio*. ([W03/D3](#W03-D3))
 
 </details>
 
@@ -514,7 +588,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** CRP ≥ 150 = 4, WBC 15–25 = 1, Hb 11–13.5 = 1, Na < 135 = 2, creatinine ≤ 141 = 0, glucose ≤ 10 = 0 → **8**. LRINEC never delays exploration; CT gas sensitivity 88.5 % vs LRINEC 68.2 % (higher). ([W03/D3](#W03-D3))
+**A – T, B – F, C – T, D – F.**
+
+CRP ≥ 150 = 4, WBC 15–25 = 1, Hb 11–13.5 = 1, Na < 135 = 2, creatinine ≤ 141 = 0, glucose ≤ 10 = 0 → **8**. LRINEC never delays exploration; CT gas sensitivity 88.5 % vs LRINEC 68.2 % (higher). ([W03/D3](#W03-D3))
 
 </details>
 
@@ -528,7 +604,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Streptococcal TSS: often NSTI, severe local pain, blood cultures often positive, high mortality (~38 %). The other options are typical of staphylococcal TSS. ([W03/D3](#W03-D3))
+**B.**
+
+Streptococcal TSS: often NSTI, severe local pain, blood cultures often positive, high mortality (~38 %). The other options are typical of staphylococcal TSS. ([W03/D3](#W03-D3))
 
 </details>
 
@@ -541,7 +619,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – T.** Persistent fever in a stable patient is not a reason to escalate; think of fungal infection (chest CT, galactomannan). ([W03/D4](#W03-D4))
+**A – F, B – T, C – T, D – T.**
+
+Persistent fever in a stable patient is not a reason to escalate; think of fungal infection (chest CT, galactomannan). ([W03/D4](#W03-D4))
 
 </details>
 
@@ -555,7 +635,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Humoral immunity/asplenia → encapsulated bacteria. PJP/CMV/*Nocardia*/*Cryptococcus* = T cells; moulds = prolonged neutropenia; CoNS/*Candida* = barriers. ([W03/D4](#W03-D4))
+**A.**
+
+Humoral immunity/asplenia → encapsulated bacteria. PJP/CMV/*Nocardia*/*Cryptococcus* = T cells; moulds = prolonged neutropenia; CoNS/*Candida* = barriers. ([W03/D4](#W03-D4))
 
 </details>
 
@@ -568,7 +650,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** C: reduced – 5.6 vs 8.1 %; 20.9 vs 32.5 %. D: the benefit was confined to regimens **with** an IV component (RR 0.84 vs 1.01). Ecological non-inferiority for resistant organisms was not confirmed. ([W03/D5](#W03-D5))
+**A – T, B – F, C – F, D – F.**
+
+C: reduced – 5.6 vs 8.1 %; 20.9 vs 32.5 %. D: the benefit was confined to regimens **with** an IV component (RR 0.84 vs 1.01). Ecological non-inferiority for resistant organisms was not confirmed. ([W03/D5](#W03-D5))
 
 </details>
 
@@ -582,7 +666,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Colonisation ≠ infection (do not treat), but in sepsis it guides the choice of empirical therapy. OXA-48 → ceftazidime-avibactam; vaborbactam does not cover OXA-48, ceftolozane is inactive against carbapenemases. ([W03/D5](#W03-D5), [W02/D3](#W02-D3))
+**E.**
+
+Colonisation ≠ infection (do not treat), but in sepsis it guides the choice of empirical therapy. OXA-48 → ceftazidime-avibactam; vaborbactam does not cover OXA-48, ceftolozane is inactive against carbapenemases. ([W03/D5](#W03-D5), [W02/D3](#W02-D3))
 
 </details>
 
@@ -595,7 +681,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** MOSAR: neither rapid PCR nor conventional screening with isolation further reduced acquisition. BUGG: no difference in the primary outcome (only MRSA alone slightly ↓). ([W03/D5](#W03-D5))
+**A – F, B – T, C – F, D – T.**
+
+MOSAR: neither rapid PCR nor conventional screening with isolation further reduced acquisition. BUGG: no difference in the primary outcome (only MRSA alone slightly ↓). ([W03/D5](#W03-D5))
 
 </details>
 
@@ -609,7 +697,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Empirical vancomycin (not linezolid); Gram-negative coverage in critical illness and with a femoral catheter; consider an echinocandin with TPN/femoral catheter; septic shock = indication for removal. ([W03/D1](#W03-D1))
+**C.**
+
+Empirical vancomycin (not linezolid); Gram-negative coverage in critical illness and with a femoral catheter; consider an echinocandin with TPN/femoral catheter; septic shock = indication for removal. ([W03/D1](#W03-D1))
 
 </details>
 
@@ -623,7 +713,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** CaO₂ = 1.34 × 10 × 0.95 + 0.003 × 80 = 12.73 + 0.24 ≈ 12.97 mL/dL; DO₂ = 5 × 12.97 × 10 ≈ **650 mL/min**. Dissolved O₂ is negligible. ([W04/D1](#W04-D1))
+**B.**
+
+CaO₂ = 1.34 × 10 × 0.95 + 0.003 × 80 = 12.73 + 0.24 ≈ 12.97 mL/dL; DO₂ = 5 × 12.97 × 10 ≈ **650 mL/min**. Dissolved O₂ is negligible. ([W04/D1](#W04-D1))
 
 </details>
 
@@ -636,7 +728,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** Distributive shock typically has a normal/high SvO₂ (which does not exclude tissue hypoxia). ([W04/D1](#W04-D1))
+**A – T, B – T, C – T, D – F.**
+
+Distributive shock typically has a normal/high SvO₂ (which does not exclude tissue hypoxia). ([W04/D1](#W04-D1))
 
 </details>
 
@@ -650,7 +744,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** PLR works in spontaneous breathing and arrhythmia if CO/SV is measured in real time (threshold ≥ 10 %). PPV does not work in AF and spontaneous breathing; EEO requires intubation; BP alone is insensitive; the IVC is unreliable. ([W04/D2](#W04-D2), [W04/D5](#W04-D5))
+**A.**
+
+PLR works in spontaneous breathing and arrhythmia if CO/SV is measured in real time (threshold ≥ 10 %). PPV does not work in AF and spontaneous breathing; EEO requires intubation; BP alone is insensitive; the IVC is unreliable. ([W04/D2](#W04-D2), [W04/D5](#W04-D5))
 
 </details>
 
@@ -663,7 +759,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** C: only 51 % with VT < 8 vs 88 % with VT ≥ 8. With spontaneous breathing the AUC is only ~0.68. ([W04/D2](#W04-D2))
+**A – T, B – T, C – F, D – F.**
+
+C: only 51 % with VT < 8 vs 88 % with VT ≥ 8. With spontaneous breathing the AUC is only ~0.68. ([W04/D2](#W04-D2))
 
 </details>
 
@@ -677,7 +775,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** TPTD or PAC in severe shock, especially with ARDS (Level 2, C); no routine PAC (Level 1, A); measure CO/SV in non-responders; less invasive devices only if validated in shock. ([W04/D3](#W04-D3), [W04/D1](#W04-D1))
+**A.**
+
+TPTD or PAC in severe shock, especially with ARDS (Level 2, C); no routine PAC (Level 1, A); measure CO/SV in non-responders; less invasive devices only if validated in shock. ([W04/D3](#W04-D3), [W04/D1](#W04-D1))
 
 </details>
 
@@ -690,7 +790,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** GEDV is a **static** preload indicator – it is not used alone to guide fluids (Level 1, B). ([W04/D3](#W04-D3))
+**A – T, B – T, C – T, D – T.**
+
+GEDV is a **static** preload indicator – it is not used alone to guide fluids (Level 1, B). ([W04/D3](#W04-D3))
 
 </details>
 
@@ -704,7 +806,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** EVLWI above normal (< 7, upper limit ~10 mL/kg) and PVPI ≤ 3 → hydrostatic (cardiogenic) oedema; PVPI > 3 = permeability oedema. ([W04/D3](#W04-D3))
+**B.**
+
+EVLWI above normal (< 7, upper limit ~10 mL/kg) and PVPI ≤ 3 → hydrostatic (cardiogenic) oedema; PVPI > 3 = permeability oedema. ([W04/D3](#W04-D3))
 
 </details>
 
@@ -717,7 +821,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** ScvO₂ (superior vena cava) does not reflect blood from the lower body and coronary sinus; its trends mostly parallel SvO₂. ([W04/D4](#W04-D4))
+**A – T, B – T, C – F, D – T.**
+
+ScvO₂ (superior vena cava) does not reflect blood from the lower body and coronary sinus; its trends mostly parallel SvO₂. ([W04/D4](#W04-D4))
 
 </details>
 
@@ -731,7 +837,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Early recognition, antibiotics and fluids became standard; a rigid CVP/ScvO₂/Hct protocol adds nothing. PRISM: no subgroup benefited. ([W04/D4](#W04-D4))
+**B.**
+
+Early recognition, antibiotics and fluids became standard; a rigid CVP/ScvO₂/Hct protocol adds nothing. PRISM: no subgroup benefited. ([W04/D4](#W04-D4))
 
 </details>
 
@@ -744,7 +852,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – F.** Control in AS-2: CRT only at baseline and after 6 h; mortality 26.5 vs 26.6 %, win ratio 1.16 driven by shorter duration of organ support. ANDROMEDA-SHOCK lasted 8 h, ANDROMEDA-SHOCK-2 6 h. ([W04/D4](#W04-D4))
+**A – F, B – T, C – F, D – F.**
+
+Control in AS-2: CRT only at baseline and after 6 h; mortality 26.5 vs 26.6 %, win ratio 1.16 driven by shorter duration of organ support. ANDROMEDA-SHOCK lasted 8 h, ANDROMEDA-SHOCK-2 6 h. ([W04/D4](#W04-D4))
 
 </details>
 
@@ -758,7 +868,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** RV/LV > 0.6 = dilatation (≥ 1 severe) + paradoxical septum (D-shape) = acute cor pulmonale; normal free wall thickness argues against chronic overload (hypertrophy). Fluids are potentially harmful here. ([W04/D5](#W04-D5))
+**E.**
+
+RV/LV > 0.6 = dilatation (≥ 1 severe) + paradoxical septum (D-shape) = acute cor pulmonale; normal free wall thickness argues against chronic overload (hypertrophy). Fluids are potentially harmful here. ([W04/D5](#W04-D5))
 
 </details>
 
@@ -771,7 +883,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** A dilated non-collapsing IVC is part of the picture of RV failure/tamponade, not proof of non-responsiveness. High PEEP and/or low VT is one of the situations in which IVC assessment fails. ([W04/D5](#W04-D5))
+**A – T, B – F, C – T, D – F.**
+
+A dilated non-collapsing IVC is part of the picture of RV failure/tamponade, not proof of non-responsiveness. High PEEP and/or low VT is one of the situations in which IVC assessment fails. ([W04/D5](#W04-D5))
 
 </details>
 
@@ -785,7 +899,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** A, B, C and E are risk factors for ACP (prevalence 22 %; severe ACP mortality 57 vs 42 %). ([W04/D5](#W04-D5))
+**D.**
+
+A, B, C and E are risk factors for ACP (prevalence 22 %; severe ACP mortality 57 vs 42 %). ([W04/D5](#W04-D5))
 
 </details>
 
@@ -798,7 +914,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** B: 44.9 %. C: Level 1, A **against**. D: Level 1, B. ([W04/D1](#W04-D1))
+**A – T, B – T, C – F, D – T.**
+
+B: 44.9 %. C: Level 1, A **against**. D: Level 1, B. ([W04/D1](#W04-D1))
 
 </details>
 
@@ -811,7 +929,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** B: Level 2, B. C: SSC 2026 suggests **60–65** mmHg in patients aged ≥ 65 (conditional, low). In the chronic hypertension subgroup there was less creatinine doubling and RRT, but no effect on mortality. ([W04/D1](#W04-D1), [W01/D4](#W01-D4))
+**A – T, B – T, C – F, D – F.**
+
+B: Level 2, B. C: SSC 2026 suggests **60–65** mmHg in patients aged ≥ 65 (conditional, low). In the chronic hypertension subgroup there was less creatinine doubling and RRT, but no effect on mortality. ([W04/D1](#W04-D1), [W01/D4](#W01-D4))
 
 </details>
 
@@ -825,7 +945,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** AG = 140 − (114 + 12) = 14; corrected = 14 + 0.25 × (40 − 20) = **19**. Delta ratio = (19 − 12) / (24 − 12) = 7 / 12 ≈ **0.58** (0.4–0.8 → HAGMA + NAGMA). Winter 1.5 × 12 + 8 = 26 ± 2 → pCO₂ 26 appropriate. ([W05/D1](#W05-D1))
+**E.**
+
+AG = 140 − (114 + 12) = 14; corrected = 14 + 0.25 × (40 − 20) = **19**. Delta ratio = (19 − 12) / (24 − 12) = 7 / 12 ≈ **0.58** (0.4–0.8 → HAGMA + NAGMA). Winter 1.5 × 12 + 8 = 26 ± 2 → pCO₂ 26 appropriate. ([W05/D1](#W05-D1))
 
 </details>
 
@@ -838,7 +960,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** SIDa = (138 + 4) − (108 + 4) = 30; SIDe = 14 + 8 = 22; SIG = 8 → unmeasured anions **in addition** to lactate (lactate is already in SIDa). Lactate is a strong anion; ATOT = albumin and phosphate; hypoalbuminaemia (↓ ATOT) is **alkalinising**. ([W05/D2](#W05-D2))
+**A – F, B – F, C – F, D – F.**
+
+SIDa = (138 + 4) − (108 + 4) = 30; SIDe = 14 + 8 = 22; SIG = 8 → unmeasured anions **in addition** to lactate (lactate is already in SIDa). Lactate is a strong anion; ATOT = albumin and phosphate; hypoalbuminaemia (↓ ATOT) is **alkalinising**. ([W05/D2](#W05-D2))
 
 </details>
 
@@ -852,7 +976,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Acute: HCO₃⁻ ↑ by 1 per 10 mmHg → 24 + 3 = 27 (exactly). pH = 6.1 + log(27 / 2.1) = 6.1 + 1.11 ≈ **7.21**. Chronically HCO₃⁻ would be ~34.5. ([W05/D1](#W05-D1))
+**A.**
+
+Acute: HCO₃⁻ ↑ by 1 per 10 mmHg → 24 + 3 = 27 (exactly). pH = 6.1 + log(27 / 2.1) = 6.1 + 1.11 ≈ **7.21**. Chronically HCO₃⁻ would be ~34.5. ([W05/D1](#W05-D1))
 
 </details>
 
@@ -865,7 +991,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** Alkalaemia shifts the dissociation curve to the **left**. Current diuretics = chloride-resistant (U-Cl⁻ > 20), previous diuretics = chloride-responsive. ([W05/D3](#W05-D3))
+**A – T, B – F, C – T, D – T.**
+
+Alkalaemia shifts the dissociation curve to the **left**. Current diuretics = chloride-resistant (U-Cl⁻ > 20), previous diuretics = chloride-responsive. ([W05/D3](#W05-D3))
 
 </details>
 
@@ -879,7 +1007,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** BICARICU-2: 62.1 vs 61.7 %, KRT 35 vs 50 %. Risks: hypernatraemia, ↓ iCa²⁺, intracellular acidosis from CO₂ (ventilation must be increased). ([W05/D2](#W05-D2))
+**B.**
+
+BICARICU-2: 62.1 vs 61.7 %, KRT 35 vs 50 %. Risks: hypernatraemia, ↓ iCa²⁺, intracellular acidosis from CO₂ (ventilation must be increased). ([W05/D2](#W05-D2))
 
 </details>
 
@@ -892,7 +1022,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** Visual disturbance points to **methanol** (formic acid). Calculated osmolality = 2 × 138 + 5 + 7 = 288; OG = 320 − 288 = **32**. Dialysis (severe acidosis, visual disturbance, AKI) removes both the parent compound and the metabolites. ([W05/D3](#W05-D3))
+**A – F, B – T, C – F, D – T.**
+
+Visual disturbance points to **methanol** (formic acid). Calculated osmolality = 2 × 138 + 5 + 7 = 288; OG = 320 − 288 = **32**. Dialysis (severe acidosis, visual disturbance, AKI) removes both the parent compound and the metabolites. ([W05/D3](#W05-D3))
 
 </details>
 
@@ -906,7 +1038,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** K⁺ < 3.5 → delay insulin and replace K⁺ first. Bicarbonate only if pH < 7.0. ([W05/D3](#W05-D3))
+**B.**
+
+K⁺ < 3.5 → delay insulin and replace K⁺ first. Bicarbonate only if pH < 7.0. ([W05/D3](#W05-D3))
 
 </details>
 
@@ -919,7 +1053,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** AG = 140 − 107 = 33; delta ratio = 21 / 9 ≈ 2.3; corrected HCO₃⁻ = 15 + 21 = 36 (> 26). Winter 1.5 × 15 + 8 = 30.5 ± 2 → pCO₂ 30 appropriate. ([W05/D1](#W05-D1))
+**A – T, B – T, C – T, D – F.**
+
+AG = 140 − 107 = 33; delta ratio = 21 / 9 ≈ 2.3; corrected HCO₃⁻ = 15 + 21 = 36 (> 26). Winter 1.5 × 15 + 8 = 30.5 ± 2 → pCO₂ 30 appropriate. ([W05/D1](#W05-D1))
 
 </details>
 
@@ -933,7 +1069,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** D-lactate from bacterial fermentation; standard analysers measure only L-lactate → an "invisible" HAGMA with encephalopathy. Isopropanol: ketosis without acidosis, ↑ OG. ([W05/D2](#W05-D2))
+**E.**
+
+D-lactate from bacterial fermentation; standard analysers measure only L-lactate → an "invisible" HAGMA with encephalopathy. Isopropanol: ketosis without acidosis, ↑ OG. ([W05/D2](#W05-D2))
 
 </details>
 
@@ -946,7 +1084,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – T, D – F.** A: lower with balanced crystalloids – 14.3 vs 15.4 %. B: normal AG. D: renal NH₄⁺ excretion is intact, so the UAG is negative (as in diarrhoea). ([W05/D2](#W05-D2), [W01/D3](#W01-D3))
+**A – F, B – F, C – T, D – F.**
+
+A: lower with balanced crystalloids – 14.3 vs 15.4 %. B: normal AG. D: renal NH₄⁺ excretion is intact, so the UAG is negative (as in diarrhoea). ([W05/D2](#W05-D2), [W01/D3](#W01-D3))
 
 </details>
 
@@ -963,7 +1103,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Hypotonic (< 275), urine osmolality > 100 (ADH active), U-Na⁺ ≤ 30 → low effective circulating volume (HF, cirrhosis, nephrotic syndrome); treatment in hypervolaemia = fluid restriction. SIAD requires euvolaemia and U-Na⁺ > 30; primary polydipsia has urine osmolality ≤ 100. ([W06/D1](#W06-D1))
+**E.**
+
+Hypotonic (< 275), urine osmolality > 100 (ADH active), U-Na⁺ ≤ 30 → low effective circulating volume (HF, cirrhosis, nephrotic syndrome); treatment in hypervolaemia = fluid restriction. SIAD requires euvolaemia and U-Na⁺ > 30; primary polydipsia has urine osmolality ≤ 100. ([W06/D1](#W06-D1))
 
 </details>
 
@@ -976,7 +1118,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** C: vomiting = severe symptom (→ 150 mL 3 % NaCl over 20 min, repeated). Moderately severe symptoms = a single 150 mL 3 % NaCl over 20 min; aquaresis is the main cause of overcorrection. ([W06/D1](#W06-D1))
+**A – T, B – T, C – T, D – T.**
+
+C: vomiting = severe symptom (→ 150 mL 3 % NaCl over 20 min, repeated). Moderately severe symptoms = a single 150 mL 3 % NaCl over 20 min; aquaresis is the main cause of overcorrection. ([W06/D1](#W06-D1))
 
 </details>
 
@@ -990,7 +1134,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** TBW = 30 L; 30 × (154/140 − 1) = 30 × 0.1 = **3.0 L**. Polyuria with urine osmolality < 300 = diabetes insipidus (after neurosurgery central – responds to desmopressin); acute hypernatraemia (< 48 h) can be corrected faster. ([W06/D1](#W06-D1))
+**A.**
+
+TBW = 30 L; 30 × (154/140 − 1) = 30 × 0.1 = **3.0 L**. Polyuria with urine osmolality < 300 = diabetes insipidus (after neurosurgery central – responds to desmopressin); acute hypernatraemia (< 48 h) can be corrected faster. ([W06/D1](#W06-D1))
 
 </details>
 
@@ -1003,7 +1149,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – T, D – T.** B: 6.8 mmol (chloride) vs ~2.2 mmol (gluconate) per 10 mL → ~30 mL gluconate is equivalent. A: only a shift into cells, rebound. C: pre-treatment glucose < 7 mmol/L. ([W06/D2](#W06-D2), [W06/D3](#W06-D3))
+**A – F, B – F, C – T, D – T.**
+
+B: 6.8 mmol (chloride) vs ~2.2 mmol (gluconate) per 10 mL → ~30 mL gluconate is equivalent. A: only a shift into cells, rebound. C: pre-treatment glucose < 7 mmol/L. ([W06/D2](#W06-D2), [W06/D3](#W06-D3))
 
 </details>
 
@@ -1017,7 +1165,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** In vomiting the main K⁺ loss is **renal** (bicarbonaturia + secondary aldosteronism). Vomiting causes alkalosis, not acidosis. ([W06/D2](#W06-D2))
+**E.**
+
+In vomiting the main K⁺ loss is **renal** (bicarbonaturia + secondary aldosteronism). Vomiting causes alkalosis, not acidosis. ([W06/D2](#W06-D2))
 
 </details>
 
@@ -1030,7 +1180,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** A: serum level poorly reflects stores; Mg is effective even at a normal level. C: 1 g ≈ 4 mmol, so 2 g ≈ 8 mmol. D: it prolongs QT. B: a faster HR shortens QT. ([W06/D2](#W06-D2), [W08/D1](#W08-D1))
+**A – T, B – T, C – F, D – F.**
+
+A: serum level poorly reflects stores; Mg is effective even at a normal level. C: 1 g ≈ 4 mmol, so 2 g ≈ 8 mmol. D: it prolongs QT. B: a faster HR shortens QT. ([W06/D2](#W06-D2), [W08/D1](#W08-D1))
 
 </details>
 
@@ -1044,7 +1196,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Total Ca / iCa²⁺ ratio = 2.60 / 0.90 ≈ **2.9** (> ~2.5) + ↓ iCa²⁺ + high-AG acidosis = citrate accumulation (liver failure, shock). ([W06/D3](#W06-D3))
+**B.**
+
+Total Ca / iCa²⁺ ratio = 2.60 / 0.90 ≈ **2.9** (> ~2.5) + ↓ iCa²⁺ + high-AG acidosis = citrate accumulation (liver failure, shock). ([W06/D3](#W06-D3))
 
 </details>
 
@@ -1057,7 +1211,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** A: ≥ 3.5 mmol/L. C: granulomatous disease. B: a bridge. D: hypercalcaemia shortens QT. Mainstay: IV isotonic fluid + IV bisphosphonate. ([W06/D3](#W06-D3))
+**A – T, B – T, C – T, D – T.**
+
+A: ≥ 3.5 mmol/L. C: granulomatous disease. B: a bridge. D: hypercalcaemia shortens QT. Mainstay: IV isotonic fluid + IV bisphosphonate. ([W06/D3](#W06-D3))
 
 </details>
 
@@ -1071,7 +1227,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** High risk (BMI < 16 and > 10 days of minimal intake) → max. 10 kcal/kg/d = **500 kcal/d**; thiamine before starting feeding, prophylactic K⁺, PO₄, Mg²⁺ supplementation. ([W06/D3](#W06-D3))
+**A.**
+
+High risk (BMI < 16 and > 10 days of minimal intake) → max. 10 kcal/kg/d = **500 kcal/d**; thiamine before starting feeding, prophylactic K⁺, PO₄, Mg²⁺ supplementation. ([W06/D3](#W06-D3))
 
 </details>
 
@@ -1084,7 +1242,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** B: respiratory alkalosis activates glycolysis and shifts phosphate into cells → hypophosphataemia. C: the restricted arm received 20 kcal/h for at least 2 days. D: at least daily in the first week; 2–3× daily in refeeding hypophosphataemia. ([W06/D3](#W06-D3))
+**A – T, B – F, C – F, D – F.**
+
+B: respiratory alkalosis activates glycolysis and shifts phosphate into cells → hypophosphataemia. C: the restricted arm received 20 kcal/h for at least 2 days. D: at least daily in the first week; 2–3× daily in refeeding hypophosphataemia. ([W06/D3](#W06-D3))
 
 </details>
 
@@ -1098,7 +1258,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** Stage D (deteriorating) – hypoperfusion worsens despite initial support, vasopressor escalation/MCS being considered. Stage E would require circulatory collapse/CPR or typically lactate ≥ 8 mmol/L. ([W07/D1](#W07-D1))
+**A.**
+
+Stage D (deteriorating) – hypoperfusion worsens despite initial support, vasopressor escalation/MCS being considered. Stage E would require circulatory collapse/CPR or typically lactate ≥ 8 mmol/L. ([W07/D1](#W07-D1))
 
 </details>
 
@@ -1112,7 +1274,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** High RAP with normal/low PCWP (high RAP/PCWP ratio) = predominant RV failure; no step-up (VSR) and no v waves (acute MR). Treatment: maintain preload, avoid nitrates and diuretics, AV synchrony. ([W07/D1](#W07-D1), [W07/D3](#W07-D3))
+**D.**
+
+High RAP with normal/low PCWP (high RAP/PCWP ratio) = predominant RV failure; no step-up (VSR) and no v waves (acute MR). Treatment: maintain preload, avoid nitrates and diuretics, AV synchrony. ([W07/D1](#W07-D1), [W07/D3](#W07-D3))
 
 </details>
 
@@ -1125,7 +1289,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** B: 60 × 3.0 / 451 = 0.40 W. C: (30 − 18) / 15 = 0.8. D: low PAPi = RV failure. ([W07/D1](#W07-D1))
+**A – T, B – T, C – F, D – F.**
+
+B: 60 × 3.0 / 451 = 0.40 W. C: (30 − 18) / 15 = 0.8. D: low PAPi = RV failure. ([W07/D1](#W07-D1))
 
 </details>
 
@@ -1139,7 +1305,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** ECLS-SHOCK: 47.8 vs 49.0 %; BARC 3–5 bleeding 23.4 vs 9.6 %. IABP-SHOCK II negative; DanGer Shock excluded comatose OHCA survivors; IPD meta-analysis ↑ vascular complications (OR 3.53); EARLY-UNLOAD 46.6 vs 44.8 % (NS). ([W07/D2](#W07-D2))
+**A.**
+
+ECLS-SHOCK: 47.8 vs 49.0 %; BARC 3–5 bleeding 23.4 vs 9.6 %. IABP-SHOCK II negative; DanGer Shock excluded comatose OHCA survivors; IPD meta-analysis ↑ vascular complications (OR 3.53); EARLY-UNLOAD 46.6 vs 44.8 % (NS). ([W07/D2](#W07-D2))
 
 </details>
 
@@ -1152,7 +1320,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** B: it increases LV afterload → risk of LV distension. ([W07/D2](#W07-D2))
+**A – T, B – F, C – T, D – T.**
+
+B: it increases LV afterload → risk of LV distension. ([W07/D2](#W07-D2))
 
 </details>
 
@@ -1166,7 +1336,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** COMPLETE (stable STEMI): CV death or MI 7.8 vs 10.5 % (HR 0.74). CULPRIT-SHOCK applies to **shock** (culprit lesion only during the index procedure). The presence of shock decides. ([W07/D3](#W07-D3))
+**A.**
+
+COMPLETE (stable STEMI): CV death or MI 7.8 vs 10.5 % (HR 0.74). CULPRIT-SHOCK applies to **shock** (culprit lesion only during the index procedure). The presence of shock decides. ([W07/D3](#W07-D3))
 
 </details>
 
@@ -1179,7 +1351,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** C: IABP/MCS as a bridge – should be considered. D: free wall rupture typically presents with sudden tamponade and PEA. ([W07/D3](#W07-D3))
+**A – T, B – T, C – F, D – F.**
+
+C: IABP/MCS as a bridge – should be considered. D: free wall rupture typically presents with sudden tamponade and PEA. ([W07/D3](#W07-D3))
 
 </details>
 
@@ -1193,7 +1367,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Milrinone (PDE-3 inhibitor) accumulates in renal failure and causes hypotension. In DOREMI milrinone and dobutamine did not differ (49 vs 54 %, NS). ([W07/D4](#W07-D4))
+**C.**
+
+Milrinone (PDE-3 inhibitor) accumulates in renal failure and causes hypotension. In DOREMI milrinone and dobutamine did not differ (49 vs 54 %, NS). ([W07/D4](#W07-D4))
 
 </details>
 
@@ -1207,7 +1383,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** ESC 2026: acute pulmonary oedema = mainly **fluid redistribution** (↑ afterload) → fewer diuretics, more vasodilators (IV vasodilators with SBP > 110 – IIb); ESC/ESH 2018: pulmonary oedema – SBP < 140 immediately (nitroglycerin/nitroprusside + loop diuretic). No routine opioids (III). ([W07/D4](#W07-D4), [W08/D4](#W08-D4))
+**A.**
+
+ESC 2026: acute pulmonary oedema = mainly **fluid redistribution** (↑ afterload) → fewer diuretics, more vasodilators (IV vasodilators with SBP > 110 – IIb); ESC/ESH 2018: pulmonary oedema – SBP < 140 immediately (nitroglycerin/nitroprusside + loop diuretic). No routine opioids (III). ([W07/D4](#W07-D4), [W08/D4](#W08-D4))
 
 </details>
 
@@ -1220,7 +1398,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – F.** A: I, A. B: 42.2 vs 30.5 %. C: ultrafiltration may be considered only for refractory congestion (IIb, C). D: III, C. ([W07/D4](#W07-D4))
+**A – F, B – T, C – F, D – F.**
+
+A: I, A. B: 42.2 vs 30.5 %. C: ultrafiltration may be considered only for refractory congestion (IIb, C). D: III, C. ([W07/D4](#W07-D4))
 
 </details>
 
@@ -1233,7 +1413,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** B: no fixed BP threshold is defined – "normotensive CS". C: I, C. ([W07/D1](#W07-D1))
+**A – T, B – F, C – T, D – T.**
+
+B: no fixed BP threshold is defined – "normotensive CS". C: I, C. ([W07/D1](#W07-D1))
 
 </details>
 
@@ -1247,7 +1429,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** mPAP > 20, PAWP > 15 **and** PVR > 2 WU = CpcPH. IpcPH would have PVR ≤ 2 WU; pre-capillary PAWP ≤ 15. Left heart disease = group 2. ([W07/D5](#W07-D5))
+**E.**
+
+mPAP > 20, PAWP > 15 **and** PVR > 2 WU = CpcPH. IpcPH would have PVR ≤ 2 WU; pre-capillary PAWP ≤ 15. Left heart disease = group 2. ([W07/D5](#W07-D5))
 
 </details>
 
@@ -1260,7 +1444,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** iNO also carries a risk of rebound PH on abrupt withdrawal and methaemoglobinaemia; it does not improve survival in ARDS. ([W07/D5](#W07-D5))
+**A – T, B – T, C – T, D – T.**
+
+iNO also carries a risk of rebound PH on abrupt withdrawal and methaemoglobinaemia; it does not improve survival in ARDS. ([W07/D5](#W07-D5))
 
 </details>
 
@@ -1274,7 +1460,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Pneumonia ✓, P/F < 150 ✓, PaCO₂ ≥ 48 mmHg ✓; driving pressure 16 < 18 ✗ → **3**. ACP was present in ~22 % of ARDS patients; RV-protective ventilation = ↓ ΔP, correction of hypercapnia, prone positioning. ([W07/D5](#W07-D5))
+**D.**
+
+Pneumonia ✓, P/F < 150 ✓, PaCO₂ ≥ 48 mmHg ✓; driving pressure 16 < 18 ✗ → **3**. ACP was present in ~22 % of ARDS patients; RV-protective ventilation = ↓ ΔP, correction of hypercapnia, prone positioning. ([W07/D5](#W07-D5))
 
 </details>
 
@@ -1287,7 +1475,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** A: positive intrathoracic pressure **reduces** LV transmural pressure (afterload). B: 11.7 vs 11.1 %, NS – equivalent. C: O₂ if SpO₂ < 90 % or PaO₂ < 60 mmHg. D: in RV failure or hypovolaemia, PEEP may **reduce** cardiac output. ([W07/D4](#W07-D4))
+**A – F, B – F, C – F, D – F.**
+
+A: positive intrathoracic pressure **reduces** LV transmural pressure (afterload). B: 11.7 vs 11.1 %, NS – equivalent. C: O₂ if SpO₂ < 90 % or PaO₂ < 60 mmHg. D: in RV failure or hypovolaemia, PEEP may **reduce** cardiac output. ([W07/D4](#W07-D4))
 
 </details>
 
@@ -1301,7 +1491,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** In a stable patient treat triggers first; sinus rhythm returns spontaneously after treating the cause in up to 83 % within 48 h ("wait-and-see" IIa B). STRESS-L: landiolol for tachycardia in septic shock without benefit and with a signal of harm; anticoagulation in acute sepsis unclear; cardioversion without OAC/TOE in AF > 24 h – III. ([W08/D1](#W08-D1))
+**C.**
+
+In a stable patient treat triggers first; sinus rhythm returns spontaneously after treating the cause in up to 83 % within 48 h ("wait-and-see" IIa B). STRESS-L: landiolol for tachycardia in septic shock without benefit and with a signal of harm; anticoagulation in acute sepsis unclear; cardioversion without OAC/TOE in AF > 24 h – III. ([W08/D1](#W08-D1))
 
 </details>
 
@@ -1314,7 +1506,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – T, D – F.** A: age 65–74 = 1, HT = 1, DM = 1 → 3. B: sex has been removed. C: ≥ 2 → I C. D: not recommended (III C) unless she is unstable. ([W08/D1](#W08-D1))
+**A – F, B – F, C – T, D – F.**
+
+A: age 65–74 = 1, HT = 1, DM = 1 → 3. B: sex has been removed. C: ≥ 2 → I C. D: not recommended (III C) unless she is unstable. ([W08/D1](#W08-D1))
 
 </details>
 
@@ -1328,7 +1522,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Glucagon for bradycardia due to beta-blockers or calcium channel blockers. Aminophylline is for the transplanted heart and spinal cord injury; atropine max. 3 mg. ([W08/D1](#W08-D1))
+**E.**
+
+Glucagon for bradycardia due to beta-blockers or calcium channel blockers. Aminophylline is for the transplanted heart and spinal cord injury; atropine max. 3 mg. ([W08/D1](#W08-D1))
 
 </details>
 
@@ -1341,7 +1537,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** D: block below the His level. B: isoprenaline 5 µg/min is second line. ([W08/D1](#W08-D1))
+**A – T, B – F, C – T, D – T.**
+
+D: block below the His level. B: isoprenaline 5 µg/min is second line. ([W08/D1](#W08-D1))
 
 </details>
 
@@ -1355,7 +1553,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** A patient with low PESI/sPESI but with RV dysfunction **or** positive biomarkers is intermediate-low risk. Intermediate-high = RV dysfunction **and** troponin. ([W08/D2](#W08-D2))
+**E.**
+
+A patient with low PESI/sPESI but with RV dysfunction **or** positive biomarkers is intermediate-low risk. Intermediate-high = RV dysfunction **and** troponin. ([W08/D2](#W08-D2))
 
 </details>
 
@@ -1368,7 +1568,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – T, D – T.** B: limit fluid loading to ≤ 500 mL. C: Class 3: Harm. A: in A to C2 systemic thrombolysis is harmful. ([W08/D2](#W08-D2))
+**A – F, B – F, C – T, D – T.**
+
+B: limit fluid loading to ≤ 500 mL. C: Class 3: Harm. A: in A to C2 systemic thrombolysis is harmful. ([W08/D2](#W08-D2))
 
 </details>
 
@@ -1382,7 +1584,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** PEITHO: death/decompensation 2.6 vs 5.6 %, mortality NS, ↑ bleeding and stroke (2.4 vs 0.2 %); HI-PEITHO and PRAGUE-26 driven by decompensation, mortality no different; in PRAGUE-26 2 intracranial haemorrhages in the CDT arm. ([W08/D2](#W08-D2))
+**C.**
+
+PEITHO: death/decompensation 2.6 vs 5.6 %, mortality NS, ↑ bleeding and stroke (2.4 vs 0.2 %); HI-PEITHO and PRAGUE-26 driven by decompensation, mortality no different; in PRAGUE-26 2 intracranial haemorrhages in the CDT arm. ([W08/D2](#W08-D2))
 
 </details>
 
@@ -1395,7 +1599,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – T.** A: < 24 h = hyperacute; subacute 15–90 days. C: TTE has low sensitivity, e.g. < 40 % for IMH. ([W08/D3](#W08-D3))
+**A – F, B – T, C – T, D – T.**
+
+A: < 24 h = hyperacute; subacute 15–90 days. C: TTE has low sensitivity, e.g. < 40 % for IMH. ([W08/D3](#W08-D3))
 
 </details>
 
@@ -1409,7 +1615,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** With left subclavian involvement the left arm may show falsely low BP. Target SBP < 120 and HR ≤ 60/min – BB first, then a vasodilator; type A → immediate surgery. ([W08/D3](#W08-D3))
+**B.**
+
+With left subclavian involvement the left arm may show falsely low BP. Target SBP < 120 and HR ≤ 60/min – BB first, then a vasodilator; type A → immediate surgery. ([W08/D3](#W08-D3))
 
 </details>
 
@@ -1422,7 +1630,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** A: 10–20 mm. C: RA collapse is the earliest and sensitive sign; RV diastolic collapse is more specific. ([W08/D3](#W08-D3))
+**A – T, B – T, C – F, D – T.**
+
+A: 10–20 mm. C: RA collapse is the earliest and sensitive sign; RV diastolic collapse is more specific. ([W08/D3](#W08-D3))
 
 </details>
 
@@ -1436,7 +1646,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Acute organ damage, not the absolute BP value, defines an emergency. Pulmonary oedema is one of the exceptions to the "slowly" rule (ESC/ESH 2018). A = malignant HT, C = dissection, E = pre-eclampsia. ([W08/D4](#W08-D4))
+**B.**
+
+Acute organ damage, not the absolute BP value, defines an emergency. Pulmonary oedema is one of the exceptions to the "slowly" rule (ESC/ESH 2018). A = malignant HT, C = dissection, E = pre-eclampsia. ([W08/D4](#W08-D4))
 
 </details>
 
@@ -1449,7 +1661,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** A: the ordinal analysis favoured **intensive** lowering (p = 0.04); primary outcome NS. B: **more** frequent with intensive lowering (9.0 % vs 4.0 %). C: thrombectomy < 180/105; thrombolysis < 185/110. D: about 15 % (IIa C). ([W08/D4](#W08-D4))
+**A – F, B – F, C – F, D – F.**
+
+A: the ordinal analysis favoured **intensive** lowering (p = 0.04); primary outcome NS. B: **more** frequent with intensive lowering (9.0 % vs 4.0 %). C: thrombectomy < 180/105; thrombolysis < 185/110. D: about 15 % (IIa C). ([W08/D4](#W08-D4))
 
 </details>
 
@@ -1463,7 +1677,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** Phaeochromocytoma crisis: α-blockade (phentolamine, doxazosin, terazosin, labetalol). A β-blocker alone without α-blockade → unopposed α-vasoconstriction. ([W08/D4](#W08-D4))
+**E.**
+
+Phaeochromocytoma crisis: α-blockade (phentolamine, doxazosin, terazosin, labetalol). A β-blocker alone without α-blockade → unopposed α-vasoconstriction. ([W08/D4](#W08-D4))
 
 </details>
 
@@ -1476,7 +1692,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** B: IABP is contraindicated in AR – diastolic augmentation ↑ regurgitation. ([W08/D5](#W08-D5), [W07/D2](#W07-D2))
+**A – T, B – F, C – T, D – T.**
+
+B: IABP is contraindicated in AR – diastolic augmentation ↑ regurgitation. ([W08/D5](#W08-D5), [W07/D2](#W07-D2))
 
 </details>
 
@@ -1489,7 +1707,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** A: vegetation ≥ 10 mm after ≥ 1 embolism despite antibiotics. C: no aminoglycosides in staphylococcal NVE. B: 3 vs 5 %, NS; benefit via ↓ embolism. D: after significant intracranial haemorrhage, delaying surgery for ≥ 4 weeks should be considered. ([W08/D5](#W08-D5))
+**A – T, B – F, C – F, D – F.**
+
+A: vegetation ≥ 10 mm after ≥ 1 embolism despite antibiotics. C: no aminoglycosides in staphylococcal NVE. B: 3 vs 5 %, NS; benefit via ↓ embolism. D: after significant intracranial haemorrhage, delaying surgery for ≥ 4 weeks should be considered. ([W08/D5](#W08-D5))
 
 </details>
 
@@ -1503,7 +1723,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Amiodarone 300 mg after the 3rd shock, 150 mg after the 5th shock (alternative lidocaine 100 mg + 50 mg). Adrenaline 1 mg continues every 3–5 min. ([W09/D1](#W09-D1))
+**C.**
+
+Amiodarone 300 mg after the 3rd shock, 150 mg after the 5th shock (alternative lidocaine 100 mg + 50 mg). Adrenaline 1 mg continues every 3–5 min. ([W09/D1](#W09-D1))
 
 </details>
 
@@ -1516,7 +1738,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – F.** A: interruption < 5 s. D: use the highest feasible inspired oxygen during CPR. ([W09/D1](#W09-D1))
+**A – F, B – T, C – T, D – F.**
+
+A: interruption < 5 s. D: use the highest feasible inspired oxygen during CPR. ([W09/D1](#W09-D1))
 
 </details>
 
@@ -1530,7 +1754,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** ERC 2025 – hyperkalaemic arrest: 10 mL 10 % CaCl₂ + 50 mmol NaHCO₃ via separate lines/with flushing (otherwise CaCO₃ precipitates), insulin/glucose, dialysis, ECPR if these fail. ([W09/D5](#W09-D5), [W06/D2](#W06-D2))
+**A.**
+
+ERC 2025 – hyperkalaemic arrest: 10 mL 10 % CaCl₂ + 50 mmol NaHCO₃ via separate lines/with flushing (otherwise CaCO₃ precipitates), insulin/glucose, dialysis, ECPR if these fail. ([W09/D5](#W09-D5), [W06/D2](#W06-D2))
 
 </details>
 
@@ -1544,7 +1770,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Max. 12 mL/kg × 70 kg = **840 mL**. Bolus 1.5 mL/kg = 105 mL, infusion 15 mL/kg/h = 1050 mL/h; consider prolonged CPR (> 1 h) and ECPR. ([W09/D5](#W09-D5))
+**D.**
+
+Max. 12 mL/kg × 70 kg = **840 mL**. Bolus 1.5 mL/kg = 105 mL, infusion 15 mL/kg/h = 1050 mL/h; consider prolonged CPR (> 1 h) and ECPR. ([W09/D5](#W09-D5))
 
 </details>
 
@@ -1557,7 +1785,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – T.** A: 32.0 vs 33.9 %, NS. ([W09/D2](#W09-D2))
+**A – F, B – T, C – T, D – T.**
+
+A: 32.0 vs 33.9 %, NS. ([W09/D2](#W09-D2))
 
 </details>
 
@@ -1571,7 +1801,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Without ST elevation catheterisation is deferred (COACT, TOMAHAWK) **unless** the clinical picture strongly suggests acute coronary occlusion (haemodynamic or electrical instability, ongoing ischaemia). Parallel: NSTE-ACS with life-threatening arrhythmias = very high risk → immediate. ([W09/D2](#W09-D2), [W07/D3](#W07-D3))
+**B.**
+
+Without ST elevation catheterisation is deferred (COACT, TOMAHAWK) **unless** the clinical picture strongly suggests acute coronary occlusion (haemodynamic or electrical instability, ongoing ischaemia). Parallel: NSTE-ACS with life-threatening arrhythmias = very high risk → immediate. ([W09/D2](#W09-D2), [W07/D3](#W07-D3))
 
 </details>
 
@@ -1584,7 +1816,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** B: rewarming was limited to 0.3 °C/h. D: OHCA only – generalisation to IHCA is less well supported. C: only CPC 1–2 10.2 vs 5.7 %; no difference in mortality. ([W09/D3](#W09-D3))
+**A – T, B – F, C – F, D – F.**
+
+B: rewarming was limited to 0.3 °C/h. D: OHCA only – generalisation to IHCA is less well supported. C: only CPC 1–2 10.2 vs 5.7 %; no difference in mortality. ([W09/D3](#W09-D3))
 
 </details>
 
@@ -1598,7 +1832,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** K⁺ shifts: hypokalaemia during cooling, hyperkalaemia during rewarming → rewarm slowly, monitor K⁺. ([W09/D3](#W09-D3))
+**B.**
+
+K⁺ shifts: hypokalaemia during cooling, hyperkalaemia during rewarming → rewarm slowly, monitor K⁺. ([W09/D3](#W09-D3))
 
 </details>
 
@@ -1611,7 +1847,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** B: NSE > 60 at 48/72 h + highly malignant EEG > 24 h. D: separate WLST from prognosis – age, comorbidities, preferences. ([W09/D4](#W09-D4))
+**A – T, B – T, C – T, D – F.**
+
+B: NSE > 60 at 48/72 h + highly malignant EEG > 24 h. D: separate WLST from prognosis – age, comorbidities, preferences. ([W09/D4](#W09-D4))
 
 </details>
 
@@ -1625,7 +1863,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** N20 is assessed at ≥ 24 h. Reflexes at ≥ 72 h; NSE at 48 h and/or 72 h; status myoclonus ≤ 72 h; M ≤ 3 is used to select patients, not as a predictor. ([W09/D4](#W09-D4))
+**A.**
+
+N20 is assessed at ≥ 24 h. Reflexes at ≥ 72 h; NSE at 48 h and/or 72 h; status myoclonus ≤ 72 h; M ≤ 3 is used to select patients, not as a predictor. ([W09/D4](#W09-D4))
 
 </details>
 
@@ -1638,7 +1878,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** A: stopped early after crossing a Bayesian **superiority** boundary (43 vs 7 %, n = 30). C: 10 centres in the Netherlands. ([W09/D5](#W09-D5))
+**A – F, B – T, C – F, D – T.**
+
+A: stopped early after crossing a Bayesian **superiority** boundary (43 vs 7 %, n = 30). C: 10 centres in the Netherlands. ([W09/D5](#W09-D5))
 
 </details>
 
@@ -1652,7 +1894,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** 30–35 °C → intervals of 6–10 min; < 30 °C do not give adrenaline (accumulation) unless ECPR is started immediately. ([W09/D5](#W09-D5))
+**C.**
+
+30–35 °C → intervals of 6–10 min; < 30 °C do not give adrenaline (accumulation) unless ECPR is started immediately. ([W09/D5](#W09-D5))
 
 </details>
 
@@ -1665,7 +1909,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – T.** D: 3.2 vs 2.4 %. A: 24.4 vs 23.7 %, no difference. C: ~28 vs ~23 %. ([W09/D1](#W09-D1))
+**A – F, B – T, C – T, D – T.**
+
+D: 3.2 vs 2.4 %. A: 24.4 vs 23.7 %, no difference. C: ~28 vs ~23 %. ([W09/D1](#W09-D1))
 
 </details>
 
@@ -1678,7 +1924,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** A: 130–150 J for pulsed biphasic devices. B: up to 3 shocks only in a witnessed, monitored arrest with a defibrillator immediately available. C: no routine DSED; a change of vector (AP) is considered. D: use the highest energy if the device type is unknown. ([W09/D1](#W09-D1))
+**A – F, B – F, C – F, D – F.**
+
+A: 130–150 J for pulsed biphasic devices. B: up to 3 shocks only in a witnessed, monitored arrest with a defibrillator immediately available. C: no routine DSED; a change of vector (AP) is considered. D: use the highest energy if the device type is unknown. ([W09/D1](#W09-D1))
 
 </details>
 
@@ -1692,7 +1940,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** The right ventricle dilates in every cardiac arrest – isolated RV dilatation is not a diagnosis of PE. In arrest from PE an accelerated alteplase regimen of 0.6 mg/kg over 15 min is used (max. 50 mg, off-label); also consider ECPR. ([W09/D1](#W09-D1), [W08/D2](#W08-D2))
+**E.**
+
+The right ventricle dilates in every cardiac arrest – isolated RV dilatation is not a diagnosis of PE. In arrest from PE an accelerated alteplase regimen of 0.6 mg/kg over 15 min is used (max. 50 mg, off-label); also consider ECPR. ([W09/D1](#W09-D1), [W08/D2](#W08-D2))
 
 </details>
 
@@ -1706,7 +1956,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** S/F = 94 / 0.5 = **188** → 148 < S/F ≤ 235 = moderate. S/F is valid with SpO₂ ≤ 97 %; lung ultrasound is acceptable imaging. ([W10/D1](#W10-D1))
+**A.**
+
+S/F = 94 / 0.5 = **188** → 148 < S/F ≤ 235 = moderate. S/F is valid with SpO₂ ≤ 97 %; lung ultrasound is acceptable imaging. ([W10/D1](#W10-D1))
 
 </details>
 
@@ -1719,7 +1971,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** B: NIV or CPAP with PEEP ≥ 5 cmH₂O is acceptable. C: HFNO has no defined PEEP – the main reason for the revision. D: AUROC 0.577 vs 0.536 – still weak. ([W10/D1](#W10-D1))
+**A – T, B – F, C – F, D – F.**
+
+B: NIV or CPAP with PEEP ≥ 5 cmH₂O is acceptable. C: HFNO has no defined PEEP – the main reason for the revision. D: AUROC 0.577 vs 0.536 – still weak. ([W10/D1](#W10-D1))
 
 </details>
 
@@ -1733,7 +1987,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** PBW = 50 + 0.91 × (175 − 152.4) = 50 + 0.91 × 22.6 = 50 + 20.6 = **70.6 kg**; × 6 ≈ **423 mL**. 780 mL would be 6 mL/kg of actual body weight (≈ 11 mL/kg PBW). ([W10/D2](#W10-D2))
+**D.**
+
+PBW = 50 + 0.91 × (175 − 152.4) = 50 + 0.91 × 22.6 = 50 + 20.6 = **70.6 kg**; × 6 ≈ **423 mL**. 780 mL would be 6 mL/kg of actual body weight (≈ 11 mL/kg PBW). ([W10/D2](#W10-D2))
 
 </details>
 
@@ -1746,7 +2002,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** D: 30 − 12. A: Crs = VT / ΔP = 480 / 18 ≈ 26.7 mL/cmH₂O. C: in Amato's analysis ΔP was the strongest predictor of survival even with a "protective" Pplat. ([W10/D2](#W10-D2))
+**A – F, B – T, C – F, D – T.**
+
+D: 30 − 12. A: Crs = VT / ΔP = 480 / 18 ≈ 26.7 mL/cmH₂O. C: in Amato's analysis ΔP was the strongest predictor of survival even with a "protective" Pplat. ([W10/D2](#W10-D2))
 
 </details>
 
@@ -1760,7 +2018,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** The lungs "feel" transpulmonary pressure (P_aw − P_es); with a stiff chest wall Pplat overestimates lung stress. Prolonged high-pressure RMs – ESICM strongly against. ([W10/D2](#W10-D2), [W10/D3](#W10-D3))
+**D.**
+
+The lungs "feel" transpulmonary pressure (P_aw − P_es); with a stiff chest wall Pplat overestimates lung stress. Prolonged high-pressure RMs – ESICM strongly against. ([W10/D2](#W10-D2), [W10/D3](#W10-D3))
 
 </details>
 
@@ -1773,7 +2033,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** A: only in the first 80 patients, then abandoned. C: control = empirical high PEEP/FiO₂. ([W10/D3](#W10-D3))
+**A – F, B – T, C – F, D – T.**
+
+A: only in the first 80 patients, then abandoned. C: control = empirical high PEEP/FiO₂. ([W10/D3](#W10-D3))
 
 </details>
 
@@ -1787,7 +2049,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** ΔP: 25 − 10 = 15 → 27 − 15 = 12; Crs: 450/15 = 30 → 450/12 = 37.5 mL/cmH₂O. If ΔP had risen (and Pplat > 30, ↓ BP), overdistension would predominate. ([W10/D2](#W10-D2), [W10/D3](#W10-D3))
+**D.**
+
+ΔP: 25 − 10 = 15 → 27 − 15 = 12; Crs: 450/15 = 30 → 450/12 = 37.5 mL/cmH₂O. If ΔP had risen (and Pplat > 30, ↓ BP), overdistension would predominate. ([W10/D2](#W10-D2), [W10/D3](#W10-D3))
 
 </details>
 
@@ -1800,7 +2064,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** A: feeding in the prone position is possible; intolerance may be a complication. ([W10/D4](#W10-D4))
+**A – T, B – T, C – T, D – T.**
+
+A: feeding in the prone position is possible; intolerance may be a complication. ([W10/D4](#W10-D4))
 
 </details>
 
@@ -1814,7 +2080,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** ARR = 32.8 − 16.0 = 16.8 % → NNT = 1 / 0.168 ≈ **6**. For comparison: ARMA NNT ~11, PARAMEDIC2 (30-d survival) ~112. ([W10/D4](#W10-D4), [W10/D2](#W10-D2), [W09/D1](#W09-D1))
+**D.**
+
+ARR = 32.8 − 16.0 = 16.8 % → NNT = 1 / 0.168 ≈ **6**. For comparison: ARMA NNT ~11, PARAMEDIC2 (30-d survival) ~112. ([W10/D4](#W10-D4), [W10/D2](#W10-D2), [W09/D1](#W09-D1))
 
 </details>
 
@@ -1827,7 +2095,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – T, D – F.** A: crude 31.6 vs 40.7 %, p = 0.08; only the adjusted HR 0.68 was significant. D: ROSE was stopped for **futility** (42.5 vs 42.8 %). B: ATS conditionally suggests NMBA in early severe ARDS; it is ESICM that is strongly against routine infusion. ([W10/D4](#W10-D4))
+**A – F, B – F, C – T, D – F.**
+
+A: crude 31.6 vs 40.7 %, p = 0.08; only the adjusted HR 0.68 was significant. D: ROSE was stopped for **futility** (42.5 vs 42.8 %). B: ATS conditionally suggests NMBA in early severe ARDS; it is ESICM that is strongly against routine infusion. ([W10/D4](#W10-D4))
 
 </details>
 
@@ -1841,7 +2111,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** The largest benefit was in invasively ventilated patients (29.3 vs 41.4 %); overall 22.9 vs 25.7 %. 20 mg/d was the DEXA-ARDS regimen. ([W10/D4](#W10-D4))
+**A.**
+
+The largest benefit was in invasively ventilated patients (29.3 vs 41.4 %); overall 22.9 vs 25.7 %. 20 mg/d was the DEXA-ARDS regimen. ([W10/D4](#W10-D4))
 
 </details>
 
@@ -1854,7 +2126,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – F.** A: no recommendation, very low certainty. D: strong recommendation only for ↓ intubation; no recommendation for mortality. ([W10/D5](#W10-D5))
+**A – F, B – T, C – T, D – F.**
+
+A: no recommendation, very low certainty. D: strong recommendation only for ↓ intubation; no recommendation for mortality. ([W10/D5](#W10-D5))
 
 </details>
 
@@ -1868,7 +2142,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** EOLIA: pH < 7.25 with PaCO₂ ≥ 60 mmHg for > 6 h at RR 35/min (Pplat ≤ 32) – one criterion is enough. ESICM: VV-ECMO strong, moderate certainty; ECCO₂R outside RCTs strongly against. ([W10/D5](#W10-D5))
+**A.**
+
+EOLIA: pH < 7.25 with PaCO₂ ≥ 60 mmHg for > 6 h at RR 35/min (Pplat ≤ 32) – one criterion is enough. ESICM: VV-ECMO strong, moderate certainty; ECCO₂R outside RCTs strongly against. ([W10/D5](#W10-D5))
 
 </details>
 
@@ -1881,7 +2157,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** B: ↓ ΔP and PaCO₂, recruitment. A: the PVR–lung volume relationship is "U"-shaped. C: hypercapnia and acidosis ↑ PVR; target PaCO₂ < 48 mmHg. ([W07/D5](#W07-D5), [W10/D2](#W10-D2), [W10/D4](#W10-D4))
+**A – T, B – T, C – F, D – T.**
+
+B: ↓ ΔP and PaCO₂, recruitment. A: the PVR–lung volume relationship is "U"-shaped. C: hypercapnia and acidosis ↑ PVR; target PaCO₂ < 48 mmHg. ([W07/D5](#W07-D5), [W10/D2](#W10-D2), [W10/D4](#W10-D4))
 
 </details>
 
@@ -1894,7 +2172,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** D: conditional, low certainty; ESICM strong, moderate. A: strongly against outside RCTs. C: ESICM does not address corticosteroids; ATS 2024 conditionally suggests them. B: ESICM ≥ 16 h (strong, high); ATS 2017 > 12 h/day (prone was not re-addressed in the 2024 update). ([W10/D5](#W10-D5))
+**A – F, B – T, C – F, D – T.**
+
+D: conditional, low certainty; ESICM strong, moderate. A: strongly against outside RCTs. C: ESICM does not address corticosteroids; ATS 2024 conditionally suggests them. B: ESICM ≥ 16 h (strong, high); ATS 2017 > 12 h/day (prone was not re-addressed in the 2024 update). ([W10/D5](#W10-D5))
 
 </details>
 
@@ -1911,7 +2191,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** On VV-ECMO, CO₂ removal depends mainly on sweep gas flow through the oxygenator. Oxygenation depends mainly on blood flow relative to the patient's cardiac output. Raising RR or plateau pressure defeats the purpose of "lung rest". VA-ECMO is for cardiac failure. ([W11/D1](#W11-D1))
+**D.**
+
+On VV-ECMO, CO₂ removal depends mainly on sweep gas flow through the oxygenator. Oxygenation depends mainly on blood flow relative to the patient's cardiac output. Raising RR or plateau pressure defeats the purpose of "lung rest". VA-ECMO is for cardiac failure. ([W11/D1](#W11-D1))
 
 </details>
 
@@ -1924,7 +2206,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – F.** The control arm had no protocol, and lung-protective ventilation was used in 93 % vs 70 %. Only 68 of 90 patients (~75 %) received ECMO. CESAR showed the benefit of a **referral strategy** to an ECMO centre: death or severe disability at 6 months was 37 vs 53 %. It did not show the benefit of ECMO itself. ([W11/D1](#W11-D1))
+**A – T, B – F, C – F, D – F.**
+
+The control arm had no protocol, and lung-protective ventilation was used in 93 % vs 70 %. Only 68 of 90 patients (~75 %) received ECMO. CESAR showed the benefit of a **referral strategy** to an ECMO centre: death or severe disability at 6 months was 37 vs 53 %. It did not show the benefit of ECMO itself. ([W11/D1](#W11-D1))
 
 </details>
 
@@ -1938,7 +2222,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** The EOLIA criteria are P/F < 50 mmHg for > 3 h, P/F < 80 mmHg for > 6 h, or pH < 7.25 with PaCO₂ ≥ 60 mmHg for > 6 h. Ventilation for > 7 days was an exclusion criterion (E). In B, P/F < 80 has not lasted 6 h. In A, pH is not < 7.25. ([W11/D1](#W11-D1))
+**C.**
+
+The EOLIA criteria are P/F < 50 mmHg for > 3 h, P/F < 80 mmHg for > 6 h, or pH < 7.25 with PaCO₂ ≥ 60 mmHg for > 6 h. Ventilation for > 7 days was an exclusion criterion (E). In B, P/F < 80 has not lasted 6 h. In A, pH is not < 7.25. ([W11/D1](#W11-D1))
 
 </details>
 
@@ -1951,7 +2237,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** Ischaemic stroke was 0 % with ECMO vs 5 % in controls. Severe thrombocytopenia (27 vs 16 %) was also more common with ECMO. Crossover occurred in 28 % of controls. ([W11/D1](#W11-D1))
+**A – T, B – T, C – T, D – T.**
+
+Ischaemic stroke was 0 % with ECMO vs 5 % in controls. Severe thrombocytopenia (27 vs 16 %) was also more common with ECMO. Crossover occurred in 28 % of controls. ([W11/D1](#W11-D1))
 
 </details>
 
@@ -1965,7 +2253,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Across priors, the probability of any benefit was 88–99 %: 88 % with the strongly sceptical prior and 96 % with the minimally informative prior. The probability of a **large** benefit (RR < 0.67) ranged from 0 to 48 %, and the probability of ARR ≥ 20 % was only 0–4 %. ([W11/D1](#W11-D1))
+**B.**
+
+Across priors, the probability of any benefit was 88–99 %: 88 % with the strongly sceptical prior and 96 % with the minimally informative prior. The probability of a **large** benefit (RR < 0.67) ranged from 0 to 48 %, and the probability of ARR ≥ 20 % was only 0–4 %. ([W11/D1](#W11-D1))
 
 </details>
 
@@ -1978,7 +2268,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** Hyperoxia causes systemic **vasoconstriction** and lowers cardiac output. Absorption atelectasis results from **washout** of nitrogen – oxygen is absorbed and the alveolus collapses. IOTA: liberal oxygen **increased** in-hospital mortality (RR 1.21). Pulse oximetry can **overestimate** SaO₂, especially with darker skin pigmentation and poor perfusion. This raises the risk of occult hypoxaemia at low targets. ([W11/D2](#W11-D2))
+**A – F, B – F, C – F, D – F.**
+
+Hyperoxia causes systemic **vasoconstriction** and lowers cardiac output. Absorption atelectasis results from **washout** of nitrogen – oxygen is absorbed and the alveolus collapses. IOTA: liberal oxygen **increased** in-hospital mortality (RR 1.21). Pulse oximetry can **overestimate** SaO₂, especially with darker skin pigmentation and poor perfusion. This raises the risk of occult hypoxaemia at low targets. ([W11/D2](#W11-D2))
 
 </details>
 
@@ -1992,7 +2284,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** LOCO2 was stopped early for safety concerns and futility. 90-day mortality was **higher** with the conservative target (44.4 vs 30.4 %). Mesenteric ischaemia occurred in 5 vs 0 %. ([W11/D2](#W11-D2))
+**B.**
+
+LOCO2 was stopped early for safety concerns and futility. 90-day mortality was **higher** with the conservative target (44.4 vs 30.4 %). Mesenteric ischaemia occurred in 5 vs 0 %. ([W11/D2](#W11-D2))
 
 </details>
 
@@ -2005,7 +2299,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – F.** ICU-ROX showed a hypothesis-generating benefit signal for hypoxic-ischaemic encephalopathy and a signal of **worse** outcome in sepsis. UK-ROX did not confirm either signal. In HOT-ICU, the achieved median PaO₂ in the lower-target group was about 71 mmHg (~9.4 kPa), above the target. Small separation between arms is one reason the large trials were neutral. ([W11/D2](#W11-D2))
+**A – F, B – T, C – T, D – F.**
+
+ICU-ROX showed a hypothesis-generating benefit signal for hypoxic-ischaemic encephalopathy and a signal of **worse** outcome in sepsis. UK-ROX did not confirm either signal. In HOT-ICU, the achieved median PaO₂ in the lower-target group was about 71 mmHg (~9.4 kPa), above the target. Small separation between arms is one reason the large trials were neutral. ([W11/D2](#W11-D2))
 
 </details>
 
@@ -2019,7 +2315,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** A reasonable corridor for most critically ill patients is SpO₂ ~92–96 % or PaO₂ ~60–90 mmHg, avoiding both extremes. In ARDS, do not go below PaO₂ ~55–60 mmHg / SpO₂ ~88 %. Sustained SpO₂ 98–100 % at FiO₂ > 0.4 means unnecessary oxygen. ([W11/D2](#W11-D2))
+**E.**
+
+A reasonable corridor for most critically ill patients is SpO₂ ~92–96 % or PaO₂ ~60–90 mmHg, avoiding both extremes. In ARDS, do not go below PaO₂ ~55–60 mmHg / SpO₂ ~88 %. Sustained SpO₂ 98–100 % at FiO₂ > 0.4 means unnecessary oxygen. ([W11/D2](#W11-D2))
 
 </details>
 
@@ -2032,7 +2330,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** Intubation was 38 vs 47 vs 50 % (p = 0.18, NS). Fewer intubations were seen only in the post hoc P/F ≤ 200 subgroup. 90-day mortality (12 vs 23 vs 28 %) favoured HFNO. ([W11/D3](#W11-D3))
+**A – T, B – T, C – T, D – T.**
+
+Intubation was 38 vs 47 vs 50 % (p = 0.18, NS). Fewer intubations were seen only in the post hoc P/F ≤ 200 subgroup. 90-day mortality (12 vs 23 vs 28 %) favoured HFNO. ([W11/D3](#W11-D3))
 
 </details>
 
@@ -2046,7 +2346,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** ROX = (SpO₂/FiO₂)/RR = (95/0.5)/28 = 190/28 ≈ **6.8**. ROX ≥ 4.88 at 2, 6 or 12 h is associated with a lower risk of intubation. At 6 h, ROX < 3.47 indicates high risk. ([W11/D3](#W11-D3))
+**B.**
+
+ROX = (SpO₂/FiO₂)/RR = (95/0.5)/28 = 190/28 ≈ **6.8**. ROX ≥ 4.88 at 2, 6 or 12 h is associated with a lower risk of intubation. At 6 h, ROX < 3.47 indicates high risk. ([W11/D3](#W11-D3))
 
 </details>
 
@@ -2059,7 +2361,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – T, D – F.** **Consciousness** (GCS) carries the greatest weight in HACOR. HACOR was developed for **NIV** (ROX is for HFNO). P-SILI is a **concept/hypothesis** (Brochard, AJRCCM 2017) and is used as an argument against delaying intubation when drive is uncontrolled. ([W11/D3](#W11-D3))
+**A – F, B – F, C – T, D – F.**
+
+**Consciousness** (GCS) carries the greatest weight in HACOR. HACOR was developed for **NIV** (ROX is for HFNO). P-SILI is a **concept/hypothesis** (Brochard, AJRCCM 2017) and is used as an argument against delaying intubation when drive is uncontrolled. ([W11/D3](#W11-D3))
 
 </details>
 
@@ -2073,7 +2377,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** 90-day mortality was 34.1 vs 56.4 %. The trial was small, single-centre and stopped early for efficacy, so it is hypothesis-generating. B = HENIVOT (helmet vs HFNO), A = FLORALI, D = Hernández I, E = HIGH-WEAN. ([W11/D3](#W11-D3))
+**C.**
+
+90-day mortality was 34.1 vs 56.4 %. The trial was small, single-centre and stopped early for efficacy, so it is hypothesis-generating. B = HENIVOT (helmet vs HFNO), A = FLORALI, D = Hernández I, E = HIGH-WEAN. ([W11/D3](#W11-D3))
 
 </details>
 
@@ -2086,7 +2392,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – T.** ESICM makes no mortality recommendation and has high certainty that HFNO does not change mortality. ESICM gives no recommendation on HFNO vs CPAP/NIV in AHRF in general. ([W11/D3](#W11-D3))
+**A – F, B – T, C – T, D – T.**
+
+ESICM makes no mortality recommendation and has high certainty that HFNO does not change mortality. ESICM gives no recommendation on HFNO vs CPAP/NIV in AHRF in general. ([W11/D3](#W11-D3))
 
 </details>
 
@@ -2100,7 +2408,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Weaning failure is a failed SBT, reintubation or resumption of ventilatory support, or death within 48 h after extubation. A patient extubated onto NIV counts as "weaning in progress". ([W11/D4](#W11-D4))
+**D.**
+
+Weaning failure is a failed SBT, reintubation or resumption of ventilatory support, or death within 48 h after extubation. A patient extubated onto NIV counts as "weaning in progress". ([W11/D4](#W11-D4))
 
 </details>
 
@@ -2113,7 +2423,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** Reintubation was 11.1 vs 11.9 % (NS). Successful extubation was 82.3 vs 74.0 %. The ATS/ACCP recommendation is conditional, moderate certainty. Most SBT failures occur within the first ~20 minutes. ([W11/D4](#W11-D4))
+**A – T, B – F, C – T, D – F.**
+
+Reintubation was 11.1 vs 11.9 % (NS). Successful extubation was 82.3 vs 74.0 %. The ATS/ACCP recommendation is conditional, moderate certainty. Most SBT failures occur within the first ~20 minutes. ([W11/D4](#W11-D4))
 
 </details>
 
@@ -2127,7 +2439,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** WIND counts from the **first separation attempt**: < 1 day = short, 1–7 days = difficult, ≥ 7 days = prolonged. ICU mortality was 6 / 17 / 29 %. "Simple" is a Boles category. ([W11/D4](#W11-D4))
+**E.**
+
+WIND counts from the **first separation attempt**: < 1 day = short, 1–7 days = difficult, ≥ 7 days = prolonged. ICU mortality was 6 / 17 / 29 %. "Simple" is a Boles category. ([W11/D4](#W11-D4))
 
 </details>
 
@@ -2140,7 +2454,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** It was **Boles** that could not classify about half of patients. WIND classified 99 %. WIND starts at the first separation attempt (an SBT or extubation without an SBT). ([W11/D4](#W11-D4))
+**A – T, B – T, C – F, D – F.**
+
+It was **Boles** that could not classify about half of patients. WIND classified 99 %. WIND starts at the first separation attempt (an SBT or extubation without an SBT). ([W11/D4](#W11-D4))
 
 </details>
 
@@ -2154,7 +2470,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** RSBI = f/V_T (in litres) = 30/0.4 = **75**. RSBI ≤ 105 is associated with success. It has high sensitivity and NPV but low specificity (0.64), so a low RSBI does not guarantee success. RSBI is an aid and does not replace the SBT. ([W11/D4](#W11-D4))
+**A.**
+
+RSBI = f/V_T (in litres) = 30/0.4 = **75**. RSBI ≤ 105 is associated with success. It has high sensitivity and NPV but low specificity (0.64), so a low RSBI does not guarantee success. RSBI is an aid and does not replace the SBT. ([W11/D4](#W11-D4))
 
 </details>
 
@@ -2167,7 +2485,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – T.** After a failed SBT, look for the cause, rest the patient on comfortable ventilation and repeat the SBT **after 24 h**. ([W11/D4](#W11-D4))
+**A – F, B – T, C – T, D – T.**
+
+After a failed SBT, look for the cause, rest the patient on comfortable ventilation and repeat the SBT **after 24 h**. ([W11/D4](#W11-D4))
 
 </details>
 
@@ -2181,7 +2501,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** The non-inferiority margin was 10 %. NIV was often interrupted because of adverse effects (43 vs 0 %). Option B is Hernández I (low-risk patients, HFNO vs conventional O₂). ([W11/D5](#W11-D5))
+**C.**
+
+The non-inferiority margin was 10 %. NIV was often interrupted because of adverse effects (43 vs 0 %). Option B is Hernández I (low-risk patients, HFNO vs conventional O₂). ([W11/D5](#W11-D5))
 
 </details>
 
@@ -2194,7 +2516,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – T.** Corticosteroids reduced reintubation (5.8 % vs 17.0 %). Thresholds varied between studies (e.g. 88–283 mL, or 10–24 % of V_T). The test is suggested **only in high-risk patients**, because blanket testing produces false positives and delays extubation. Reintubation after a failed cuff leak test is also a risk factor. ([W11/D5](#W11-D5))
+**A – F, B – F, C – F, D – T.**
+
+Corticosteroids reduced reintubation (5.8 % vs 17.0 %). Thresholds varied between studies (e.g. 88–283 mL, or 10–24 % of V_T). The test is suggested **only in high-risk patients**, because blanket testing produces false positives and delays extubation. Reintubation after a failed cuff leak test is also a risk factor. ([W11/D5](#W11-D5))
 
 </details>
 
@@ -2208,7 +2532,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** Severity is graded by objective parameters, not by the place of treatment. "Severe" requires **hypercapnia and acidosis** (PaCO₂ > 45 mmHg and pH < 7.35) in addition. The definition requires worsening over ≤ 14 days. ([W12/D1](#W12-D1))
+**C.**
+
+Severity is graded by objective parameters, not by the place of treatment. "Severe" requires **hypercapnia and acidosis** (PaCO₂ > 45 mmHg and pH < 7.35) in addition. The definition requires worsening over ≤ 14 days. ([W12/D1](#W12-D1))
 
 </details>
 
@@ -2221,7 +2547,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** In REDUCE, re-exacerbation within 6 months was 35.9 vs 36.8 % at half the cumulative dose. Oral corticosteroids are equivalent to IV if the patient can swallow. Methylxanthines are not recommended (adverse effects). Antibiotics are typically given for 5 days. ([W12/D1](#W12-D1))
+**A – F, B – T, C – F, D – T.**
+
+In REDUCE, re-exacerbation within 6 months was 35.9 vs 36.8 % at half the cumulative dose. Oral corticosteroids are equivalent to IV if the patient can swallow. Methylxanthines are not recommended (adverse effects). Antibiotics are typically given for 5 days. ([W12/D1](#W12-D1))
 
 </details>
 
@@ -2235,7 +2563,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** For hypercapnia **without acidosis**, ERS/ATS suggests not using NIV (conditional, low certainty). B and D: strong recommendation, high certainty. C: a trial of NIV (strong, moderate). A: conditional, moderate. ([W12/D1](#W12-D1))
+**E.**
+
+For hypercapnia **without acidosis**, ERS/ATS suggests not using NIV (conditional, low certainty). B and D: strong recommendation, high certainty. C: a trial of NIV (strong, moderate). A: conditional, moderate. ([W12/D1](#W12-D1))
 
 </details>
 
@@ -2248,7 +2578,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – F.** There is no lower pH limit below which NIV is absolutely contraindicated – the lower the pH, the higher the risk of failure, so monitor in the ICU with intubation immediately available. EPAP of ~4–6 cmH₂O offsets intrinsic PEEP and improves triggering. NIV reduced both mortality (RR 0.63) and intubation (RR 0.41). ([W12/D1](#W12-D1))
+**A – F, B – T, C – F, D – F.**
+
+There is no lower pH limit below which NIV is absolutely contraindicated – the lower the pH, the higher the risk of failure, so monitor in the ICU with intubation immediately available. EPAP of ~4–6 cmH₂O offsets intrinsic PEEP and improves triggering. NIV reduced both mortality (RR 0.63) and intubation (RR 0.41). ([W12/D1](#W12-D1))
 
 </details>
 
@@ -2262,7 +2594,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** A normal or rising PaCO₂ in a tachypnoeic asthmatic is a warning sign of failure. Other life-threatening features include drowsiness, confusion, a "silent chest", PEF < 25–30 % and inability to speak. ([W12/D1](#W12-D1))
+**D.**
+
+A normal or rising PaCO₂ in a tachypnoeic asthmatic is a warning sign of failure. Other life-threatening features include drowsiness, confusion, a "silent chest", PEF < 25–30 % and inability to speak. ([W12/D1](#W12-D1))
 
 </details>
 
@@ -2275,7 +2609,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** Antibiotics are given only for clear infection. Adult SpO₂ target is 93–95 %. IV magnesium sulfate 2 g over 20 min is used for severe exacerbations not responding to initial treatment. For asthma, ERS/ATS makes **no recommendation** on NIV (insufficient evidence). ([W12/D1](#W12-D1))
+**A – F, B – F, C – F, D – F.**
+
+Antibiotics are given only for clear infection. Adult SpO₂ target is 93–95 %. IV magnesium sulfate 2 g over 20 min is used for severe exacerbations not responding to initial treatment. For asthma, ERS/ATS makes **no recommendation** on NIV (insufficient evidence). ([W12/D1](#W12-D1))
 
 </details>
 
@@ -2289,7 +2625,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** A higher Ppeak with an unchanged Pplat means increased **resistance**. If both rise, compliance has fallen or hyperinflation has worsened (pneumothorax, endobronchial intubation, atelectasis, dynamic hyperinflation). ([W12/D1](#W12-D1), [W13/D2](#W13-D2))
+**C.**
+
+A higher Ppeak with an unchanged Pplat means increased **resistance**. If both rise, compliance has fallen or hyperinflation has worsened (pneumothorax, endobronchial intubation, atelectasis, dynamic hyperinflation). ([W12/D1](#W12-D1), [W13/D2](#W13-D2))
 
 </details>
 
@@ -2302,7 +2640,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – T.** Severe CAP = 1 major (vasopressor-requiring shock, invasive ventilation) or ≥ 3 minor criteria. ([W12/D2](#W12-D2))
+**A – T, B – T, C – T, D – T.**
+
+Severe CAP = 1 major (vasopressor-requiring shock, invasive ventilation) or ≥ 3 minor criteria. ([W12/D2](#W12-D2))
 
 </details>
 
@@ -2316,7 +2656,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** Legionella, Mycoplasma and Chlamydophila are not covered by β-lactams. They need a macrolide or a fluoroquinolone (doxycycline is an alternative for Legionella). ([W12/D2](#W12-D2))
+**D.**
+
+Legionella, Mycoplasma and Chlamydophila are not covered by β-lactams. They need a macrolide or a fluoroquinolone (doxycycline is an alternative for Legionella). ([W12/D2](#W12-D2))
 
 </details>
 
@@ -2329,7 +2671,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – F.** Hydrocortisone 200 mg/day for 4 days, then tapered (total 8 or 14 days). Septic shock on vasopressors and PCR-positive influenza were exclusion criteria. Hydrocortisone **increased** insulin requirements. 28-day mortality was 6.2 vs 11.9 %. ([W12/D2](#W12-D2))
+**A – F, B – F, C – F, D – F.**
+
+Hydrocortisone 200 mg/day for 4 days, then tapered (total 8 or 14 days). Septic shock on vasopressors and PCR-positive influenza were exclusion criteria. Hydrocortisone **increased** insulin requirements. 28-day mortality was 6.2 vs 11.9 %. ([W12/D2](#W12-D2))
 
 </details>
 
@@ -2343,7 +2687,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** 90-day mortality was 15 vs 9.8 %. A large benefit is unlikely, but a small benefit or harm was not excluded. Allocation was unequal (536 vs 122), giving wide intervals. Option C describes ESCAPe. REMAP-CAP, unlike CAPE COD, included influenza and shock. ([W12/D2](#W12-D2))
+**D.**
+
+90-day mortality was 15 vs 9.8 %. A large benefit is unlikely, but a small benefit or harm was not excluded. Allocation was unequal (536 vs 122), giving wide intervals. Option C describes ESCAPe. REMAP-CAP, unlike CAPE COD, included influenza and shock. ([W12/D2](#W12-D2))
 
 </details>
 
@@ -2356,7 +2702,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – T, D – F.** Aspiration is treated as standard CAP, without routine anaerobic cover (except abscess/empyema). Procalcitonin is used to **shorten** antibiotic duration, not to decide on starting antibiotics. ([W12/D2](#W12-D2))
+**A – F, B – T, C – T, D – F.**
+
+Aspiration is treated as standard CAP, without routine anaerobic cover (except abscess/empyema). Procalcitonin is used to **shorten** antibiotic duration, not to decide on starting antibiotics. ([W12/D2](#W12-D2))
 
 </details>
 
@@ -2370,7 +2718,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** pH > 7.2 and < 7.4 is intermediate risk: measure LDH, and consider drainage when LDH > 900 IU/L with clinical features. Streptokinase (MIST1), tPA alone and DNase alone are not effective. tPA + DNase is used for a residual collection when the drain has stopped draining. ([W12/D5](#W12-D5))
+**C.**
+
+pH > 7.2 and < 7.4 is intermediate risk: measure LDH, and consider drainage when LDH > 900 IU/L with clinical features. Streptokinase (MIST1), tPA alone and DNase alone are not effective. tPA + DNase is used for a residual collection when the drain has stopped draining. ([W12/D5](#W12-D5))
 
 </details>
 
@@ -2383,7 +2733,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** MACOCHA ≥ 3 = **high** risk (range 0–12); Mallampati III–IV scores 5 points. In INTUBE, a major event occurred in 45.2 %, severe hypoxaemia in 9.3 % and cardiac arrest in 3.1 %. ([W12/D3](#W12-D3))
+**A – T, B – T, C – F, D – F.**
+
+MACOCHA ≥ 3 = **high** risk (range 0–12); Mallampati III–IV scores 5 points. In INTUBE, a major event occurred in 45.2 %, severe hypoxaemia in 9.3 % and cardiac arrest in 3.1 %. ([W12/D3](#W12-D3))
 
 </details>
 
@@ -2397,7 +2749,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** OSA 2 + coma (GCS < 8) 1 + severe hypoxaemia (SpO₂ < 80 %) 1 + non-anaesthetist 1 = **5**. Mallampati II, normal mouth opening and normal neck mobility score 0. ([W12/D3](#W12-D3))
+**C.**
+
+OSA 2 + coma (GCS < 8) 1 + severe hypoxaemia (SpO₂ < 80 %) 1 + non-anaesthetist 1 = **5**. Mallampati II, normal mouth opening and normal neck mobility score 0. ([W12/D3](#W12-D3))
 
 </details>
 
@@ -2410,7 +2764,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – T, D – F.** Severe complications in DEVICE were 21.4 vs 20.9 %. BOUGIE was negative (80.4 vs 83.0 %). PreVent halved severe hypoxaemia (10.9 vs 22.8 %) without a difference in aspiration (2.5 vs 4.0 %). ([W12/D3](#W12-D3))
+**A – F, B – F, C – T, D – F.**
+
+Severe complications in DEVICE were 21.4 vs 20.9 %. BOUGIE was negative (80.4 vs 83.0 %). PreVent halved severe hypoxaemia (10.9 vs 22.8 %) without a difference in aspiration (2.5 vs 4.0 %). ([W12/D3](#W12-D3))
 
 </details>
 
@@ -2424,7 +2780,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** In-hospital 28-day mortality was 28.1 vs 29.1 % (NS). Concern about etomidate inhibiting 11β-hydroxylase did not translate into higher mortality. In patients at high risk of collapse, use a reduced dose of any induction agent. ([W12/D3](#W12-D3))
+**B.**
+
+In-hospital 28-day mortality was 28.1 vs 29.1 % (NS). Concern about etomidate inhibiting 11β-hydroxylase did not translate into higher mortality. In patients at high risk of collapse, use a reduced dose of any induction agent. ([W12/D3](#W12-D3))
 
 </details>
 
@@ -2437,7 +2795,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** Propofol lowers blood pressure **more** markedly. A sudden fall in minute ventilation in severe metabolic acidosis can cause a precipitous fall in pH and cardiac arrest. ([W12/D3](#W12-D3))
+**A – T, B – T, C – T, D – F.**
+
+Propofol lowers blood pressure **more** markedly. A sudden fall in minute ventilation in severe metabolic acidosis can cause a precipitous fall in pH and cardiac arrest. ([W12/D3](#W12-D3))
 
 </details>
 
@@ -2451,7 +2811,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** 6-month mortality was 35.0 vs 29.6 % (NS). Like TracMan (no mortality difference), early tracheostomy did not improve hard outcomes. The decision should be individual, typically at ~10 days if extubation is not realistic. ([W12/D4](#W12-D4))
+**D.**
+
+6-month mortality was 35.0 vs 29.6 % (NS). Like TracMan (no mortality difference), early tracheostomy did not improve hard outcomes. The decision should be individual, typically at ~10 days if extubation is not realistic. ([W12/D4](#W12-D4))
 
 </details>
 
@@ -2464,7 +2826,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** A tracheo-innominate fistula typically presents in **weeks 1–4**, often after a "sentinel bleed". Displacement of an immature stoma is the most dangerous early complication. ([W12/D4](#W12-D4))
+**A – T, B – T, C – T, D – F.**
+
+A tracheo-innominate fistula typically presents in **weeks 1–4**, often after a "sentinel bleed". Displacement of an immature stoma is the most dangerous early complication. ([W12/D4](#W12-D4))
 
 </details>
 
@@ -2478,7 +2842,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** A sentinel bleed followed by massive haemorrhage suggests a tracheo-innominate fistula. Overinflate the cuff first. If that fails, use digital compression and orotracheal intubation with the cuff placed distally, and get immediate surgery. ([W12/D4](#W12-D4))
+**B.**
+
+A sentinel bleed followed by massive haemorrhage suggests a tracheo-innominate fistula. Overinflate the cuff first. If that fails, use digital compression and orotracheal intubation with the cuff placed distally, and get immediate surgery. ([W12/D4](#W12-D4))
 
 </details>
 
@@ -2491,7 +2857,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – T.** Absent lung sliding also occurs with endobronchial intubation, pleurodesis, apnoea and ARDS. In BPF, **minimise** suction (it increases flow through the fistula) and use the lowest V_T, Pplat and PEEP with a short inspiratory time. Brown: conservative management was non-inferior, and ~15 % needed intervention. ([W12/D5](#W12-D5))
+**A – F, B – F, C – F, D – T.**
+
+Absent lung sliding also occurs with endobronchial intubation, pleurodesis, apnoea and ARDS. In BPF, **minimise** suction (it increases flow through the fistula) and use the lowest V_T, Pplat and PEEP with a short inspiratory time. Brown: conservative management was non-inferior, and ~15 % needed intervention. ([W12/D5](#W12-D5))
 
 </details>
 
@@ -2505,7 +2873,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** C_stat = V_T/(Pplat − PEEP_tot) = 450/(24 − 6) = **25 mL/cmH₂O**. Flow 45 L/min = 0.75 L/s, so R = (33 − 24)/0.75 = **12 cmH₂O/L/s**. 16.7 mL/cmH₂O is C_dyn = 450/(33 − 6). R = 9 is the error of not converting flow to L/s. ([W13/D2](#W13-D2))
+**B.**
+
+C_stat = V_T/(Pplat − PEEP_tot) = 450/(24 − 6) = **25 mL/cmH₂O**. Flow 45 L/min = 0.75 L/s, so R = (33 − 24)/0.75 = **12 cmH₂O/L/s**. 16.7 mL/cmH₂O is C_dyn = 450/(33 − 6). R = 9 is the error of not converting flow to L/s. ([W13/D2](#W13-D2))
 
 </details>
 
@@ -2518,7 +2888,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – T.** A concave pressure curve in VCV is **flow starvation** (patient demand exceeds set flow). Overdistension is shown by "beaking" (upper-end flattening) of the P–V loop. ([W13/D2](#W13-D2))
+**A – T, B – F, C – T, D – T.**
+
+A concave pressure curve in VCV is **flow starvation** (patient demand exceeds set flow). Overdistension is shown by "beaking" (upper-end flattening) of the P–V loop. ([W13/D2](#W13-D2))
 
 </details>
 
@@ -2532,7 +2904,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** τ = R × C = 20 × 0.05 L/cmH₂O = **1.0 s**. Te 2 s = 2τ, so ~86 % is exhaled (1τ ≈ 63 %, 3τ ≈ 95 %, 5τ ≈ 99 %). Option E is the error of not converting mL to L. ([W13/D2](#W13-D2))
+**A.**
+
+τ = R × C = 20 × 0.05 L/cmH₂O = **1.0 s**. Te 2 s = 2τ, so ~86 % is exhaled (1τ ≈ 63 %, 3τ ≈ 95 %, 5τ ≈ 99 %). Option E is the error of not converting mL to L. ([W13/D2](#W13-D2))
 
 </details>
 
@@ -2545,7 +2919,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** Absolute P_es is affected by mediastinal weight and position, so **changes** are more reliable. EPVent-2 found no difference (28-day mortality 32.4 vs 30.6 %). ([W13/D2](#W13-D2))
+**A – T, B – F, C – F, D – T.**
+
+Absolute P_es is affected by mediastinal weight and position, so **changes** are more reliable. EPVent-2 found no difference (28-day mortality 32.4 vs 30.6 %). ([W13/D2](#W13-D2))
 
 </details>
 
@@ -2559,7 +2935,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A.** ΔP_aw = 28 − 8 = 20, so E_rs = 20/0.4 = 50 cmH₂O/L. E_cw = 8/0.4 = 20, so E_L = 50 − 20 = 30 cmH₂O/L. ΔP_L = 20 − 8 = **12 cmH₂O**. P_L,ei = Pplat × E_L/E_rs = 28 × 30/50 = **16.8 cmH₂O**. ([W13/D2](#W13-D2))
+**A.**
+
+ΔP_aw = 28 − 8 = 20, so E_rs = 20/0.4 = 50 cmH₂O/L. E_cw = 8/0.4 = 20, so E_L = 50 − 20 = 30 cmH₂O/L. ΔP_L = 20 − 8 = **12 cmH₂O**. P_L,ei = Pplat × E_L/E_rs = 28 × 30/50 = **16.8 cmH₂O**. ([W13/D2](#W13-D2))
 
 </details>
 
@@ -2572,7 +2950,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** P_L,ee = PEEP_tot − P_es,ee = 10 − 14 = −4 cmH₂O, which favours atelectrauma. With a stiff chest wall, part of Pplat is used to distend the chest wall, so Pplat > 30 does not necessarily mean excessive lung stress. ([W13/D2](#W13-D2))
+**A – T, B – T, C – T, D – F.**
+
+P_L,ee = PEEP_tot − P_es,ee = 10 − 14 = −4 cmH₂O, which favours atelectrauma. With a stiff chest wall, part of Pplat is used to distend the chest wall, so Pplat > 30 does not necessarily mean excessive lung stress. ([W13/D2](#W13-D2))
 
 </details>
 
@@ -2586,7 +2966,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** AI = asynchronous events/(ventilator cycles + ineffective efforts) × 100 = (50 + 20)/(300 + 50) × 100 = 70/350 = **20 %**. AI > 10 % = severe. The patient's true rate is 350/20 = 17.5/min, while the ventilator shows 15/min. ([W13/D3](#W13-D3))
+**E.**
+
+AI = asynchronous events/(ventilator cycles + ineffective efforts) × 100 = (50 + 20)/(300 + 50) × 100 = 70/350 = **20 %**. AI > 10 % = severe. The patient's true rate is 350/20 = 17.5/min, while the ventilator shows 15/min. ([W13/D3](#W13-D3))
 
 </details>
 
@@ -2599,7 +2981,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** Reverse triggering is typical of deeply sedated patients on controlled modes. Delayed cycling (long τ) is treated by **raising** cycle-off (e.g. to 40–50 %) and lowering PS. Premature cycling is treated by lowering cycle-off. The apnoea test is done without ventilator triggering. ([W13/D3](#W13-D3))
+**A – T, B – F, C – T, D – F.**
+
+Reverse triggering is typical of deeply sedated patients on controlled modes. Delayed cycling (long τ) is treated by **raising** cycle-off (e.g. to 40–50 %) and lowering PS. Premature cycling is treated by lowering cycle-off. The apnoea test is done without ventilator triggering. ([W13/D3](#W13-D3))
 
 </details>
 
@@ -2613,7 +2997,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**E.** The effort must first overcome PEEPi (6) and then reach the trigger (2): 6 + 2 = **8 cmH₂O**. Smaller efforts are ineffective. External PEEP (partly counterbalancing PEEPi) and lower support (smaller V_T, less PEEPi) help. ([W13/D3](#W13-D3))
+**E.**
+
+The effort must first overcome PEEPi (6) and then reach the trigger (2): 6 + 2 = **8 cmH₂O**. Smaller efforts are ineffective. External PEEP (partly counterbalancing PEEPi) and lower support (smaller V_T, less PEEPi) help. ([W13/D3](#W13-D3))
 
 </details>
 
@@ -2626,7 +3012,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** Blanch was observational: AI > 10 % was **associated** with higher mortality, and it is unclear whether asynchrony is a marker or a cause. In Thille 2006, 15/62 patients (24 %) had AI > 10 %, with a median ventilation duration of 25.5 vs 7.5 days. ([W13/D3](#W13-D3))
+**A – T, B – T, C – F, D – T.**
+
+Blanch was observational: AI > 10 % was **associated** with higher mortality, and it is unclear whether asynchrony is a marker or a cause. In Thille 2006, 15/62 patients (24 %) had AI > 10 %, with a median ventilation duration of 25.5 vs 7.5 days. ([W13/D3](#W13-D3))
 
 </details>
 
@@ -2640,7 +3028,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** ΔP = 26 − 12 = 14, so ½ΔP = 7. MP = 0.098 × 16 × 0.5 × (32 − 7) = 0.784 × 25 = **19.6 J/min**. In Serpa Neto 2018, mortality rose consistently above ~17 J/min (observational). ([W13/D4](#W13-D4))
+**D.**
+
+ΔP = 26 − 12 = 14, so ½ΔP = 7. MP = 0.098 × 16 × 0.5 × (32 − 7) = 0.784 × 25 = **19.6 J/min**. In Serpa Neto 2018, mortality rose consistently above ~17 J/min (observational). ([W13/D4](#W13-D4))
 
 </details>
 
@@ -2653,7 +3043,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – F, C – F, D – T.** PEEP increases mechanical power linearly. The RR exponent is **1.4**. MP is an observational marker, not a guideline target, and no RCT has titrated MP. ([W13/D4](#W13-D4))
+**A – F, B – F, C – F, D – T.**
+
+PEEP increases mechanical power linearly. The RR exponent is **1.4**. MP is an observational marker, not a guideline target, and no RCT has titrated MP. ([W13/D4](#W13-D4))
 
 </details>
 
@@ -2667,7 +3059,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** MP = 0.098 × 25 × 0.4 × (10 + 12) = 0.98 × 22 = **21.6 J/min**. Option B omits PEEP. ([W13/D4](#W13-D4))
+**D.**
+
+MP = 0.098 × 25 × 0.4 × (10 + 12) = 0.98 × 22 = **21.6 J/min**. Option B omits PEEP. ([W13/D4](#W13-D4))
 
 </details>
 
@@ -2680,7 +3074,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – T, D – F.** P_mus ≈ ¾ × 15 = 11.25 cmH₂O. ΔP_aw = 16 − 6 = 10. ΔP_L,dyn ≈ 10 − ⅔ × (−15) = 10 + 10 = **20 cmH₂O**. Because ΔPocc is negative, the term is **added**. Higher PS may reduce effort but need not reduce ΔP_L. ([W13/D4](#W13-D4))
+**A – T, B – F, C – T, D – F.**
+
+P_mus ≈ ¾ × 15 = 11.25 cmH₂O. ΔP_aw = 16 − 6 = 10. ΔP_L,dyn ≈ 10 − ⅔ × (−15) = 10 + 10 = **20 cmH₂O**. Because ΔPocc is negative, the term is **added**. Higher PS may reduce effort but need not reduce ΔP_L. ([W13/D4](#W13-D4))
 
 </details>
 
@@ -2694,7 +3090,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** Strain = ΔV/FRC = 450/300 = **1.5**. Stress = 13.5 × 1.5 = **20.25 cmH₂O**. In animals, strain > 1.5 is clearly injurious, corresponding to a stress of ~20 cmH₂O (Gattinoni 2017). ([W13/D4](#W13-D4))
+**B.**
+
+Strain = ΔV/FRC = 450/300 = **1.5**. Stress = 13.5 × 1.5 = **20.25 cmH₂O**. In animals, strain > 1.5 is clearly injurious, corresponding to a stress of ~20 cmH₂O (Gattinoni 2017). ([W13/D4](#W13-D4))
 
 </details>
 
@@ -2707,7 +3105,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** A rising Pplat means overinflation, so return to the previous PEEP. Keep PEEP if Pplat falls or does not change. The "waterfall" concept means external PEEP below the critical closing pressure does not worsen hyperinflation. ([W13/D5](#W13-D5))
+**A – T, B – T, C – F, D – T.**
+
+A rising Pplat means overinflation, so return to the previous PEEP. Keep PEEP if Pplat falls or does not change. The "waterfall" concept means external PEEP below the critical closing pressure does not worsen hyperinflation. ([W13/D5](#W13-D5))
 
 </details>
 
@@ -2721,7 +3121,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** PEEPi = 15 − 6 = **9 cmH₂O**. C_stat = 450/(26 − 15) = 450/11 ≈ **41 mL/cmH₂O**. Using set PEEP gives a falsely low 22.5 mL/cmH₂O ("stiff lungs"). ([W13/D5](#W13-D5))
+**C.**
+
+PEEPi = 15 − 6 = **9 cmH₂O**. C_stat = 450/(26 − 15) = 450/11 ≈ **41 mL/cmH₂O**. Using set PEEP gives a falsely low 22.5 mL/cmH₂O ("stiff lungs"). ([W13/D5](#W13-D5))
 
 </details>
 
@@ -2734,7 +3136,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.** At RR 12 and V_T 600 mL, doubling the flow gains only 0.5 s of Te. Cutting RR from 20 to 12 at the same Ti lengthens Te from 2 to 4 s. Use permissive hypercapnia, because raising RR worsens dynamic hyperinflation. A high Ppeak with a normal Pplat is the **resistive** component, and Pplat (with PEEPi) reflects alveolar pressure. ([W13/D5](#W13-D5))
+**A – T, B – T, C – F, D – F.**
+
+At RR 12 and V_T 600 mL, doubling the flow gains only 0.5 s of Te. Cutting RR from 20 to 12 at the same Ti lengthens Te from 2 to 4 s. Use permissive hypercapnia, because raising RR worsens dynamic hyperinflation. A high Ppeak with a normal Pplat is the **resistive** component, and Pplat (with PEEPi) reflects alveolar pressure. ([W13/D5](#W13-D5))
 
 </details>
 
@@ -2748,7 +3152,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**B.** The cycle is 60/15 = 4 s. Ti = V_T/flow = 0.6 L ÷ 1 L/s = **0.6 s**. Te = 4 − 0.6 = **3.4 s**. I:E = 0.6:3.4 ≈ **1:5.7**. ([W13/D5](#W13-D5))
+**B.**
+
+The cycle is 60/15 = 4 s. Ti = V_T/flow = 0.6 L ÷ 1 L/s = **0.6 s**. Te = 4 − 0.6 = **3.4 s**. I:E = 0.6:3.4 ≈ **1:5.7**. ([W13/D5](#W13-D5))
 
 </details>
 
@@ -2761,7 +3167,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – F, C – F, D – T.** When the patient "adds" volume, PRVC **lowers** support, just when more help may be needed. In Esteban, a once-daily SBT was 2.83× faster than IMV, which was the slowest method. ([W13/D1](#W13-D1))
+**A – T, B – F, C – F, D – T.**
+
+When the patient "adds" volume, PRVC **lowers** support, just when more help may be needed. In Esteban, a once-daily SBT was 2.83× faster than IMV, which was the slowest method. ([W13/D1](#W13-D1))
 
 </details>
 
@@ -2775,7 +3183,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**D.** PBW (men) = 50 + 0.91 × (180 − 152.4) = 50 + 25.1 ≈ **75 kg**, so 450 mL ≈ 6 mL/kg PBW. ΔP = 30 − 14 = 16 cmH₂O, and C_rs = 450/16 ≈ **28 mL/cmH₂O**. Option B divides by Pplat (450/30). ([W10/D2](#W10-D2), [W13/D2](#W13-D2))
+**D.**
+
+PBW (men) = 50 + 0.91 × (180 − 152.4) = 50 + 25.1 ≈ **75 kg**, so 450 mL ≈ 6 mL/kg PBW. ΔP = 30 − 14 = 16 cmH₂O, and C_rs = 450/16 ≈ **28 mL/cmH₂O**. Option B divides by Pplat (450/30). ([W10/D2](#W10-D2), [W13/D2](#W13-D2))
 
 </details>
 
@@ -2788,7 +3198,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – T, D – F.** In EOLIA, ventilation > 7 days was an **exclusion** criterion. Early referral is the lesson from CESAR. MP rises with RR (exponent 1.4). ([W10/D4](#W10-D4), [W10/D5](#W10-D5), [W11/D1](#W11-D1), [W13/D4](#W13-D4))
+**A – T, B – T, C – T, D – F.**
+
+In EOLIA, ventilation > 7 days was an **exclusion** criterion. Early referral is the lesson from CESAR. MP rises with RR (exponent 1.4). ([W10/D4](#W10-D4), [W10/D5](#W10-D5), [W11/D1](#W11-D1), [W13/D4](#W13-D4))
 
 </details>
 
@@ -2802,7 +3214,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** The long time constant in COPD causes delayed cycling. Insufflation continues into neural expiration, Te shortens, PEEPi rises and efforts become ineffective. A higher cycle-off and lower PS (Thille 2008) shorten insufflation and reduce V_T. Raising PS worsens ineffective efforts. ([W13/D3](#W13-D3), [W12/D1](#W12-D1))
+**C.**
+
+The long time constant in COPD causes delayed cycling. Insufflation continues into neural expiration, Te shortens, PEEPi rises and efforts become ineffective. A higher cycle-off and lower PS (Thille 2008) shorten insufflation and reduce V_T. Raising PS worsens ineffective efforts. ([W13/D3](#W13-D3), [W12/D1](#W12-D1))
 
 </details>
 
@@ -2815,7 +3229,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – F, B – T, C – F, D – T.** During reverse triggering, muscle effort (median P_mus 8.7 cmH₂O in Pham 2021) makes Pplat and compliance unreliable. In HOT-ICU, 90-day mortality was 42.9 vs 42.4 % (NS). ([W11/D2](#W11-D2), [W12/D1](#W12-D1), [W13/D3](#W13-D3))
+**A – F, B – T, C – F, D – T.**
+
+During reverse triggering, muscle effort (median P_mus 8.7 cmH₂O in Pham 2021) makes Pplat and compliance unreliable. In HOT-ICU, 90-day mortality was 42.9 vs 42.4 % (NS). ([W11/D2](#W11-D2), [W12/D1](#W12-D1), [W13/D3](#W13-D3))
 
 </details>
 
@@ -2829,7 +3245,9 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**C.** ΔP = 28 − 12 = 16, so ½ΔP = 8. MP = 0.098 × 30 × 0.42 × (34 − 8) = 1.2348 × 26 ≈ **32.1 J/min**. MP rises with RR (exponent 1.4). The driving pressure of 16 cmH₂O is also high. This is an observational association, not a guideline target. ([W13/D4](#W13-D4), [W10/D2](#W10-D2))
+**C.**
+
+ΔP = 28 − 12 = 16, so ½ΔP = 8. MP = 0.098 × 30 × 0.42 × (34 − 8) = 1.2348 × 26 ≈ **32.1 J/min**. MP rises with RR (exponent 1.4). The driving pressure of 16 cmH₂O is also high. This is an observational association, not a guideline target. ([W13/D4](#W13-D4), [W10/D2](#W10-D2))
 
 </details>
 
@@ -2842,6 +3260,8 @@ Answer in the [interactive quiz](../index.html) to get marked automatically. Ans
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – T.** One criterion is enough, and he has at least two: age > 65 and ventilation > 7 days (moderate/severe COPD would add a third). In TracMan, 30-day mortality was 30.8 vs 31.5 % (NS), with fewer sedation days in the early group. ([W13/D1](#W13-D1), [W11/D4](#W11-D4), [W11/D5](#W11-D5), [W12/D4](#W12-D4))
+**A – T, B – T, C – F, D – T.**
+
+One criterion is enough, and he has at least two: age > 65 and ventilation > 7 days (moderate/severe COPD would add a third). In TracMan, 30-day mortality was 30.8 vs 31.5 % (NS), with fewer sedation days in the early group. ([W13/D1](#W13-D1), [W11/D4](#W11-D4), [W11/D5](#W11-D5), [W12/D4](#W12-D4))
 
 </details>
