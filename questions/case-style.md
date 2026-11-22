@@ -640,7 +640,16 @@ Schedule 1 also includes acute meningitis, acute encephalitis, meningococcal sep
 
 **E.**
 
-Passive leg raising transfers ~300 mL of venous blood and, when its effect is measured with a real-time cardiac output or VTI (threshold ≈ 10 %), predicts fluid responsiveness regardless of spontaneous breathing or arrhythmia. Pulse pressure variation (A) is valid only in fully controlled ventilation with VT ≥ 8 mL/kg, sinus rhythm and a closed chest; triggering invalidates it. Static measures such as CVP (B) and LV end-diastolic area (D) predict poorly. IVC collapsibility (C) in spontaneous or assisted breathing has only modest accuracy and is confounded by inspiratory effort. Reference: Monnet X, et al. Passive leg raising for predicting fluid responsiveness: a systematic review and meta-analysis. **Intensive Care Med** 2016;42:1935–1947; Monnet X, Shi R, Teboul JL. Prediction of fluid responsiveness. What's new? **Ann Intensive Care** 2022;12:46.
+**Why E:** Passive leg raising transfers ~300 mL of venous blood from the legs and splanchnic bed and, when measured with real-time CO or LVOT VTI (threshold ≈ 10 %), predicts fluid responsiveness regardless of spontaneous breathing, arrhythmia or tidal volume (pooled AUROC 0.95). A 15 % rise in VTI is well above the threshold and above the ~12 % precision limit of echo VTI.
+
+**Why not the others:**
+
+- A – PPV is valid only with fully controlled ventilation, VT ≥ 8 mL/kg, sinus rhythm and a closed chest; triggering every breath invalidates it.
+- B – CVP is a static measure and predicts responsiveness poorly, even when low.
+- C – IVC collapsibility during spontaneous or assisted breathing has only modest accuracy and is confounded by inspiratory effort.
+- D – LV end-diastolic area is a static preload index with poor predictive value.
+
+**Ref:** Monnet X, et al. Passive leg raising for predicting fluid responsiveness: a systematic review and meta-analysis. *Intensive Care Med* 2016;42:1935–1947. Monnet X, Shi R, Teboul JL. Prediction of fluid responsiveness. What's new? *Ann Intensive Care* 2022;12:46.
 
 </details>
 
@@ -658,7 +667,12 @@ Passive leg raising transfers ~300 mL of venous blood and, when its effect is me
 
 **A – T, B – F, C – F, D – F.**
 
-A – peripheral dP/dt max tracks LV contractility directionally but is affected by vascular tone and compliance. B – PPV is invalid with spontaneous breathing efforts and with low tidal volumes (false negatives; a "tidal volume challenge" can help). C – distal pulse amplification (reflected waves) makes radial systolic pressure higher than central; MAP is similar. D – a low dicrotic notch suggests vasodilatation/low SVR; a high notch suggests vasoconstriction. Reference: Saugel B, et al. Cardiac output estimation using pulse wave analysis – physiology, algorithms, and technologies: a narrative review. **Br J Anaesth** 2021;126:67–76; Michard F, et al. Applicability of pulse pressure variation: how many shades of grey? **Crit Care** 2015;19:144.
+- A (True) – Peripheral dP/dt max tracks LV contractility directionally but is affected by vascular tone, compliance and pulse amplification.
+- B (False) – With triggering and VT 6 mL/kg PPV is uninterpretable – irregular efforts can create false positives and low VT false negatives; use PLR or EEO.
+- C (False) – Distal pulse amplification by reflected waves makes radial systolic pressure **higher** than aortic; MAP is similar.
+- D (False) – A low dicrotic notch suggests vasodilatation and low SVR; a high notch suggests vasoconstriction.
+
+**Ref:** Saugel B, et al. Cardiac output estimation using pulse wave analysis. *Br J Anaesth* 2021;126:67–76. Michard F, et al. Applicability of pulse pressure variation. *Crit Care* 2015;19:144.
 
 </details>
 
@@ -673,7 +687,14 @@ A – peripheral dP/dt max tracks LV contractility directionally but is affected
 
 **A – T, B – T, C – T, D – T.**
 
-Measured: right atrial, RV, PA pressures, PAOP, thermodilution CO, SvO2 (sample or fibreoptic oximetry). Derived: CI, SV, SVR, PVR = 80 × (mPAP − PAOP)/CO in dyn·s·cm⁻⁵ (or (mPAP − PAOP)/CO in Wood units), DO2 = CO × CaO2 × 10 and VO2 = CO × (CaO2 − CvO2) × 10. Thermodilution accuracy falls with severe tricuspid regurgitation, intracardiac shunts and very low output. Reference: Rajaram SS, et al. Pulmonary artery catheters for adult patients in intensive care. **Cochrane Database Syst Rev** 2013;(2):CD003408; Cecconi M, et al. Consensus on circulatory shock and hemodynamic monitoring. Task force of the ESICM. **Intensive Care Med** 2014;40:1795–1815.
+- A (True) – Thermodilution CO is measured with the Stewart–Hamilton equation (CO inversely proportional to the area under the curve); accuracy falls with severe TR, shunts and very low output.
+- B (True) – PVR = 80 × (mPAP − PAOP) / CO in dyn·s·cm⁻⁵, or without the factor 80 in Wood units.
+- C (True) – SvO2 comes from blood sampled at the PA tip or from fibreoptic oximetry – true mixed venous blood.
+- D (True) – Reverse Fick: VO2 = CO × (CaO2 − CvO2) × 10; likewise DO2 = CO × CaO2 × 10.
+
+**EDIC trap:** Measured: pressures, PAOP, thermodilution CO, SvO2. Derived: CI, SV, SVR, PVR, DO2, VO2.
+
+**Ref:** Rajaram SS, et al. Pulmonary artery catheters for adult patients in intensive care. *Cochrane Database Syst Rev* 2013;(2):CD003408. Cecconi M, et al. ESICM consensus on circulatory shock and hemodynamic monitoring. *Intensive Care Med* 2014;40:1795–1815.
 
 </details>
 
@@ -688,7 +709,12 @@ Measured: right atrial, RV, PA pressures, PAOP, thermodilution CO, SvO2 (sample 
 
 **A – T, B – F, C – F, D – T.**
 
-A – only the descending aortic flow (~70 % of CO) is measured and corrected by a fixed algorithm; changes in flow distribution (e.g. aortic cross-clamp, pregnancy) introduce errors. B – a short FTc reflects low preload but also high afterload (vasoconstriction, mitral stenosis); it should be interpreted with stroke-volume response to a fluid challenge. C – the Doppler equation includes cos θ; angles > 20° underestimate velocity, which is why probe positioning matters. D – correct; it is best suited to theatre and sedated ICU patients. Reference: Singer M. Oesophageal Doppler. **Curr Opin Crit Care** 2009;15:244–248; Cecconi M, et al. ESICM consensus on circulatory shock and hemodynamic monitoring. **Intensive Care Med** 2014;40:1795–1815.
+- A (True) – Only descending aortic flow (~70 % of CO) is measured and scaled by a nomogram; altered flow distribution (cross-clamp, pregnancy) causes error.
+- B (False) – A short FTc reflects low preload but also high afterload (vasoconstriction, mitral stenosis); interpret it with the SV response to fluid.
+- C (False) – The Doppler equation contains cos θ; angles > 20° underestimate velocity, so probe position matters.
+- D (True) – It is poorly tolerated awake and suits theatre and sedated, intubated ICU patients.
+
+**Ref:** Singer M. Oesophageal Doppler. *Curr Opin Crit Care* 2009;15:244–248. Cecconi M, et al. ESICM consensus on circulatory shock and hemodynamic monitoring. *Intensive Care Med* 2014;40:1795–1815.
 
 </details>
 
@@ -704,7 +730,16 @@ A – only the descending aortic flow (~70 % of CO) is measured and corrected by
 
 **A.**
 
-Echocardiographic VTI (× LVOT area = SV) averaged over 5–10 cardiac cycles copes with the irregular rhythm and can be repeated after each intervention. PPV and SVV (B, E) require sinus rhythm and controlled ventilation; both conditions fail here. Severe TR causes recirculation of the cold indicator and makes PAC thermodilution unreliable (C). CVP (D) is not a measure of flow and is raised by TR. Reference: Cecconi M, et al. ESICM consensus on circulatory shock and hemodynamic monitoring. **Intensive Care Med** 2014;40:1795–1815; Vieillard-Baron A, et al. A decade of progress in critical care echocardiography: a narrative review. **Intensive Care Med** 2019;45:770–788.
+**Why A:** Echocardiographic LVOT VTI (× LVOT area = SV), **averaged over 5–10 cardiac cycles**, copes with the irregular rhythm and can be repeated after each fluid bolus or dobutamine change. Because LVOT area is constant, changes in VTI alone track changes in stroke volume.
+
+**Why not the others:**
+
+- B – PPV requires sinus rhythm and controlled ventilation; both conditions fail here.
+- C – Severe TR recirculates the cold indicator and makes PAC thermodilution unreliable.
+- D – CVP is not a measure of flow and is raised by TR.
+- E – SVV has the same limitations as PPV, and uncalibrated pulse contour is unreliable with high-dose vasopressors.
+
+**Ref:** Cecconi M, et al. ESICM consensus on circulatory shock and hemodynamic monitoring. *Intensive Care Med* 2014;40:1795–1815. Vieillard-Baron A, et al. A decade of progress in critical care echocardiography. *Intensive Care Med* 2019;45:770–788.
 
 </details>
 
@@ -719,7 +754,12 @@ Echocardiographic VTI (× LVOT area = SV) averaged over 5–10 cardiac cycles co
 
 **A – T, B – T, C – T, D – T.**
 
-A – resonance (ringing) exaggerates systolic peaks; MAP is relatively preserved. B – natural frequency rises with short, stiff, wide-bore tubing and falls with compliance, length, air bubbles and extra stopcocks; it should be well above the frequency content of the arterial wave. C – 10 cmH2O ≈ 7.4 mmHg; levelling (to the phlebostatic axis/right atrium) is distinct from zeroing (opening to atmosphere). D – 1.5–2 oscillations indicate optimal damping; none suggests overdamping, many suggests underdamping. Reference: Saugel B, et al. How to measure blood pressure using an arterial catheter: a systematic 5-step approach. **Crit Care** 2020;24:172.
+- A (True) – Resonance (ringing) exaggerates systolic peaks and lowers diastolic pressure; MAP is relatively preserved.
+- B (True) – Natural frequency falls with long, compliant tubing, air bubbles and extra stopcocks, and rises with short, stiff, wide-bore tubing.
+- C (True) – 10 cmH2O ≈ 7.4 mmHg; levelling to the phlebostatic axis is distinct from zeroing to atmosphere.
+- D (True) – 1.5–2 oscillations indicate optimal damping; none suggests overdamping, many suggest underdamping.
+
+**Ref:** Saugel B, et al. How to measure blood pressure using an arterial catheter: a systematic 5-step approach. *Crit Care* 2020;24:172.
 
 </details>
 
@@ -734,7 +774,14 @@ A – resonance (ringing) exaggerates systolic peaks; MAP is relatively preserve
 
 **A – F, B – F, C – T, D – F.**
 
-PAOP reflects left atrial pressure (and LVEDP if the mitral valve is normal). Pre-capillary disorders – pulmonary arterial hypertension, PE – raise PA pressure with a normal PAOP (≤ 15 mmHg), producing a high transpulmonary gradient. Acute MR produces large v waves and a raised PAOP. Diuresis lowers PAOP. Note also that high PEEP and a catheter tip outside West zone 3 can falsely elevate PAOP. Reference: Humbert M, et al. 2022 ESC/ERS guidelines for the diagnosis and treatment of pulmonary hypertension. **Eur Heart J** 2022;43:3618–3731; Magder S. Right atrial pressure in the critically ill: how to measure, what is the value, what are the limitations? **Chest** 2017;151:908–916.
+- A (False) – Pulmonary arterial hypertension is pre-capillary: high mPAP and PVR with PAOP ≤ 15 mmHg.
+- B (False) – PE is a pre-capillary obstruction; PAOP is normal or low because LV filling falls.
+- C (True) – Acute severe MR produces large v waves and a raised PAOP.
+- D (False) – Diuresis lowers PAOP.
+
+**EDIC trap:** High PEEP or a catheter tip outside West zone 3 can falsely elevate PAOP.
+
+**Ref:** Humbert M, et al. 2022 ESC/ERS pulmonary hypertension guidelines. *Eur Heart J* 2022;43:3618–3731. Magder S. *Chest* 2017;151:908–916.
 
 </details>
 
@@ -752,7 +799,12 @@ PAOP reflects left atrial pressure (and LVEDP if the mitral valve is normal). Pr
 
 **A – F, B – T, C – F, D – F.**
 
-A – much septic hyperlactataemia is due to β2-adrenergic stimulation of aerobic glycolysis and reduced hepatic clearance, not only hypoxia; lactate is therefore a marker of severity rather than proof of anaerobiosis. B – metformin inhibits mitochondrial respiration and hepatic gluconeogenesis from lactate; accumulation in AKI causes metformin-associated lactic acidosis (MALA), which may need haemodialysis (EXTRIP). C – the liver clears ~60–70 % (Cori cycle), the kidneys ~20–30 %. D – analysers use L-lactate oxidase; D-lactic acidosis presents with a raised anion gap and encephalopathy but a normal measured lactate. Reference: Garcia-Alvarez M, Marik P, Bellomo R. Sepsis-associated hyperlactatemia. **Crit Care** 2014;18:503; Calello DP, et al. Extracorporeal treatment for metformin poisoning: EXTRIP recommendations. **Crit Care Med** 2015;43:1716–1730; Kraut JA, Madias NE. Lactic acidosis. **N Engl J Med** 2014;371:2309–2319.
+- A (False) – Much septic hyperlactataemia comes from β2-stimulated aerobic glycolysis and reduced hepatic clearance; lactate marks severity, not proof of anaerobiosis.
+- B (True) – Metformin inhibits mitochondrial respiration and hepatic gluconeogenesis from lactate; accumulation in AKI causes MALA, and EXTRIP recommends dialysis in severe cases (e.g. lactate > 20 mmol/L, pH ≤ 7.0).
+- C (False) – The liver clears ~60–70 % (Cori cycle); the kidneys ~20–30 %.
+- D (False) – Analysers use L-lactate oxidase; D-lactic acidosis causes a raised anion gap and encephalopathy with a normal measured lactate.
+
+**Ref:** Garcia-Alvarez M, Marik P, Bellomo R. Sepsis-associated hyperlactatemia. *Crit Care* 2014;18:503. Calello DP, et al. EXTRIP metformin. *Crit Care Med* 2015;43:1716–1730. Kraut JA, Madias NE. Lactic acidosis. *N Engl J Med* 2014;371:2309–2319.
 
 </details>
 
@@ -770,7 +822,14 @@ A – much septic hyperlactataemia is due to β2-adrenergic stimulation of aerob
 
 **A – T, B – T, C – T, D – T.**
 
-A – urine in the colon: chloride is absorbed in exchange for bicarbonate. B – impaired distal H⁺ secretion (urine pH > 5.5, positive urinary anion gap). C – toluene is metabolised to hippuric acid; hippurate is rapidly excreted in urine with Na⁺/K⁺, so the anion gap is often normal and hypokalaemia is prominent. D – early CKD reduces ammoniagenesis, producing a hyperchloraemic acidosis; the gap rises only when GFR falls further and phosphate/sulphate accumulate. Reference: Kraut JA, Madias NE. Metabolic acidosis: pathophysiology, diagnosis and management. **Nat Rev Nephrol** 2010;6:274–285; Berend K, de Vries AP, Gans RO. Physiological approach to assessment of acid–base disturbances. **N Engl J Med** 2014;371:1434–1445.
+- A (True) – with urine in the colon, Cl⁻ is absorbed in exchange for HCO₃⁻ (and NH₄⁺ is reabsorbed), causing a hyperchloraemic acidosis.
+- B (True) – impaired distal H⁺ secretion gives a urine pH > 5.5 and a positive urinary anion gap, often with hypokalaemia.
+- C (True) – toluene is metabolised to hippuric acid; hippurate is rapidly excreted in urine with Na⁺/K⁺, so the AG is often normal and hypokalaemia is prominent.
+- D (True) – moderate CKD reduces ammoniagenesis, causing a hyperchloraemic acidosis. The gap rises only when GFR falls further and phosphate and sulphate accumulate.
+
+**EDIC trap:** CKD moves from a normal-AG to a high-AG acidosis as GFR declines.
+
+**Ref:** Kraut JA, Madias NE, Metabolic acidosis: pathophysiology, diagnosis and management, Nat Rev Nephrol 2010;6:274–285; Berend K, de Vries AP, Gans RO, N Engl J Med 2014;371:1434–1445.
 
 </details>
 
@@ -785,7 +844,14 @@ A – urine in the colon: chloride is absorbed in exchange for bicarbonate. B �
 
 **A – T, B – F, C – F, D – F.**
 
-A – as blood is warmed to 37 °C in the analyser, gas solubility falls and partial pressures rise, so uncorrected PO2 and PCO2 overestimate in vivo values in hypothermia. B – alpha-stat uses values measured at 37 °C (uncorrected), maintaining the ionisation state of histidine imidazole groups. C – pH-stat aims for a temperature-corrected PaCO2 of ~5.3 kPa, i.e. relative hypercapnia, achieved by adding CO2 or reducing ventilation. D – metabolising leucocytes (and platelets) consume oxygen ("leucocyte larceny") – PaO2 is falsely low. Reference: Ashwood ER, Kost G, Kenny M. Temperature correction of blood-gas and pH measurements. **Clin Chem** 1983;29:1877–1885; Fox MJ, Brody JS, Weintraub LR. Leukocyte larceny: a cause of spurious hypoxemia. **Am J Med** 1979;67:742–746.
+- A (True) – when blood is warmed to 37 °C in the analyser, gas solubility falls and partial pressures rise, so uncorrected PO₂ and PCO₂ overestimate in vivo values in hypothermia.
+- B (False) – alpha-stat uses values measured at 37 °C (**uncorrected**), preserving the ionisation state of histidine imidazole groups.
+- C (False) – pH-stat targets a temperature-corrected PaCO₂ of ~5.3 kPa, i.e. relative hypercapnia, achieved by adding CO₂ or **reducing** ventilation.
+- D (False) – metabolising leucocytes (and platelets) consume O₂ in the syringe ("leucocyte larceny"), so PaO₂ is falsely **low**.
+
+**EDIC trap:** alpha-stat = uncorrected (37 °C) values; pH-stat = temperature-corrected values.
+
+**Ref:** Ashwood ER, Kost G, Kenny M, Clin Chem 1983;29:1877–1885; Fox MJ, Brody JS, Weintraub LR, Am J Med 1979;67:742–746.
 
 </details>
 
@@ -800,7 +866,12 @@ A – as blood is warmed to 37 °C in the analyser, gas solubility falls and par
 
 **A – T, B – T, C – T, D – F.**
 
-A – glutathione depletion leads to 5-oxoproline accumulation; flucloxacillin inhibits 5-oxoprolinase. B – propylene glycol is metabolised to lactate (L and D). C – albumin is the main unmeasured anion; corrected AG ≈ AG + 0.25 × (40 − albumin in g/L). D – saline lowers the SID through hyperchloraemia, a normal anion gap acidosis. Reference: Berend K, et al. **N Engl J Med** 2014;371:1434–1445; Emmett M. Acetaminophen toxicity and 5-oxoproline (pyroglutamic acid): a tale of two cycles. **Clin J Am Soc Nephrol** 2014;9:191–200.
+- A (True) – glutathione depletion leads to 5-oxoproline accumulation, and flucloxacillin inhibits 5-oxoprolinase; malnutrition, sepsis and CKD increase the risk.
+- B (True) – propylene glycol is metabolised to L- and D-lactate, causing a raised anion gap together with a raised osmolar gap.
+- C (True) – albumin is the main unmeasured anion; corrected AG ≈ AG + 0.25 × (40 − albumin g/L).
+- D (False) – saline lowers the SID through hyperchloraemia, causing a **normal** anion gap acidosis.
+
+**Ref:** Berend K et al., N Engl J Med 2014;371:1434–1445; Emmett M, Acetaminophen toxicity and 5-oxoproline (pyroglutamic acid): a tale of two cycles, Clin J Am Soc Nephrol 2014;9:191–200.
 
 </details>
 
@@ -818,7 +889,14 @@ A – glutathione depletion leads to 5-oxoproline accumulation; flucloxacillin i
 
 **A – T, B – T, C – F, D – F.**
 
-A – SIDa = (Na⁺ + K⁺) − (Cl⁻ + lactate) = 142 − 111 = 31 mEq/L (normal ~40–42, ignoring Ca²⁺/Mg²⁺): a hyperchloraemic (low SID) acidosis. B – albumin is the main component of ATOT; a low ATOT is alkalinising, which is why her pH is normal. C – two opposing metabolic disorders cancel out; Stewart or albumin-corrected anion gap analysis reveals them. D – acid–base values are not a target; treat the cause (chloride load, underlying illness). Reference: Kellum JA. Determinants of blood pH in health and disease. **Crit Care** 2000;4:6–14; Fencl V, et al. Diagnosis of metabolic acid–base disturbances in critically ill patients. **Am J Respir Crit Care Med** 2000;162:2246–2251.
+- A (True) – SIDa = (Na⁺ + K⁺) − (Cl⁻ + lactate) = 142 − 111 = 31 mEq/L (normal ~40–42, ignoring Ca²⁺/Mg²⁺): a hyperchloraemic (low-SID) acidosis.
+- B (True) – albumin is the main component of ATOT; a low ATOT is alkalinising (~+6–7 mmol/L BE at 18 g/L), which is why her pH is normal.
+- C (False) – two opposing metabolic disorders cancel out; Stewart or albumin-corrected anion gap analysis reveals them.
+- D (False) – acid–base values are not a target for albumin; treat the cause (chloride load, underlying illness).
+
+**EDIC trap:** a normal pH and HCO₃⁻ ≠ normal acid–base status in hypoalbuminaemia (Fencl: ~1/6 of ICU patients).
+
+**Ref:** Kellum JA, Determinants of blood pH in health and disease, Crit Care 2000;4:6–14; Fencl V et al., Am J Respir Crit Care Med 2000;162:2246–2251.
 
 </details>
 
@@ -833,7 +911,12 @@ A – SIDa = (Na⁺ + K⁺) − (Cl⁻ + lactate) = 142 − 111 = 31 mEq/L (norm
 
 **A – F, B – T, C – F, D – F.**
 
-The three independent variables are PaCO2, SID and ATOT. Lactate is a strong (fully dissociated) anion and therefore a component of the SID – it changes the independent variables rather than being determined by them. HCO3⁻, H⁺, OH⁻, A⁻ and CO3²⁻ are dependent variables determined by the independent ones. Reference: Stewart PA. Modern quantitative acid–base chemistry. **Can J Physiol Pharmacol** 1983;61:1444–1461; Kellum JA. **Crit Care** 2000;4:6–14.
+- A (False) – bicarbonate is a **dependent** variable, determined by PaCO₂, SID and ATOT.
+- B (True) – ATOT (mainly albumin and phosphate) is one of the three independent variables, with PaCO₂ and SID.
+- C (False) – lactate is a strong (fully dissociated) anion and therefore a component of the SID: it changes the independent variables rather than being determined by them.
+- D (False) – OH⁻, like H⁺, HCO₃⁻, A⁻ and CO₃²⁻, is a dependent variable.
+
+**Ref:** Stewart PA, Modern quantitative acid–base chemistry, Can J Physiol Pharmacol 1983;61:1444–1461; Kellum JA, Crit Care 2000;4:6–14.
 
 </details>
 
