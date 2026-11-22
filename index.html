@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EDIC Part I – Daily</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Sans+Condensed:wght@600;700&display=swap" rel="stylesheet">
+<style>
+/* VOICE: clinical, calm, exact – a bedside tool used daily on a phone.
+   IDEA: an ICU observation chart – dated rows, ruled grid, scores written in the margin.
+   PICTURE: the day's lesson card with a big score dial; questions as chart rows you tick.
+   COLOUR and TYPE: monitor teal ground, white chart paper, alarm-red accent; IBM Plex Sans + Condensed numerals.
+   LAYOUT: one column ≤ 760px; sticky top bar; today first, weeks below; lesson = Read | Quiz tabs. */
+:root{color-scheme:light dark;
+--bg:light-dark(#eef3f2,#0d1716);--paper:light-dark(#fff,#13211f);--ink:light-dark(#10201e,#e3eeec);
+--mute:light-dark(#5b6f6c,#93a8a4);--rule:light-dark(#d6e2e0,#24403c);--teal:light-dark(#0b5f58,#3fb3a6);
+--tealbg:light-dark(#0b5f58,#0a2f2b);--red:light-dark(#c8352b,#ff7a6e);--ok:light-dark(#1d7a46,#5fd08f);
+--okbg:light-dark(#e3f4ea,#12301f);--badbg:light-dark(#fbe7e5,#3a1714);--half:light-dark(#9a6a00,#f0c35a);--halfbg:light-dark(#fff4d6,#33280c)}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 "IBM Plex Sans",system-ui,sans-serif;overflow-x:clip}
+.top{position:sticky;top:0;z-index:5;background:var(--tealbg);color:#fff;padding:10px max(4vw,14px);display:flex;gap:12px;align-items:center}
+.top b{font:700 18px/1 "IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;letter-spacing:.2px}
+.top nav{margin-left:auto;display:flex;gap:6px}
+.top button{background:transparent;color:#fff;border:1px solid #ffffff55;border-radius:8px;padding:8px 12px;font:500 14px "IBM Plex Sans",system-ui,sans-serif;min-height:40px;cursor:pointer}
+.top button[aria-current=true]{background:#ffffff22;border-color:#fff}
+main{max-width:760px;margin:0 auto;padding:16px max(4vw,14px) 80px}
+h1{font:700 clamp(26px,5vw,36px)/1.1 "IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;margin:8px 0 4px;text-wrap:balance}
+h2{font:600 20px/1.2 "IBM Plex Sans",system-ui,sans-serif;margin:24px 0 8px}
+.sub{color:var(--mute);font-size:14px}
+.card{background:var(--paper);border:1px solid var(--rule);border-radius:12px;padding:16px;margin:12px 0}
+.today{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:16px;align-items:center;border-left:6px solid var(--teal)}
+.dial{width:96px;height:96px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;background:var(--teal);color:#fff;border:0;border-radius:10px;padding:10px 16px;font:600 15px "IBM Plex Sans",system-ui,sans-serif;min-height:44px;cursor:pointer;text-decoration:none}
+.btn.ghost{background:transparent;color:var(--teal);border:1.5px solid var(--teal)}
+.btn:disabled{opacity:.5}
+.week{margin-top:18px}.week h3{font:600 15px "IBM Plex Sans",system-ui,sans-serif;margin:0 0 6px;color:var(--mute)}
+.row{display:grid;grid-template-columns:5.2em minmax(0,1fr) 4.2em;gap:10px;align-items:center;padding:10px 4px;border-bottom:1px solid var(--rule);cursor:pointer;color:inherit;text-decoration:none}
+.row:hover{background:color-mix(in srgb,var(--teal) 7%,transparent)}
+.row .d{font:600 13px "IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;color:var(--mute)}
+.row .s{text-align:right;font:700 15px "IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;font-variant-numeric:tabular-nums}
+.pill{display:inline-block;border-radius:99px;padding:1px 8px;font-size:12px;font-weight:600}
+.tabs{display:flex;gap:6px;margin:12px 0;border-bottom:2px solid var(--rule)}
+.tabs button{background:none;border:0;padding:10px 14px;font:600 15px "IBM Plex Sans",system-ui,sans-serif;color:var(--mute);border-bottom:3px solid transparent;margin-bottom:-2px;cursor:pointer;min-height:44px}
+.tabs button[aria-selected=true]{color:var(--teal);border-color:var(--teal)}
+.md table{border-collapse:collapse;width:100%;font-size:14px;display:block;overflow-x:auto}
+.md th,.md td{border:1px solid var(--rule);padding:6px 8px;text-align:left;vertical-align:top}
+.md blockquote{margin:12px 0;padding:8px 12px;border-left:4px solid var(--half);background:var(--halfbg);border-radius:6px}
+.md a{color:var(--teal)}
+.q{background:var(--paper);border:1px solid var(--rule);border-radius:12px;padding:14px;margin:14px 0}
+.q .h{font:700 13px "IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;color:var(--mute);text-transform:none;margin-bottom:4px}
+.opt{display:flex;gap:10px;align-items:flex-start;padding:10px;border:1.5px solid var(--rule);border-radius:10px;margin:6px 0;cursor:pointer}
+.opt input{width:20px;height:20px;margin-top:2px;accent-color:var(--teal);flex:none}
+.opt.sel{border-color:var(--teal)}
+.kst{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px;align-items:center;padding:8px 0;border-bottom:1px dashed var(--rule)}
+.tf{display:flex;gap:4px}
+.tf button{width:44px;height:40px;border-radius:8px;border:1.5px solid var(--rule);background:transparent;color:var(--ink);font:700 15px "IBM Plex Sans",system-ui,sans-serif;cursor:pointer}
+.tf button[aria-pressed=true]{background:var(--teal);color:#fff;border-color:var(--teal)}
+.good{border-color:var(--ok)!important;background:var(--okbg)}.bad{border-color:var(--red)!important;background:var(--badbg)}
+.q.done-1{border-left:6px solid var(--ok)}.q.done-0{border-left:6px solid var(--red)}.q.done-h{border-left:6px solid var(--half)}
+.expl{margin-top:10px;padding:10px 12px;border-radius:8px;background:color-mix(in srgb,var(--teal) 8%,transparent);font-size:15px}
+.mark{font:700 14px "IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;margin-left:6px}
+textarea{width:100%;min-height:120px;font:16px/1.45 "IBM Plex Sans",system-ui,sans-serif;padding:10px;border-radius:10px;border:1.5px solid var(--rule);background:transparent;color:inherit}
+.bar{position:sticky;bottom:0;background:var(--paper);border-top:1px solid var(--rule);padding:10px max(4vw,14px);display:flex;gap:10px;align-items:center;justify-content:space-between;margin:0 calc(-1*max(4vw,14px))}
+.big{font:700 34px/1 "IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;font-variant-numeric:tabular-nums}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+.stat{background:var(--paper);border:1px solid var(--rule);border-radius:12px;padding:12px}
+.meter{height:8px;border-radius:9px;background:var(--rule);overflow:hidden;margin-top:6px}.meter i{display:block;height:100%;background:var(--teal)}
+.note{font-size:13px;color:var(--mute)}
+:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+@media(max-width:600px){.today{grid-template-columns:1fr}.dial{justify-self:start}.top b span{display:none}}
+@media(prefers-reduced-motion:no-preference){.q{transition:border-color .2s}}
+</style>
+</head>
+<body>
+<header class="top"><b style="white-space:nowrap">EDIC I <span>· daily</span></b>
+<nav><button id="nHome" aria-current="true">Plan</button><button id="nMock">Mock</button><button id="nMis">Mistakes</button><button id="nProg">Scores</button></nav></header>
+<main id="app"><p class="sub">Loading questions…</p></main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script>
+{
+const app=document.getElementById('app');
+let BOOK={},bAns={},bDone=false,DATA=[],BY={},QK={},db=null,uid=null,sample=null,ATT={},SRS={},TIMER=null;
+const DOMS=[["Cardiovascular",20],["Infection & sepsis",20],["Respiratory",15],["Neurology",15],["Renal & metabolic",10],["GI & liver",10],["Other",10]];
+const CTX=/\b(question|Q)\s?\d+\b|same patient|previous (question|patient)|above patient/i;
+const addDays=(d,n)=>{const t=new Date(d+'T12:00');t.setDate(t.getDate()+n);return t.toISOString().slice(0,10)};
+const shuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmi=s=>esc(s).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/(^|[^*])\*([^*\n]+)\*/g,'$1<i>$2</i>').replace(/`([^`]+)`/g,'<code>$1</code>').replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,'<a href="$2">$1</a>');
+const fmd=s=>(s||'').split(/\n{2,}/).map(b=>/^\s*[-*] /.test(b)?'<ul>'+b.split(/\n/).filter(l=>l.trim()).map(l=>'<li>'+fmi(l.replace(/^\s*[-*] /,''))+'</li>').join('')+'</ul>':/^#{1,4} /.test(b)?'<h3>'+fmi(b.replace(/^#+ /,''))+'</h3>':'<p>'+fmi(b).replace(/\n/g,'<br>')+'</p>').join('');
+const md=s=>{try{return marked.parse(s||'')}catch(e){return fmd(s)}};
+const mdi=s=>{try{return marked.parseInline(s||'')}catch(e){return fmi(s)}};
+const today=new Date().toISOString().slice(0,10);
+const fmtD=d=>d?new Date(d+'T12:00').toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short'}):'';
+const pct=(s,m)=>m?Math.round(100*s/m):0;
+const linkFix=html=>html.replace(/href="(?:\.\.\/)*(?:lessons\/)?(?:(W\d\d)\/(D\d|review)|monthly\/(\d{4}-\d\d))\.md"/g,(m,w,f,mo)=>`href="#${mo?'M-'+mo:w+'-'+f}"`);
+
+function score(q,ans){
+  if(q.type==='A')return ans===q.answer?1:0;
+  if(!Array.isArray(ans))return 0;
+  const c=q.answer.filter((v,i)=>ans[i]===v).length;
+  return c===4?1:c===3?.5:0;
+}
+function label(x){return x.kind==='sim'?'Mock exam':x.kind==='mis'?'Mistakes':x.id.startsWith('extra')?'Bonus':x.kind==='monthly'?'Monthly':x.kind==='review'?'Review':x.kind==='mock'?'Mock':x.id.split('-')[1]}
+
+function home(){
+  setNav('home');
+  const next=DATA.find(x=>x.date>=today&&x.questions.length)||DATA.find(x=>!ATT[x.id])||DATA[0];
+  const weeks={};DATA.filter(x=>!x.id.startsWith('bstyle')).forEach(x=>{const w=x.kind==='monthly'?'Monthly reviews':x.id.startsWith('extra')?'Bonus workshops':'Week '+x.id.slice(1,3);(weeks[w]=weeks[w]||[]).push(x)});
+  const a=ATT[next.id];
+  app.innerHTML=`<h1>Next up</h1>
+  <div class="card today"><div><div class="sub">${fmtD(next.date)} · ${label(next)}</div>
+  <h2 style="margin:4px 0 10px">${esc(next.title.replace(/^W\d+ · \w+ – /,''))}</h2>
+  <a class="btn" href="#${next.id}">${next.body?'Read & answer':'Start'}</a></div>${dial(a?a.pct:null)}</div>
+  <p class="note">Scores are saved to your account and Claude can read them to update PROGRESS.md in your GitHub repo.</p>
+  ${Object.entries(weeks).map(([w,xs])=>`<div class="week"><h3>${w}</h3>${xs.map(rowH).join('')}</div>`).join('')}`;
+}
+function rowH(x){const a=ATT[x.id];return `<a class="row" href="#${x.id}"><span class="d">${fmtD(x.date)||'—'}</span><span>${esc(x.title.replace(/^W\d+ · /,''))}</span><span class="s" style="color:${a?(a.pct>=70?'var(--ok)':a.pct>=60?'var(--half)':'var(--red)'):'var(--mute)'}">${a?a.pct+'%':x.questions.length+'Q'}</span></a>`}
+function dial(p){const r=40,c=2*Math.PI*r,v=p==null?0:p/100;
+  return `<svg class="dial" viewBox="0 0 96 96" role="img" aria-label="${p==null?'not attempted':p+' percent'}"><circle cx="48" cy="48" r="${r}" fill="none" stroke="var(--rule)" stroke-width="9"/><circle cx="48" cy="48" r="${r}" fill="none" stroke="${p==null?'var(--rule)':p>=70?'var(--ok)':p>=60?'var(--half)':'var(--red)'}" stroke-width="9" stroke-linecap="round" stroke-dasharray="${c*v} ${c}" transform="rotate(-90 48 48)"/><text x="48" y="54" text-anchor="middle" font-family="IBM Plex Sans Condensed" font-weight="700" font-size="20" fill="currentColor">${p==null?'–':p+'%'}</text></svg>`}
+
+let cur=null,answers={},submitted=false,tab='quiz';
+function lesson(id){
+  const x=BY[id];if(!x){home();return}
+  setNav('');cur=x;answers={};submitted=false;tab=x.body?'read':'quiz';
+  const prev=ATT[id];
+  if(prev&&prev.answers){answers=JSON.parse(JSON.stringify(prev.answers))}
+  render();
+}
+function render(){
+  const x=cur;
+  app.innerHTML=`<p class="sub"><a href="#" style="color:var(--teal)">← Plan</a> · ${fmtD(x.date)} · ${label(x)}</p>
+  <h1>${esc(x.title)}</h1>
+  ${x.body?`<div class="tabs" role="tablist"><button role="tab" id="tR" aria-selected="${tab==='read'}">Read</button><button role="tab" id="tQ" aria-selected="${tab==='quiz'}">Questions (${x.questions.length}${x.open.length?' + '+x.open.length:''})</button>${BY['bstyle-'+x.id]?`<button role="tab" id="tS">Case-style (${BY['bstyle-'+x.id].questions.length})</button>`:''}${(BOOK[x.id]||[]).length?`<button role="tab" id="tB">📕 Benington (${BOOK[x.id].length})</button>`:''}</div>`:''}
+  <div id="pane"></div>`;
+  if(x.body){document.getElementById('tR').onclick=()=>{tab='read';render()};document.getElementById('tQ').onclick=()=>{tab='quiz';render()}
+    const tb=document.getElementById('tB');if(tb)tb.onclick=()=>{location.hash='book-'+x.id};const ts=document.getElementById('tS');if(ts)ts.onclick=()=>{location.hash='bstyle-'+x.id}}
+  const pane=document.getElementById('pane');
+  if(tab==='read'){pane.innerHTML=`<div class="md">${linkFix(md(x.body))}</div><p><button class="btn" id="go">Go to questions →</button></p>`;
+    document.getElementById('go').onclick=()=>{tab='quiz';render();scrollTo(0,0)};return}
+  const summ=submitted?(()=>{const r=x.questions.map(q=>score(q,answers[q.n]));const c=r.filter(v=>v===1).length,h=r.filter(v=>v===.5).length,w=r.length-c-h;
+    return `<div class="card" style="margin-bottom:14px"><b>Result: ${c} ✓ · ${h} ½ · ${w} ✗</b><div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:8px">${x.questions.map((q,i)=>`<a href="javascript:void(0)" data-jump="q${q.n}" style="min-width:40px;text-align:center;padding:6px 8px;border-radius:8px;text-decoration:none;font-weight:700;color:#fff;background:${r[i]===1?'var(--ok)':r[i]===.5?'var(--half)':'var(--red)'}">${q.n}</a>`).join('')}</div><p class="note" style="margin:6px 0 0">Tap a number to jump to that question.</p></div>`})():'';
+  pane.innerHTML=summ+x.questions.map(qH).join('')+(x.open.length?'<h2>Open-ended questions</h2>'+x.open.map(oH).join(''):'')+
+   `<div class="bar"><span id="cnt" class="sub"></span>${x.kind==='sim'&&!submitted?'<span id="timer" class="big" aria-live="off"></span>':''}<span id="res" class="big"></span><button class="btn" id="sub">${submitted?'Retry':'Submit & score'}</button></div>`;
+  bind();count();
+  app.querySelectorAll('[data-jump]').forEach(a=>a.onclick=()=>{const el=document.getElementById(a.dataset.jump);if(el)scrollTo({top:el.getBoundingClientRect().top+scrollY-80,behavior:'smooth'})});
+  if(submitted)showRes();
+  if(x.kind==='sim'&&!submitted)tick();
+}
+function qH(q,i){
+  const a=answers[q.n];
+  const res=submitted?score(q,a):null;
+  const cls=submitted?(res===1?'done-1':res===.5?'done-h':'done-0'):'';
+  let body='';
+  if(q.type==='A'){body=q.options.map((o,j)=>{const L='ABCDE'[j],sel=a===L;
+    const st=submitted?(L===q.answer?'good':sel?'bad':''):'';
+    const badge=submitted?(L===q.answer?`<span class="mark" style="color:var(--ok)"> ✓ correct answer${sel?' – your choice':''}</span>`:sel?`<span class="mark" style="color:var(--red)"> ✗ your choice</span>`:''):'';
+    return `<label class="opt ${sel?'sel':''} ${st}"><input type="radio" name="q${q.n}" value="${L}" ${sel?'checked':''} ${submitted?'disabled':''}><span><b>${L}.</b> ${mdi(o)}${badge}</span></label>`}).join('')}
+  else{body=q.options.map((o,j)=>{const v=a?a[j]:null,L='ABCD'[j];
+    const st=submitted?(v===q.answer[j]?'good':'bad'):'';
+    return `<div class="kst ${st}" style="${st?'padding-inline:8px;border-radius:8px':''}"><span><b>${L}.</b> ${mdi(o)}${submitted?`<br><span class="mark" style="color:${v===q.answer[j]?'var(--ok)':'var(--red)'}">${v===q.answer[j]?'✓':'✗'} you: ${v?(v==='T'?'True':'False'):'—'} · correct: ${q.answer[j]==='T'?'True':'False'}</span>`:''}</span><span class="tf">${['T','F'].map(t=>`<button data-q="${q.n}" data-j="${j}" data-v="${t}" aria-pressed="${v===t}" ${submitted?'disabled':''}>${t}</button>`).join('')}</span></div>`}).join('')}
+  return `<div class="q ${cls}" id="q${q.n}"><div class="h">Q${q.n}${submitted?` · <span style="color:${res===1?'var(--ok)':res===.5?'var(--half)':'var(--red)'};font-weight:700">${res===1?'✓ correct (1 pt)':res===.5?'½ – 3 of 4 right (0.5 pt)':'✗ wrong (0 pt)'}</span>`:''}</div>
+  <div>${md(q.stem)}</div>${body}${submitted?`<div class="expl">${linkFix(md((q.type==='A'?'**'+q.answer+'.** ':'**'+q.answer.map((v,j)=>'ABCD'[j]+' – '+v).join(', ')+'.** ')+q.expl))}</div>`:''}</div>`;
+}
+function oH(o){const a=(answers['O'+o.n]||{});
+  return `<div class="q" id="o${o.n}"><div class="h">Open question ${o.n}</div><div>${md(o.q)}</div>
+  <textarea data-o="${o.n}" placeholder="Write your answer…">${esc(a.text||'')}</textarea>
+  <p style="display:flex;gap:8px;flex-wrap:wrap"><button class="btn ghost" data-grade="${o.n}" ${sample?'':'hidden'}>Mark with Claude</button><button class="btn ghost" data-model="${o.n}">Show model answer</button></p>
+  <div id="og${o.n}">${a.fb?fbH(a):''}</div><div id="om${o.n}" hidden class="expl">${linkFix(md(o.model))}</div></div>`}
+function fbH(a){return `<div class="expl"><b>Claude's mark: ${a.mark}/10.</b> ${mdi(a.fb)}${a.missing&&a.missing.length?'<br><b>Missing:</b> '+a.missing.map(mdi).join('; '):''}</div>`}
+function bind(){
+  app.querySelectorAll('input[type=radio]').forEach(r=>r.onchange=()=>{answers[+r.name.slice(1)]=r.value;persistMock();r.closest('.q').querySelectorAll('.opt').forEach(l=>l.classList.toggle('sel',l.contains(r)));count()});
+  app.querySelectorAll('.tf button').forEach(b=>b.onclick=()=>{const n=+b.dataset.q,j=+b.dataset.j;const arr=answers[n]||[null,null,null,null];arr[j]=b.dataset.v;answers[n]=arr;persistMock();
+    b.parentNode.querySelectorAll('button').forEach(o=>o.setAttribute('aria-pressed',o===b));count()});
+  app.querySelectorAll('textarea').forEach(t=>t.oninput=()=>{const k='O'+t.dataset.o;answers[k]=Object.assign(answers[k]||{},{text:t.value})});
+  app.querySelectorAll('[data-model]').forEach(b=>b.onclick=()=>{const e=document.getElementById('om'+b.dataset.model);e.hidden=!e.hidden});
+  app.querySelectorAll('[data-grade]').forEach(b=>b.onclick=()=>gradeOpen(+b.dataset.grade,b));
+  document.getElementById('sub').onclick=()=>{if(submitted){answers={};submitted=false;render();scrollTo(0,0);return}submit()};
+}
+function count(){const x=cur,done=x.questions.filter(q=>{const a=answers[q.n];return q.type==='A'?!!a:Array.isArray(a)&&a.every(v=>v)}).length;
+  const c=document.getElementById('cnt');if(c)c.textContent=`${done}/${x.questions.length} answered`}
+function showRes(){const x=cur,s=x.questions.reduce((t,q)=>t+score(q,answers[q.n]),0);
+  document.getElementById('res').textContent=`${s}/${x.questions.length} · ${pct(s,x.questions.length)}%`;return s}
+async function submit(){
+  if(TIMER){clearInterval(TIMER);TIMER=null}
+  submitted=true;render();const x=cur,s=showRes(),max=x.questions.length;
+  srsUpdate(x);
+  if(x.kind==='mis'){return}
+  if(x.kind==='sim')try{localStorage.removeItem('edic-mock')}catch(e){}
+  const rec={id:x.id,title:x.title,kind:x.kind,score:s,max,pct:pct(s,max),date:new Date().toISOString(),answers,
+    byType:{A:x.questions.filter(q=>q.type==='A').reduce((t,q)=>t+score(q,answers[q.n]),0),K:x.questions.filter(q=>q.type==='K').reduce((t,q)=>t+score(q,answers[q.n]),0)},
+    wrong:x.questions.filter(q=>score(q,answers[q.n])<1).map(q=>q.n),
+    qres:Object.fromEntries(x.questions.map(q=>[q.key,score(q,answers[q.n])]))};
+  if(x.kind==='sim')rec.keys=x.questions.map(q=>q.key);
+  const prev=ATT[x.id];rec.attempts=(prev&&prev.attempts||0)+1;rec.best=Math.max(rec.pct,prev&&prev.best||0);
+  ATT[x.id]=rec;save(rec);
+}
+async function save(rec){
+  try{localStorage.setItem('edic-att',JSON.stringify(ATT))}catch(e){}
+  if(!db)return;
+  try{await db.doc('attempts/'+rec.id).set(rec)}catch(e){console.log('db save failed',e)}
+}
+async function gradeOpen(n,btn){
+  const o=cur.open.find(z=>z.n===n),k='O'+n,a=answers[k]||{};
+  if(!a.text||a.text.trim().length<10){document.getElementById('og'+n).innerHTML='<p class="note">Write an answer first.</p>';return}
+  btn.disabled=true;btn.textContent='Marking…';
+  try{
+    const r=await sample.json(`You are an EDIC (European Diploma in Intensive Care) examiner. Mark the candidate's short answer against the model answer. Be strict but fair; reward correct content, not style.
+QUESTION: ${o.q}
+MODEL ANSWER (key points): ${o.model}
+CANDIDATE ANSWER: ${a.text}
+Return JSON only: {"mark": integer 0-10, "feedback": "2-3 sentences", "missing": ["key points missed"]}`,{modelTier:'default'});
+    Object.assign(a,{mark:r.mark,fb:r.feedback,missing:r.missing||[]});answers[k]=a;
+    document.getElementById('og'+n).innerHTML=fbH(a);
+    const rec=ATT[cur.id];if(rec){rec.answers=answers;rec.open=Object.assign(rec.open||{},{[k]:a.mark});save(rec)}
+  }catch(e){document.getElementById('og'+n).innerHTML=`<p class="note">Could not mark right now (${esc(e.code||'error')}). Compare with the model answer.</p>`}
+  btn.disabled=false;btn.textContent='Mark again';
+}
+/* ---------- spaced repetition of mistakes (3 → 7 → 21 days) ---------- */
+const IV=[3,7,21];
+function srsUpdate(x){
+  x.questions.forEach(q=>{const k=q.key;if(!k)return;const sc=score(q,answers[q.n]);
+    if(sc<1)SRS[k]={box:0,due:addDays(today,IV[0]),miss:((SRS[k]||{}).miss||0)+1};
+    else if(SRS[k]){const b=SRS[k].box+1;if(b>=IV.length)delete SRS[k];else SRS[k]=Object.assign(SRS[k],{box:b,due:addDays(today,IV[b])})}});
+  saveSRS();
+}
+function saveSRS(){try{localStorage.setItem('edic-srs',JSON.stringify(SRS))}catch(e){}
+  if(db)db.doc('attempts/_srs').set({id:'_srs',kind:'srs',items:SRS}).catch(e=>console.log('srs save failed',e));misBadge()}
+function seedSRS(){if(Object.keys(SRS).length)return;
+  Object.values(ATT).forEach(r=>{const x=BY[r.id];if(!x||!r.answers)return;
+    x.questions.forEach(q=>{if(score(q,r.answers[q.n])<1)SRS[q.key]={box:0,due:today,miss:1}})});}
+function misBadge(){const n=Object.entries(SRS).filter(([k,v])=>QK[k]&&v.due<=today).length;document.getElementById('nMis').textContent=n?`Mistakes (${n})`:'Mistakes'}
+function virtualSet(id,kind,title,qs){const x={id,kind,title,date:today,body:'',open:[],
+  questions:qs.map((q,i)=>Object.assign({},q,{n:i+1}))};return x}
+function mistakes(){
+  setNav('mis');const all=Object.entries(SRS).filter(([k])=>QK[k]),due=all.filter(([k,v])=>v.due<=today);
+  const byD={};all.forEach(([k])=>{const d=QK[k].dom||'Other';byD[d]=(byD[d]||0)+1});
+  app.innerHTML=`<h1>Mistakes</h1><p class="sub">Every question you get wrong comes back after 3, 7 and 21 days. Three correct answers in a row and it retires.</p>
+  <div class="grid"><div class="stat"><div class="sub">Due today</div><div class="big">${due.length}</div></div><div class="stat"><div class="sub">In the deck</div><div class="big">${all.length}</div></div><div class="stat"><div class="sub">Next due</div><div class="big" style="font-size:22px">${all.length?fmtD(all.map(([k,v])=>v.due).sort()[0]):'–'}</div></div></div>
+  <p style="display:flex;gap:10px;flex-wrap:wrap;margin-top:16px"><button class="btn" id="mDue" ${due.length?'':'disabled'}>Review due (${due.length})</button><button class="btn ghost" id="mAll" ${all.length?'':'disabled'}>Review all (${all.length})</button></p>
+  ${all.length?'<h2>By domain</h2>'+Object.entries(byD).sort((a,b)=>b[1]-a[1]).map(([d,n])=>`<div class="row"><span></span><span>${esc(d)}</span><span class="s">${n}</span></div>`).join(''):'<p class="note">No mistakes yet – they appear here after you submit a set.</p>'}`;
+  const go=list=>{cur=virtualSet('mis-'+Date.now(),'mis','Mistakes review',shuf(list.map(([k])=>QK[k])));answers={};submitted=false;tab='quiz';render();scrollTo(0,0)};
+  document.getElementById('mDue').onclick=()=>go(due);document.getElementById('mAll').onclick=()=>go(all);
+}
+/* ---------- mock exam: 100 Q, 3 h, ≤ 50 K′, blueprint-weighted ---------- */
+function mockPool(scope){const ok=x=>x.kind!=='mock'||true;
+  return DATA.filter(x=>scope==='all'||(x.date&&x.date<=today)||ATT[x.id]).flatMap(x=>x.questions).filter(q=>!CTX.test(q.stem))}
+function buildMock(pool,N){
+  const byD={};pool.forEach(q=>{(byD[q.dom||'Other']=byD[q.dom||'Other']||[]).push(q)});Object.keys(byD).forEach(d=>byD[d]=shuf(byD[d]));
+  const pick=[],used=new Set();let k=0;const kMax=Math.floor(N/2);
+  const take=(d,n)=>{const src=byD[d]||[];for(const q of src){if(n<=0)break;if(used.has(q.key))continue;if(q.type==='K'&&k>=kMax)continue;pick.push(q);used.add(q.key);if(q.type==='K')k++;n--}};
+  DOMS.forEach(([d,w])=>take(d,Math.round(N*w/100)));
+  if(pick.length<N)take2();function take2(){for(const q of shuf(pool)){if(pick.length>=N)break;if(used.has(q.key))continue;if(q.type==='K'&&k>=kMax)continue;pick.push(q);used.add(q.key);if(q.type==='K')k++}}
+  return shuf(pick).slice(0,N)}
+function mock(){
+  setNav('mock');let saved=null;try{saved=JSON.parse(localStorage.getItem('edic-mock')||'null')}catch(e){}
+  const sims=Object.values(ATT).filter(r=>r.kind==='sim').sort((a,b)=>b.date.localeCompare(a.date));
+  const pS=mockPool('studied').length,pA=mockPool('all').length;
+  app.innerHTML=`<h1>Mock exam</h1><p class="sub">EDIC Part I format: 100 questions in 3 hours, at most 50 Type K′, drawn by blueprint weight (CV 20 · Infection 20 · Resp 15 · Neuro 15 · Renal 10 · GI 10 · Other 10). Explanations appear only after you submit.</p>
+  ${saved?`<div class="card"><b>Unfinished mock</b> – started ${new Date(saved.start).toLocaleString('en-GB')}. <button class="btn" id="mRes">Resume</button></div>`:''}
+  <h2>Start a new mock</h2>
+  <label class="opt"><input type="radio" name="scope" value="studied" checked><span>Topics studied so far (${pS} questions available)</span></label>
+  <label class="opt"><input type="radio" name="scope" value="all"><span>Everything in the bank (${pA} questions)</span></label>
+  <label class="opt"><input type="radio" name="size" value="100" checked><span>Full: 100 questions · 3 h</span></label>
+  <label class="opt"><input type="radio" name="size" value="50"><span>Half: 50 questions · 1 h 30 min</span></label>
+  <p><button class="btn" id="mGo">Start mock</button></p>
+  <h2>Past mocks</h2>${sims.length?sims.map(r=>`<div class="row"><span class="d">${fmtD(r.date.slice(0,10))}</span><span>${r.max} questions</span><span class="s" style="color:${r.pct>=60?'var(--ok)':'var(--red)'}">${r.pct}%</span></div>`).join(''):'<p class="note">None yet.</p>'}`;
+  document.getElementById('mGo').onclick=()=>{const sc=app.querySelector('[name=scope]:checked').value,N=+app.querySelector('[name=size]:checked').value;
+    const pool=mockPool(sc);if(pool.length<10){alertBox('Not enough questions yet – choose “Everything in the bank”.');return}
+    const qs=buildMock(pool,Math.min(N,pool.length));const m={keys:qs.map(q=>q.key),start:Date.now(),mins:Math.round(qs.length*1.8),answers:{}};
+    try{localStorage.setItem('edic-mock',JSON.stringify(m))}catch(e){}startMock(m)};
+  if(saved)document.getElementById('mRes').onclick=()=>startMock(saved);
+}
+function alertBox(t){const p=document.createElement('p');p.className='note';p.style.color='var(--red)';p.textContent=t;app.appendChild(p)}
+function startMock(m){const qs=m.keys.map(k=>QK[k]).filter(Boolean);
+  cur=virtualSet('sim-'+m.start,'sim',`Mock exam · ${qs.length} questions`,qs);cur.start=m.start;cur.mins=m.mins;
+  answers=m.answers||{};submitted=false;tab='quiz';render();scrollTo(0,0)}
+function persistMock(){if(!cur||cur.kind!=='sim'||submitted)return;try{const m=JSON.parse(localStorage.getItem('edic-mock')||'null');if(m){m.answers=answers;localStorage.setItem('edic-mock',JSON.stringify(m))}}catch(e){}}
+function tick(){if(TIMER)clearInterval(TIMER);const end=cur.start+cur.mins*60000;
+  const f=()=>{const el=document.getElementById('timer');if(!el||submitted||cur.kind!=='sim'){clearInterval(TIMER);TIMER=null;return}
+    const r=Math.max(0,end-Date.now()),h=Math.floor(r/3600000),mi=Math.floor(r%3600000/60000),se=Math.floor(r%60000/1000);
+    el.textContent=`${h}:${String(mi).padStart(2,'0')}:${String(se).padStart(2,'0')}`;el.style.color=r<600000?'var(--red)':'';
+    if(r<=0){clearInterval(TIMER);TIMER=null;submit()}};f();TIMER=setInterval(f,1000)}
+/* ---------- Benington (2015) book: answer from your copy, marked against the 2026 key ---------- */
+function bookHub(){setNav('home');const W=BOOK._weeks||{};
+  const ids=Object.keys(BOOK).filter(k=>/^W\d\d-D\d$/.test(k)&&BOOK[k].length).sort();
+  const byW={};ids.forEach(k=>{(byW[k.slice(0,3)]=byW[k.slice(0,3)]||[]).push(k)});
+  app.innerHTML=`<p class="sub"><a href="#" style="color:var(--teal)">← Plan</a></p><h1>📕 Benington – ICM MCQs (2015)</h1>
+  <p class="sub">Each topic has two sets: <b>book questions</b> (read the question in your copy – paper · question · page – tick your answer here, submit) and <b>case-style questions</b> (original questions on the same topics, fully in the app – ideal on the phone). Marking uses the <b>2026</b> key; where the book is outdated you get a ⚠ note. Explanations are written fresh (not from the book).</p>
+  ${Object.entries(byW).map(([w,ks])=>{const n=+w.slice(1);const t=(W[n]||[''])[0];
+    return `<h2>${w} · ${esc(t)}</h2>`+ks.map(k=>{const r=ATT['book-'+k];const d=+k.slice(-1);const top=((W[n]||[])[1]||[])[d-1]||'';
+      return `<a class="row" href="#book-${k}" style="text-decoration:none;color:inherit"><span class="d">D${d}</span><span>${esc(top)} <span class="note">· ${BOOK[k].length} Q</span></span><span class="s">${r?r.pct+'%':''}</span></a>${BY['bstyle-'+k]?`<a class="row" href="#bstyle-${k}" style="text-decoration:none;color:inherit;padding-left:2.2em"><span></span><span class="note">↳ Case-style questions (${BY['bstyle-'+k].questions.length}, no book needed)</span><span class="s">${ATT['bstyle-'+k]?ATT['bstyle-'+k].pct+'%':''}</span></a>`:''}`}).join('')}).join('')}
+  ${(BOOK.general||[]).length?`<h2>General</h2><a class="row" href="#book-general" style="text-decoration:none;color:inherit"><span></span><span>Other topics · ${BOOK.general.length} Q</span><span class="s">${ATT['book-general']?ATT['book-general'].pct+'%':''}</span></a>`:''}`;}
+function bookSet(lid){setNav('home');const qs=BOOK[lid]||[];const W=BOOK._weeks||{};
+  const n=+(lid.match(/^W(\d\d)/)||[0,0])[1],d=+(lid.match(/D(\d)$/)||[0,0])[1];const top=n?(((W[n]||[])[1]||[])[d-1]||''):'Other topics';
+  const prev=ATT['book-'+lid];if(!bDone&&bAns._id!==lid){bAns={_id:lid};}
+  const L='abcde';
+  const qHtml=(q,i)=>{const a=bAns[i]||(q.type==='MTF'?[]:null);let body='';
+    if(q.type==='MTF'){body=[...L].map((l,j)=>{const v=(a||[])[j],k=q.key[j];
+      const st=bDone?(v===k?'ok':'bad'):'';return `<div class="tf ${st}" style="display:flex;align-items:center;gap:8px;margin:4px 0"><b style="width:1.5em">${l}.</b>
+      ${['T','F'].map(o=>`<button class="tfb" data-q="${i}" data-j="${j}" data-v="${o}" aria-pressed="${v===o}" ${bDone?'disabled':''}>${o==='T'?'True':'False'}</button>`).join('')}
+      ${bDone?`<span class="note">${k==='T'?'True':'False'}${v!==k?' ✗':' ✓'}</span>`:''}</div>`}).join('')}
+    else{body=[...L].map(l=>{const st=bDone?(l===q.key.toLowerCase()?'ok':(a===l?'bad':'')):'';return `<label class="opt ${st}"><input type="radio" name="b${i}" value="${l}" ${a===l?'checked':''} ${bDone?'disabled':''}><span>${l.toUpperCase()}</span></label>`}).join('')}
+    const sc=bDone?bScore(q,a):null;
+    return `<div class="q"><div class="h">${esc(q.ref)} · p. ${q.page} · ${q.type==='MTF'?'True/False ×5':'Single best answer'}${bDone?` · <b>${q.type==='MTF'?sc*5+'/5':(sc?'correct':'wrong')}</b>`:''}</div>
+      <p class="sub" style="margin:4px 0 8px">${esc(q.label)}</p>${body}
+      ${bDone?`<div class="ex">${q.warn?`<p style="color:${q.warn_level==='outdated'?'var(--red)':'var(--mute)'}"><b>${q.warn_level==='outdated'?'⚠ Outdated in the book':'Note'}:</b> ${esc(q.warn)}</p>`:''}${q.key!==q.book_key?`<p class="note">Book key (2015): ${esc(q.book_key)} · current key: ${esc(q.key)}</p>`:''}<div style="white-space:pre-wrap">${esc(q.expl)}</div><p class="note">Book explanation: p. ${q.answer_page}</p></div>`:''}</div>`};
+  app.innerHTML=`<p class="sub"><a href="#book" style="color:var(--teal)">← Benington</a>${BY[lid]?` · <a href="#${lid}" style="color:var(--teal)">lesson ${lid}</a>`:''}</p>
+  <h1>📕 ${esc(lid==='general'?'Other topics':lid+' · '+top)}</h1><p class="sub">Benington et al., Intensive Care Medicine MCQs (tfm 2015) – open your copy at the page shown.</p>
+  ${prev&&!bDone?`<p class="note">Last attempt: ${prev.pct}% (${fmtD(prev.date.slice(0,10))})</p>`:''}
+  ${qs.map(qHtml).join('')}
+  <div class="bar"><span id="res" class="big">${bDone?bTotal(qs).pct+'%':''}</span><button class="btn" id="bsub">${bDone?'Retry':'Submit & mark'}</button></div>`;
+  app.querySelectorAll('.tfb').forEach(b=>b.onclick=()=>{const i=+b.dataset.q,j=+b.dataset.j;const arr=bAns[i]||[];arr[j]=b.dataset.v;bAns[i]=arr;b.parentNode.querySelectorAll('.tfb').forEach(x=>x.setAttribute('aria-pressed',x===b))});
+  app.querySelectorAll('input[type=radio]').forEach(r=>r.onchange=()=>{bAns[+r.name.slice(1)]=r.value});
+  document.getElementById('bsub').onclick=async()=>{if(bDone){bDone=false;bAns={_id:lid};bookSet(lid);scrollTo(0,0);return}
+    bDone=true;const t=bTotal(qs);bookSet(lid);
+    const rec={id:'book-'+lid,title:'Benington '+lid,kind:'book',score:t.s,max:qs.length,pct:t.pct,date:new Date().toISOString(),answers:Object.fromEntries(qs.map((q,i)=>[q.ref,bAns[i]||null]))};
+    ATT[rec.id]=rec;try{localStorage.setItem('edic-att',JSON.stringify(ATT))}catch(e){}
+    if(db)db.doc('attempts/'+rec.id).set(rec).catch(e=>console.log(e))};
+}
+function bScore(q,a){if(q.type==='MTF'){if(!a)return 0;let c=0;for(let j=0;j<5;j++)if(a[j]===q.key[j])c++;return c/5}return a&&a===q.key.toLowerCase()?1:0}
+function bTotal(qs){let s=0;qs.forEach((q,i)=>s+=bScore(q,bAns[i]));return {s:Math.round(s*10)/10,pct:qs.length?Math.round(100*s/qs.length):0}}
+
+/* ---------- per-question results for domain stats ---------- */
+function qResults(){const out={};
+  Object.values(ATT).forEach(r=>{if(r.qres){Object.entries(r.qres).forEach(([k,v])=>out[k]=v);return}
+    const x=BY[r.id];if(x&&r.answers)x.questions.forEach(q=>out[q.key]=score(q,r.answers[q.n]))});return out}
+
+function progress(){
+  setNav('prog');
+  const xs=DATA.filter(x=>ATT[x.id]);const tot=xs.reduce((t,x)=>t+ATT[x.id].score,0),max=xs.reduce((t,x)=>t+ATT[x.id].max,0);
+  const by={};xs.forEach(x=>{const w=x.kind==='monthly'?'Monthly':x.id.startsWith('extra')?'Bonus':'W'+x.id.slice(1,3);(by[w]=by[w]||{s:0,m:0});by[w].s+=ATT[x.id].score;by[w].m+=ATT[x.id].max});
+  const A=xs.reduce((t,x)=>t+(ATT[x.id].byType||{}).A||0,0),K=xs.reduce((t,x)=>t+(ATT[x.id].byType||{}).K||0,0);
+  const nA=xs.reduce((t,x)=>t+x.questions.filter(q=>q.type==='A').length,0),nK=xs.reduce((t,x)=>t+x.questions.filter(q=>q.type==='K').length,0);
+  const QR=qResults(),dom={};Object.entries(QR).forEach(([k,v])=>{const q=QK[k];if(!q)return;const d=q.dom||'Other';(dom[d]=dom[d]||{s:0,m:0});dom[d].s+=v;dom[d].m+=1});
+  const domH=DOMS.map(([d,w])=>{const v=dom[d];const p=v?pct(v.s,v.m):null;return `<div style="display:grid;grid-template-columns:minmax(0,8.5em) minmax(60px,1fr) 3em 4.2em;gap:10px;align-items:center;margin:6px 0"><b>${d}</b><div class="meter"><i style="width:${p||0}%;background:${p==null?'var(--rule)':p>=70?'var(--ok)':p>=60?'var(--half)':'var(--red)'}"></i></div><span style="text-align:right">${p==null?'–':p+'%'}</span><span class="note">${v?v.m+' Q':''} · ${w}%</span></div>`}).join('');
+  app.innerHTML=`<h1>Your scores</h1><p class="sub">${xs.length} sets done · EDIC scoring (K′: 4/4 = 1, 3/4 = ½)</p>
+  <div class="grid"><div class="stat"><div class="sub">Overall</div><div class="big">${pct(tot,max)}%</div><div class="note">${tot}/${max} points</div></div>
+  <div class="stat"><div class="sub">Type A</div><div class="big">${pct(A,nA)}%</div></div><div class="stat"><div class="sub">Type K′</div><div class="big">${pct(K,nK)}%</div></div></div>
+  <h2>By blueprint domain</h2><p class="note">Share of the EDIC disease-management blueprint shown on the right. Weak domains (&lt; 60 %) are where to spend revision time.</p>${Object.keys(dom).length?domH:'<p class="note">No results yet.</p>'}
+  <h2>By week</h2>${Object.entries(by).map(([w,v])=>`<div style="display:grid;grid-template-columns:5em minmax(0,1fr) 3.5em;gap:10px;align-items:center;margin:6px 0"><b>${w}</b><div class="meter"><i style="width:${pct(v.s,v.m)}%;background:${pct(v.s,v.m)>=70?'var(--ok)':pct(v.s,v.m)>=60?'var(--half)':'var(--red)'}"></i></div><span style="text-align:right">${pct(v.s,v.m)}%</span></div>`).join('')||'<p class="note">No results yet.</p>'}
+  <h2>All attempts</h2>${xs.map(rowH).join('')}
+  <p class="note">${db?'Saved to your account.':'Saved on this device (browser storage).'}</p>`;
+}
+function setNav(w){[['nHome','home'],['nProg','prog'],['nMock','mock'],['nMis','mis']].forEach(([i,k])=>document.getElementById(i).setAttribute('aria-current',w===k))}
+function route(){if(TIMER){clearInterval(TIMER);TIMER=null}const h=location.hash.slice(1);if(h==='scores')progress();else if(h==='book'){bDone=false;bookHub()}else if(h.startsWith('book-')){if(bAns._id!==h.slice(5))bDone=false;bookSet(h.slice(5))}else if(h==='mock')mock();else if(h==='mistakes')mistakes();else if(h&&BY[h])lesson(h);else{home();const c=app.querySelector('.card.today');const n=Object.keys(BOOK).filter(k=>k!=='_weeks').reduce((t,k)=>t+BOOK[k].length,0);if(c&&n)c.insertAdjacentHTML('afterend',`<p style="margin:10px 0 0"><a class="btn ghost" href="#book" style="text-decoration:none;display:inline-block">📕 Benington book by topic (${n} Q) →</a></p>`)}scrollTo(0,0)}
+document.getElementById('nHome').onclick=()=>{location.hash='';route()};
+document.getElementById('nProg').onclick=()=>{location.hash='scores'};
+document.getElementById('nMock').onclick=()=>{location.hash='mock'};
+document.getElementById('nMis').onclick=()=>{location.hash='mistakes'};
+addEventListener('hashchange',route);
+
+(async()=>{
+  try{ATT=JSON.parse(localStorage.getItem('edic-att')||'{}')}catch(e){ATT={}}
+  try{SRS=JSON.parse(localStorage.getItem('edic-srs')||'{}')}catch(e){SRS={}}
+  try{DATA=await (await fetch('questions.json')).json()}catch(e){app.innerHTML='<p>Could not load questions.</p>';return}
+  BOOK={}
+  DATA.forEach(x=>{BY[x.id]=x;x.questions.forEach(q=>{q.src=x.id;QK[q.key]=q})});seedSRS();misBadge();route();
+  if(window.claude){
+    claude.use('sample').then(s=>{sample=s;if(cur&&tab==='quiz')app.querySelectorAll('[data-grade]').forEach(b=>b.hidden=!s)}).catch(()=>{});
+    const t=setTimeout(()=>{},10000);
+    try{db=await claude.use('db');clearTimeout(t);
+      if(db){const snap=await db.collection('attempts').get();(snap.docs||snap).forEach(d=>{const v=d.data?d.data():d;if(!v||!v.id)return;if(v.id==='_srs'){SRS=Object.assign({},v.items||{},SRS);return}ATT[v.id]=v});seedSRS();misBadge();
+        if(!location.hash||location.hash==='#scores')route()}}catch(e){console.log('db unavailable',e)}
+  }
+})();
+}
+</script>
+</body>
+</html>
