@@ -349,13 +349,14 @@ let JLOCK=null;
 async function loadJanek(){let enc;try{const r=await fetch('janek.enc.json');if(!r.ok)return;enc=await r.json()}catch(e){return}
   let pw=null;try{pw=localStorage.getItem('edic-janek-pw')}catch(e){}
   if(!pw){JLOCK=enc;return}
-  try{DATA=DATA.concat(await jDec(enc,pw))}catch(e){JLOCK=enc}}
+  try{DATA=DATA.concat(await jDec(enc,pw))}catch(e){JLOCK=enc;return}
+  if(!Object.keys(BOOK).length){try{const r=await fetch('book.enc.json');if(r.ok)BOOK=await jDec(await r.json(),pw)}catch(e){}}}
 async function jDec(enc,pw){const b=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
   const km=await crypto.subtle.importKey('raw',new TextEncoder().encode(pw),'PBKDF2',false,['deriveKey']);
   const k=await crypto.subtle.deriveKey({name:'PBKDF2',salt:b(enc.salt),iterations:enc.iter,hash:'SHA-256'},km,{name:'AES-GCM',length:256},false,['decrypt']);
   return JSON.parse(new TextDecoder().decode(await crypto.subtle.decrypt({name:'AES-GCM',iv:b(enc.iv)},k,b(enc.ct))))}
 function janekLock(){setNav('aca');
-  app.innerHTML=`<h1>Janek otázky</h1><p class="sub">Private set – enter the password once on this device.</p>
+  app.innerHTML=`<h1>Janek otázky</h1><p class="sub">Private sets (Janek otázky and the Benington book map) – enter the password once on this device.</p>
   <form id="jF" class="card" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center"><input id="jP" type="password" autocomplete="current-password" placeholder="Password" style="flex:1;min-width:180px;font:16px 'IBM Plex Sans',system-ui,sans-serif;padding:10px;border:1.5px solid var(--rule);border-radius:10px;background:var(--paper);color:var(--ink)"><button class="btn" type="submit">Unlock</button></form><p id="jM" class="note"></p>`;
   document.getElementById('jF').onsubmit=async e=>{e.preventDefault();const pw=document.getElementById('jP').value.trim(),m=document.getElementById('jM');m.textContent='Checking…';
     try{await jDec(JLOCK,pw);try{localStorage.setItem('edic-janek-pw',pw)}catch(e){}location.reload()}catch(err){m.style.color='var(--red)';m.textContent='Wrong password.'}}}
