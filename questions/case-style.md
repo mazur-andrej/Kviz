@@ -1099,7 +1099,14 @@ Schedule 1 also includes acute meningitis, acute encephalitis, meningococcal sep
 
 **A – T, B – T, C – T, D – F.**
 
-A – continuous flow reduces pulsatility; a Doppler opening pressure approximates MAP (target ~70–80 mmHg). B – increased venous return and septal shift after LV unloading can unmask RV failure (up to 20–40 %), requiring inotropes, pulmonary vasodilators or temporary RVAD. C – suction events: low flow, arrhythmias; treat with fluid and speed reduction. D – ERC 2025 and the AHA advise that if the patient is unresponsive and the device cannot be restarted or there is no flow, chest compressions should be started; the risk of cannula dislodgement is outweighed by the need for perfusion. Reference: Lott C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. **Resuscitation** 2025;215(Suppl 1):110753; Peberdy MA, et al. Cardiopulmonary resuscitation in adults and children with mechanical circulatory support: a scientific statement from the AHA. **Circulation** 2017;135:e1115–e1134.
+- A (True) – continuous flow reduces pulsatility, so the pulse may be absent and automated cuffs unreliable. A Doppler opening pressure approximates MAP (target ~70–80 mmHg).
+- B (True) – after LV unloading, increased venous return and leftward septal shift can unmask RV failure (up to 20–40%), which needs inotropes, pulmonary vasodilators or a temporary RVAD.
+- C (True) – suction events occur with hypovolaemia or RV failure: low flow and ventricular arrhythmias. Treat with fluid and a lower pump speed.
+- D (False) – ERC 2025 and AHA advise starting chest compressions if the patient is unresponsive and the device cannot be restarted or shows no flow. The need for perfusion outweighs the risk of cannula dislodgement.
+
+**EDIC trap:** in an LVAD patient, assess perfusion (mentation, skin, capnography), check the device and its alarms, and do not rely on the pulse.
+
+**Ref:** Lott C et al., ERC Guidelines 2025 Special Circumstances, Resuscitation 2025;215(Suppl 1):110753; Peberdy MA et al., Circulation 2017;135:e1115–e1134.
 
 </details>
 
@@ -1114,7 +1121,14 @@ A – continuous flow reduces pulsatility; a Doppler opening pressure approximat
 
 **A – F, B – T, C – F, D – F.**
 
-A – inflation occurs at the dicrotic notch (aortic valve closure, around the middle of the T wave); deflation is timed just before the next systole (R wave). B – diastolic inflation would increase regurgitant volume; aortic dissection and severe peripheral vascular disease are other contraindications. C – helium is chosen for its low density (rapid shuttling); CO2 is more soluble and was used earlier for safety in case of rupture. D – balloon size (e.g. 30–50 mL) is chosen by patient height. Reference: Krishna M, Zacharowski K. Principles of intra-aortic balloon pump counterpulsation. **Contin Educ Anaesth Crit Care Pain** 2009;9:24–28; Thiele H, et al. IABP-SHOCK II. **N Engl J Med** 2012;367:1287–1296.
+- A (False) – the balloon inflates at the dicrotic notch (aortic valve closure, around the middle of the T wave) and deflates just before the next systole (R wave).
+- B (True) – diastolic inflation would increase regurgitant volume. Aortic dissection and severe peripheral vascular disease are other contraindications.
+- C (False) – helium is used for its **low density** (rapid shuttling). CO₂ is more soluble and was used earlier for safety in case of rupture.
+- D (False) – balloon size (e.g. 30–50 mL) is chosen by patient **height**, not weight.
+
+**EDIC trap:** inflation is triggered by the T wave and deflation by the R wave.
+
+**Ref:** Krishna M, Zacharowski K, Contin Educ Anaesth Crit Care Pain 2009;9:24–28; Thiele H et al., IABP-SHOCK II, N Engl J Med 2012;367:1287–1296.
 
 </details>
 
@@ -1130,7 +1144,17 @@ A – inflation occurs at the dicrotic notch (aortic valve closure, around the m
 
 **D.**
 
-Deflation just before systole lowers aortic end-diastolic pressure and afterload, which increases forward stroke volume and reduces the regurgitant fraction in MR (and shunt in post-infarct VSD); LV wall stress, end-diastolic pressure and myocardial O2 demand fall. Inflation in diastole augments diastolic (coronary) perfusion pressure. IABP is still used as a bridge in mechanical complications of MI, but IABP-SHOCK II showed no mortality benefit in AMI cardiogenic shock without mechanical complications, and ESC 2023 does not recommend its routine use there. Reference: Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. **Eur Heart J** 2023;44:3720–3826; Thiele H, et al. IABP-SHOCK II. **N Engl J Med** 2012;367:1287–1296.
+**Why D:** Correctly timed counterpulsation **lowers** LV end-diastolic pressure. Deflation just before systole lowers aortic end-diastolic pressure and afterload, so the LV empties more completely, and LV wall stress, LVEDP and myocardial O₂ demand all fall.
+
+**Why not the others:**
+- A – lower afterload favours forward ejection and reduces the regurgitant fraction in MR (and the shunt in post-infarct VSD).
+- B – inflation in diastole augments diastolic aortic (coronary) perfusion pressure.
+- C – presystolic deflation creates a "sink" that reduces LV afterload.
+- E – forward cardiac output rises modestly (~0.5–1 L/min).
+
+**EDIC trap:** IABP remains a bridge in mechanical complications of MI, but IABP-SHOCK II showed no mortality benefit in AMI-CS without them, and routine use there is class III (ESC 2023).
+
+**Ref:** Byrne RA et al., 2023 ESC ACS Guidelines, Eur Heart J 2023;44:3720–3826; Thiele H et al., N Engl J Med 2012;367:1287–1296.
 
 </details>
 
@@ -1145,7 +1169,12 @@ Deflation just before systole lowers aortic end-diastolic pressure and afterload
 
 **A – T, B – T, C – F, D – F.**
 
-A – too high risks occluding the left subclavian/carotid; too low risks renal and mesenteric artery occlusion. B – a balloon still inflated during early systole forces the LV to eject against it. C – early inflation causes premature aortic valve closure, reduced stroke volume and increased LVEDV/afterload. D – routine IABP is not recommended (class III) in AMI-CS without mechanical complications, based on IABP-SHOCK II (no difference in 30-day, 1-year or 6-year mortality). Reference: Byrne RA, et al. 2023 ESC ACS Guidelines. **Eur Heart J** 2023;44:3720–3826; Thiele H, et al. Intraaortic balloon pump in cardiogenic shock complicating acute myocardial infarction: long-term 6-year outcome of IABP-SHOCK II. **Circulation** 2019;139:395–403.
+- A (True) – the tip should sit about 2–3 cm below the origin of the left subclavian artery (around the carina). Too high risks occluding the left subclavian or carotid artery; too low risks occluding the renal and mesenteric arteries.
+- B (True) – a balloon still inflated in early systole forces the LV to eject against it, increasing afterload and workload.
+- C (False) – early inflation, before the aortic valve closes, causes premature valve closure, a smaller stroke volume and a higher LVEDV and afterload.
+- D (False) – routine IABP in AMI-CS without mechanical complications is not recommended (class III), based on IABP-SHOCK II (no difference in 30-day, 1-year or 6-year mortality).
+
+**Ref:** Byrne RA et al., Eur Heart J 2023;44:3720–3826; Thiele H et al., IABP-SHOCK II 6-year outcome, Circulation 2019;139:395–403.
 
 </details>
 
@@ -1164,7 +1193,15 @@ A – too high risks occluding the left subclavian/carotid; too low risks renal 
 
 **B.**
 
-RV infarction makes cardiac output highly dependent on heart rate, preload and atrial contribution; bradycardia/AV block (common with proximal RCA occlusion) should be treated with temporary pacing, ideally dual-chamber to restore AV synchrony. Nitrates and diuretics (A, C) reduce preload and are harmful. A modest fluid challenge is reasonable, but large volumes (D) overdistend the RV, shift the septum and reduce LV filling. IABP (E) mainly supports the LV. Inotropes (dobutamine) or mechanical RV support are considered if shock persists. Reference: Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. **Eur Heart J** 2023;44:3720–3826; Harjola VP, et al. Contemporary management of acute right ventricular failure: a statement from the Heart Failure Association and the Working Group on Pulmonary Circulation and Right Ventricular Function of the ESC. **Eur J Heart Fail** 2016;18:226–241.
+**Why B:** In RV infarction, cardiac output depends heavily on heart rate, preload and the atrial contribution. Complete heart block, common with proximal RCA occlusion, should be treated with temporary pacing, ideally dual-chamber to restore AV synchrony. If shock persists, add inotropes (dobutamine) or mechanical RV support.
+
+**Why not the others:**
+- A – a GTN infusion reduces preload and can cause profound hypotension in a preload-dependent RV.
+- C – furosemide also reduces preload and is harmful here.
+- D – a modest fluid challenge is reasonable, but 2 L overdistends the RV, shifts the septum and reduces LV filling.
+- E – an IABP mainly supports the LV and does not fix bradycardia or RV failure.
+
+**Ref:** Byrne RA et al., 2023 ESC ACS Guidelines, Eur Heart J 2023;44:3720–3826; Harjola VP et al., Eur J Heart Fail 2016;18:226–241.
 
 </details>
 
@@ -1180,7 +1217,15 @@ RV infarction makes cardiac output highly dependent on heart rate, preload and a
 
 **D.**
 
-A rise and fall of troponin above the 99th centile together with evidence of ischaemia (symptoms, new ischaemic ECG changes) caused by an oxygen supply–demand imbalance (anaemia, tachycardia, hypotension) – not acute atherothrombosis – is type 2 MI. Non-ischaemic myocardial injury (C) is a troponin rise without clinical evidence of ischaemia (e.g. sepsis, myocarditis, PE). Type 1 is plaque rupture/erosion with thrombus; type 4a is PCI-related; type 5 CABG-related. Management targets the cause (transfusion, endoscopic haemostasis), not antithrombotic escalation. Reference: Thygesen K, et al. Fourth Universal Definition of Myocardial Infarction (2018). **Eur Heart J** 2019;40:237–269.
+**Why D:** A troponin rise and fall above the 99th centile with evidence of ischaemia (chest tightness, new ischaemic ST depression) caused by an O₂ supply–demand imbalance (anaemia, tachycardia, hypotension), not acute atherothrombosis, is type 2 MI. Treat the cause (transfusion, endoscopic haemostasis) rather than escalating antithrombotic therapy, which would worsen the bleeding.
+
+**Why not the others:**
+- A – type 1 MI is plaque rupture or erosion with thrombus, and there is no such trigger here.
+- B – type 4a MI is related to PCI (within 48 h of the procedure).
+- C – non-ischaemic myocardial injury is a troponin rise **without** clinical evidence of ischaemia (e.g. sepsis, myocarditis, PE).
+- E – type 5 MI is related to CABG.
+
+**Ref:** Thygesen K et al., Fourth Universal Definition of Myocardial Infarction, Eur Heart J 2019;40:237–269.
 
 </details>
 
@@ -1196,7 +1241,17 @@ A rise and fall of troponin above the 99th centile together with evidence of isc
 
 **C.**
 
-In acute cocaine toxicity, non-selective β-blockade may leave α-adrenergic vasoconstriction unopposed, worsening coronary spasm and hypertension; guidelines advise avoiding β-blockers in the acute phase. Benzodiazepines reduce the central sympathetic drive and are first-line, combined with aspirin and nitrates; an α-antagonist (phentolamine) or calcium channel blocker is used for persistent hypertension. Thrombolysis is relatively contraindicated by uncontrolled hypertension, and primary PCI is preferred if STEMI develops. Reference: McCord J, et al. Management of cocaine-associated chest pain and myocardial infarction: a scientific statement from the AHA. **Circulation** 2008;117:1897–1907; Byrne RA, et al. 2023 ESC ACS Guidelines. **Eur Heart J** 2023;44:3720–3826.
+**Why C:** In acute cocaine toxicity, non-selective β-blockade can leave α-adrenergic vasoconstriction unopposed, which worsens coronary spasm and hypertension. Guidelines advise avoiding β-blockers in the acute phase.
+
+**Why not the others:**
+- A – aspirin is appropriate for suspected ACS (no contraindication here).
+- B – benzodiazepines are first-line: they reduce central sympathetic drive, agitation, tachycardia and hypertension.
+- D – nitrates relieve coronary vasospasm and lower BP and are part of first-line treatment.
+- E – an α-antagonist (phentolamine) or a calcium channel blocker is the appropriate next step for persistent hypertension.
+
+**EDIC trap:** uncontrolled hypertension is a relative contraindication to thrombolysis; if STEMI develops, primary PCI is preferred.
+
+**Ref:** McCord J et al., AHA scientific statement, Circulation 2008;117:1897–1907; Byrne RA et al., 2023 ESC ACS Guidelines, Eur Heart J 2023;44:3720–3826.
 
 </details>
 
@@ -1211,7 +1266,12 @@ In acute cocaine toxicity, non-selective β-blockade may leave α-adrenergic vas
 
 **A – T, B – T, C – T, D – F.**
 
-A – the 120-minute threshold defines the pharmaco-invasive alternative. B – a pharmaco-invasive strategy (angiography 2–24 h after successful lysis; immediate rescue PCI if failed) is recommended. C – primary PCI is recommended for resuscitated patients with persistent ST elevation (in contrast, routine immediate angiography is not recommended without ST elevation – COACT, TOMAHAWK). D – prasugrel should be considered in preference to ticagrelor for patients proceeding to PCI (class IIa, ISAR-REACT 5). Reference: Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. **Eur Heart J** 2023;44:3720–3826; Schüpke S, et al. ISAR-REACT 5. **N Engl J Med** 2019;381:1524–1534.
+- A (True) – a 120-minute threshold (diagnosis to wire crossing) separates primary PCI from the pharmaco-invasive strategy; fibrinolysis should be given within 10 min of diagnosis.
+- B (True) – after successful lysis, angiography at 2–24 h is recommended; immediate rescue PCI if lysis fails.
+- C (True) – primary PCI is recommended for resuscitated patients with persistent ST elevation, whether or not they are comatose. Without ST elevation, routine immediate angiography is not recommended (COACT, TOMAHAWK).
+- D (False) – prasugrel should be considered **in preference to** ticagrelor in patients proceeding to PCI (IIa), based on ISAR-REACT 5.
+
+**Ref:** Byrne RA et al., 2023 ESC ACS Guidelines, Eur Heart J 2023;44:3720–3826; Schüpke S et al., ISAR-REACT 5, N Engl J Med 2019;381:1524–1534.
 
 </details>
 
@@ -1229,7 +1289,12 @@ A – the 120-minute threshold defines the pharmaco-invasive alternative. B – 
 
 **A – T, B – F, C – T, D – F.**
 
-A – calcium sensitisation (troponin C) plus vasodilatation via K-ATP channel opening; it does not raise intracellular calcium, so myocardial O2 consumption rises little and diastolic relaxation is not impaired. B – LeoPARDS found no reduction in mean SOFA score, more supraventricular tachyarrhythmias and lower likelihood of weaning from ventilation; SSC suggests against levosimendan. C – OR-1896 explains prolonged action; a loading dose is often omitted to avoid hypotension. D – vasodilatation and hypotension (and tachyarrhythmia, hypokalaemia) are the main adverse effects. Reference: Gordon AC, et al. LeoPARDS. **N Engl J Med** 2016;375:1638–1648; Papp Z, et al. Levosimendan: molecular mechanisms and clinical implications – consensus of experts. **Int J Cardiol** 2012;159:82–87.
+- A (True) – levosimendan binds cardiac troponin C in a calcium-dependent way, and opens K-ATP channels to cause vasodilation. Intracellular Ca²⁺ does not rise, so myocardial O₂ consumption increases little and diastolic relaxation is preserved.
+- B (False) – LeoPARDS found no reduction in mean SOFA score, more supraventricular tachyarrhythmias and a lower chance of weaning from ventilation. SSC 2021 suggests against levosimendan in septic shock.
+- C (True) – the active metabolite OR-1896 (t½ ~80 h) explains the prolonged action; the loading dose is often omitted to avoid hypotension.
+- D (False) – the main adverse effects are vasodilation and **hypotension**, tachyarrhythmias and hypokalaemia.
+
+**Ref:** Gordon AC et al., LeoPARDS, N Engl J Med 2016;375:1638–1648; Papp Z et al., Int J Cardiol 2012;159:82–87.
 
 </details>
 
@@ -1245,7 +1310,17 @@ A – calcium sensitisation (troponin C) plus vasodilatation via K-ATP channel o
 
 **B.**
 
-This is low cardiac output from RV failure with raised pulmonary vascular resistance after mitral surgery. A phosphodiesterase-3 inhibitor (inodilator) increases RV contractility and lowers PVR with less chronotropy than dobutamine, which would further increase an already high heart rate (A). The bolus of milrinone or levosimendan (C) is omitted to avoid hypotension. IABP (D) supports the LV and does little for RV failure. Raising noradrenaline alone (E) does not improve output. Inhaled pulmonary vasodilators (NO, epoprostenol) are reasonable adjuncts. In DOREMI, milrinone and dobutamine had similar outcomes in cardiogenic shock. Reference: Mathew R, et al. Milrinone as compared with dobutamine in the treatment of cardiogenic shock (DOREMI). **N Engl J Med** 2021;385:516–525; Harjola VP, et al. Contemporary management of acute right ventricular failure: a statement from the HFA and ESC WG on Pulmonary Circulation. **Eur J Heart Fail** 2016;18:226–241.
+**Why B:** This is low cardiac output from RV failure with raised PVR after mitral surgery (high CVP, mPAP 45 mmHg with normal PAOP, CI 1.8, SvO₂ 52%). A PDE-3 inhibitor (an inodilator) increases RV contractility and lowers PVR with less chronotropy than dobutamine. Omit the bolus to avoid hypotension and support MAP with noradrenaline. Inhaled pulmonary vasodilators (NO, epoprostenol) are reasonable adjuncts.
+
+**Why not the others:**
+- A – high-dose dobutamine would raise an already high heart rate (118/min) and myocardial O₂ demand.
+- C – a levosimendan loading bolus risks significant hypotension in a patient already on noradrenaline.
+- D – an IABP supports the LV and does little for RV failure.
+- E – raising noradrenaline alone does not improve RV output.
+
+**EDIC trap:** DOREMI showed similar outcomes with milrinone and dobutamine in CS; choose by haemodynamic profile.
+
+**Ref:** Mathew R et al., DOREMI, N Engl J Med 2021;385:516–525; Harjola VP et al., Eur J Heart Fail 2016;18:226–241.
 
 </details>
 
@@ -1261,7 +1336,15 @@ This is low cardiac output from RV failure with raised pulmonary vascular resist
 
 **C.**
 
-This is hypertensive acute heart failure with pulmonary oedema. Non-invasive positive pressure (CPAP/NIV) rapidly improves oxygenation, work of breathing and acidosis and reduces LV afterload; IV nitrates reduce preload and afterload and are the key drug when SBP is high. ESC HF guidelines recommend NIV in respiratory distress (RR > 25, SpO2 < 90 %); 3CPO showed faster physiological improvement (no mortality difference). Intubation is for failure of NIV, coma or exhaustion; morphine is not routinely recommended (associated with harm); fibrinolysis has no role without STEMI. Reference: McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. **Eur Heart J** 2021;42:3599–3726; Gray A, et al. 3CPO. **N Engl J Med** 2008;359:142–151.
+**Why C:** This is hypertensive acute HF with pulmonary oedema. CPAP or NIV rapidly improves oxygenation, work of breathing and acidosis and lowers LV afterload, while a titrated IV nitrate reduces preload and afterload and is the key drug when SBP is high. ESC 2026 suggests early NIV in respiratory distress (RR > 25/min, SpO₂ < 90%; IIa, B2) and IV vasodilators when SBP > 110 mmHg (IIb, C). In 3CPO, NIV gave faster physiological improvement without a mortality difference.
+
+**Why not the others:**
+- A – intubation is for NIV failure, coma or exhaustion, and this patient is alert and cooperative.
+- B – routine morphine is not recommended (III, C) because of respiratory depression and its association with harm.
+- D – high-flow oxygen with furosemide alone omits the vasodilator and positive pressure that hypertensive APO needs.
+- E – fibrinolysis has no role without STEMI.
+
+**Ref:** Køber L et al., 2026 ESC HF Guidelines, Eur Heart J 2026;47:5346–5457; Gray A et al., 3CPO, N Engl J Med 2008;359:142–151.
 
 </details>
 
@@ -1276,7 +1359,14 @@ This is hypertensive acute heart failure with pulmonary oedema. Non-invasive pos
 
 **A – T, B – F, C – F, D – F.**
 
-A – apical ballooning is commonest, but mid-ventricular, basal and focal types are recognised. B – catecholamines worsen LVOTO (and may perpetuate the syndrome); treat with fluids, cautious β-blockade, and levosimendan or mechanical support if cardiogenic shock without obstruction. C – recurrence occurs in ~2 % per year. D – in-hospital mortality (~4–5 %) and complications (cardiogenic shock, LV thrombus, arrhythmia) are comparable to ACS; physical triggers (e.g. critical illness) carry a worse prognosis than emotional ones. Reference: Ghadri JR, et al. International expert consensus document on Takotsubo syndrome (Parts I and II). **Eur Heart J** 2018;39:2032–2046 and 2047–2062; Templin C, et al. **N Engl J Med** 2015;373:929–938.
+- A (True) – apical ballooning is the commonest pattern, but mid-ventricular, basal ("inverted") and focal types are recognised.
+- B (False) – catecholamines worsen dynamic LVOT obstruction and may perpetuate the syndrome. Treat with fluids and cautious β-blockade; in CS without obstruction, consider levosimendan or mechanical support.
+- C (False) – recurrence occurs in about 2% per year.
+- D (False) – in-hospital mortality (~4–5%) and complications (CS, LV thrombus, arrhythmia) are comparable to ACS. Physical triggers such as critical illness carry a worse prognosis than emotional ones.
+
+**EDIC trap:** a takotsubo patient in shock with a systolic murmur needs echo for LVOT obstruction before any inotrope.
+
+**Ref:** Ghadri JR et al., International Expert Consensus on Takotsubo Syndrome, Eur Heart J 2018;39:2032–2046 and 2047–2062; Templin C et al., N Engl J Med 2015;373:929–938.
 
 </details>
 
@@ -1294,7 +1384,14 @@ A – apical ballooning is commonest, but mid-ventricular, basal and focal types
 
 **A – T, B – T, C – T, D – F.**
 
-A, B – the 2022 definition lowered the threshold from mPAP ≥ 25 to > 20 mmHg and PVR from > 3 to > 2 WU; post-capillary PH has PAWP > 15 mmHg. C – group 2 is commonest, followed by group 3 (lung disease/hypoxia). D – PAH-specific drugs are not recommended in group 2 PH (no benefit, possible harm from pulmonary oedema); treat the underlying left heart disease. Reference: Humbert M, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. **Eur Heart J** 2022;43:3618–3731.
+- A (True) – the 2022 definition lowered the threshold from mPAP ≥ 25 to > 20 mmHg at rest, and it must be measured by right heart catheterisation.
+- B (True) – pre-capillary PH requires PAWP ≤ 15 mmHg and PVR > 2 WU (previously > 3 WU). Post-capillary PH has PAWP > 15 mmHg.
+- C (True) – group 2 (left heart disease) is the commonest cause, followed by group 3 (lung disease/hypoxia).
+- D (False) – PAH-specific drugs are not recommended in group 2 PH: there is no benefit, and they may cause harm by worsening pulmonary oedema. Treat the underlying left heart disease.
+
+**EDIC trap:** a pulmonary vasodilator given to a patient with high PAWP can precipitate pulmonary oedema.
+
+**Ref:** Humbert M et al., 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension, Eur Heart J 2022;43:3618–3731.
 
 </details>
 
