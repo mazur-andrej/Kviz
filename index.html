@@ -25,6 +25,7 @@ body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 "IBM Plex San
 .top nav{margin-left:auto;display:flex;gap:6px}
 .top button{background:transparent;color:#fff;border:1px solid #ffffff55;border-radius:8px;padding:8px 12px;font:500 14px "IBM Plex Sans",system-ui,sans-serif;min-height:40px;cursor:pointer}
 .top button[aria-current=true]{background:#ffffff22;border-color:#fff}
+@media (max-width:440px){.top{gap:6px;padding-inline:10px}.top nav{gap:4px}.top button{padding:6px 7px;font-size:13px}.top b{font-size:16px}}
 main{max-width:760px;margin:0 auto;padding:16px max(4vw,14px) 80px}
 h1{font:700 clamp(26px,5vw,36px)/1.1 "IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;margin:8px 0 4px;text-wrap:balance}
 h2{font:600 20px/1.2 "IBM Plex Sans",system-ui,sans-serif;margin:24px 0 8px}
@@ -75,7 +76,7 @@ textarea{width:100%;min-height:120px;font:16px/1.45 "IBM Plex Sans",system-ui,sa
 </head>
 <body>
 <header class="top"><b style="white-space:nowrap">EDIC I <span>· daily</span></b>
-<nav><button id="nHome" aria-current="true">Plan</button><button id="nMock">Mock</button><button id="nMis">Mistakes</button><button id="nProg">Scores</button></nav></header>
+<nav><button id="nHome" aria-current="true">Plan</button><button id="nAca">Janek</button><button id="nMock">Mock</button><button id="nMis">Mistakes</button><button id="nProg">Scores</button></nav></header>
 <main id="app"><p class="sub">Loading questions…</p></main>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
 <script>
@@ -99,15 +100,15 @@ const linkFix=html=>html.replace(/href="(?:\.\.\/)*(?:lessons\/)?(?:(W\d\d)\/(D\
 function score(q,ans){
   if(q.type==='A')return ans===q.answer?1:0;
   if(!Array.isArray(ans))return 0;
-  const c=q.answer.filter((v,i)=>ans[i]===v).length;
-  return c===4?1:c===3?.5:0;
+  const n=q.answer.length,c=q.answer.filter((v,i)=>ans[i]===v).length;
+  return c===n?1:(n>=4&&c===n-1)?.5:0;
 }
-function label(x){return x.kind==='sim'?'Mock exam':x.kind==='mis'?'Mistakes':x.id.startsWith('extra')?'Bonus':x.kind==='monthly'?'Monthly':x.kind==='review'?'Review':x.kind==='mock'?'Mock':x.id.split('-')[1]}
+function label(x){return x.kind==='sim'?'Mock exam':x.kind==='mis'?'Mistakes':x.kind==='janek'?'Janek':x.id.startsWith('extra')?'Bonus':x.kind==='monthly'?'Monthly':x.kind==='review'?'Review':x.kind==='mock'?'Mock':x.id.split('-')[1]}
 
 function home(){
   setNav('home');
   const next=DATA.find(x=>x.date>=today&&x.questions.length)||DATA.find(x=>!ATT[x.id])||DATA[0];
-  const weeks={};DATA.filter(x=>!x.id.startsWith('bstyle')).forEach(x=>{const w=x.kind==='monthly'?'Monthly reviews':x.id.startsWith('extra')?'Bonus workshops':'Week '+x.id.slice(1,3);(weeks[w]=weeks[w]||[]).push(x)});
+  const weeks={};DATA.filter(x=>!x.id.startsWith('bstyle')&&x.kind!=='janek').forEach(x=>{const w=x.kind==='monthly'?'Monthly reviews':x.id.startsWith('extra')?'Bonus workshops':'Week '+x.id.slice(1,3);(weeks[w]=weeks[w]||[]).push(x)});
   const a=ATT[next.id];
   app.innerHTML=`<h1>Next up</h1>
   <div class="card today"><div><div class="sub">${fmtD(next.date)} · ${label(next)}</div>
@@ -130,7 +131,7 @@ function lesson(id){
 }
 function render(){
   const x=cur;
-  app.innerHTML=`<p class="sub"><a href="#" style="color:var(--teal)">← Plan</a> · ${fmtD(x.date)} · ${label(x)}</p>
+  app.innerHTML=`<p class="sub">${x.kind==='janek'?'<a href="#janek" style="color:var(--teal)">← Janek otázky</a>':'<a href="#" style="color:var(--teal)">← Plan</a>'}${x.date?' · '+fmtD(x.date):''} · ${label(x)}</p>
   <h1>${esc(x.title)}</h1>
   ${x.body?`<div class="tabs" role="tablist"><button role="tab" id="tR" aria-selected="${tab==='read'}">Read</button><button role="tab" id="tQ" aria-selected="${tab==='quiz'}">Questions (${x.questions.length}${x.open.length?' + '+x.open.length:''})</button>${BY['bstyle-'+x.id]?`<button role="tab" id="tS">Case-style (${BY['bstyle-'+x.id].questions.length})</button>`:''}${(BOOK[x.id]||[]).length?`<button role="tab" id="tB">📕 Benington (${BOOK[x.id].length})</button>`:''}</div>`:''}
   <div id="pane"></div>`;
@@ -153,15 +154,15 @@ function qH(q,i){
   const res=submitted?score(q,a):null;
   const cls=submitted?(res===1?'done-1':res===.5?'done-h':'done-0'):'';
   let body='';
-  if(q.type==='A'){body=q.options.map((o,j)=>{const L='ABCDE'[j],sel=a===L;
+  if(q.type==='A'){body=q.options.map((o,j)=>{const L='ABCDEF'[j],sel=a===L;
     const st=submitted?(L===q.answer?'good':sel?'bad':''):'';
     const badge=submitted?(L===q.answer?`<span class="mark" style="color:var(--ok)"> ✓ correct answer${sel?' – your choice':''}</span>`:sel?`<span class="mark" style="color:var(--red)"> ✗ your choice</span>`:''):'';
     return `<label class="opt ${sel?'sel':''} ${st}"><input type="radio" name="q${q.n}" value="${L}" ${sel?'checked':''} ${submitted?'disabled':''}><span><b>${L}.</b> ${mdi(o)}${badge}</span></label>`}).join('')}
-  else{body=q.options.map((o,j)=>{const v=a?a[j]:null,L='ABCD'[j];
+  else{body=q.options.map((o,j)=>{const v=a?a[j]:null,L='ABCDEF'[j];
     const st=submitted?(v===q.answer[j]?'good':'bad'):'';
     return `<div class="kst ${st}" style="${st?'padding-inline:8px;border-radius:8px':''}"><span><b>${L}.</b> ${mdi(o)}${submitted?`<br><span class="mark" style="color:${v===q.answer[j]?'var(--ok)':'var(--red)'}">${v===q.answer[j]?'✓':'✗'} you: ${v?(v==='T'?'True':'False'):'—'} · correct: ${q.answer[j]==='T'?'True':'False'}</span>`:''}</span><span class="tf">${['T','F'].map(t=>`<button data-q="${q.n}" data-j="${j}" data-v="${t}" aria-pressed="${v===t}" ${submitted?'disabled':''}>${t}</button>`).join('')}</span></div>`}).join('')}
-  return `<div class="q ${cls}" id="q${q.n}"><div class="h">Q${q.n}${submitted?` · <span style="color:${res===1?'var(--ok)':res===.5?'var(--half)':'var(--red)'};font-weight:700">${res===1?'✓ correct (1 pt)':res===.5?'½ – 3 of 4 right (0.5 pt)':'✗ wrong (0 pt)'}</span>`:''}</div>
-  <div>${md(q.stem)}</div>${body}${submitted?`<div class="expl">${linkFix(md((q.type==='A'?'**'+q.answer+'.** ':'**'+q.answer.map((v,j)=>'ABCD'[j]+' – '+v).join(', ')+'.** ')+q.expl))}</div>`:''}</div>`;
+  return `<div class="q ${cls}" id="q${q.n}"><div class="h">Q${q.n}${submitted?` · <span style="color:${res===1?'var(--ok)':res===.5?'var(--half)':'var(--red)'};font-weight:700">${res===1?'✓ correct (1 pt)':res===.5?`½ – ${q.answer.length-1} of ${q.answer.length} right (0.5 pt)`:'✗ wrong (0 pt)'}</span>`:''}</div>
+  <div>${md(q.stem)}</div>${body}${submitted?`<div class="expl">${linkFix(md((q.type==='A'?'**'+q.answer+'.** ':'**'+q.answer.map((v,j)=>'ABCDEF'[j]+' – '+v).join(', ')+'.** ')+q.expl))}</div>`:''}</div>`;
 }
 function oH(o){const a=(answers['O'+o.n]||{});
   return `<div class="q" id="o${o.n}"><div class="h">Open question ${o.n}</div><div>${md(o.q)}</div>
@@ -171,7 +172,7 @@ function oH(o){const a=(answers['O'+o.n]||{});
 function fbH(a){return `<div class="expl"><b>Claude's mark: ${a.mark}/10.</b> ${mdi(a.fb)}${a.missing&&a.missing.length?'<br><b>Missing:</b> '+a.missing.map(mdi).join('; '):''}</div>`}
 function bind(){
   app.querySelectorAll('input[type=radio]').forEach(r=>r.onchange=()=>{answers[+r.name.slice(1)]=r.value;persistMock();r.closest('.q').querySelectorAll('.opt').forEach(l=>l.classList.toggle('sel',l.contains(r)));count()});
-  app.querySelectorAll('.tf button').forEach(b=>b.onclick=()=>{const n=+b.dataset.q,j=+b.dataset.j;const arr=answers[n]||[null,null,null,null];arr[j]=b.dataset.v;answers[n]=arr;persistMock();
+  app.querySelectorAll('.tf button').forEach(b=>b.onclick=()=>{const n=+b.dataset.q,j=+b.dataset.j;const arr=answers[n]||Array(cur.questions.find(z=>z.n===n).options.length).fill(null);arr[j]=b.dataset.v;answers[n]=arr;persistMock();
     b.parentNode.querySelectorAll('button').forEach(o=>o.setAttribute('aria-pressed',o===b));count()});
   app.querySelectorAll('textarea').forEach(t=>t.oninput=()=>{const k='O'+t.dataset.o;answers[k]=Object.assign(answers[k]||{},{text:t.value})});
   app.querySelectorAll('[data-model]').forEach(b=>b.onclick=()=>{const e=document.getElementById('om'+b.dataset.model);e.hidden=!e.hidden});
@@ -330,7 +331,7 @@ function qResults(){const out={};
 function progress(){
   setNav('prog');
   const xs=DATA.filter(x=>ATT[x.id]);const tot=xs.reduce((t,x)=>t+ATT[x.id].score,0),max=xs.reduce((t,x)=>t+ATT[x.id].max,0);
-  const by={};xs.forEach(x=>{const w=x.kind==='monthly'?'Monthly':x.id.startsWith('extra')?'Bonus':'W'+x.id.slice(1,3);(by[w]=by[w]||{s:0,m:0});by[w].s+=ATT[x.id].score;by[w].m+=ATT[x.id].max});
+  const by={};xs.forEach(x=>{const w=x.kind==='monthly'?'Monthly':x.kind==='janek'?'Janek':x.id.startsWith('extra')?'Bonus':'W'+x.id.slice(1,3);(by[w]=by[w]||{s:0,m:0});by[w].s+=ATT[x.id].score;by[w].m+=ATT[x.id].max});
   const A=xs.reduce((t,x)=>t+(ATT[x.id].byType||{}).A||0,0),K=xs.reduce((t,x)=>t+(ATT[x.id].byType||{}).K||0,0);
   const nA=xs.reduce((t,x)=>t+x.questions.filter(q=>q.type==='A').length,0),nK=xs.reduce((t,x)=>t+x.questions.filter(q=>q.type==='K').length,0);
   const QR=qResults(),dom={};Object.entries(QR).forEach(([k,v])=>{const q=QK[k];if(!q)return;const d=q.dom||'Other';(dom[d]=dom[d]||{s:0,m:0});dom[d].s+=v;dom[d].m+=1});
@@ -343,10 +344,34 @@ function progress(){
   <h2>All attempts</h2>${xs.map(rowH).join('')}
   <p class="note">${db?'Saved to your account.':'Saved on this device (browser storage).'}</p>`;
 }
-function setNav(w){[['nHome','home'],['nProg','prog'],['nMock','mock'],['nMis','mis']].forEach(([i,k])=>document.getElementById(i).setAttribute('aria-current',w===k))}
-function route(){if(TIMER){clearInterval(TIMER);TIMER=null}const h=location.hash.slice(1);if(h==='scores')progress();else if(h==='book'){bDone=false;bookHub()}else if(h.startsWith('book-')){if(bAns._id!==h.slice(5))bDone=false;bookSet(h.slice(5))}else if(h==='mock')mock();else if(h==='mistakes')mistakes();else if(h&&BY[h])lesson(h);else{home();const c=app.querySelector('.card.today');const n=Object.keys(BOOK).filter(k=>k!=='_weeks').reduce((t,k)=>t+BOOK[k].length,0);if(c&&n)c.insertAdjacentHTML('afterend',`<p style="margin:10px 0 0"><a class="btn ghost" href="#book" style="text-decoration:none;display:inline-block">📕 Benington book by topic (${n} Q) →</a></p>`)}scrollTo(0,0)}
+/* ---------- Janek otázky: verbatim questions from a friend (lessons/janek/) ---------- */
+let JLOCK=null;
+async function loadJanek(){let enc;try{const r=await fetch('janek.enc.json');if(!r.ok)return;enc=await r.json()}catch(e){return}
+  let pw=null;try{pw=localStorage.getItem('edic-janek-pw')}catch(e){}
+  if(!pw){JLOCK=enc;return}
+  try{DATA=DATA.concat(await jDec(enc,pw))}catch(e){JLOCK=enc}}
+async function jDec(enc,pw){const b=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
+  const km=await crypto.subtle.importKey('raw',new TextEncoder().encode(pw),'PBKDF2',false,['deriveKey']);
+  const k=await crypto.subtle.deriveKey({name:'PBKDF2',salt:b(enc.salt),iterations:enc.iter,hash:'SHA-256'},km,{name:'AES-GCM',length:256},false,['decrypt']);
+  return JSON.parse(new TextDecoder().decode(await crypto.subtle.decrypt({name:'AES-GCM',iv:b(enc.iv)},k,b(enc.ct))))}
+function janekLock(){setNav('aca');
+  app.innerHTML=`<h1>Janek otázky</h1><p class="sub">Private set – enter the password once on this device.</p>
+  <form id="jF" class="card" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center"><input id="jP" type="password" autocomplete="current-password" placeholder="Password" style="flex:1;min-width:180px;font:16px 'IBM Plex Sans',system-ui,sans-serif;padding:10px;border:1.5px solid var(--rule);border-radius:10px;background:var(--paper);color:var(--ink)"><button class="btn" type="submit">Unlock</button></form><p id="jM" class="note"></p>`;
+  document.getElementById('jF').onsubmit=async e=>{e.preventDefault();const pw=document.getElementById('jP').value.trim(),m=document.getElementById('jM');m.textContent='Checking…';
+    try{await jDec(JLOCK,pw);try{localStorage.setItem('edic-janek-pw',pw)}catch(e){}location.reload()}catch(err){m.style.color='var(--red)';m.textContent='Wrong password.'}}}
+function janek(){if(JLOCK){janekLock();return}setNav('aca');const xs=DATA.filter(x=>x.kind==='janek');
+  const n=xs.reduce((t,x)=>t+x.questions.length,0),done=xs.filter(x=>ATT[x.id]);
+  const byD={};xs.forEach(x=>{const d=(x.questions[0]||{}).dom||'Other';(byD[d]=byD[d]||[]).push(x)});
+  app.innerHTML=`<h1>Janek otázky</h1><p class="sub">Extra questions from Janek, word for word, with the original feedback and references. ${xs.length} set${xs.length===1?'':'s'} · ${n} questions${done.length?` · ${done.length} done`:''}. As in the original, a Type A question may have 4 options and a K′ question a different number of statements.</p>
+  ${xs.length?Object.entries(byD).map(([d,ys])=>`<div class="week"><h3>${esc(d)}</h3>${ys.map(rowH).join('')}</div>`).join(''):'<p class="note">No sets yet.</p>'}
+  ${n>=10?`<p style="margin-top:16px"><button class="btn ghost" id="aMix">Shuffle all Janek questions (${n})</button></p>`:''}`;
+  const b=document.getElementById('aMix');if(b)b.onclick=()=>{cur=virtualSet('janmix-'+Date.now(),'mis','Janek otázky – all shuffled',shuf(xs.flatMap(x=>x.questions)));answers={};submitted=false;tab='quiz';render();scrollTo(0,0)};
+}
+function setNav(w){[['nHome','home'],['nAca','aca'],['nProg','prog'],['nMock','mock'],['nMis','mis']].forEach(([i,k])=>document.getElementById(i).setAttribute('aria-current',w===k))}
+function route(){if(TIMER){clearInterval(TIMER);TIMER=null}const h=location.hash.slice(1);if(h==='scores')progress();else if(h==='book'){bDone=false;bookHub()}else if(h.startsWith('book-')){if(bAns._id!==h.slice(5))bDone=false;bookSet(h.slice(5))}else if(h==='janek')janek();else if(h==='mock')mock();else if(h==='mistakes')mistakes();else if(h&&BY[h])lesson(h);else{home();const c=app.querySelector('.card.today');const n=Object.keys(BOOK).filter(k=>k!=='_weeks').reduce((t,k)=>t+BOOK[k].length,0);if(c&&n)c.insertAdjacentHTML('afterend',`<p style="margin:10px 0 0"><a class="btn ghost" href="#book" style="text-decoration:none;display:inline-block">📕 Benington book by topic (${n} Q) →</a></p>`)}scrollTo(0,0)}
 document.getElementById('nHome').onclick=()=>{location.hash='';route()};
 document.getElementById('nProg').onclick=()=>{location.hash='scores'};
+document.getElementById('nAca').onclick=()=>{location.hash='janek'};
 document.getElementById('nMock').onclick=()=>{location.hash='mock'};
 document.getElementById('nMis').onclick=()=>{location.hash='mistakes'};
 addEventListener('hashchange',route);
@@ -356,6 +381,7 @@ addEventListener('hashchange',route);
   try{SRS=JSON.parse(localStorage.getItem('edic-srs')||'{}')}catch(e){SRS={}}
   try{DATA=await (await fetch('questions.json')).json()}catch(e){app.innerHTML='<p>Could not load questions.</p>';return}
   BOOK={}
+  await loadJanek();
   DATA.forEach(x=>{BY[x.id]=x;x.questions.forEach(q=>{q.src=x.id;QK[q.key]=q})});seedSRS();misBadge();route();
   if(window.claude){
     claude.use('sample').then(s=>{sample=s;if(cur&&tab==='quiz')app.querySelectorAll('[data-grade]').forEach(b=>b.hidden=!s)}).catch(()=>{});
