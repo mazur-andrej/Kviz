@@ -3067,7 +3067,14 @@ In high-risk patients with a failed cuff-leak test, corticosteroids ≥ 4 h befo
 
 **A – T, B – T, C – F, D – F.**
 
-Life-threatening features: PEF < 33 % best/predicted, SpO2 < 92 %, PaO2 < 8 kPa, "normal" PaCO2 (4.6–6.0 kPa), silent chest, cyanosis, poor respiratory effort, arrhythmia, exhaustion, altered consciousness, hypotension. HR ≥ 110/min, RR ≥ 25/min, PEF 33–50 % and inability to complete sentences define acute severe asthma. A raised PaCO2 or need for ventilation with raised pressures defines near-fatal asthma. Reference: British Thoracic Society/SIGN. British guideline on the management of asthma (SIGN 158), 2019; BTS/NICE/SIGN. Asthma: diagnosis, monitoring and chronic asthma management (NG245), 2024.
+- A (True) – SpO₂ < 92 % (or PaO₂ < 8 kPa) is a life-threatening feature.
+- B (True) – Arrhythmia is a life-threatening feature, as are hypotension, cyanosis, silent chest, poor respiratory effort, exhaustion, altered consciousness, PEF < 33 % and a "normal" PaCO₂ (4.6–6.0 kPa).
+- C (False) – Heart rate ≥ 110/min defines **acute severe** asthma, not life-threatening asthma.
+- D (False) – Respiratory rate ≥ 25/min is also a feature of **acute severe** asthma (with PEF 33–50 % and inability to complete sentences).
+
+**EDIC trap:** a raised PaCO₂ or the need for ventilation with raised inflation pressures defines **near-fatal** asthma.
+
+**Ref:** BTS/SIGN. British guideline on the management of asthma (SIGN 158), 2019 – acute section still current alongside BTS/NICE/SIGN NG245, 2024; GINA 2025.
 
 </details>
 
@@ -3082,7 +3089,14 @@ Life-threatening features: PEF < 33 % best/predicted, SpO2 < 92 %, PaO2 < 8 kPa,
 
 **A – F, B – F, C – F, D – F.**
 
-A – oxygen-driven nebulisers are used in hypoxaemic patients (target SpO2 94–98 %). B – oral prednisolone 40–50 mg is as effective as IV steroids if it can be swallowed and retained. C – most exacerbations are viral; antibiotics only with evidence of bacterial infection. D – sedatives are contraindicated outside a critical care setting because they depress respiratory drive. Reference: SIGN 158 British guideline on the management of asthma, 2019; Global Initiative for Asthma (GINA) report 2024.
+- A (False) – In acute severe asthma, nebulisers should be **oxygen-driven** to avoid hypoxaemia (target SpO₂ 94–98 % in BTS/SIGN; 93–95 % in GINA).
+- B (False) – Oral prednisolone 40–50 mg is as effective as IV hydrocortisone if it can be swallowed and retained.
+- C (False) – Most exacerbations are viral; antibiotics are given only with evidence of bacterial infection.
+- D (False) – Sedatives are contraindicated outside a critical care setting because they depress respiratory drive.
+
+**EDIC trap:** an all-false K′ item is unusual but possible – judge each statement on its own.
+
+**Ref:** BTS/SIGN. SIGN 158 British guideline on the management of asthma, 2019; GINA 2025.
 
 </details>
 
@@ -3098,7 +3112,18 @@ A – oxygen-driven nebulisers are used in hypoxaemic patients (target SpO2 94�
 
 **E.**
 
-She has acute severe asthma that has not responded adequately to initial bronchodilator therapy. A single dose of IV magnesium sulphate (1.2–2 g over 20 min) is recommended for acute severe asthma with a poor initial response (reduces admissions in some studies; 3MG found no benefit of nebulised magnesium). Aminophylline (B) is reserved for life-threatening/near-fatal asthma after senior review. She has no indications for intubation (exhaustion, rising PaCO2, altered consciousness). Heliox is not routinely recommended; chest X-ray should not delay treatment. Reference: SIGN 158 British guideline on the management of asthma, 2019; Kew KM, et al. Intravenous magnesium sulfate for treating adults with acute asthma in the emergency department. **Cochrane Database Syst Rev** 2014;(5):CD010909.
+**Why E:** She has acute severe asthma (PEF 45 %, HR 120, RR 28) that has not responded adequately to repeated bronchodilators and steroids. A single dose of IV magnesium sulphate (1.2–2 g over 20 min) is recommended in this situation (SIGN 158, GINA 2025); it reduces admissions in some patients, whereas nebulised magnesium showed no benefit in 3MG.
+
+**Why not the others:**
+
+- A – There is no exhaustion, rising PaCO₂ or altered consciousness, so intubation is not indicated.
+- B – IV aminophylline adds little bronchodilation and causes arrhythmias and vomiting; it is reserved for life-threatening asthma after senior review.
+- C – Heliox is not routinely recommended because evidence of benefit is lacking.
+- D – A chest X-ray is indicated for suspected pneumothorax/consolidation or failure to respond, but it must not delay treatment.
+
+**EDIC trap:** PaCO₂ 4.4 kPa is appropriately low here – it would be "normal" (≥ 4.6 kPa) that signals danger.
+
+**Ref:** SIGN 158, 2019; Kew KM, et al. *Cochrane Database Syst Rev* 2014;(5):CD010909; Goodacre S, et al. 3MG. *Lancet Respir Med* 2013;1:293–300.
 
 </details>
 
@@ -3114,7 +3139,18 @@ She has acute severe asthma that has not responded adequately to initial broncho
 
 **D.**
 
-Tachycardia ≥ 110/min is a feature of acute severe (not life-threatening) asthma. A "normal" PaCO2 (4.6–6.0 kPa) in a tachypnoeic asthmatic indicates fatigue and is life-threatening; SpO2 < 92 %, altered consciousness and PEF < 33 % are also life-threatening features. Bradycardia or hypotension are pre-terminal signs. Reference: SIGN 158 British guideline on the management of asthma, 2019; GINA 2024.
+**Why D:** Tachycardia ≥ 110/min is a feature of acute severe asthma, not of life-threatening asthma. Bradycardia or hypotension, by contrast, are pre-terminal signs.
+
+**Why not the others:**
+
+- A – A "normal" PaCO₂ (4.6–6.0 kPa) in a tachypnoeic asthmatic indicates fatigue and is life-threatening.
+- B – SpO₂ < 92 % on air is life-threatening.
+- C – Altered consciousness (confusion, drowsiness) is life-threatening.
+- E – PEF < 33 % of best or predicted is life-threatening.
+
+**EDIC trap:** previous ICU admission and running out of medication are risk factors for fatal asthma – keep a low threshold for ICU referral.
+
+**Ref:** BTS/SIGN. SIGN 158, 2019; GINA 2025.
 
 </details>
 
@@ -3130,7 +3166,18 @@ Tachycardia ≥ 110/min is a feature of acute severe (not life-threatening) asth
 
 **A.**
 
-Persistent respiratory acidosis (pH < 7.35, PaCO2 > 6.5 kPa) despite optimal medical therapy is the indication for NIV (strong recommendation, ERS/ATS 2017; BTS/ICS 2016). Target SpO2 88–92 % to avoid oxygen-induced hypercapnia (E is harmful). ERS 2022 suggests trying NIV before HFNO in hypercapnic COPD; HFNO with a high FiO2 (B) is inappropriate. Intubation is for NIV failure or contraindications; doxapram is only used when NIV is unavailable or inappropriate. Reference: Davidson AC, et al. BTS/ICS guideline for the ventilatory management of acute hypercapnic respiratory failure in adults. **Thorax** 2016;71(Suppl 2):ii1–ii35; Rochwerg B, et al. ERS/ATS NIV guidelines. **Eur Respir J** 2017;50:1602426.
+**Why A:** Persistent respiratory acidosis (pH < 7.35, PaCO₂ > 6.5 kPa) after optimal medical therapy for 1 hour is the indication for bilevel NIV in a monitored setting (strong recommendation, ERS/ATS 2017; BTS/ICS 2016). Oxygen should target SpO₂ 88–92 %.
+
+**Why not the others:**
+
+- B – ERS 2022 suggests trying NIV before HFNO in hypercapnic COPD, and an FiO₂ of 0.6 risks worsening hypercapnia.
+- C – He is alert without contraindications to NIV; intubation is for NIV failure or contraindications.
+- D – Doxapram is used only when NIV is unavailable or inappropriate.
+- E – Increasing oxygen to 60 % would worsen hypercapnia and acidosis.
+
+**EDIC trap:** a raised HCO₃⁻ (31 mmol/L) shows chronic compensation – the acute component is the pH, which decides NIV.
+
+**Ref:** Davidson AC, et al. BTS/ICS guideline. *Thorax* 2016;71(Suppl 2):ii1–ii35; Rochwerg B, et al. *Eur Respir J* 2017;50:1602426; Oczkowski S, et al. *Eur Respir J* 2022;59:2101574.
 
 </details>
 
@@ -3148,7 +3195,14 @@ Persistent respiratory acidosis (pH < 7.35, PaCO2 > 6.5 kPa) despite optimal med
 
 **A – T, B – T, C – T, D – F.**
 
-A – CAPE COD (n = 800, France): 28-day mortality 6.2 % vs 11.9 % with hydrocortisone 200 mg/day; ERS/ESICM 2023 suggests hydrocortisone in severe CAP with shock (SCCM 2024 recommends corticosteroids in severe CAP); avoid in influenza or uncontrolled fungal infection. B – the two major criteria are septic shock requiring vasopressors and invasive ventilation. C – pH < 7.2 (or frank pus, positive Gram stain/culture) indicates a complicated effusion/empyema needing drainage. D – β-lactam plus macrolide is recommended for severe CAP (ERS/ESICM 2023; ATS/IDSA 2019). Reference: Dequin PF, et al. CAPE COD. **N Engl J Med** 2023;388:1931–1941; Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT guidelines for the management of severe community-acquired pneumonia. **Intensive Care Med** 2023;49:615–632; Metlay JP, et al. ATS/IDSA CAP guideline. **Am J Respir Crit Care Med** 2019;200:e45–e67.
+- A (True) – CAPE COD (n = 800): hydrocortisone 200 mg/day reduced 28-day mortality (6.2 % vs 11.9 %) in severe CAP without shock or influenza; ATS 2025 and SCCM 2024 now support corticosteroids in severe CAP, ERS/ESICM 2023 suggested them if shock is present.
+- B (True) – The two major criteria are septic shock requiring vasopressors and respiratory failure requiring invasive ventilation.
+- C (True) – A pleural pH < 7.2 (or frank pus, or a positive Gram stain/culture) indicates a complicated effusion or empyema needing chest tube drainage.
+- D (False) – β-lactam plus macrolide **is** recommended in severe CAP (ERS/ESICM 2023; ATS/IDSA 2019).
+
+**EDIC trap:** corticosteroids should be avoided in influenza pneumonia and uncontrolled fungal infection.
+
+**Ref:** Dequin PF, et al. CAPE COD. *N Engl J Med* 2023;388:1931–1941; Martin-Loeches I, et al. *Intensive Care Med* 2023;49:615–632; Metlay JP, et al. *Am J Respir Crit Care Med* 2019;200:e45–e67; Jones BE, et al. ATS CAP guideline. *Am J Respir Crit Care Med* 2025.
 
 </details>
 
@@ -3164,7 +3218,18 @@ A – CAPE COD (n = 800, France): 28-day mortality 6.2 % vs 11.9 % with hydrocor
 
 **E.**
 
-PVL-associated necrotising pneumonia (young, post-influenza, haemoptysis, leucopenia, cavitation) has high mortality. UK guidance recommends toxin-suppressing agents: linezolid plus clindamycin and rifampicin (covering MRSA until susceptibilities are known), and considering IVIG to neutralise toxin. Flucloxacillin alone (A) lacks toxin suppression and misses MRSA; vancomycin (B) has poor lung penetration and does not suppress toxin production. Standard CAP regimens (C, D) do not reliably cover PVL-MRSA. Reference: Health Protection Agency (UKHSA). Guidance on the diagnosis and management of PVL-associated Staphylococcus aureus infections in England, 2nd ed., 2008 (updated); Gillet Y, et al. Factors predicting mortality in necrotizing community-acquired pneumonia caused by S. aureus containing PVL. **Clin Infect Dis** 2007;45:315–321.
+**Why E:** A young patient with a post-influenza illness, haemoptysis, leucopenia and cavitating multilobar consolidation has PVL-associated necrotising pneumonia, which carries high mortality. UK guidance recommends toxin-suppressing therapy – linezolid plus clindamycin and rifampicin, covering MRSA until susceptibilities are known – and considering IV immunoglobulin to neutralise toxin.
+
+**Why not the others:**
+
+- A – Flucloxacillin alone does not suppress toxin production and misses MRSA.
+- B – Vancomycin has poor lung penetration and does not suppress toxin production.
+- C – Co-amoxiclav plus clarithromycin does not reliably cover PVL-MRSA.
+- D – Ceftriaxone plus doxycycline is a standard CAP regimen that does not reliably cover PVL-MRSA.
+
+**EDIC trap:** leucopenia is a marker of poor prognosis in PVL pneumonia.
+
+**Ref:** Health Protection Agency (UKHSA). Guidance on the diagnosis and management of PVL-associated *S. aureus* infections in England, 2nd ed., 2008; Gillet Y, et al. *Clin Infect Dis* 2007;45:315–321.
 
 </details>
 
@@ -3180,7 +3245,18 @@ PVL-associated necrotising pneumonia (young, post-influenza, haemoptysis, leucop
 
 **B.**
 
-Pregnancy (especially the third trimester) and obesity were the leading risk factors for critical illness and death in the 2009 H1N1 pandemic, and pregnant women remain a high-risk group for seasonal influenza. Neuraminidase inhibitors should be started as soon as possible in any hospitalised or high-risk patient, regardless of symptom duration (benefit is still seen > 48 h). Corticosteroids are associated with higher mortality in influenza pneumonia. Imaging must not be withheld (shielded CXR/CT dose is low). The threshold for ICU review should be low. Reference: Uyeki TM, et al. Clinical practice guidelines by the IDSA: 2018 update on diagnosis, treatment, chemoprophylaxis and institutional outbreak management of seasonal influenza. **Clin Infect Dis** 2019;68:e1–e47; Siston AM, et al. Pandemic 2009 influenza A(H1N1) virus illness among pregnant women in the United States. **JAMA** 2010;303:1517–1525.
+**Why B:** Pregnancy, especially the third trimester, is a major risk factor for severe influenza, critical illness and death, as seen in the 2009 H1N1 pandemic. Oseltamivir should be started immediately in any hospitalised or high-risk patient regardless of symptom duration (benefit persists beyond 48 h), with early critical care review given her hypoxaemia and tachypnoea.
+
+**Why not the others:**
+
+- A – The 48-hour window does not apply to hospitalised or high-risk patients.
+- C – Corticosteroids are associated with higher mortality and superinfection in influenza pneumonia.
+- D – Imaging must not be withheld; with shielding, the fetal dose from a chest X-ray or CT is very low.
+- E – Pregnant patients deteriorate rapidly; waiting for P/F < 100 mmHg is far too late.
+
+**EDIC trap:** oseltamivir is safe in pregnancy – do not withhold it.
+
+**Ref:** Uyeki TM, et al. IDSA influenza guideline 2018 update. *Clin Infect Dis* 2019;68:e1–e47; Siston AM, et al. *JAMA* 2010;303:1517–1525.
 
 </details>
 
@@ -3199,11 +3275,18 @@ Pregnancy (especially the third trimester) and obesity were the leading risk fac
 
 **C.**
 
-DAS 2018: plan A (laryngoscopy, max 3 + 1) → B (2nd-gen SAD) → C (facemask) → D CICO → surgical cricothyroidotomy with scalpel–bougie–tube. Waking up is not an option in ICU patients with respiratory failure.
+**Why C:** Laryngoscopy (Plan A) and second-generation SAD (Plan B) have failed, facemask ventilation (Plan C) is impossible and SpO₂ is falling: this is a "can't intubate, can't oxygenate" (CICO) situation. DAS 2018 Plan D is immediate front-of-neck access with scalpel–bougie–tube cricothyroidotomy, after ensuring full neuromuscular blockade.
 
-**EDIC trap:** Use capnography at every step.
+**Why not the others:**
 
-**Ref:** Higgs A, et al. DAS ICU guidelines. *Br J Anaesth* 2018;120:323–352.
+- A – Further SAD attempts delay oxygenation; DAS limits the number of attempts.
+- B – Fibreoptic nasal intubation takes too long in a hypoxaemic CICO patient.
+- D – Waking up is rarely possible in ICU patients, whose underlying respiratory failure persists.
+- E – Needle cricothyroidotomy with jet ventilation has a high failure rate and risks barotrauma; it is not the recommended first choice.
+
+**EDIC trap:** declare "CICO" out loud and use capnography at every step to confirm success.
+
+**Ref:** Higgs A, et al. DAS/ICS/FICM/RCoA guidelines. *Br J Anaesth* 2018;120:323–352.
 
 </details>
 
@@ -3218,14 +3301,14 @@ DAS 2018: plan A (laryngoscopy, max 3 + 1) → B (2nd-gen SAD) → C (facemask) 
 
 **A – T, B – F, C – T, D – T.**
 
-- A (True) – DEVICE.
-- B (False) – BOUGIE – no improvement.
-- C (True) – PREOXI.
-- D (True) – PreVent.
+- A (True) – In DEVICE, video laryngoscopy increased first-attempt success (85.1 % vs 70.8 %) compared with direct laryngoscopy.
+- B (False) – In BOUGIE, routine bougie use did not improve first-attempt success (80.4 % vs 83.0 % with a stylet).
+- C (True) – In PREOXI, NIV preoxygenation reduced hypoxaemia from 18.5 % to 9.1 % compared with a facemask.
+- D (True) – In PreVent, bag-mask ventilation between induction and laryngoscopy halved severe hypoxaemia (10.9 % vs 22.8 %) without more aspiration.
 
-**EDIC trap:** Bougie – not routinely.
+**EDIC trap:** the bougie is a rescue tool for a difficult view, not a routine first-pass device.
 
-**Ref:** Prekker ME, et al. DEVICE. *N Engl J Med* 2023; Gibbs KW, et al. PREOXI. *N Engl J Med* 2024; Casey JD, et al. PreVent. *N Engl J Med* 2019.
+**Ref:** Prekker ME, et al. DEVICE. *N Engl J Med* 2023;389:418–429; Driver BE, et al. BOUGIE. *JAMA* 2021;326:2488–2497; Gibbs KW, et al. PREOXI. *N Engl J Med* 2024;390:2165–2177; Casey JD, et al. PreVent. *N Engl J Med* 2019;380:811–821.
 
 </details>
 
@@ -3241,11 +3324,18 @@ DAS 2018: plan A (laryngoscopy, max 3 + 1) → B (2nd-gen SAD) → C (facemask) 
 
 **C.**
 
-No difference in 28-day mortality; more peri-intubation cardiovascular collapse with ketamine.
+**Why C:** In the RSI trial, 28-day in-hospital mortality did not differ significantly between ketamine and etomidate (28.1 % vs 29.1 %). Peri-intubation cardiovascular collapse was more frequent with ketamine (22.1 % vs 17.0 %).
 
-**EDIC trap:** Neither induction agent is "haemodynamically safe" in shock – reduce the dose.
+**Why not the others:**
 
-**Ref:** Casey JD, et al. RSI trial. *N Engl J Med* 2025.
+- A – Ketamine did not reduce 28-day mortality.
+- B – Despite adrenal suppression, etomidate did not increase mortality.
+- D – Cardiovascular collapse was more frequent with ketamine, not etomidate.
+- E – The trial was not designed around first-attempt success, and the induction agent was not shown to improve it.
+
+**EDIC trap:** neither induction agent is "haemodynamically safe" in shock – reduce the dose and have a vasopressor ready.
+
+**Ref:** Casey JD, et al. Ketamine or etomidate (RSI trial). *N Engl J Med* 2025. doi:10.1056/NEJMoa2511420.
 
 </details>
 
@@ -3264,7 +3354,18 @@ No difference in 28-day mortality; more peri-intubation cardiovascular collapse 
 
 **C.**
 
-In the NTSP algorithm, once a non-patent tube has been removed, primary emergency oxygenation in a patient with a patent upper airway is via the mouth/nose (bag–mask, oral airway or supraglottic device) with the stoma covered; alternatively via the stoma (paediatric face mask or LMA over the stoma). Secondary manoeuvres are oral intubation or, by an experienced operator, stoma intubation (ideally fibreoptic-guided). Blind reinsertion through an immature (< 7–10 days) percutaneous tract risks false passage. Reference: McGrath BA, Bates L, Atkinson D, Moore JA; National Tracheostomy Safety Project. Multidisciplinary guidelines for the management of tracheostomy and laryngectomy airway emergencies. **Anaesthesia** 2012;67:1025–1041.
+**Why C:** In the NTSP algorithm, once a non-patent tube has been removed from a patient with a patent upper airway, primary emergency oxygenation is via the mouth and nose (bag–mask, oral airway or supraglottic device) with the stoma covered; the alternative is via the stoma (paediatric face mask or LMA over the stoma). Secondary manoeuvres are oral intubation or, by an experienced operator, stoma intubation, ideally fibreoptic-guided.
+
+**Why not the others:**
+
+- A – Blind reinsertion through an immature (< 7–10 days) percutaneous tract risks a false passage.
+- B – Needle cricothyroidotomy is not part of the algorithm when the upper airway and stoma are available.
+- D – Fibreoptic stoma intubation is a secondary, expert manoeuvre once oxygenation has been restored.
+- E – Help is called early, but waiting before acting risks hypoxic cardiac arrest.
+
+**EDIC trap:** "patent upper airway" vs "laryngectomy" decides whether the mouth can be used at all.
+
+**Ref:** McGrath BA, et al. NTSP guidelines. *Anaesthesia* 2012;67:1025–1041.
 
 </details>
 
@@ -3279,7 +3380,14 @@ In the NTSP algorithm, once a non-patent tube has been removed, primary emergenc
 
 **A – T, B – T, C – F, D – F.**
 
-A – capnography is mandatory for ventilated tracheostomy patients; absence of a trace indicates obstruction or displacement. B – this is the first step in the algorithm. C – after laryngectomy, the trachea is disconnected from the upper airway: oxygenate only via the stoma (and bedside signage must state this). D – immature tracts (particularly percutaneous) can close or allow false passage; reinsertion should be by an experienced operator with a fibreoptic scope or bougie, or the patient intubated orally. Reference: McGrath BA, et al. NTSP guidelines. **Anaesthesia** 2012;67:1025–1041.
+- A (True) – Waveform capnography is mandatory in ventilated tracheostomy patients; loss of a trace indicates obstruction or displacement.
+- B (True) – Applying oxygen to both the face and the stoma is the first step of the algorithm in a patient with a patent upper airway.
+- C (False) – After laryngectomy the trachea is disconnected from the upper airway, so oxygenation is only via the stoma (bedside signage must state this).
+- D (False) – An immature tract, especially after percutaneous insertion, can close or allow a false passage; reinsertion needs an experienced operator with a fibreoptic scope or bougie, or oral intubation.
+
+**EDIC trap:** "no trace = wrong place" applies to tracheostomies as much as to endotracheal tubes.
+
+**Ref:** McGrath BA, et al. NTSP guidelines. *Anaesthesia* 2012;67:1025–1041.
 
 </details>
 
@@ -3298,7 +3406,18 @@ A – capnography is mandatory for ventilated tracheostomy patients; absence of 
 
 **B.**
 
-She has a symptomatic secondary spontaneous pneumothorax (underlying lung disease, age > 50) of > 2 cm. BTS guidance favours intervention with a small-bore drain and admission; aspiration is reserved for smaller (1–2 cm), minimally symptomatic SSP, and observation alone or discharge is unsafe with significant symptoms and poor reserve. Small-bore drains are as effective as large-bore drains and better tolerated. Definitive surgery is considered for a persistent air leak (> 3–5 days) or recurrence. Reference: Roberts ME, et al. British Thoracic Society Guideline for pleural disease. **Thorax** 2023;78(Suppl 3):s1–s42; MacDuff A, et al. Management of spontaneous pneumothorax: BTS pleural disease guideline 2010. **Thorax** 2010;65(Suppl 2):ii18–ii31.
+**Why B:** She has a symptomatic secondary spontaneous pneumothorax (underlying COPD, age > 50) with a rim > 2 cm and poor respiratory reserve. BTS guidance favours intervention with a small-bore (≤ 14 F) drain and hospital admission; small-bore drains are as effective as large-bore drains and better tolerated.
+
+**Why not the others:**
+
+- A – Observation and discharge are unsafe with significant symptoms, hypoxaemia and poor reserve, especially living alone.
+- C – Aspiration is reserved for smaller (1–2 cm), minimally symptomatic SSP, and such patients are admitted rather than discharged.
+- D – A large-bore surgical drain offers no advantage and is more painful.
+- E – Surgery is considered for a persistent air leak (> 3–5 days) or recurrence, not first-line.
+
+**EDIC trap:** the conservative approach for PSP (Brown, NEJM 2020) does **not** apply to SSP.
+
+**Ref:** Roberts ME, et al. BTS Guideline for pleural disease. *Thorax* 2023;78(Suppl 3):s1–s42; MacDuff A, et al. BTS pleural disease guideline 2010. *Thorax* 2010;65(Suppl 2):ii18–ii31.
 
 </details>
 
@@ -3313,7 +3432,14 @@ She has a symptomatic secondary spontaneous pneumothorax (underlying lung diseas
 
 **A – T, B – T, C – T, D – F.**
 
-A, B – Light's criteria (any one = exudate): protein ratio > 0.5, LDH ratio > 0.6, or pleural LDH > 2/3 ULN serum LDH. C – diuresis concentrates pleural protein and LDH, so ~25 % of cardiac transudates are misclassified; the albumin gradient (or NT-proBNP) helps. D – frank pus indicates empyema needing drainage regardless of pH, and pus can damage the blood gas analyser; pH is measured in non-purulent fluid when infection is suspected (< 7.2 → drain). Reference: Light RW, et al. Pleural effusions: the diagnostic separation of transudates and exudates. **Ann Intern Med** 1972;77:507–513; Roberts ME, et al. BTS Guideline for pleural disease. **Thorax** 2023;78(Suppl 3):s1–s42.
+- A (True) – A pleural/serum protein ratio > 0.5 is one of Light's criteria; any one criterion classifies the fluid as an exudate.
+- B (True) – A pleural LDH greater than two-thirds of the upper limit of normal serum LDH is also a Light's criterion (as is an LDH ratio > 0.6).
+- C (True) – Diuresis concentrates pleural protein and LDH, so ~25 % of cardiac transudates are misclassified; a serum–pleural albumin gradient > 12 g/L (or raised NT-proBNP) favours a transudate.
+- D (False) – Frank pus indicates empyema needing drainage regardless of pH, and pus can damage the blood gas analyser; pH is measured in non-purulent fluid (< 7.2 → drain).
+
+**EDIC trap:** Light's criteria are highly sensitive for exudates but over-call them in patients on diuretics.
+
+**Ref:** Light RW, et al. *Ann Intern Med* 1972;77:507–513; Roberts ME, et al. BTS Guideline for pleural disease. *Thorax* 2023;78(Suppl 3):s1–s42.
 
 </details>
 
@@ -3331,7 +3457,14 @@ A, B – Light's criteria (any one = exudate): protein ratio > 0.5, LDH ratio > 
 
 **A – T, B – F, C – F, D – F.**
 
-A – at the ISB inspired gas reaches 37 °C and 100 % relative humidity (44 mg/L); intubation bypasses the upper airway and moves the ISB distally. B – HMEs are contraindicated with copious or bloody secretions (risk of occlusion), large leaks, hypothermia and very high minute ventilation; use a heated humidifier. C – extra flow from an external jet nebuliser adds to the delivered volume, alters FiO2 and can impair triggering; vibrating-mesh nebulisers add no gas. D – an HME must not be placed between the nebuliser and the patient (it filters the aerosol), and placing the nebuliser proximal to the HME wets it; remove the HME during nebulisation or use a heated humidifier. Reference: Restrepo RD, Walsh BK. Humidification during invasive and noninvasive mechanical ventilation: 2012 AARC clinical practice guideline. **Respir Care** 2012;57:782–788; Dhand R. Aerosol delivery during mechanical ventilation: from basic techniques to new devices. **J Aerosol Med Pulm Drug Deliv** 2008;21:45–60.
+- A (True) – The isothermic saturation boundary (ISB) is where inspired gas reaches 37 °C and 100 % relative humidity (44 mg/L). In health it lies a few centimetres below the carina. Intubation bypasses the upper airway and shifts it distally.
+- B (False) – HMEs are contraindicated with copious, thick or bloody secretions (occlusion risk), large leaks, hypothermia and very high minute ventilation. Use active heated humidification.
+- C (False) – Extra gas from an external jet nebuliser adds to delivered VT, changes FiO₂ and can impair triggering. Vibrating-mesh nebulisers add no gas.
+- D (False) – An HME between the nebuliser and the patient filters out the aerosol and gets wet. Remove the HME during nebulisation, or use a heated humidifier.
+
+**EDIC trap:** An HME and a nebuliser do not mix. Take out the HME or switch to a mesh nebuliser in the inspiratory limb.
+
+**Ref:** Restrepo RD, Walsh BK. *Respir Care* 2012;57:782–788; Dhand R. *J Aerosol Med Pulm Drug Deliv* 2008;21:45–60.
 
 </details>
 
@@ -3349,7 +3482,14 @@ A – at the ISB inspired gas reaches 37 °C and 100 % relative humidity (44 mg/
 
 **A – T, B – F, C – F, D – F.**
 
-A – Ppeak − Pplat = flow × resistance. B – static compliance = VT / (Pplat − total PEEP); using peak pressure gives "dynamic" compliance, which includes resistance. C – external PEEP up to ~80 % of PEEPi reduces the inspiratory threshold load without worsening hyperinflation; PEEP exceeding PEEPi adds to end-expiratory volume. D – PCV produces a decelerating flow pattern; volume control is usually constant flow. Reference: Hess DR. Respiratory mechanics in mechanically ventilated patients. **Respir Care** 2014;59:1773–1794; Marini JJ. Dynamic hyperinflation and auto-PEEP: two concepts that should be distinguished. **Am J Respir Crit Care Med** 2011;184:756–762.
+- A (True) – With constant flow, Ppeak − Pplat = flow × resistance. That covers the airways and the endotracheal tube.
+- B (False) – Static compliance = VT/(Pplat − total PEEP). Using peak pressure gives dynamic compliance, which includes resistance.
+- C (False) – External PEEP up to about 80 % of PEEPi lowers the inspiratory threshold load without worsening hyperinflation. PEEP well above PEEPi adds to end-expiratory volume.
+- D (False) – PCV gives a decelerating (exponential) flow pattern. Constant square-wave flow is typical of volume control.
+
+**EDIC trap:** In flow limitation, "PEEP below PEEPi" helps triggering. "PEEP above PEEPi" worsens hyperinflation.
+
+**Ref:** Hess DR. *Respir Care* 2014;59:1773–1794; Marini JJ. *Am J Respir Crit Care Med* 2011;184:756–762.
 
 </details>
 
@@ -3364,7 +3504,14 @@ A – Ppeak − Pplat = flow × resistance. B – static compliance = VT / (Ppla
 
 **A – T, B – T, C – T, D – T.**
 
-Raised intrathoracic pressure lowers LV transmural (afterload) pressure – beneficial in LV failure and cardiogenic pulmonary oedema – but reduces venous return by raising right atrial pressure. Overdistension compresses alveolar vessels and increases PVR, potentially causing acute cor pulmonale. Recruitment increases FRC and reduces shunt. The net effect on cardiac output depends on volume status and ventricular function. Reference: Mahmood SS, Pinsky MR. Heart–lung interactions during mechanical ventilation: the basics. **Ann Transl Med** 2018;6:349; Vieillard-Baron A, et al. Experts' opinion on management of hemodynamics in ARDS patients: focus on the effects of mechanical ventilation. **Intensive Care Med** 2016;42:739–749.
+- A (True) – Higher intrathoracic pressure lowers LV transmural pressure (afterload). That helps in LV failure and cardiogenic pulmonary oedema.
+- B (True) – Overdistension compresses alveolar vessels and raises PVR. RV afterload rises, with a risk of acute cor pulmonale.
+- C (True) – PEEP raises right atrial pressure, so the gradient for venous return (mean systemic filling pressure − RAP) falls.
+- D (True) – PEEP recruits collapsed alveoli and raises FRC, which reduces shunt and improves oxygenation.
+
+**EDIC trap:** The net effect on cardiac output depends on volume status and which ventricle is failing. PEEP can help LV failure and harm RV failure.
+
+**Ref:** Mahmood SS, Pinsky MR. *Ann Transl Med* 2018;6:349; Vieillard-Baron A, et al. *Intensive Care Med* 2016;42:739–749.
 
 </details>
 
@@ -3379,7 +3526,14 @@ Raised intrathoracic pressure lowers LV transmural (afterload) pressure – bene
 
 **A – T, B – F, C – T, D – F.**
 
-A – PaCO2 ∝ VCO2 / [VE × (1 − VD/VT)]. B – alveolar ventilation = RR × (VT − VD); with a fixed dead space, halving VT reduces alveolar ventilation even though minute ventilation is unchanged. C – basal alveoli start smaller, on a steeper part of the pressure–volume curve. D – elastances add (1/Crs = 1/CL + 1/Ccw), so respiratory system compliance is lower than either component. Reference: West JB, Luks AM. *West's Respiratory Physiology: The Essentials*, 11th ed. Wolters Kluwer 2021; Hess DR. **Respir Care** 2014;59:1773–1794.
+- A (True) – PaCO₂ ∝ VCO₂ / [VE × (1 − VD/VT)]. If MV is unchanged, a higher dead-space fraction means less alveolar ventilation and a higher PaCO₂.
+- B (False) – Alveolar ventilation = RR × (VT − VD). With a fixed dead space, halving VT lowers alveolar ventilation even though MV is unchanged.
+- C (True) – Basal alveoli start smaller, on the steep part of the pressure–volume curve, so they expand more per unit volume.
+- D (False) – Elastances add (E_rs = E_L + E_cw), so 1/C_rs = 1/C_L + 1/C_cw. Respiratory system compliance is lower than either component.
+
+**EDIC trap:** Rapid shallow breathing wastes ventilation on dead space. The same MV can mean a higher PaCO₂.
+
+**Ref:** West JB, Luks AM. *West's Respiratory Physiology: The Essentials*, 11th ed. Wolters Kluwer 2021; Hess DR. *Respir Care* 2014;59:1773–1794.
 
 </details>
 
@@ -3398,11 +3552,17 @@ A – PaCO2 ∝ VCO2 / [VE × (1 − VD/VT)]. B – alveolar ventilation = RR ×
 
 **B.**
 
-Ineffective efforts – the patient cannot overcome PEEPi. Excessive support (large VT, short expiratory time) worsens PEEPi; reduce PS/VT and add external PEEP below PEEPi.
+**Why B:** The small negative deflections and brief flow rises during expiration are ineffective efforts. The patient cannot lower alveolar pressure below the trigger threshold because of intrinsic PEEP. High PS (18 cmH₂O) gives large VT and short Te, which raises PEEPi. Reducing PS/VT (Thille 2008) and adding external PEEP below PEEPi both help.
+
+**Why not the others:**
+- A – More support means larger VT, more PEEPi and more ineffective efforts.
+- C – Maximal trigger sensitivity risks auto-triggering and does not remove the PEEPi threshold load.
+- D – A 5 % cycle-off prolongs inspiration and worsens hyperinflation.
+- E – Paralysis abolishes effort rather than correcting the setting, and it is not appropriate here.
 
 **EDIC trap:** More support usually makes ineffective efforts worse.
 
-**Ref:** Thille AW, et al. *Intensive Care Med* 2006;32:1515–1522.
+**Ref:** Thille AW, et al. *Intensive Care Med* 2006;32:1515–1522; Thille AW, et al. *Intensive Care Med* 2008;34:1477–1486.
 
 </details>
 
@@ -3417,14 +3577,14 @@ Ineffective efforts – the patient cannot overcome PEEPi. Excessive support (la
 
 **A – T, B – T, C – T, D – F.**
 
-- A (True) – AI = events/(ventilator cycles + ineffective efforts) × 100.
-- B (True) – Higher cycle-off % ends inspiration earlier.
-- C (True) – Beware auto-triggering in suspected brain death.
-- D (False) – Reverse triggering can lead to double triggering/breath stacking with hidden large VT.
+- A (True) – AI = asynchronous events / (ventilator cycles + ineffective efforts) × 100. An AI above 10 % is defined as severe (Thille 2006).
+- B (True) – A higher cycle-off (expiratory trigger) % ends inspiration earlier. That fixes delayed cycling caused by the long τ in COPD.
+- C (True) – Leaks and cardiac oscillations can falsely trigger breaths. In suspected brain death this can mimic respiratory drive.
+- D (False) – Reverse triggering can produce double triggering and breath stacking, with a hidden large VT.
 
-**EDIC trap:** Delayed cycling → raise cycle-off %; premature cycling → lower it.
+**EDIC trap:** Delayed cycling: raise cycle-off %. Premature cycling: lower it.
 
-**Ref:** Thille 2006; Blanch L, et al. *Intensive Care Med* 2015;41:633–641.
+**Ref:** Thille AW, et al. *Intensive Care Med* 2006;32:1515–1522; Blanch L, et al. *Intensive Care Med* 2015;41:633–641.
 
 </details>
 
@@ -3440,11 +3600,17 @@ Ineffective efforts – the patient cannot overcome PEEPi. Excessive support (la
 
 **B.**
 
-24 % of patients had AI > 10 %, mainly ineffective efforts and double triggering; this was associated with longer ventilation.
+**Why B:** Thille et al. studied 62 patients on assisted ventilation. Ineffective triggering and double triggering were the two dominant patterns. A quarter of patients (24 %) had an AI above 10 %, which was associated with longer ventilation (median 25 vs 7 days).
 
-**EDIC trap:** AI > 10 % is associated with longer ventilation and (observationally) higher mortality.
+**Why not the others:**
+- A – Auto-triggering and premature cycling were uncommon.
+- C – Reverse triggering was described later (Akoumianaki 2013) and was not a main pattern here. Flow starvation was not quantified.
+- D – Delayed cycling ("long cycles") and auto-triggering were minor contributors.
+- E – Trigger delay and premature cycling were not the main types.
 
-**Ref:** Thille AW, et al. *Intensive Care Med* 2006.
+**EDIC trap:** An AI above 10 % is associated with longer ventilation and, in observational studies, higher mortality.
+
+**Ref:** Thille AW, et al. *Intensive Care Med* 2006;32:1515–1522.
 
 </details>
 
@@ -3463,11 +3629,17 @@ Ineffective efforts – the patient cannot overcome PEEPi. Excessive support (la
 
 **C.**
 
-ΔP = 25 − 10 = 15. MP = 0.098 × 20 × 0.5 × (30 − 7.5) = 0.98 × 22.5 ≈ 22 J/min – above the ~17 J/min associated with higher mortality in observational data.
+**Why C:** ΔP = Pplat − PEEP = 25 − 10 = 15 cmH₂O. MP = 0.098 × 20 × 0.5 × (30 − 7.5) = 0.98 × 22.5 ≈ 22 J/min. That is above the ~17 J/min linked to higher mortality in observational data (Serpa Neto 2018).
+
+**Why not the others:**
+- A – Half the correct value (RR or VT halved).
+- B – Corresponds to a pressure term of about 17 cmH₂O (½ΔP + PEEP). It also matches the mortality threshold, which is the distractor.
+- D – Uses Ppeak (30) without subtracting ½ΔP.
+- E – Double the correct value (VT taken as 1 L).
 
 **EDIC trap:** The MP threshold comes from observational data, not RCTs.
 
-**Ref:** Gattinoni L, et al. *Intensive Care Med* 2016; Serpa Neto A, et al. *Intensive Care Med* 2018.
+**Ref:** Gattinoni L, et al. *Intensive Care Med* 2016;42:1567–1575; Serpa Neto A, et al. *Intensive Care Med* 2018;44:1914–1922.
 
 </details>
 
@@ -3482,14 +3654,14 @@ Ineffective efforts – the patient cannot overcome PEEPi. Excessive support (la
 
 **A – T, B – T, C – F, D – T.**
 
-- A (True) – P0.1 > 3.5 = high drive/effort (≤ 1 = low).
-- B (True) – Pmus ≈ −¾ × ΔPocc = 15 cmH₂O.
-- C (False) – Observational association only.
-- D (True) – P-SILI: large P_L swings, pendelluft, increased transvascular pressure.
+- A (True) – A P0.1 above 3.5 cmH₂O suggests high drive and potentially excessive effort. A value of 1 or less suggests low drive or over-assistance.
+- B (True) – Pmus ≈ −¾ × ΔPocc = 0.75 × 20 = 15 cmH₂O, which is high effort (above 10–15 cmH₂O).
+- C (False) – The ~17 J/min threshold comes from observational cohorts. No RCT has tested mechanical power as a target.
+- D (True) – P-SILI mechanisms are large transpulmonary pressure swings, pendelluft and higher pulmonary transvascular pressure (oedema).
 
-**EDIC trap:** High P0.1 on PS – think about under-assistance and P-SILI.
+**EDIC trap:** A high P0.1 on PS suggests under-assistance or high drive and a risk of P-SILI. Consider more support or sedation and treat the cause.
 
-**Ref:** Telias I, et al. *Am J Respir Crit Care Med* 2020; Bertoni M, et al. *Crit Care* 2019.
+**Ref:** Telias I, et al. *Am J Respir Crit Care Med* 2020;201:1086–1098; Bertoni M, et al. *Crit Care* 2019;23:346; Brochard L, et al. *Am J Respir Crit Care Med* 2017;195:438–442.
 
 </details>
 
@@ -3505,9 +3677,15 @@ Ineffective efforts – the patient cannot overcome PEEPi. Excessive support (la
 
 **B.**
 
-Strain = ΔV/FRC (EELV) – deformation relative to the size of the "baby lung"; stress (transpulmonary pressure) ≈ 13.5 × strain. Strain > 1.5 is harmful in animals.
+**Why B:** Strain is lung deformation: the volume change (tidal ± PEEP volume) relative to end-expiratory lung volume (FRC/EELV), the size of the "baby lung". Stress (transpulmonary pressure) ≈ specific lung elastance (about 13.5 cmH₂O) × strain. A strain above about 1.5 was injurious in animals.
 
-**EDIC trap:** VT per kg PBW is only a surrogate for strain.
+**Why not the others:**
+- A – Transpulmonary pressure per volume is an elastance, not strain.
+- C – Ppeak − Pplat reflects resistance.
+- D – VT per kg actual body weight is not strain, and it is not even the correct VT normalisation (that uses PBW).
+- E – RR × ΔP is a part of mechanical power, not strain.
+
+**EDIC trap:** VT per kg PBW is only a surrogate for strain. Aerated lung size varies widely in ARDS.
 
 **Ref:** Chiumello D, et al. *Am J Respir Crit Care Med* 2008;178:346–355.
 
@@ -3528,11 +3706,17 @@ Strain = ΔV/FRC (EELV) – deformation relative to the size of the "baby lung";
 
 **C.**
 
-Dynamic hyperinflation with high PEEPi reduces venous return; disconnection lets the lungs empty. Exclude tension pneumothorax, then use low RR, low VT, high flow, I:E ≥ 1:3 and accept hypercapnia.
+**Why C:** Hypotension soon after intubation in status asthmaticus is usually due to dynamic hyperinflation. High PEEPi reduces venous return. A brief disconnection (30–60 s) lets the lungs empty; if BP recovers, the diagnosis is confirmed. If not, look for and treat tension pneumothorax. Then use low RR, low VT, high inspiratory flow and I:E ≥ 1:3, and accept hypercapnia.
 
-**EDIC trap:** Hypotension after intubation in asthma = auto-PEEP or pneumothorax until proven otherwise.
+**Why not the others:**
+- A – Fluids may help venous return but do not remove the cause, which is trapped gas.
+- B – Extra PEEP in a passive asthmatic worsens hyperinflation.
+- D – Adrenaline treats the symptom and delays fixing the mechanical cause.
+- E – A higher RR shortens Te and worsens auto-PEEP.
 
-**Ref:** Leatherman J. Mechanical ventilation for severe asthma. *Chest* 2015;147:1671–1680.
+**EDIC trap:** Hypotension after intubation in asthma means auto-PEEP or pneumothorax until proven otherwise.
+
+**Ref:** Leatherman J. *Chest* 2015;147:1671–1680; Tuxen DV, Lane S. *Am Rev Respir Dis* 1987;136:872–879.
 
 </details>
 
@@ -3547,14 +3731,14 @@ Dynamic hyperinflation with high PEEPi reduces venous return; disconnection lets
 
 **A – T, B – T, C – T, D – F.**
 
-- A (True) – Lower minute ventilation – the most effective step.
-- B (True) – PEEPi = total PEEP − set PEEP.
-- C (True) – Counterbalances PEEPi.
-- D (False) – Aim Pplat < 30 (ideally < 25); end-inspiratory volume ≥ 1.4 L predicts complications.
+- A (True) – End-inspiratory volume and PEEPi depend mainly on minute ventilation. Lowering MV, mainly through RR, is the most effective step (Tuxen 1987).
+- B (True) – An end-expiratory hold in a passive patient gives total PEEP. PEEPi = total PEEP − set PEEP.
+- C (True) – In assisted ventilation of COPD with flow limitation, external PEEP below PEEPi offsets the threshold load and cuts triggering work.
+- D (False) – Aim for Pplat below 30 (ideally below 25) cmH₂O. An end-inspiratory volume of 1.4 L or more predicts hypotension and barotrauma (Williams 1992).
 
 **EDIC trap:** Lowering RR helps more than increasing inspiratory flow.
 
-**Ref:** Williams TJ, Tuxen DV, et al. *Am Rev Respir Dis* 1992;146:607–615.
+**Ref:** Williams TJ, Tuxen DV, et al. *Am Rev Respir Dis* 1992;146:607–615; Tuxen DV, Lane S. *Am Rev Respir Dis* 1987;136:872–879.
 
 </details>
 
@@ -3570,11 +3754,17 @@ Dynamic hyperinflation with high PEEPi reduces venous return; disconnection lets
 
 **B.**
 
-NIV is strongly recommended for acute hypercapnic COPD exacerbation with pH ≤ 7.35 (ERS/ATS 2017). There is no recommendation for NIV in asthma.
+**Why B:** pH 7.30 with PaCO₂ 9 kPa is acute hypercapnic respiratory failure in a COPD exacerbation. Bilevel NIV is strongly recommended when pH ≤ 7.35 (ERS/ATS 2017, high certainty). It reduces intubation and mortality, and the patient is alert, so NIV is not contraindicated.
 
-**EDIC trap:** pH ≤ 7.35 + hypercapnia = NIV.
+**Why not the others:**
+- A – The ERS 2022 HFNC guideline suggests trying NIV before HFNO in hypercapnic COPD. HFNO is an alternative only if NIV is not tolerated.
+- C – Intubation is for NIV failure or contraindications (coma, arrest, haemodynamic instability).
+- D – Controlled O₂ alone with delayed reassessment misses the window for NIV.
+- E – Doxapram is inferior to NIV and is not recommended as first-line.
 
-**Ref:** Rochwerg B, et al. ERS/ATS NIV guideline. *Eur Respir J* 2017;50:1602426.
+**EDIC trap:** pH ≤ 7.35 with hypercapnia means NIV. With a normal pH, NIV is suggested against.
+
+**Ref:** Rochwerg B, et al. *Eur Respir J* 2017;50:1602426; Oczkowski S, et al. *Eur Respir J* 2022;59:2101574.
 
 </details>
 
