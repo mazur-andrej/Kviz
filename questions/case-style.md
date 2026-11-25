@@ -3783,11 +3783,17 @@ In high-risk patients with a failed cuff-leak test, corticosteroids ≥ 4 h befo
 
 **D.**
 
-Uncomplicated *S. aureus* bacteraemia needs ≥ 14 days; BALANCE (7 days) excluded *S. aureus*. 4–6 weeks for complicated infection or endocarditis.
+**Why D:** *S. aureus* bacteraemia carries a high risk of endocarditis and metastatic foci. Even when uncomplicated (catheter removed, cultures negative within 72 h, no vegetations on TEE, no prosthetic material, prompt defervescence), IV therapy should continue for ≥ 14 days from the first negative blood culture.
+
+**Why not the others:**
+- A – 5 days is far too short and risks relapse and metastatic infection.
+- B – The 7-day course comes from BALANCE, which excluded *S. aureus* bacteraemia.
+- C – 10 days is still below the minimum for uncomplicated *S. aureus* bacteraemia.
+- E – 4–6 weeks is for complicated bacteraemia or endocarditis.
 
 **EDIC trap:** 7-day courses do not apply to *S. aureus*.
 
-**Ref:** Mermel LA, et al. *Clin Infect Dis* 2009; BALANCE. *N Engl J Med* 2025.
+**Ref:** Mermel LA, et al. IDSA. *Clin Infect Dis* 2009;49:1–45; BALANCE Investigators. *N Engl J Med* 2025;392:1065–1078.
 
 </details>
 
@@ -3802,14 +3808,14 @@ Uncomplicated *S. aureus* bacteraemia needs ≥ 14 days; BALANCE (7 days) exclud
 
 **A – T, B – F, C – T, D – F.**
 
-- A (True) – Do not treat.
-- B (False) – Start immediately; PCT helps to stop.
-- C (True) – SSC.
-- D (False) – Both criteria are needed (vasopressor and lactate > 2).
+- A (True) – *Candida* in airway secretions is almost always colonisation, and treatment is rarely indicated; *Candida* pneumonia is extremely rare.
+- B (False) – In suspected septic shock, start antimicrobials immediately; procalcitonin helps only to decide when to stop them.
+- C (True) – Hydrocortisone 200 mg/day is used in septic shock when noradrenaline ≥ 0.25 µg/kg/min is needed for ≥ 4 h.
+- D (False) – Sepsis-3 septic shock requires both a vasopressor to keep MAP ≥ 65 mmHg and lactate > 2 mmol/L despite adequate fluids.
 
 **EDIC trap:** Septic shock = vasopressor **and** lactate > 2 mmol/L.
 
-**Ref:** Surviving Sepsis Campaign 2026.
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026; Singer M, et al. Sepsis-3. *JAMA* 2016;315:801–810.
 
 </details>
 
@@ -3825,9 +3831,15 @@ Uncomplicated *S. aureus* bacteraemia needs ≥ 14 days; BALANCE (7 days) exclud
 
 **B.**
 
-Rezafungin is a long-acting echinocandin given once weekly; it was non-inferior to caspofungin.
+**Why B:** Rezafungin is a long-acting echinocandin with a long half-life, which allows once-weekly IV dosing. In ReSTORE it was non-inferior to daily caspofungin for day-30 all-cause mortality and for global cure at day 14.
 
-**EDIC trap:** It is still an echinocandin.
+**Why not the others:**
+- A – Rezafungin is given IV only.
+- C – Its main target is *Candida*; it is not an anti-*Aspergillus*-only drug.
+- D – ReSTORE showed non-inferiority, not superior mortality.
+- E – Rezafungin is an echinocandin, not an azole.
+
+**EDIC trap:** It is still an echinocandin, with the same spectrum as caspofungin.
 
 **Ref:** Thompson GR, et al. ReSTORE. *Lancet* 2023;401:49–59.
 
@@ -3848,11 +3860,17 @@ Rezafungin is a long-acting echinocandin given once weekly; it was non-inferior 
 
 **B.**
 
-In distributive shock, SvO₂/ScvO₂ is often normal or high because of microcirculatory shunting and impaired extraction. A high value is not reassurance.
+**Why B:** In distributive shock, microcirculatory shunting and impaired cellular O₂ extraction can keep ScvO₂ normal or high while tissues are hypoxic. A lactate of 5.0 mmol/L shows ongoing hypoperfusion or dysoxia, so a high ScvO₂ is not reassuring.
+
+**Why not the others:**
+- A – ScvO₂ > 70 % does not exclude tissue hypoxia when extraction is impaired.
+- C – A raised lactate in septic shock is expected and should not be dismissed as error.
+- D – Transfusion to raise an already high ScvO₂ has no rationale.
+- E – Dobutamine to push ScvO₂ even higher is not indicated.
 
 **EDIC trap:** Normal SvO₂ ≠ adequate tissue oxygenation.
 
-**Ref:** Cecconi M, et al. *Intensive Care Med* 2014.
+**Ref:** Cecconi M, et al. *Intensive Care Med* 2014;40:1795–1815.
 
 </details>
 
@@ -3867,14 +3885,14 @@ In distributive shock, SvO₂/ScvO₂ is often normal or high because of microci
 
 **A – T, B – T, C – F, D – T.**
 
-- A (True) – SCAI E.
-- B (True) – < 30 °C – no adrenaline.
-- C (False) – IM adrenaline 0.5 mg, repeat after 5 min; IV bolus only by experienced specialists.
-- D (True) – Lipid 1.5 mL/kg, prolonged CPR.
+- A (True) – SCAI stage E (extremis) includes ongoing CPR or ECMO and lactate ≥ 8 mmol/L.
+- B (True) – Below 30 °C, adrenaline is withheld; between 30 and 35 °C, the dosing interval is doubled.
+- C (False) – In anaphylaxis without arrest, give IM adrenaline 0.5 mg and repeat after 5 min; IV adrenaline is titrated only by experienced specialists.
+- D (True) – In LAST cardiac arrest, give 20 % lipid emulsion 1.5 mL/kg and continue CPR for a prolonged period.
 
-**EDIC trap:** Anaphylaxis = IM, not IV bolus.
+**EDIC trap:** Anaphylaxis = IM adrenaline, not an IV bolus.
 
-**Ref:** ERC Guidelines 2025.
+**Ref:** Naidu SS, et al. SCAI. *J Am Coll Cardiol* 2022;79:933–946; ERC Guidelines 2025. *Resuscitation* 2025.
 
 </details>
 
@@ -3890,9 +3908,15 @@ In distributive shock, SvO₂/ScvO₂ is often normal or high because of microci
 
 **D.**
 
-Tamponade raises right atrial pressure, so the IVC is almost always plethoric; a non-dilated IVC makes tamponade very unlikely.
+**Why D:** Tamponade raises right atrial pressure, so the IVC is almost always dilated and non-collapsing. A small, collapsing IVC therefore makes tamponade very unlikely.
 
-**EDIC trap:** Tamponade is a clinical diagnosis – effusion size alone does not decide.
+**Why not the others:**
+- A – Large effusions can be well tolerated if they accumulate slowly; size alone does not decide.
+- B – Right atrial systolic collapse is an early, sensitive sign of tamponade.
+- C – A plethoric, non-collapsing IVC is very sensitive for tamponade and supports it.
+- E – A swinging heart occurs with large effusions and supports tamponade.
+
+**EDIC trap:** Tamponade is a clinical diagnosis; effusion size alone does not decide.
 
 **Ref:** Robba C, et al. *Intensive Care Med* 2021.
 
@@ -3913,11 +3937,17 @@ Tamponade raises right atrial pressure, so the IVC is almost always plethoric; a
 
 **C.**
 
-PBW (men) = 50 + 0.91 × (180 − 152.4) ≈ 75 kg → 6 mL/kg ≈ 450 mL.
+**Why C:** PBW (men) = 50 + 0.91 × (180 − 152.4) = 50 + 25.1 ≈ 75 kg. 6 mL/kg × 75 kg ≈ 450 mL.
 
-**EDIC trap:** Measure the height – don't estimate it.
+**Why not the others:**
+- A – 360 mL corresponds to ~60 kg, an underestimate of PBW.
+- B – 410 mL corresponds to ~68 kg, a PBW calculation error.
+- D – 540 mL corresponds to ~90 kg, typical of using actual rather than predicted weight.
+- E – 600 mL is 8 mL/kg PBW, above the protective target.
 
-**Ref:** ARDS Network 2000.
+**EDIC trap:** Measure the height; don't estimate it, and never use actual weight.
+
+**Ref:** ARDS Network. *N Engl J Med* 2000;342:1301–1308.
 
 </details>
 
@@ -3932,14 +3962,14 @@ PBW (men) = 50 + 0.91 × (180 − 152.4) ≈ 75 kg → 6 mL/kg ≈ 450 mL.
 
 **A – T, B – F, C – T, D – F.**
 
-- A (True) – Strong recommendation.
-- B (False) – Strongly against.
-- C (True) – Esteban 2004.
-- D (False) – Long expiration – I:E ≥ 1:3.
+- A (True) – ESICM 2023 strongly recommends prone positioning for ≥ 16 h/day in ARDS with P/F < 150 mmHg (PROSEVA).
+- B (False) – ESICM 2023 strongly recommends against prolonged high-pressure recruitment manoeuvres.
+- C (True) – In Esteban 2004, NIV for established post-extubation failure did not prevent reintubation, delayed it, and increased ICU mortality (25 vs 14 %).
+- D (False) – In status asthmaticus, prolong expiration with an I:E ratio of 1:3 or longer to limit dynamic hyperinflation.
 
 **EDIC trap:** Rescue NIV after extubation is harmful.
 
-**Ref:** Guérin C, et al. PROSEVA. *N Engl J Med* 2013; Esteban A, et al. *N Engl J Med* 2004.
+**Ref:** Guérin C, et al. PROSEVA. *N Engl J Med* 2013;368:2159–2168; Esteban A, et al. *N Engl J Med* 2004;350:2452–2460; Grasselli G, et al. *Intensive Care Med* 2023;49:727–759.
 
 </details>
 
@@ -3955,11 +3985,17 @@ PBW (men) = 50 + 0.91 × (180 − 152.4) ≈ 75 kg → 6 mL/kg ≈ 450 mL.
 
 **B.**
 
-P0.1 ≤ 1 with a large VT and low RR suggests over-assistance (low drive); reduce support to avoid ineffective efforts and diaphragm disuse.
+**Why B:** A P0.1 of 0.6 cmH₂O (below ~1), with a large V_T and low RR, indicates low respiratory drive from over-assistance. Reducing pressure support restores effort, limits ineffective efforts and prevents diaphragm disuse atrophy.
 
-**EDIC trap:** Low P0.1 = over-assist; high P0.1 (> 3.5) = under-assist/high drive.
+**Why not the others:**
+- A – More pressure support worsens over-assistance.
+- C – Volume control removes the patient's effort and promotes disuse.
+- D – A sedative infusion would suppress an already low drive.
+- E – Raising PEEP to 12 cmH₂O does not address over-assistance.
 
-**Ref:** Telias I, et al. *Am J Respir Crit Care Med* 2020.
+**EDIC trap:** Low P0.1 = over-assistance; high P0.1 (> 3.5 cmH₂O) = under-assistance or high drive.
+
+**Ref:** Telias I, et al. *Am J Respir Crit Care Med* 2020;201:1086–1098.
 
 </details>
 

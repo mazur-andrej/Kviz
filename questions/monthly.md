@@ -1753,7 +1753,20 @@ Review: [W05/D2](#W05-D2), [W01/D3](#W01-D3)
 
 **E.**
 
-Hypotonic (< 275), urine osmolality > 100 (ADH active), U-Na⁺ ≤ 30 → low effective circulating volume (HF, cirrhosis, nephrotic syndrome); treatment in hypervolaemia = fluid restriction. SIAD requires euvolaemia and U-Na⁺ > 30; primary polydipsia has urine osmolality ≤ 100. ([W06/D1](#W06-D1))
+**Why E:** The serum is hypotonic (255 mOsm/kg) and a urine osmolality > 100 mOsm/kg shows that ADH is active. A urine Na⁺ ≤ 30 mmol/L without diuretics means the kidney is avidly retaining sodium because the *effective* arterial volume is low (cirrhosis, heart failure, nephrotic syndrome) despite total-body excess. Treat with fluid restriction and the underlying disease.
+
+**Why not the others:**
+
+- A – SIAD requires clinical euvolaemia and a urine Na⁺ > 30 mmol/L.
+- B – Secondary adrenal insufficiency (cortisol deficiency) behaves like SIAD, with urine Na⁺ > 30 mmol/L.
+- C – Primary polydipsia suppresses ADH, so urine osmolality would be ≤ 100 mOsm/kg.
+- D – Pseudohyponatraemia has a normal measured serum osmolality, not 255 mOsm/kg.
+
+**EDIC trap:** an oedematous, "overloaded" patient can still have a low effective circulating volume.
+
+**Ref:** Spasovski G, et al. Clinical practice guideline on hyponatraemia. *Intensive Care Med* 2014;40:320–331.
+
+Review: [W06/D1](#W06-D1)
 
 </details>
 
@@ -1768,7 +1781,16 @@ Hypotonic (< 275), urine osmolality > 100 (ADH active), U-Na⁺ ≤ 30 → low e
 
 **A – T, B – T, C – T, D – T.**
 
-C: vomiting = severe symptom (→ 150 mL 3 % NaCl over 20 min, repeated). Moderately severe symptoms = a single 150 mL 3 % NaCl over 20 min; aquaresis is the main cause of overcorrection. ([W06/D1](#W06-D1))
+- A (True) – Nausea without vomiting, confusion and headache are moderately severe symptoms: a single 150 mL infusion of 3 % saline over 20 min.
+- B (True) – Once the ADH stimulus (hypovolaemia, pain, nausea, drugs) is removed, aquaresis can raise Na⁺ uncontrollably – the main cause of overcorrection.
+- C (True) – Vomiting, seizures, somnolence, coma or cardiorespiratory distress are severe symptoms: 150 mL 3 % saline over 20 min, repeated until Na⁺ has risen by 5 mmol/L.
+- D (True) – In hypovolaemic hyponatraemia without severe symptoms, extracellular volume is restored with 0.9 % saline or a balanced crystalloid at 0.5–1 mL/kg/h.
+
+**EDIC trap:** whatever the protocol, limit the rise to 10 mmol/L in the first 24 h and 8 mmol/L per day thereafter.
+
+**Ref:** Spasovski G, et al. Clinical practice guideline on hyponatraemia. *Intensive Care Med* 2014;40:320–331.
+
+Review: [W06/D1](#W06-D1)
 
 </details>
 
@@ -1784,7 +1806,20 @@ C: vomiting = severe symptom (→ 150 mL 3 % NaCl over 20 min, repeated). Modera
 
 **A.**
 
-TBW = 30 L; 30 × (154/140 − 1) = 30 × 0.1 = **3.0 L**. Polyuria with urine osmolality < 300 = diabetes insipidus (after neurosurgery central – responds to desmopressin); acute hypernatraemia (< 48 h) can be corrected faster. ([W06/D1](#W06-D1))
+**Why A:** Free water deficit = TBW × (Na⁺/140 − 1) = 30 L × (154/140 − 1) = 30 × 0.1 = 3.0 L. Polyuria with dilute urine (< 300 mOsm/kg) after pituitary surgery points to central diabetes insipidus, which responds to desmopressin.
+
+**Why not the others:**
+
+- B – 1.5 L is half the correct value, e.g. from using a TBW of 15 L.
+- C – 4.5 L overestimates the deficit; it would need a TBW of 45 L.
+- D – 2.0 L underestimates it; with TBW 30 L it corresponds to Na⁺ ≈ 149 mmol/L.
+- E – 1.0 L would correspond to Na⁺ ≈ 145 mmol/L.
+
+**EDIC trap:** the formula ignores ongoing losses – add continuing urine output to the replacement plan.
+
+**Ref:** Adrogué HJ, Madias NE. Hypernatremia. *N Engl J Med* 2000;342:1493–1499.
+
+Review: [W06/D1](#W06-D1)
 
 </details>
 
@@ -1799,7 +1834,16 @@ TBW = 30 L; 30 × (154/140 − 1) = 30 × 0.1 = **3.0 L**. Polyuria with urine o
 
 **A – F, B – F, C – T, D – T.**
 
-B: 6.8 mmol (chloride) vs ~2.2 mmol (gluconate) per 10 mL → ~30 mL gluconate is equivalent. A: only a shift into cells, rebound. C: pre-treatment glucose < 7 mmol/L. ([W06/D2](#W06-D2), [W06/D3](#W06-D3))
+- A (False) – β₂-agonists only shift K⁺ into cells (onset ~30 min); total-body K⁺ is unchanged and rebound follows, so removal needs dialysis, diuresis or binders.
+- B (False) – 10 mL of 10 % CaCl₂ contains 6.8 mmol Ca²⁺ vs ~2.2 mmol in 10 mL of 10 % calcium gluconate; about 30 mL of gluconate is equivalent.
+- C (True) – With a pre-treatment glucose < 7 mmol/L, a 10 % glucose infusion at 50 mL/h for 5 h is suggested after insulin–glucose to prevent late hypoglycaemia.
+- D (True) – In rhabdomyolysis calcium deposits in damaged muscle and is released during recovery, so it is given only for symptoms or hyperkalaemia – the broad QRS here is such an indication.
+
+**EDIC trap:** calcium stabilises the membrane but does not lower K⁺.
+
+**Ref:** European Resuscitation Council. ERC Guidelines 2025: Special Circumstances in Resuscitation. *Resuscitation* 2025;215(Suppl 1):110753.
+
+Review: [W06/D2](#W06-D2), [W06/D3](#W06-D3)
 
 </details>
 
@@ -1815,7 +1859,20 @@ B: 6.8 mmol (chloride) vs ~2.2 mmol (gluconate) per 10 mL → ~30 mL gluconate i
 
 **E.**
 
-In vomiting the main K⁺ loss is **renal** (bicarbonaturia + secondary aldosteronism). Vomiting causes alkalosis, not acidosis. ([W06/D2](#W06-D2))
+**Why E:** Gastric fluid contains only ~5–10 mmol/L K⁺, so direct losses are small. Loss of HCl causes metabolic alkalosis; the filtered bicarbonate load exceeds reabsorption and reaches the distal nephron with Na⁺, while volume depletion activates aldosterone – together they drive renal K⁺ wasting. Treatment is 0.9 % saline plus KCl.
+
+**Why not the others:**
+
+- A – Gastric K⁺ concentration is low, so direct loss is only a minor contributor.
+- B – Poor intake contributes but cannot alone explain K⁺ 2.6 mmol/L over a few days.
+- C – Vomiting causes metabolic alkalosis, not acidosis.
+- D – Stool losses matter in diarrhoea, not in gastric outlet obstruction.
+
+**EDIC trap:** a low urine Cl⁻ (< 20 mmol/L) identifies chloride-responsive alkalosis even when urine Na⁺ is high from bicarbonaturia.
+
+**Ref:** Gennari FJ. Hypokalemia. *N Engl J Med* 1998;339:451–458.
+
+Review: [W06/D2](#W06-D2)
 
 </details>
 
@@ -1830,7 +1887,16 @@ In vomiting the main K⁺ loss is **renal** (bicarbonaturia + secondary aldoster
 
 **A – T, B – T, C – F, D – F.**
 
-A: serum level poorly reflects stores; Mg is effective even at a normal level. C: 1 g ≈ 4 mmol, so 2 g ≈ 8 mmol. D: it prolongs QT. B: a faster HR shortens QT. ([W06/D2](#W06-D2), [W08/D1](#W08-D1))
+- A (True) – Serum Mg²⁺ (< 1 % of body stores) poorly reflects deficits, and MgSO₄ 2 g IV suppresses torsade even at a normal level.
+- B (True) – Torsade is pause-dependent; raising the heart rate with isoprenaline or overdrive pacing shortens the QT and prevents recurrences.
+- C (False) – 1 g MgSO₄·7H₂O ≈ 4 mmol Mg²⁺, so 2 g ≈ 8 mmol, not 2 mmol.
+- D (False) – Amiodarone prolongs the QT and can perpetuate torsade; stop QT-prolonging drugs and keep K⁺ high-normal instead.
+
+**EDIC trap:** in torsade, give magnesium regardless of the serum level.
+
+**Ref:** Zeppenfeld K, et al. 2022 ESC Guidelines on ventricular arrhythmias. *Eur Heart J* 2022; Soar J, et al. ERC Guidelines 2025: Adult Advanced Life Support. *Resuscitation* 2025;215(Suppl 1):110769.
+
+Review: [W06/D2](#W06-D2), [W08/D1](#W08-D1)
 
 </details>
 
@@ -1846,7 +1912,20 @@ A: serum level poorly reflects stores; Mg is effective even at a normal level. C
 
 **B.**
 
-Total Ca / iCa²⁺ ratio = 2.60 / 0.90 ≈ **2.9** (> ~2.5) + ↓ iCa²⁺ + high-AG acidosis = citrate accumulation (liver failure, shock). ([W06/D3](#W06-D3))
+**Why B:** Citrate chelates calcium and is normally metabolised by the liver to bicarbonate. In liver failure or shock it accumulates: calcium–citrate complexes raise total calcium while ionised calcium falls, so the total/ionised ratio exceeds ~2.5 (here ≈ 2.9), and unmetabolised citrate causes a high anion gap acidosis. Reduce the citrate dose or change the anticoagulant.
+
+**Why not the others:**
+
+- A – Primary hyperparathyroidism raises ionised calcium rather than lowering it.
+- C – Alkalosis lowers iCa²⁺ slightly but does not raise total calcium, and this patient is acidotic.
+- D – Vitamin D intoxication raises ionised calcium.
+- E – Hypercalcaemia of malignancy also raises ionised calcium.
+
+**EDIC trap:** a "normal" or high total calcium with low iCa²⁺ on citrate CRRT – look at the ratio, not total calcium.
+
+**Ref:** Walker MD, Shane E. Hypercalcemia: A Review. *JAMA* 2022;328:1624–1636; KDIGO AKI guideline 2012.
+
+Review: [W06/D3](#W06-D3)
 
 </details>
 
@@ -1861,7 +1940,16 @@ Total Ca / iCa²⁺ ratio = 2.60 / 0.90 ≈ **2.9** (> ~2.5) + ↓ iCa²⁺ + hi
 
 **A – T, B – T, C – T, D – T.**
 
-A: ≥ 3.5 mmol/L. C: granulomatous disease. B: a bridge. D: hypercalcaemia shortens QT. Mainstay: IV isotonic fluid + IV bisphosphonate. ([W06/D3](#W06-D3))
+- A (True) – Total calcium ≥ 3.5 mmol/L is severe hypercalcaemia, and confusion makes it symptomatic.
+- B (True) – Calcitonin lowers calcium within 4–6 h, but tachyphylaxis limits its effect to ~48 h; it bridges until bisphosphonates act after 2–4 days.
+- C (True) – Granulomas express 1α-hydroxylase and produce calcitriol, so the hypercalcaemia is vitamin D–mediated and responds to glucocorticoids.
+- D (True) – Hypercalcaemia shortens the QT interval (mainly the ST segment) and can cause bradyarrhythmias.
+
+**EDIC trap:** the mainstay is IV isotonic saline plus an IV bisphosphonate (or denosumab); loop diuretics only after volume repletion.
+
+**Ref:** Walker MD, Shane E. Hypercalcemia: A Review. *JAMA* 2022;328:1624–1636.
+
+Review: [W06/D3](#W06-D3)
 
 </details>
 
@@ -1877,7 +1965,18 @@ A: ≥ 3.5 mmol/L. C: granulomatous disease. B: a bridge. D: hypercalcaemia shor
 
 **A.**
 
-High risk (BMI < 16 and > 10 days of minimal intake) → max. 10 kcal/kg/d = **500 kcal/d**; thiamine before starting feeding, prophylactic K⁺, PO₄, Mg²⁺ supplementation. ([W06/D3](#W06-D3))
+**Why A:** NICE CG32 defines high risk as one major criterion (BMI < 16 kg/m², weight loss > 15 % in 3–6 months, little or no intake for > 10 days, low K⁺/PO₄/Mg²⁺ before feeding) or two minor ones. She meets two major criteria, so feeding starts at no more than 10 kcal/kg/day = 500 kcal/day, with thiamine before feeding and K⁺, PO₄ and Mg²⁺ supplementation.
+
+**Why not the others:**
+
+- B – 250 kcal/day (5 kcal/kg/day) is reserved for extreme cases – BMI < 14 or negligible intake > 15 days.
+- C – 1000 kcal/day (20 kcal/kg/day) is too much for a high-risk start.
+- D – 1500 kcal/day (30 kcal/kg/day) is close to full requirements and risks refeeding syndrome.
+- E – 1250 kcal/day (25 kcal/kg/day) is also far above the cap.
+
+**Ref:** NICE CG32. Nutrition support for adults. 2006, updated 2017.
+
+Review: [W06/D3](#W06-D3)
 
 </details>
 
@@ -1892,7 +1991,14 @@ High risk (BMI < 16 and > 10 days of minimal intake) → max. 10 kcal/kg/d = **5
 
 **A – T, B – F, C – F, D – F.**
 
-B: respiratory alkalosis activates glycolysis and shifts phosphate into cells → hypophosphataemia. C: the restricted arm received 20 kcal/h for at least 2 days. D: at least daily in the first week; 2–3× daily in refeeding hypophosphataemia. ([W06/D3](#W06-D3))
+- A (True) – Phosphate is small and freely filtered, so CRRT removes it continuously; hypophosphataemia is common unless phosphate-containing solutions are used.
+- B (False) – Respiratory alkalosis activates phosphofructokinase and glycolysis, shifting phosphate *into* cells and causing hypophosphataemia (e.g. sepsis, alcohol withdrawal).
+- C (False) – In Doig's trial the restricted arm received 20 kcal/h for at least 2 days, then returned gradually to full feeding; 60-day survival improved as a secondary outcome.
+- D (False) – ESPEN 2019 advises measuring phosphate at least daily in the first week, 2–3 times daily in refeeding hypophosphataemia, and restricting energy for 48 h.
+
+**Ref:** Doig GS, et al. *Lancet Respir Med* 2015;3:943–952; Singer P, et al. ESPEN ICU guideline. *Clin Nutr* 2019;38:48–79.
+
+Review: [W06/D3](#W06-D3)
 
 </details>
 
@@ -1908,7 +2014,20 @@ B: respiratory alkalosis activates glycolysis and shifts phosphate into cells �
 
 **A.**
 
-Stage D (deteriorating) – hypoperfusion worsens despite initial support, vasopressor escalation/MCS being considered. Stage E would require circulatory collapse/CPR or typically lactate ≥ 8 mmol/L. ([W07/D1](#W07-D1))
+**Why A:** SCAI stage D (deteriorating) describes a patient already on initial support whose hypoperfusion worsens – rising lactate, escalating vasopressors and the need to consider MCS. This patient is on noradrenaline and dobutamine, lactate has risen from 3.1 to 5.8 mmol/L and MCS is being discussed, without cardiac arrest or collapse.
+
+**Why not the others:**
+
+- B – Stage C (classic) is hypoperfusion requiring initial intervention without deterioration despite it.
+- C – Stage E (extremis) means circulatory collapse, ongoing CPR or ECMO, often with lactate ≥ 8 mmol/L.
+- D – Stage A (at risk) has no haemodynamic compromise or hypoperfusion.
+- E – Stage B (beginning) has hypotension or tachycardia without hypoperfusion.
+
+**EDIC trap:** cardiac arrest is an "A" *modifier* added to any stage, not stage A.
+
+**Ref:** Naidu SS, et al. SCAI SHOCK Stage Classification update. *J Am Coll Cardiol* 2022;79:933–946.
+
+Review: [W07/D1](#W07-D1)
 
 </details>
 
@@ -1924,7 +2043,20 @@ Stage D (deteriorating) – hypoperfusion worsens despite initial support, vasop
 
 **D.**
 
-High RAP with normal/low PCWP (high RAP/PCWP ratio) = predominant RV failure; no step-up (VSR) and no v waves (acute MR). Treatment: maintain preload, avoid nitrates and diuretics, AV synchrony. ([W07/D1](#W07-D1), [W07/D3](#W07-D3))
+**Why D:** A high RAP (17 mmHg) with a normal PCWP (9 mmHg) – RAP/PCWP ratio > 0.8 – plus low cardiac index, clear lungs and raised JVP after inferior STEMI indicates predominant RV failure from RV infarction. Maintain preload, avoid nitrates and diuretics, restore AV synchrony and reperfuse early.
+
+**Why not the others:**
+
+- A – Ventricular septal rupture produces an oxygen saturation step-up between RA and PA.
+- B – Distributive shock has a normal or high cardiac index with low filling pressures.
+- C – "Cold and wet" LV failure has a raised PCWP and pulmonary congestion.
+- E – Acute MR causes large v waves, a high PCWP and pulmonary oedema.
+
+**EDIC trap:** RV infarction is preload-dependent – nitrates can cause profound hypotension.
+
+**Ref:** Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. *Eur Heart J* 2023;44:3720–3826.
+
+Review: [W07/D1](#W07-D1), [W07/D3](#W07-D3)
 
 </details>
 
@@ -1939,7 +2071,16 @@ High RAP with normal/low PCWP (high RAP/PCWP ratio) = predominant RV failure; no
 
 **A – T, B – T, C – F, D – F.**
 
-B: 60 × 3.0 / 451 = 0.40 W. C: (30 − 18) / 15 = 0.8. D: low PAPi = RV failure. ([W07/D1](#W07-D1))
+- A (True) – Cardiac power output integrates pressure and flow and was the strongest haemodynamic predictor of in-hospital mortality in the SHOCK trial registry; values < 0.6 W are adverse.
+- B (True) – CPO = MAP × CO / 451 = 60 × 3.0 / 451 ≈ 0.40 W, well below 0.6 W.
+- C (False) – PAPi = (sPAP − dPAP) / RAP = (30 − 18) / 15 = 0.8, not 2.0.
+- D (False) – A low PAPi indicates right ventricular failure and helps identify patients who may need RV support.
+
+**EDIC trap:** the RAP is in the PAPi denominator – a high RAP lowers PAPi.
+
+**Ref:** Fincke R, et al. *J Am Coll Cardiol* 2004;44:340–348; Naidu SS, et al. *J Am Coll Cardiol* 2022;79:933–946.
+
+Review: [W07/D1](#W07-D1)
 
 </details>
 
@@ -1955,7 +2096,20 @@ B: 60 × 3.0 / 451 = 0.40 W. C: (30 − 18) / 15 = 0.8. D: low PAPi = RV failure
 
 **A.**
 
-ECLS-SHOCK: 47.8 vs 49.0 %; BARC 3–5 bleeding 23.4 vs 9.6 %. IABP-SHOCK II negative; DanGer Shock excluded comatose OHCA survivors; IPD meta-analysis ↑ vascular complications (OR 3.53); EARLY-UNLOAD 46.6 vs 44.8 % (NS). ([W07/D2](#W07-D2))
+**Why A:** ECLS-SHOCK (n = 420) enrolled AMI-related cardiogenic shock with lactate > 3 mmol/L and planned revascularisation. Routine early VA-ECMO did not reduce 30-day mortality (47.8 vs 49.0 %) but increased moderate or severe (BARC 3–5) bleeding (23.4 vs 9.6 %).
+
+**Why not the others:**
+
+- B – EARLY-UNLOAD found no mortality difference with routine transseptal LA venting (46.6 vs 44.8 %).
+- C – The IPD meta-analysis (4 RCTs, 567 patients) showed *more* vascular complications (OR 3.53) and major bleeding with ECMO.
+- D – DanGer Shock enrolled STEMI-related shock and excluded comatose OHCA survivors.
+- E – IABP-SHOCK II showed no reduction in 30-day mortality with IABP.
+
+**EDIC trap:** DanGer Shock is the only positive MCS trial (180-day mortality 45.8 vs 58.5 %), in a highly selected population.
+
+**Ref:** Thiele H, et al. ECLS-SHOCK. *N Engl J Med* 2023;389:1286–1297; Zeymer U, et al. *Lancet* 2023.
+
+Review: [W07/D2](#W07-D2)
 
 </details>
 
@@ -1970,7 +2124,16 @@ ECLS-SHOCK: 47.8 vs 49.0 %; BARC 3–5 bleeding 23.4 vs 9.6 %. IABP-SHOCK II neg
 
 **A – T, B – F, C – T, D – T.**
 
-B: it increases LV afterload → risk of LV distension. ([W07/D2](#W07-D2))
+- A (True) – Higher retrograde flow pushes the mixing zone towards the aortic root, but it also raises LV afterload, risking LV distension and pulmonary oedema.
+- B (False) – Retrograde aortic flow *increases* LV afterload; LV distension, aortic valve closure, stasis and thrombus may follow, so unloading (IABP, microaxial pump, venting) may be needed.
+- C (True) – The right radial artery is supplied via the brachiocephalic trunk by blood ejected from the native heart – the blood reaching the brain and coronaries – and reveals hypoxaemia from failing lungs.
+- D (True) – A distal perfusion cannula into the superficial femoral artery perfuses the leg beyond the arterial cannula and prevents limb ischaemia.
+
+**EDIC trap:** a left-arm or femoral sample can look reassuring while the brain receives desaturated blood.
+
+**Ref:** Køber L, et al. 2026 ESC Guidelines for the management of heart failure. *Eur Heart J* 2026;47:5346–5457. Thiele H, et al. ECLS-SHOCK. *N Engl J Med* 2023.
+
+Review: [W07/D2](#W07-D2)
 
 </details>
 
@@ -1986,7 +2149,20 @@ B: it increases LV afterload → risk of LV distension. ([W07/D2](#W07-D2))
 
 **A.**
 
-COMPLETE (stable STEMI): CV death or MI 7.8 vs 10.5 % (HR 0.74). CULPRIT-SHOCK applies to **shock** (culprit lesion only during the index procedure). The presence of shock decides. ([W07/D3](#W07-D3))
+**Why A:** In haemodynamically stable STEMI with multivessel disease, COMPLETE (n = 4041) showed that complete revascularisation reduced cardiovascular death or MI compared with culprit-only PCI (7.8 vs 10.5 %, HR 0.74). ESC 2023 recommends complete revascularisation in this setting.
+
+**Why not the others:**
+
+- B – Waiting for shock is wrong; and in shock CULPRIT-SHOCK supports culprit-only PCI at the index procedure.
+- C – Routine IABP has no proven benefit and is not indicated in a stable patient.
+- D – Fibrinolysis has no role for stable non-culprit lesions after successful PCI.
+- E – CULPRIT-SHOCK enrolled patients in cardiogenic shock, so it does not apply to stable patients.
+
+**EDIC trap:** the presence of shock decides – shock → culprit-only; stable → complete revascularisation.
+
+**Ref:** Mehta SR, et al. COMPLETE. *N Engl J Med* 2019;381:1411–1421; Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. *Eur Heart J* 2023;44:3720–3826.
+
+Review: [W07/D3](#W07-D3)
 
 </details>
 
@@ -2001,7 +2177,16 @@ COMPLETE (stable STEMI): CV death or MI 7.8 vs 10.5 % (HR 0.74). CULPRIT-SHOCK a
 
 **A – T, B – T, C – F, D – F.**
 
-C: IABP/MCS as a bridge – should be considered. D: free wall rupture typically presents with sudden tamponade and PEA. ([W07/D3](#W07-D3))
+- A (True) – The posteromedial papillary muscle has a single supply from the PDA, so most papillary muscle ruptures follow inferior or posterior MI; the anterolateral muscle has a dual supply.
+- B (True) – Basal VSR after inferior MI is more complex (serpiginous), often accompanied by RV infarction and MR, and carries a worse prognosis than apical VSR after anterior MI.
+- C (False) – IABP or other MCS should be considered as a bridge to surgery in VSR (ESC 2023); it reduces afterload and the left-to-right shunt.
+- D (False) – Free wall rupture typically presents suddenly with haemopericardium, tamponade and PEA, not with gradually progressive heart failure.
+
+**EDIC trap:** a new murmur with shock after MI → urgent echo; surgery is the treatment of choice for mechanical complications.
+
+**Ref:** Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. *Eur Heart J* 2023;44:3720–3826.
+
+Review: [W07/D3](#W07-D3)
 
 </details>
 
@@ -2017,7 +2202,18 @@ C: IABP/MCS as a bridge – should be considered. D: free wall rupture typically
 
 **C.**
 
-Milrinone (PDE-3 inhibitor) accumulates in renal failure and causes hypotension. In DOREMI milrinone and dobutamine did not differ (49 vs 54 %, NS). ([W07/D4](#W07-D4))
+**Why C:** Milrinone, a PDE-3 inhibitor, is cleared by the kidneys; in AKI its half-life lengthens markedly, causing accumulation, vasodilatation with hypotension, and arrhythmias, so the dose must be reduced or the drug avoided. The catecholamines are metabolised by MAO and COMT with half-lives of minutes, independent of renal function. DOREMI found no difference between milrinone and dobutamine (49 vs 54 %, NS).
+
+**Why not the others:**
+
+- A – Noradrenaline is cleared by neuronal uptake and MAO/COMT, with a half-life of ~2–3 min.
+- B – Adrenaline is also rapidly metabolised; its concerns are lactate and arrhythmias, not accumulation.
+- D – Dobutamine is metabolised by COMT, with a half-life of ~2 min.
+- E – Dopamine is metabolised by MAO/COMT; its concern is arrhythmias (SOAP II).
+
+**Ref:** Mathew R, et al. DOREMI. *N Engl J Med* 2021;385:516–525.
+
+Review: [W07/D4](#W07-D4)
 
 </details>
 
@@ -2033,7 +2229,18 @@ Milrinone (PDE-3 inhibitor) accumulates in renal failure and causes hypotension.
 
 **A.**
 
-ESC 2026: acute pulmonary oedema = mainly **fluid redistribution** (↑ afterload) → fewer diuretics, more vasodilators (IV vasodilators with SBP > 110 – IIb); ESC/ESH 2018: pulmonary oedema – SBP < 140 immediately (nitroglycerin/nitroprusside + loop diuretic). No routine opioids (III). ([W07/D4](#W07-D4), [W08/D4](#W08-D4))
+**Why A:** Sudden pulmonary oedema with high BP and unchanged weight reflects redistribution of fluid into the lungs caused by high afterload, not total-body overload. ESC 2026 suggests IV vasodilators as initial therapy when SBP > 110 mmHg (IIb), with early NIV; ESC/ESH 2018 targets SBP < 140 mmHg immediately with nitroglycerin or nitroprusside plus a loop diuretic.
+
+**Why not the others:**
+
+- B – Routine opioids are class III because of respiratory depression and more mechanical ventilation.
+- C – BP is high and there is no hypoperfusion, so this is not cardiogenic shock and inotropes are not indicated.
+- D – Her weight is unchanged, so high-dose diuretics are not the main therapy.
+- E – This is left-sided failure with pulmonary oedema; a fluid bolus would worsen it.
+
+**Ref:** Køber L, et al. 2026 ESC Guidelines for the management of heart failure. *Eur Heart J* 2026;47:5346–5457. Williams B, et al. 2018 ESC/ESH Guidelines for arterial hypertension. *Eur Heart J* 2018;39:3021–3104.
+
+Review: [W07/D4](#W07-D4), [W08/D4](#W08-D4)
 
 </details>
 
@@ -2048,7 +2255,14 @@ ESC 2026: acute pulmonary oedema = mainly **fluid redistribution** (↑ afterloa
 
 **A – F, B – T, C – F, D – F.**
 
-A: I, A. B: 42.2 vs 30.5 %. C: ultrafiltration may be considered only for refractory congestion (IIb, C). D: III, C. ([W07/D4](#W07-D4))
+- A (False) – IV loop diuretics are recommended for all patients with fluid overload – class I, A in ESC 2026.
+- B (True) – ADVOR (n = 519): IV acetazolamide 500 mg daily added to loop diuretics increased successful decongestion within 3 days (42.2 vs 30.5 %); ESC 2026 gives it IIa.
+- C (False) – Ultrafiltration may be considered only for congestion refractory to diuretics (IIb, C), not as first-line therapy.
+- D (False) – Routine opioids are class III, C because of respiratory depression and more mechanical ventilation.
+
+**Ref:** Køber L, et al. 2026 ESC Guidelines for the management of heart failure. *Eur Heart J* 2026;47:5346–5457. Mullens W, et al. ADVOR. *N Engl J Med* 2022;387:1185–1195.
+
+Review: [W07/D4](#W07-D4)
 
 </details>
 
@@ -2063,7 +2277,16 @@ A: I, A. B: 42.2 vs 30.5 %. C: ultrafiltration may be considered only for refrac
 
 **A – T, B – F, C – T, D – T.**
 
-B: no fixed BP threshold is defined – "normotensive CS". C: I, C. ([W07/D1](#W07-D1))
+- A (True) – Lactate > 2 mmol/L supports the diagnosis of hypoperfusion from a primary cardiac cause.
+- B (False) – ESC 2026 sets no fixed BP threshold; vasoconstriction can maintain BP while perfusion fails ("normotensive CS").
+- C (True) – A multidisciplinary shock team (interventional cardiologist, intensivist, cardiac surgeon, HF specialist) for MCS candidates is class I, C.
+- D (True) – IABP-SHOCK II, ECLS-SHOCK and DanGer Shock enrolled AMI-related shock; HF-related shock has different physiology, so the results cannot be extrapolated automatically.
+
+**EDIC trap:** a patient with normal BP but hypoperfusion from a cardiac cause still has cardiogenic shock.
+
+**Ref:** Køber L, et al. 2026 ESC Guidelines for the management of heart failure. *Eur Heart J* 2026;47:5346–5457.
+
+Review: [W07/D1](#W07-D1)
 
 </details>
 
@@ -2079,7 +2302,20 @@ B: no fixed BP threshold is defined – "normotensive CS". C: I, C. ([W07/D1](#W
 
 **E.**
 
-mPAP > 20, PAWP > 15 **and** PVR > 2 WU = CpcPH. IpcPH would have PVR ≤ 2 WU; pre-capillary PAWP ≤ 15. Left heart disease = group 2. ([W07/D5](#W07-D5))
+**Why E:** ESC/ERS 2022 defines PH as mPAP > 20 mmHg. A PAWP > 15 mmHg makes it post-capillary, and a PVR > 2 WU adds a pre-capillary component – combined post- and pre-capillary PH (CpcPH), group 2 (left heart disease). CpcPH carries a worse prognosis than isolated post-capillary PH.
+
+**Why not the others:**
+
+- A – mPAP 32 mmHg is above the 20 mmHg threshold, so PH is present.
+- B – Pre-capillary PH requires PAWP ≤ 15 mmHg.
+- C – Group 3 is PH due to lung disease or hypoxia; left heart disease is group 2.
+- D – Isolated post-capillary PH requires PVR ≤ 2 WU.
+
+**EDIC trap:** the old thresholds (mPAP ≥ 25 mmHg, PVR ≥ 3 WU) are outdated.
+
+**Ref:** Humbert M, et al. 2022 ESC/ERS Guidelines for pulmonary hypertension. *Eur Heart J* 2022;43:3618–3731.
+
+Review: [W07/D5](#W07-D5)
 
 </details>
 
@@ -2094,7 +2330,16 @@ mPAP > 20, PAWP > 15 **and** PVR > 2 WU = CpcPH. IpcPH would have PVR ≤ 2 WU; 
 
 **A – T, B – T, C – T, D – T.**
 
-iNO also carries a risk of rebound PH on abrupt withdrawal and methaemoglobinaemia; it does not improve survival in ARDS. ([W07/D5](#W07-D5))
+- A (True) – Vasopressin (V1 receptors) raises SVR with little pulmonary vasoconstriction, improving the SVR/PVR ratio.
+- B (True) – ESC/ERS 2022 advises MAP > 60 mmHg with noradrenaline or vasopressin, because RV coronary perfusion depends on the aorta–RV pressure gradient.
+- C (True) – iNO dilates pulmonary vessels and increases LV filling; with severe LV dysfunction the higher LV preload can worsen pulmonary oedema.
+- D (True) – iNO is rapidly bound by haemoglobin in the pulmonary capillaries, so it does not cause systemic vasodilatation.
+
+**EDIC trap:** iNO improves oxygenation but not survival in ARDS; beware rebound PH on abrupt withdrawal and methaemoglobinaemia.
+
+**Ref:** Humbert M, et al. *Eur Heart J* 2022;43:3618–3731; Vieillard-Baron A, et al. *Intensive Care Med* 2018;44:774–790.
+
+Review: [W07/D5](#W07-D5)
 
 </details>
 
@@ -2110,7 +2355,20 @@ iNO also carries a risk of rebound PH on abrupt withdrawal and methaemoglobinaem
 
 **D.**
 
-Pneumonia ✓, P/F < 150 ✓, PaCO₂ ≥ 48 mmHg ✓; driving pressure 16 < 18 ✗ → **3**. ACP was present in ~22 % of ARDS patients; RV-protective ventilation = ↓ ΔP, correction of hypercapnia, prone positioning. ([W07/D5](#W07-D5))
+**Why D:** The Mekontso Dessap ACP risk score has four items: pneumonia as the cause, driving pressure ≥ 18 cmH₂O, PaO₂/FiO₂ < 150 mmHg and PaCO₂ ≥ 48 mmHg. This patient has pneumonia, P/F 130 and PaCO₂ 50 mmHg = 3 points; driving pressure 16 cmH₂O is below the threshold. ACP was present in ~22 % of ARDS patients and was linked to higher mortality.
+
+**Why not the others:**
+
+- A – 4 would require a driving pressure ≥ 18 cmH₂O.
+- B – 2 misses one of pneumonia, hypoxaemia or hypercapnia.
+- C – 0 ignores all three risk factors present.
+- E – 1 counts only one of the three risk factors present.
+
+**EDIC trap:** RV-protective ventilation = lower ΔP, correct hypercapnia, prone positioning.
+
+**Ref:** Mekontso Dessap A, et al. *Intensive Care Med* 2016;42:862–870.
+
+Review: [W07/D5](#W07-D5)
 
 </details>
 
@@ -2125,7 +2383,16 @@ Pneumonia ✓, P/F < 150 ✓, PaCO₂ ≥ 48 mmHg ✓; driving pressure 16 < 18 
 
 **A – F, B – F, C – F, D – F.**
 
-A: positive intrathoracic pressure **reduces** LV transmural pressure (afterload). B: 11.7 vs 11.1 %, NS – equivalent. C: O₂ if SpO₂ < 90 % or PaO₂ < 60 mmHg. D: in RV failure or hypovolaemia, PEEP may **reduce** cardiac output. ([W07/D4](#W07-D4))
+- A (False) – Positive intrathoracic pressure *reduces* LV transmural pressure (afterload) and venous return – why CPAP/NIV helps cardiogenic pulmonary oedema.
+- B (False) – In 3CPO, CPAP and NIPPV were equivalent for death or intubation (11.7 vs 11.1 %, NS); NIV improved dyspnoea and acidosis faster than oxygen but not mortality.
+- C (False) – ESC 2026 recommends oxygen only if SpO₂ < 90 % or PaO₂ < 60 mmHg; hyperoxia causes vasoconstriction and may lower cardiac output.
+- D (False) – In RV failure or hypovolaemia, PEEP raises RV afterload and reduces venous return, so it can *reduce* cardiac output.
+
+**EDIC trap:** positive pressure helps the failing LV but can harm the failing or underfilled RV.
+
+**Ref:** Gray A, et al. 3CPO. *N Engl J Med* 2008;359:142–151; Køber L, et al. 2026 ESC Guidelines for the management of heart failure. *Eur Heart J* 2026;47:5346–5457.
+
+Review: [W07/D4](#W07-D4)
 
 </details>
 
@@ -2141,7 +2408,18 @@ A: positive intrathoracic pressure **reduces** LV transmural pressure (afterload
 
 **C.**
 
-In a stable patient treat triggers first; sinus rhythm returns spontaneously after treating the cause in up to 83 % within 48 h ("wait-and-see" IIa B). STRESS-L: landiolol for tachycardia in septic shock without benefit and with a signal of harm; anticoagulation in acute sepsis unclear; cardioversion without OAC/TOE in AF > 24 h – III. ([W08/D1](#W08-D1))
+**Why C:** In a haemodynamically stable patient with new-onset AF triggered by sepsis, first treat the precipitants – source control, K⁺ and Mg²⁺ replacement, volume, pain – and add rate control if needed. Up to 83 % convert spontaneously within 48 h once the cause is treated; "wait-and-see" is IIa B (ESC 2024).
+
+**Why not the others:**
+
+- A – Emergency cardioversion is for haemodynamic instability; he is stable, and AF recurs while triggers persist.
+- B – STRESS-L (landiolol to HR 80–94/min in septic shock) showed no benefit and a signal of harm.
+- D – Immediate full anticoagulation in acute sepsis-related AF two days after surgery has uncertain benefit and a clear bleeding risk.
+- E – Cardioversion without anticoagulation or TOE when AF has lasted > 24 h is class III.
+
+**Ref:** Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation. *Eur Heart J* 2024;45:3314–3414. Whitehouse T, et al. STRESS-L. *JAMA* 2023;330:1641–1652.
+
+Review: [W08/D1](#W08-D1)
 
 </details>
 
@@ -2156,7 +2434,16 @@ In a stable patient treat triggers first; sinus rhythm returns spontaneously aft
 
 **A – F, B – F, C – T, D – F.**
 
-A: age 65–74 = 1, HT = 1, DM = 1 → 3. B: sex has been removed. C: ≥ 2 → I C. D: not recommended (III C) unless she is unstable. ([W08/D1](#W08-D1))
+- A (False) – CHA₂DS₂-VA: age 65–74 (1) + hypertension (1) + diabetes (1) = 3, not 4.
+- B (False) – ESC 2024 removed female sex from the score; it is no longer counted as a risk factor.
+- C (True) – A score ≥ 2 means OAC is recommended (I, C), with a DOAC preferred over a VKA.
+- D (False) – Early cardioversion without anticoagulation or TOE is not recommended when AF has lasted > 24 h (III, C), unless the patient is unstable.
+
+**EDIC trap:** CHA₂DS₂-VASc would give her 4 – check which score the question names.
+
+**Ref:** Van Gelder IC, et al. 2024 ESC Guidelines for the management of atrial fibrillation. *Eur Heart J* 2024;45:3314–3414.
+
+Review: [W08/D1](#W08-D1)
 
 </details>
 
@@ -2172,7 +2459,18 @@ A: age 65–74 = 1, HT = 1, DM = 1 → 3. B: sex has been removed. C: ≥ 2 → 
 
 **E.**
 
-Glucagon for bradycardia due to beta-blockers or calcium channel blockers. Aminophylline is for the transplanted heart and spinal cord injury; atropine max. 3 mg. ([W08/D1](#W08-D1))
+**Why E:** ERC 2025 suggests glucagon for bradycardia caused by β-blocker or calcium channel blocker poisoning; it raises intracellular cAMP independently of β-receptors. Other options are high-dose insulin–euglycaemia therapy, IV calcium, pacing and, in refractory shock, ECLS.
+
+**Why not the others:**
+
+- A – Aminophylline is suggested for bradycardia after heart transplantation or spinal cord injury.
+- B – Amiodarone treats tachyarrhythmias and could worsen bradycardia.
+- C – The maximum atropine dose is 3 mg.
+- D – Adenosine causes AV block and would worsen bradycardia.
+
+**Ref:** Soar J, et al. ERC Guidelines 2025: Adult Advanced Life Support. *Resuscitation* 2025;215(Suppl 1):110769.
+
+Review: [W08/D1](#W08-D1)
 
 </details>
 
@@ -2187,7 +2485,14 @@ Glucagon for bradycardia due to beta-blockers or calcium channel blockers. Amino
 
 **A – T, B – F, C – T, D – T.**
 
-D: block below the His level. B: isoprenaline 5 µg/min is second line. ([W08/D1](#W08-D1))
+- A (True) – Transcutaneous pacing bridges to transvenous pacing when drugs fail; confirm mechanical capture and give analgesia or sedation.
+- B (False) – Isoprenaline (5 µg/min) or adrenaline (2–10 µg/min) is the second-line drug after atropine, not contraindicated.
+- C (True) – Raised ICP (Cushing reflex – hypertension with bradycardia) is a recognised cause, as are hypothermia, hypothyroidism, hypoxia and drugs.
+- D (True) – In high-grade block with a broad QRS the block lies below the His bundle, where atropine (acting on the AV node) is ineffective.
+
+**Ref:** Soar J, et al. ERC Guidelines 2025: Adult Advanced Life Support. *Resuscitation* 2025;215(Suppl 1):110769.
+
+Review: [W08/D1](#W08-D1)
 
 </details>
 
@@ -2203,7 +2508,20 @@ D: block below the His level. B: isoprenaline 5 µg/min is second line. ([W08/D1
 
 **E.**
 
-A patient with low PESI/sPESI but with RV dysfunction **or** positive biomarkers is intermediate-low risk. Intermediate-high = RV dysfunction **and** troponin. ([W08/D2](#W08-D2))
+**Why E:** In ESC 2019, normotensive patients are stratified with PESI/sPESI. sPESI 0 normally means low risk, but if RV dysfunction on imaging or a raised troponin is found, the patient is reclassified as intermediate-low risk. Intermediate-high risk requires both RV dysfunction and a raised troponin.
+
+**Why not the others:**
+
+- A – Low risk requires sPESI 0 without RV dysfunction or raised biomarkers (if assessed).
+- B – sPESI is an accepted alternative to the full PESI.
+- C – High risk requires haemodynamic instability (arrest, obstructive shock or persistent hypotension).
+- D – Intermediate-high risk requires both RV dysfunction and a raised troponin.
+
+**EDIC trap:** "or" = intermediate-low; "and" = intermediate-high.
+
+**Ref:** Konstantinides SV, et al. 2019 ESC Guidelines on acute pulmonary embolism. *Eur Heart J* 2020;41:543–603.
+
+Review: [W08/D2](#W08-D2)
 
 </details>
 
@@ -2218,7 +2536,14 @@ A patient with low PESI/sPESI but with RV dysfunction **or** positive biomarkers
 
 **A – F, B – F, C – T, D – T.**
 
-B: limit fluid loading to ≤ 500 mL. C: Class 3: Harm. A: in A to C2 systemic thrombolysis is harmful. ([W08/D2](#W08-D2))
+- A (False) – AHA/ACC 2026 classifies systemic thrombolysis in categories A to C2 as Class 3: Harm; interventions may be considered only from D1–D2.
+- B (False) – ESC 2019 limits fluid loading to ≤ 500 mL; overfilling the RV worsens septal shift and LV filling.
+- C (True) – Induction (vasodilatation, less preload) and positive pressure (higher RV afterload) can precipitate collapse, so avoidable deep sedation and ventilation are Class 3: Harm in categories C–E.
+- D (True) – Noradrenaline 0.2–1.0 µg/kg/min raises systemic pressure and restores the aorta–RV gradient for RV coronary perfusion; dobutamine is added for low output.
+
+**Ref:** Creager MA, et al. 2026 AHA/ACC multisociety guideline on acute pulmonary embolism. *Circulation* 2026. Konstantinides SV, et al. 2019 ESC Guidelines on acute pulmonary embolism. *Eur Heart J* 2020;41:543–603.
+
+Review: [W08/D2](#W08-D2)
 
 </details>
 
@@ -2234,7 +2559,18 @@ B: limit fluid loading to ≤ 500 mL. C: Class 3: Harm. A: in A to C2 systemic t
 
 **C.**
 
-PEITHO: death/decompensation 2.6 vs 5.6 %, mortality NS, ↑ bleeding and stroke (2.4 vs 0.2 %); HI-PEITHO and PRAGUE-26 driven by decompensation, mortality no different; in PRAGUE-26 2 intracranial haemorrhages in the CDT arm. ([W08/D2](#W08-D2))
+**Why C:** PEITHO (tenecteplase, n = 1005) reduced 7-day death or haemodynamic decompensation (2.6 vs 5.6 %) at the cost of more major bleeding and stroke (2.4 vs 0.2 %). The 2026 catheter-directed thrombolysis trials, HI-PEITHO (4.0 vs 10.3 %) and PRAGUE-26 (0.7 vs 6.8 %), reduced a 7-day composite driven mainly by decompensation, with no mortality difference.
+
+**Why not the others:**
+
+- A – All three trials reduced early decompensation, which is a clinical outcome.
+- B – None showed a significant reduction in all-cause mortality.
+- D – PEITHO had more haemorrhagic strokes, and PRAGUE-26 had 2 intracranial haemorrhages in the CDT arm.
+- E – All three enrolled intermediate-high risk patients; low-risk patients are not candidates for reperfusion.
+
+**Ref:** Meyer G, et al. PEITHO. *N Engl J Med* 2014;370:1402–1411; Rosenfield K, et al. HI-PEITHO. *N Engl J Med* 2026; Kroupa J, et al. PRAGUE-26. *N Engl J Med* 2026.
+
+Review: [W08/D2](#W08-D2)
 
 </details>
 
@@ -2249,7 +2585,14 @@ PEITHO: death/decompensation 2.6 vs 5.6 %, mortality NS, ↑ bleeding and stroke
 
 **A – F, B – T, C – T, D – T.**
 
-A: < 24 h = hyperacute; subacute 15–90 days. C: TTE has low sensitivity, e.g. < 40 % for IMH. ([W08/D3](#W08-D3))
+- A (False) – ESC 2024 classifies < 24 h as hyperacute, 1–14 days acute, 15–90 days subacute and > 90 days chronic, so 20 h is hyperacute.
+- B (True) – DeBakey type II is confined to the ascending aorta; type I starts there and extends at least to the arch.
+- C (True) – TTE has low sensitivity (e.g. < 40 % for IMH); CT angiography, or TOE in unstable patients, is needed.
+- D (True) – Stanford type A (any ascending involvement) corresponds to DeBakey I and II; Stanford B corresponds to DeBakey III.
+
+**Ref:** Mazzolai L, et al. 2024 ESC Guidelines for peripheral arterial and aortic diseases. *Eur Heart J* 2024;45:3538–3700.
+
+Review: [W08/D3](#W08-D3)
 
 </details>
 
@@ -2265,7 +2608,20 @@ A: < 24 h = hyperacute; subacute 15–90 days. C: TTE has low sensitivity, e.g. 
 
 **B.**
 
-With left subclavian involvement the left arm may show falsely low BP. Target SBP < 120 and HR ≤ 60/min – BB first, then a vasodilator; type A → immediate surgery. ([W08/D3](#W08-D3))
+**Why B:** Dissection extending into the left subclavian artery can obstruct flow to the left arm, giving a falsely low pressure (92/60 vs 158/90 mmHg). The arterial line belongs in the arm with the higher pressure – the right radial. Targets: SBP < 120 mmHg and HR ≤ 60/min (β-blocker first); type A → emergency surgery.
+
+**Why not the others:**
+
+- A – The left radial artery underestimates central aortic pressure here.
+- C – The left brachial artery is affected by the same subclavian obstruction.
+- D – A 66 mmHg inter-arm difference means the readings are not equivalent.
+- E – Pedal pressures may be distorted by distal amplification and iliofemoral malperfusion, so they are not the preferred site.
+
+**EDIC trap:** always measure BP in both arms in suspected dissection.
+
+**Ref:** Mazzolai L, et al. 2024 ESC Guidelines for peripheral arterial and aortic diseases. *Eur Heart J* 2024;45:3538–3700.
+
+Review: [W08/D3](#W08-D3)
 
 </details>
 
@@ -2280,7 +2636,16 @@ With left subclavian involvement the left arm may show falsely low BP. Target SB
 
 **A – T, B – T, C – F, D – T.**
 
-A: 10–20 mm. C: RA collapse is the earliest and sensitive sign; RV diastolic collapse is more specific. ([W08/D3](#W08-D3))
+- A (True) – ESC 2025 grades end-diastolic effusions as mild < 10 mm, moderate 10–20 mm and large > 20 mm.
+- B (True) – The ESC triage score (aetiology, clinical presentation, imaging) > 6 points from at least two categories indicates immediate pericardiocentesis.
+- C (False) – RA collapse is the earliest and most sensitive sign; RV diastolic collapse appears later and is more specific.
+- D (True) – In a large effusion the heart swings beat-to-beat, changing its electrical axis and producing electrical alternans.
+
+**EDIC trap:** tamponade is a clinical and haemodynamic diagnosis – rate of accumulation matters more than size.
+
+**Ref:** Schulz-Menger J, et al. 2025 ESC Guidelines for myocarditis and pericarditis. *Eur Heart J* 2025;46:3952–4041.
+
+Review: [W08/D3](#W08-D3)
 
 </details>
 
@@ -2296,7 +2661,18 @@ A: 10–20 mm. C: RA collapse is the earliest and sensitive sign; RV diastolic c
 
 **B.**
 
-Acute organ damage, not the absolute BP value, defines an emergency. Pulmonary oedema is one of the exceptions to the "slowly" rule (ESC/ESH 2018). A = malignant HT, C = dissection, E = pre-eclampsia. ([W08/D4](#W08-D4))
+**Why B:** A hypertensive emergency is defined by acute organ damage, not by the BP value. Acute pulmonary oedema is one of the exceptions to slow BP lowering: ESC/ESH 2018 targets SBP < 140 mmHg immediately with IV nitroglycerin or nitroprusside plus a loop diuretic, which reduces preload and afterload.
+
+**Why not the others:**
+
+- A – Lowering MAP by 20–25 % over several hours with labetalol is the target for malignant hypertension.
+- C – SBP < 120 mmHg and HR < 60/min with esmolol is the target for acute aortic dissection.
+- D – Organ damage defines an emergency, and 214/122 mmHg is above 180/110 mmHg anyway.
+- E – SBP < 160 / DBP < 105 mmHg is for severe pre-eclampsia; magnesium prevents seizures but is not an antihypertensive.
+
+**Ref:** Williams B, et al. 2018 ESC/ESH Guidelines for arterial hypertension. *Eur Heart J* 2018;39:3021–3104.
+
+Review: [W08/D4](#W08-D4)
 
 </details>
 
@@ -2311,7 +2687,16 @@ Acute organ damage, not the absolute BP value, defines an emergency. Pulmonary o
 
 **A – F, B – F, C – F, D – F.**
 
-A: the ordinal analysis favoured **intensive** lowering (p = 0.04); primary outcome NS. B: **more** frequent with intensive lowering (9.0 % vs 4.0 %). C: thrombectomy < 180/105; thrombolysis < 185/110. D: about 15 % (IIa C). ([W08/D4](#W08-D4))
+- A (False) – In INTERACT2 the primary outcome (mRS 3–6) was not significant (52.0 vs 55.6 %), but the ordinal mRS analysis favoured *intensive* lowering (p = 0.04).
+- B (False) – In ATACH-2, renal adverse events within 7 days were *more* frequent with intensive lowering (9.0 vs 4.0 %); the trial stopped for futility.
+- C (False) – Before thrombolysis BP should be < 185/110 mmHg, but before thrombectomy < 180/105 mmHg; then < 180/105 for at least 24 h.
+- D (False) – Without reperfusion therapy and BP ≥ 220/110 mmHg, BP is lowered by about 15 % over the first 24 h (IIa C), not 50 %.
+
+**EDIC trap:** after successful thrombectomy, SBP < 120 mmHg worsened outcome (ENCHANTED2/MT) – do not lower aggressively.
+
+**Ref:** McEvoy JW, et al. 2024 ESC Guidelines for elevated blood pressure and hypertension. *Eur Heart J* 2024;45:3912–4018. Anderson CS, et al. INTERACT2. *N Engl J Med* 2013; Qureshi AI, et al. ATACH-2. *N Engl J Med* 2016.
+
+Review: [W08/D4](#W08-D4)
 
 </details>
 
@@ -2327,7 +2712,20 @@ A: the ordinal analysis favoured **intensive** lowering (p = 0.04); primary outc
 
 **E.**
 
-Phaeochromocytoma crisis: α-blockade (phentolamine, doxazosin, terazosin, labetalol). A β-blocker alone without α-blockade → unopposed α-vasoconstriction. ([W08/D4](#W08-D4))
+**Why E:** A phaeochromocytoma crisis is driven by catecholamine excess, so α-blockade comes first: IV phentolamine, with alternatives such as doxazosin, terazosin or labetalol. A β-blocker may be added only after adequate α-blockade to control tachycardia.
+
+**Why not the others:**
+
+- A – Propranolol alone blocks β₂-mediated vasodilatation and leaves α-vasoconstriction unopposed, worsening hypertension.
+- B – Esmolol alone carries the same risk of unopposed α-stimulation.
+- C – These patients are volume-depleted; a diuretic worsens this and does not treat the cause.
+- D – Sublingual nifedipine causes unpredictable, uncontrolled falls in BP and is no longer used.
+
+**EDIC trap:** "β-blocker first" applies to dissection, never to phaeochromocytoma.
+
+**Ref:** Williams B, et al. 2018 ESC/ESH Guidelines for arterial hypertension. *Eur Heart J* 2018;39:3021–3104.
+
+Review: [W08/D4](#W08-D4)
 
 </details>
 
@@ -2342,7 +2740,14 @@ Phaeochromocytoma crisis: α-blockade (phentolamine, doxazosin, terazosin, labet
 
 **A – T, B – F, C – T, D – T.**
 
-B: IABP is contraindicated in AR – diastolic augmentation ↑ regurgitation. ([W08/D5](#W08-D5), [W07/D2](#W07-D2))
+- A (True) – Severe aortic stenosis (and a mechanical aortic valve) is a contraindication to a transvalvular microaxial pump such as Impella.
+- B (False) – IABP is contraindicated in significant aortic regurgitation because diastolic inflation increases the regurgitant volume.
+- C (True) – In low-flow, low-gradient AS with reduced EF, a rise in stroke volume ≥ 20 % on dobutamine shows flow (contractile) reserve, allowing true and pseudo-severe AS to be distinguished.
+- D (True) – TAVI in cardiogenic shock has a similar implantation success rate and a 30-day mortality of about 13–19 %, making it a realistic option in decompensated AS.
+
+**Ref:** Praz F, et al. 2025 ESC/EACTS Guidelines for valvular heart disease. *Eur Heart J* 2025.
+
+Review: [W08/D5](#W08-D5), [W07/D2](#W07-D2)
 
 </details>
 
@@ -2357,7 +2762,16 @@ B: IABP is contraindicated in AR – diastolic augmentation ↑ regurgitation. (
 
 **A – T, B – F, C – F, D – F.**
 
-A: vegetation ≥ 10 mm after ≥ 1 embolism despite antibiotics. C: no aminoglycosides in staphylococcal NVE. B: 3 vs 5 %, NS; benefit via ↓ embolism. D: after significant intracranial haemorrhage, delaying surgery for ≥ 4 weeks should be considered. ([W08/D5](#W08-D5))
+- A (True) – ESC 2023: a vegetation ≥ 10 mm after ≥ 1 embolic episode despite appropriate antibiotics is an indication for urgent surgery (within 3–5 days).
+- B (False) – EASE reduced the composite of in-hospital death or embolism at 6 weeks (3 vs 23 %), mainly through fewer emboli; 6-month mortality was 3 vs 5 %, NS.
+- C (False) – Aminoglycosides are not recommended for staphylococcal native valve IE – nephrotoxicity without benefit.
+- D (False) – After a significant intracranial haemorrhage, delaying surgery for ≥ 4 weeks should be considered.
+
+**EDIC trap:** ischaemic stroke without haemorrhage does not usually delay surgery; a major bleed does.
+
+**Ref:** Delgado V, et al. 2023 ESC Guidelines for endocarditis. *Eur Heart J* 2023;44:3948–4042; Kang DH, et al. EASE. *N Engl J Med* 2012;366:2466–2473.
+
+Review: [W08/D5](#W08-D5)
 
 </details>
 
@@ -2373,7 +2787,18 @@ A: vegetation ≥ 10 mm after ≥ 1 embolism despite antibiotics. C: no aminogly
 
 **C.**
 
-Amiodarone 300 mg after the 3rd shock, 150 mg after the 5th shock (alternative lidocaine 100 mg + 50 mg). Adrenaline 1 mg continues every 3–5 min. ([W09/D1](#W09-D1))
+**Why C:** ERC 2025: amiodarone 300 mg after the 3rd shock and a further 150 mg after the 5th shock. Lidocaine 100 mg, then 50 mg, is an alternative if amiodarone is unavailable. Adrenaline 1 mg continues every 3–5 min; in refractory VF check pad position and consider a vector change.
+
+**Why not the others:**
+
+- A – Lidocaine replaces amiodarone when it is unavailable; it is not added after amiodarone.
+- B – A second antiarrhythmic dose is due after the 5th shock.
+- D – The second amiodarone dose is 150 mg, not 300 mg.
+- E – Magnesium is for torsade de pointes or hypomagnesaemia, not routine VF.
+
+**Ref:** Soar J, et al. ERC Guidelines 2025: Adult Advanced Life Support. *Resuscitation* 2025;215(Suppl 1):110769.
+
+Review: [W09/D1](#W09-D1)
 
 </details>
 
@@ -2388,7 +2813,16 @@ Amiodarone 300 mg after the 3rd shock, 150 mg after the 5th shock (alternative l
 
 **A – F, B – T, C – T, D – F.**
 
-A: interruption < 5 s. D: use the highest feasible inspired oxygen during CPR. ([W09/D1](#W09-D1))
+- A (False) – Compressions are paused for less than 5 s for intubation, which only skilled operators (> 95 % success within 2 attempts) should perform.
+- B (True) – Each breath lasts about 1 s, enough to produce visible chest rise; avoid hyperventilation.
+- C (True) – Videolaryngoscopy is preferred if it is immediately available and the operator is trained.
+- D (False) – During CPR the highest feasible inspired oxygen is used; titration to SpO₂ 94–98 % starts after ROSC.
+
+**EDIC trap:** confirm tube position with waveform capnography.
+
+**Ref:** Soar J, et al. ERC Guidelines 2025: Adult Advanced Life Support. *Resuscitation* 2025;215(Suppl 1):110769.
+
+Review: [W09/D1](#W09-D1)
 
 </details>
 
@@ -2404,7 +2838,18 @@ A: interruption < 5 s. D: use the highest feasible inspired oxygen during CPR. (
 
 **A.**
 
-ERC 2025 – hyperkalaemic arrest: 10 mL 10 % CaCl₂ + 50 mmol NaHCO₃ via separate lines/with flushing (otherwise CaCO₃ precipitates), insulin/glucose, dialysis, ECPR if these fail. ([W09/D5](#W09-D5), [W06/D2](#W06-D2))
+**Why A:** ERC 2025 recommends, for hyperkalaemic cardiac arrest, 10 mL of 10 % CaCl₂ IV to stabilise the membrane, 50 mmol NaHCO₃ IV through a separate line or with flushing (to avoid calcium carbonate precipitation), insulin–glucose (10 U + 25 g), and dialysis during CPR or ECPR if these fail.
+
+**Why not the others:**
+
+- B – Calcium and bicarbonate precipitate as calcium carbonate when mixed in one syringe.
+- C – Calcium is the first-line membrane stabiliser and should not be withheld.
+- D – Hyperkalaemia is a reversible cause (one of the 4 Hs); good outcomes are reported with prolonged CPR and ECPR.
+- E – Oral binders act over hours and have no role during cardiac arrest.
+
+**Ref:** European Resuscitation Council. ERC Guidelines 2025: Special Circumstances in Resuscitation. *Resuscitation* 2025;215(Suppl 1):110753.
+
+Review: [W09/D5](#W09-D5), [W06/D2](#W06-D2)
 
 </details>
 
@@ -2420,7 +2865,18 @@ ERC 2025 – hyperkalaemic arrest: 10 mL 10 % CaCl₂ + 50 mmol NaHCO₃ via sep
 
 **D.**
 
-Max. 12 mL/kg × 70 kg = **840 mL**. Bolus 1.5 mL/kg = 105 mL, infusion 15 mL/kg/h = 1050 mL/h; consider prolonged CPR (> 1 h) and ECPR. ([W09/D5](#W09-D5))
+**Why D:** ERC 2025 for LAST: 20 % lipid emulsion 1.5 mL/kg IV bolus (105 mL), then 15 mL/kg/h; the bolus may be repeated twice at 5-min intervals and the infusion doubled to 30 mL/kg/h. The cumulative maximum is 12 mL/kg = 840 mL for 70 kg. Consider prolonged CPR (> 1 h) and ECPR.
+
+**Why not the others:**
+
+- A – 105 mL is the initial bolus (1.5 mL/kg).
+- B – 1400 mL (20 mL/kg) exceeds the cumulative maximum.
+- C – 420 mL is only 6 mL/kg.
+- E – 1050 mL is the hourly infusion rate (15 mL/kg/h), not the maximum dose.
+
+**Ref:** European Resuscitation Council. ERC Guidelines 2025: Special Circumstances in Resuscitation. *Resuscitation* 2025;215(Suppl 1):110753.
+
+Review: [W09/D5](#W09-D5)
 
 </details>
 
@@ -2435,7 +2891,14 @@ Max. 12 mL/kg × 70 kg = **840 mL**. Bolus 1.5 mL/kg = 105 mL, infusion 15 mL/kg
 
 **A – F, B – T, C – T, D – T.**
 
-A: 32.0 vs 33.9 %, NS. ([W09/D2](#W09-D2))
+- A (False) – In BOX (789 comatose OHCA survivors), death or severe disability or coma at 90 days was 32.0 % with the restrictive (9–10 kPa) and 33.9 % with the liberal (13–14 kPa) target – no difference.
+- B (True) – Normocapnia, PaCO₂ 4.7–6.0 kPa, is targeted; hypocapnia causes cerebral vasoconstriction.
+- C (True) – Both hypo- and hyperkalaemia promote arrhythmias, and K⁺ shifts with temperature changes and insulin.
+- D (True) – ERC-ESICM 2025 sets MAP > 60–65 mmHg and also mentions SBP > 100 mmHg; BOX found no benefit from MAP 77 vs 63 mmHg.
+
+**Ref:** Nolan JP, et al. ERC-ESICM Guidelines 2025: Post-Resuscitation Care. *Resuscitation* 2025;215(Suppl 1). Schmidt H, et al. BOX. *N Engl J Med* 2022;387:1467–1476.
+
+Review: [W09/D2](#W09-D2)
 
 </details>
 
@@ -2451,7 +2914,18 @@ A: 32.0 vs 33.9 %, NS. ([W09/D2](#W09-D2))
 
 **B.**
 
-Without ST elevation catheterisation is deferred (COACT, TOMAHAWK) **unless** the clinical picture strongly suggests acute coronary occlusion (haemodynamic or electrical instability, ongoing ischaemia). Parallel: NSTE-ACS with life-threatening arrhythmias = very high risk → immediate. ([W09/D2](#W09-D2), [W07/D3](#W07-D3))
+**Why B:** Without ST elevation, routine immediate angiography offers no benefit (COACT, TOMAHAWK), so ERC-ESICM 2025 suggests deferring it – unless the likelihood of acute coronary occlusion is high: haemodynamic or electrical instability or ongoing ischaemia. Recurrent VT and escalating noradrenaline meet that bar, so early angiography is indicated.
+
+**Why not the others:**
+
+- A – Systemic thrombolysis is not used when PCI is available and is not indicated here.
+- C – The decision is driven by cardiac indications, not by neuroprognostication.
+- D – CT coronary angiography is unsuitable in an unstable patient who may need PCI.
+- E – Deferral applies only to stable patients without ST elevation.
+
+**Ref:** Nolan JP, et al. ERC-ESICM Guidelines 2025: Post-Resuscitation Care. *Resuscitation* 2025;215(Suppl 1). Lemkes JS, et al. COACT. *N Engl J Med* 2019; Desch S, et al. TOMAHAWK. *N Engl J Med* 2021.
+
+Review: [W09/D2](#W09-D2), [W07/D3](#W07-D3)
 
 </details>
 
@@ -2466,7 +2940,16 @@ Without ST elevation catheterisation is deferred (COACT, TOMAHAWK) **unless** th
 
 **A – T, B – F, C – F, D – F.**
 
-B: rewarming was limited to 0.3 °C/h. D: OHCA only – generalisation to IHCA is less well supported. C: only CPC 1–2 10.2 vs 5.7 %; no difference in mortality. ([W09/D3](#W09-D3))
+- A (True) – HYPERION (n = 584) enrolled both IHCA and OHCA with a non-shockable rhythm and compared 33 °C with 37 °C.
+- B (False) – In TTM2, rewarming from 33 °C was limited to 1/3 °C per hour (≈ 0.3 °C/h).
+- C (False) – HYPERION improved only CPC 1–2 at day 90 (10.2 vs 5.7 %, fragile); mortality did not differ.
+- D (False) – TTM2 enrolled OHCA only, so generalising to IHCA is less well supported.
+
+**EDIC trap:** current ERC-ESICM guidance is to prevent fever (> 37.7 °C) for at least 72 h.
+
+**Ref:** Lascarrou JB, et al. HYPERION. *N Engl J Med* 2019;381:2327–2337; Dankiewicz J, et al. TTM2. *N Engl J Med* 2021;384:2283–2294.
+
+Review: [W09/D3](#W09-D3)
 
 </details>
 
@@ -2482,7 +2965,18 @@ B: rewarming was limited to 0.3 °C/h. D: OHCA only – generalisation to IHCA i
 
 **B.**
 
-K⁺ shifts: hypokalaemia during cooling, hyperkalaemia during rewarming → rewarm slowly, monitor K⁺. ([W09/D3](#W09-D3))
+**Why B:** Cooling shifts K⁺ into cells (hypokalaemia); during rewarming it moves back out, causing hyperkalaemia – especially if K⁺ was replaced aggressively during cooling. Rewarm slowly, monitor K⁺ frequently and avoid excessive supplementation in the cold phase.
+
+**Why not the others:**
+
+- A – Hypercalcaemia is not a typical consequence of rewarming.
+- C – Sodium changes relate mainly to cold diuresis during cooling, not to rewarming.
+- D – Magnesium tends to fall with hypothermia because of renal losses.
+- E – Hypokalaemia occurs during cooling, not rewarming.
+
+**Ref:** Nolan JP, et al. ERC-ESICM guidelines on temperature control after cardiac arrest. *Resuscitation* 2022;172:229–236.
+
+Review: [W09/D3](#W09-D3)
 
 </details>
 
@@ -2497,7 +2991,14 @@ K⁺ shifts: hypokalaemia during cooling, hyperkalaemia during rewarming → rew
 
 **A – T, B – T, C – T, D – F.**
 
-B: NSE > 60 at 48/72 h + highly malignant EEG > 24 h. D: separate WLST from prognosis – age, comorbidities, preferences. ([W09/D4](#W09-D4))
+- A (True) – NSE is present in erythrocytes and platelets, so haemolysis (ECMO, sampling) falsely raises it; check the haemolysis index.
+- B (True) – NSE > 60 µg/L at 48/72 h and a highly malignant EEG (burst-suppression) after 24 h are 2 of the 6 predictors in an unconscious patient ≥ 72 h after ROSC without confounders, so poor outcome is likely.
+- C (True) – Propofol and other sedatives can cause EEG suppression and must be considered when interpreting it.
+- D (False) – Decisions to withdraw life-sustaining therapy are separate from prognostication and also consider comorbidities, age and the patient's values and preferences.
+
+**Ref:** Nolan JP, et al. ERC-ESICM Guidelines 2025: Post-Resuscitation Care. *Resuscitation* 2025;215(Suppl 1).
+
+Review: [W09/D4](#W09-D4)
 
 </details>
 
@@ -2513,7 +3014,18 @@ B: NSE > 60 at 48/72 h + highly malignant EEG > 24 h. D: separate WLST from prog
 
 **A.**
 
-N20 is assessed at ≥ 24 h. Reflexes at ≥ 72 h; NSE at 48 h and/or 72 h; status myoclonus ≤ 72 h; M ≤ 3 is used to select patients, not as a predictor. ([W09/D4](#W09-D4))
+**Why A:** Bilaterally absent N20 SSEP waves are a valid predictor from ≥ 24 h after ROSC. The other predictors have their own time points: absent pupillary and corneal reflexes ≥ 72 h, NSE > 60 µg/L at 48 and/or 72 h, status myoclonus ≤ 72 h, highly malignant EEG > 24 h.
+
+**Why not the others:**
+
+- B – A motor response is used to select patients for the algorithm (2025: M ≤ 5 at ≥ 72 h), not as a predictor.
+- C – Pupillary and corneal reflexes are assessed at ≥ 72 h, not 48 h.
+- D – NSE is used at 48 h and/or 72 h, not 24 h.
+- E – Status myoclonus counts only within 72 h of ROSC.
+
+**Ref:** Nolan JP, et al. ERC-ESICM Guidelines 2025: Post-Resuscitation Care. *Resuscitation* 2025;215(Suppl 1).
+
+Review: [W09/D4](#W09-D4)
 
 </details>
 
@@ -2528,7 +3040,16 @@ N20 is assessed at ≥ 24 h. Reflexes at ≥ 72 h; NSE at 48 h and/or 72 h; stat
 
 **A – F, B – T, C – F, D – T.**
 
-A: stopped early after crossing a Bayesian **superiority** boundary (43 vs 7 %, n = 30). C: 10 centres in the Netherlands. ([W09/D5](#W09-D5))
+- A (False) – ARREST (30 patients with refractory VF, one Minnesota centre) was stopped early after crossing a Bayesian *superiority* boundary: survival to discharge 43 vs 7 %.
+- B (True) – In INCEPTION the median time from arrest to ECMO flow was about 74 min – probably too long, and one reason for the neutral result (30-day CPC 1–2 20 vs 16 %).
+- C (False) – INCEPTION was a pragmatic trial in 10 Dutch centres with variable ECPR experience.
+- D (True) – Prague OHCA enrolled patients aged 18–65 years with witnessed OHCA of presumed cardiac cause and no ROSC after 5 min of ALS.
+
+**EDIC trap:** ECPR results depend on the system and low-flow time, not only on the device.
+
+**Ref:** Yannopoulos D, et al. ARREST. *Lancet* 2020; Suverein MM, et al. INCEPTION. *N Engl J Med* 2023; Belohlavek J, et al. Prague OHCA. *JAMA* 2022.
+
+Review: [W09/D5](#W09-D5)
 
 </details>
 
@@ -2544,7 +3065,18 @@ A: stopped early after crossing a Bayesian **superiority** boundary (43 vs 7 %, 
 
 **C.**
 
-30–35 °C → intervals of 6–10 min; < 30 °C do not give adrenaline (accumulation) unless ECPR is started immediately. ([W09/D5](#W09-D5))
+**Why C:** ERC 2025 for accidental hypothermia: at 30–35 °C, adrenaline intervals are extended to 6–10 min; below 30 °C adrenaline is withheld because of accumulation and poor effect (unless ECPR is started immediately) and shocks are limited to three. In arrest, rewarming with VA-ECMO is preferred, and the HOPE score helps predict survival.
+
+**Why not the others:**
+
+- A – Adrenaline is given during CPR, only at longer intervals.
+- B – 3–5 min is the normothermic interval and risks drug accumulation.
+- D – Higher doses are never recommended.
+- E – Adrenaline is withheld only below 30 °C, not up to 35 °C.
+
+**Ref:** European Resuscitation Council. ERC Guidelines 2025: Special Circumstances in Resuscitation. *Resuscitation* 2025;215(Suppl 1):110753.
+
+Review: [W09/D5](#W09-D5)
 
 </details>
 
@@ -2559,7 +3091,16 @@ A: stopped early after crossing a Bayesian **superiority** boundary (43 vs 7 %, 
 
 **A – F, B – T, C – T, D – T.**
 
-D: 3.2 vs 2.4 %. A: 24.4 vs 23.7 %, no difference. C: ~28 vs ~23 %. ([W09/D1](#W09-D1))
+- A (False) – In ALPS, survival to discharge was 24.4 % with amiodarone, 23.7 % with lidocaine and 21.0 % with placebo – no significant difference.
+- B (True) – In PARAMEDIC2 (n = 8014), survival to hospital admission was 23.8 % with adrenaline vs 8.0 % with placebo.
+- C (True) – In bystander-witnessed arrests in ALPS, both drugs were associated with higher survival than placebo (~28 vs ~23 %).
+- D (True) – 30-day survival was 3.2 vs 2.4 %, NNT ≈ 112; favourable neurological outcome did not differ significantly.
+
+**EDIC trap:** adrenaline greatly increases ROSC but only slightly increases survival.
+
+**Ref:** Perkins GD, et al. PARAMEDIC2. *N Engl J Med* 2018;379:711–721; Kudenchuk PJ, et al. ALPS. *N Engl J Med* 2016;374:1711–1722.
+
+Review: [W09/D1](#W09-D1)
 
 </details>
 
@@ -2574,7 +3115,14 @@ D: 3.2 vs 2.4 %. A: 24.4 vs 23.7 %, no difference. C: ~28 vs ~23 %. ([W09/D1](#W
 
 **A – F, B – F, C – F, D – F.**
 
-A: 130–150 J for pulsed biphasic devices. B: up to 3 shocks only in a witnessed, monitored arrest with a defibrillator immediately available. C: no routine DSED; a change of vector (AP) is considered. D: use the highest energy if the device type is unknown. ([W09/D1](#W09-D1))
+- A (False) – For pulsed biphasic devices the first shock is 130–150 J (≥ 150 J for rectilinear or truncated exponential), escalating if the device allows.
+- B (False) – Up to 3 stacked shocks are used only in a witnessed, monitored arrest with a defibrillator immediately available (e.g. cath lab, after cardiac surgery).
+- C (False) – RCUK 2025 does not recommend routine DSED (DOSE VF was small and stopped early); a vector change to antero-posterior pads is considered.
+- D (False) – If the device type is unknown, the highest available energy should be used.
+
+**Ref:** Soar J, et al. ERC Guidelines 2025: Adult Advanced Life Support. *Resuscitation* 2025;215(Suppl 1):110769. Cheskes S, et al. DOSE VF. *N Engl J Med* 2022;387:1947–1956.
+
+Review: [W09/D1](#W09-D1)
 
 </details>
 
@@ -2590,7 +3138,20 @@ A: 130–150 J for pulsed biphasic devices. B: up to 3 shocks only in a witnesse
 
 **E.**
 
-The right ventricle dilates in every cardiac arrest – isolated RV dilatation is not a diagnosis of PE. In arrest from PE an accelerated alteplase regimen of 0.6 mg/kg over 15 min is used (max. 50 mg, off-label); also consider ECPR. ([W09/D1](#W09-D1), [W08/D2](#W08-D2))
+**Why E:** ERC 2025 states that the RV dilates in every cardiac arrest, so isolated RV dilatation does not prove PE; the clinical context (recent hip surgery) raises suspicion. If PE is suspected, thrombolysis may be given (e.g. alteplase 0.6 mg/kg over 15 min, max 50 mg, off-label) and CPR continued long enough for it to act; consider ECPR.
+
+**Why not the others:**
+
+- A – Thrombolysis is not contraindicated during CPR for suspected PE; recent surgery is only a relative contraindication.
+- B – Absent myocardial contractility on ultrasound alone is not a reason to stop CPR.
+- C – A low ETCO₂ alone should not be used to terminate resuscitation.
+- D – RV dilatation is non-specific and occurs in every cardiac arrest.
+
+**EDIC trap:** ERC explicitly states that a dilated RV during arrest is not proof of PE.
+
+**Ref:** Soar J, et al. ERC Guidelines 2025: Adult Advanced Life Support. *Resuscitation* 2025;215(Suppl 1):110769. Konstantinides SV, et al. 2019 ESC Guidelines on acute pulmonary embolism. *Eur Heart J* 2020;41:543–603.
+
+Review: [W09/D1](#W09-D1), [W08/D2](#W08-D2)
 
 </details>
 
@@ -2606,7 +3167,18 @@ The right ventricle dilates in every cardiac arrest – isolated RV dilatation i
 
 **A.**
 
-S/F = 94 / 0.5 = **188** → 148 < S/F ≤ 235 = moderate. S/F is valid with SpO₂ ≤ 97 %; lung ultrasound is acceptable imaging. ([W10/D1](#W10-D1))
+**Why A:** The 2024 global definition accepts SpO₂/FiO₂ ≤ 315 when SpO₂ ≤ 97 %, and lung ultrasound as imaging. In intubated patients (PEEP ≥ 5 cmH₂O): mild 235 < S/F ≤ 315, moderate 148 < S/F ≤ 235, severe S/F ≤ 148. Here S/F = 94 / 0.5 = 188, so this is moderate ARDS; the normal echo argues against a cardiac cause.
+
+**Why not the others:**
+
+- B – An arterial blood gas is not mandatory; S/F is an accepted alternative.
+- C – Mild ARDS would require S/F > 235.
+- D – S/F is valid when SpO₂ ≤ 97 %; it is invalid only above 97 % (flat part of the curve).
+- E – Severe ARDS requires S/F ≤ 148.
+
+**Ref:** Matthay MA, et al. A New Global Definition of ARDS. *Am J Respir Crit Care Med* 2024;209:37–47.
+
+Review: [W10/D1](#W10-D1)
 
 </details>
 
@@ -2621,7 +3193,14 @@ S/F = 94 / 0.5 = **188** → 148 < S/F ≤ 235 = moderate. S/F is valid with SpO
 
 **A – T, B – F, C – F, D – F.**
 
-B: NIV or CPAP with PEEP ≥ 5 cmH₂O is acceptable. C: HFNO has no defined PEEP – the main reason for the revision. D: AUROC 0.577 vs 0.536 – still weak. ([W10/D1](#W10-D1))
+- A (True) – AECC 1994 used PaO₂/FiO₂ ≤ 300 mmHg for ALI and ≤ 200 mmHg for ARDS, regardless of PEEP.
+- B (False) – The Berlin definition accepts NIV or CPAP with PEEP ≥ 5 cmH₂O, but only in the mild category.
+- C (False) – HFNO has no defined PEEP, so Berlin excluded it; this gap led to the 2024 global definition, which includes HFNO ≥ 30 L/min.
+- D (False) – Berlin improved predictive validity only marginally – AUROC 0.577 vs 0.536 for AECC.
+
+**Ref:** Ranieri VM, et al. Berlin Definition. *JAMA* 2012;307:2526–2533; Matthay MA, et al. *Am J Respir Crit Care Med* 2024;209:37–47.
+
+Review: [W10/D1](#W10-D1)
 
 </details>
 
@@ -2637,7 +3216,20 @@ B: NIV or CPAP with PEEP ≥ 5 cmH₂O is acceptable. C: HFNO has no defined PEE
 
 **D.**
 
-PBW = 50 + 0.91 × (175 − 152.4) = 50 + 0.91 × 22.6 = 50 + 20.6 = **70.6 kg**; × 6 ≈ **423 mL**. 780 mL would be 6 mL/kg of actual body weight (≈ 11 mL/kg PBW). ([W10/D2](#W10-D2))
+**Why D:** PBW (men) = 50 + 0.91 × (height in cm − 152.4) = 50 + 0.91 × 22.6 ≈ 70.6 kg; 6 mL/kg gives ≈ 423 mL. Lung size depends on height and sex, not on actual weight, so tidal volume is always based on PBW.
+
+**Why not the others:**
+
+- A – 350 mL is about 5 mL/kg PBW.
+- B – 780 mL is 6 mL/kg of actual body weight (≈ 11 mL/kg PBW).
+- C – 600 mL is about 8.5 mL/kg PBW.
+- E – 525 mL is about 7.4 mL/kg PBW.
+
+**EDIC trap:** obesity does not enlarge the lungs – never use actual weight.
+
+**Ref:** ARDS Network. ARMA. *N Engl J Med* 2000;342:1301–1308.
+
+Review: [W10/D2](#W10-D2)
 
 </details>
 
@@ -2652,7 +3244,14 @@ PBW = 50 + 0.91 × (175 − 152.4) = 50 + 0.91 × 22.6 = 50 + 20.6 = **70.6 kg**
 
 **A – F, B – T, C – F, D – T.**
 
-D: 30 − 12. A: Crs = VT / ΔP = 480 / 18 ≈ 26.7 mL/cmH₂O. C: in Amato's analysis ΔP was the strongest predictor of survival even with a "protective" Pplat. ([W10/D2](#W10-D2))
+- A (False) – Static compliance = VT / (Pplat − PEEP) = 480 / 18 ≈ 27 mL/cmH₂O; 16 comes from wrongly dividing by Pplat (480 / 30).
+- B (True) – The peak–plateau difference (10 cmH₂O) is the resistive component (flow × resistance); a rise suggests bronchospasm, secretions or tube problems.
+- C (False) – In Amato's analysis driving pressure was the strongest predictor of survival even when Pplat was within the "protective" range; aim for ΔP ≤ 15 cmH₂O.
+- D (True) – Driving pressure = Pplat − PEEP = 30 − 12 = 18 cmH₂O, above the usual target.
+
+**Ref:** Amato MBP, et al. Driving Pressure and Survival in ARDS. *N Engl J Med* 2015;372:747–755.
+
+Review: [W10/D2](#W10-D2)
 
 </details>
 
@@ -2668,7 +3267,18 @@ D: 30 − 12. A: Crs = VT / ΔP = 480 / 18 ≈ 26.7 mL/cmH₂O. C: in Amato's an
 
 **D.**
 
-The lungs "feel" transpulmonary pressure (P_aw − P_es); with a stiff chest wall Pplat overestimates lung stress. Prolonged high-pressure RMs – ESICM strongly against. ([W10/D2](#W10-D2), [W10/D3](#W10-D3))
+**Why D:** The lung is distended by transpulmonary pressure (airway minus pleural pressure). In obesity and intra-abdominal hypertension a stiff chest wall takes up much of the airway pressure, so Pplat overestimates lung stress. Oesophageal pressure estimates pleural pressure, allowing transpulmonary pressure to be calculated and PEEP and lung stress to be individualised.
+
+**Why not the others:**
+
+- A – Prolonged high-pressure recruitment manoeuvres carry a strong ESICM 2023 recommendation against.
+- B – Raising PEEP blindly risks overdistension and haemodynamic compromise.
+- C – Plateau pressure should be interpreted together with oesophageal pressure, not ignored.
+- E – Pressure support does not measure lung stress, and strong spontaneous efforts may raise transpulmonary pressure.
+
+**Ref:** Grasselli G, et al. ESICM guidelines on ARDS. *Intensive Care Med* 2023;49:727–759. Beitler JR, et al. EPVent-2. *JAMA* 2019.
+
+Review: [W10/D2](#W10-D2), [W10/D3](#W10-D3)
 
 </details>
 
@@ -2683,7 +3293,14 @@ The lungs "feel" transpulmonary pressure (P_aw − P_es); with a stiff chest wal
 
 **A – F, B – T, C – F, D – T.**
 
-A: only in the first 80 patients, then abandoned. C: control = empirical high PEEP/FiO₂. ([W10/D3](#W10-D3))
+- A (False) – In ALVEOLI, recruitment manoeuvres were used only in the first 80 patients of the higher PEEP group and then abandoned.
+- B (True) – EXPRESS (PEEP set to Pplat 28–30 cmH₂O) increased ventilator-free days (7 vs 3) and organ-failure-free days, without a significant mortality difference.
+- C (False) – In EPVent-2 the control arm was an empirical *high* PEEP/FiO₂ table; there was no difference in the primary outcome.
+- D (True) – LOVS used recruitment manoeuvres at 40 cmH₂O for 40 s with higher PEEP; mortality did not differ, but refractory hypoxaemia was less common.
+
+**Ref:** Brower RG, et al. ALVEOLI. *N Engl J Med* 2004; Mercat A, et al. EXPRESS. *JAMA* 2008; Meade MO, et al. LOVS. *JAMA* 2008; Beitler JR, et al. EPVent-2. *JAMA* 2019.
+
+Review: [W10/D3](#W10-D3)
 
 </details>
 
@@ -2699,7 +3316,18 @@ A: only in the first 80 patients, then abandoned. C: control = empirical high PE
 
 **D.**
 
-ΔP: 25 − 10 = 15 → 27 − 15 = 12; Crs: 450/15 = 30 → 450/12 = 37.5 mL/cmH₂O. If ΔP had risen (and Pplat > 30, ↓ BP), overdistension would predominate. ([W10/D2](#W10-D2), [W10/D3](#W10-D3))
+**Why D:** ΔP = Pplat − PEEP: before 25 − 10 = 15, after 27 − 15 = 12 cmH₂O. Compliance = VT / ΔP: 450 / 15 = 30 rising to 450 / 12 = 37.5 mL/cmH₂O. At constant VT, a falling driving pressure and rising compliance mean recruitment outweighs overdistension – a favourable PEEP response, provided haemodynamics are tolerated.
+
+**Why not the others:**
+
+- A – Driving pressure fell, but compliance rose rather than fell.
+- B – Compliance increased from 30 to 37.5 mL/cmH₂O.
+- C – Resistance is assessed from the peak–plateau difference, which is not given.
+- E – Driving pressure fell; overdistension would make it rise.
+
+**Ref:** Amato MBP, et al. *N Engl J Med* 2015;372:747–755; Grasselli G, et al. ESICM guidelines on ARDS. *Intensive Care Med* 2023;49:727–759.
+
+Review: [W10/D2](#W10-D2), [W10/D3](#W10-D3)
 
 </details>
 
@@ -2714,7 +3342,14 @@ A: only in the first 80 patients, then abandoned. C: control = empirical high PE
 
 **A – T, B – T, C – T, D – T.**
 
-A: feeding in the prone position is possible; intolerance may be a complication. ([W10/D4](#W10-D4))
+- A (True) – Enteral nutrition can be continued in the prone position; intolerance or vomiting is a possible complication.
+- B (True) – Raised ICP is a relative contraindication; PROSEVA excluded ICP > 30 mmHg or CPP < 60 mmHg.
+- C (True) – PROSEVA stopped proning when PaO₂/FiO₂ was ≥ 150 mmHg with PEEP ≤ 10 cmH₂O and FiO₂ ≤ 0.6, at least 4 h after the end of the last session, in the supine position.
+- D (True) – ECMO before inclusion was an exclusion criterion in PROSEVA; proning during ECMO was studied later (PRONECMO, no benefit).
+
+**Ref:** Guérin C, et al. PROSEVA. *N Engl J Med* 2013;368:2159–2168.
+
+Review: [W10/D4](#W10-D4)
 
 </details>
 
@@ -2730,7 +3365,18 @@ A: feeding in the prone position is possible; intolerance may be a complication.
 
 **D.**
 
-ARR = 32.8 − 16.0 = 16.8 % → NNT = 1 / 0.168 ≈ **6**. For comparison: ARMA NNT ~11, PARAMEDIC2 (30-d survival) ~112. ([W10/D4](#W10-D4), [W10/D2](#W10-D2), [W09/D1](#W09-D1))
+**Why D:** Absolute risk reduction = 32.8 − 16.0 = 16.8 percentage points; NNT = 1 / ARR = 1 / 0.168 ≈ 6. PROSEVA proned patients with P/F < 150 mmHg after 12–24 h of stabilisation, for an average of about 17 h a day.
+
+**Why not the others:**
+
+- A – An NNT of 25 corresponds to an ARR of 4 %.
+- B – 112 is the PARAMEDIC2 NNT for 30-day survival with adrenaline.
+- C – About 11 is the NNT for low tidal volume in ARMA (ARR ~9 %).
+- E – An NNT of 3 would need an ARR of about 33 %.
+
+**Ref:** Guérin C, et al. PROSEVA. *N Engl J Med* 2013;368:2159–2168.
+
+Review: [W10/D4](#W10-D4), [W10/D2](#W10-D2), [W09/D1](#W09-D1)
 
 </details>
 
@@ -2745,7 +3391,16 @@ ARR = 32.8 − 16.0 = 16.8 % → NNT = 1 / 0.168 ≈ **6**. For comparison: ARMA
 
 **A – F, B – F, C – T, D – F.**
 
-A: crude 31.6 vs 40.7 %, p = 0.08; only the adjusted HR 0.68 was significant. D: ROSE was stopped for **futility** (42.5 vs 42.8 %). B: ATS conditionally suggests NMBA in early severe ARDS; it is ESICM that is strongly against routine infusion. ([W10/D4](#W10-D4))
+- A (False) – In ACURASYS, crude 90-day mortality was 31.6 vs 40.7 % (p = 0.08, NS); only the adjusted HR (0.68) was significant.
+- B (False) – ATS 2024 *conditionally suggests* NMBA in early severe ARDS; it is ESICM 2023 that recommends against routine continuous infusion (strong).
+- C (True) – ACURASYS gave cisatracurium as a 15 mg bolus followed by 37.5 mg/h for 48 h, in patients with P/F < 150 mmHg within 48 h.
+- D (False) – ROSE (n = 1006, lighter sedation in controls) was stopped for futility: 90-day mortality 42.5 vs 42.8 %.
+
+**EDIC trap:** ESICM and ATS point in opposite directions on NMBA – note both direction and strength.
+
+**Ref:** Papazian L, et al. ACURASYS. *N Engl J Med* 2010; Moss M, et al. ROSE. *N Engl J Med* 2019; Qadir N, et al. ATS clinical practice guideline update on ARDS. *Am J Respir Crit Care Med* 2024;209:24–36.
+
+Review: [W10/D4](#W10-D4)
 
 </details>
 
@@ -2761,7 +3416,18 @@ A: crude 31.6 vs 40.7 %, p = 0.08; only the adjusted HR 0.68 was significant. D:
 
 **A.**
 
-The largest benefit was in invasively ventilated patients (29.3 vs 41.4 %); overall 22.9 vs 25.7 %. 20 mg/d was the DEXA-ARDS regimen. ([W10/D4](#W10-D4))
+**Why A:** RECOVERY (n = 6425): dexamethasone 6 mg/day for up to 10 days reduced 28-day mortality overall (22.9 vs 25.7 %). The benefit was largest with invasive ventilation (29.3 vs 41.4 %), smaller with oxygen alone, and absent in patients not receiving oxygen (17.8 vs 14.0 %, NS, with a trend towards harm).
+
+**Why not the others:**
+
+- B – 41.4 → 29.3 % was the result in invasively ventilated patients.
+- C – The largest benefit was in invasively ventilated patients.
+- D – 20 mg/day (then 10 mg/day) was the DEXA-ARDS regimen.
+- E – Patients not on oxygen were included and analysed as a subgroup.
+
+**Ref:** RECOVERY Collaborative Group. Dexamethasone in Hospitalized Patients with Covid-19. *N Engl J Med* 2021;384:693–704.
+
+Review: [W10/D4](#W10-D4)
 
 </details>
 
@@ -2776,7 +3442,16 @@ The largest benefit was in invasively ventilated patients (29.3 vs 41.4 %); over
 
 **A – F, B – T, C – T, D – F.**
 
-A: no recommendation, very low certainty. D: strong recommendation only for ↓ intubation; no recommendation for mortality. ([W10/D5](#W10-D5))
+- A (False) – ESICM 2023 makes no recommendation on helmet vs face mask (very low certainty).
+- B (True) – In COVID-19 AHRF, CPAP/NIV is suggested over HFNO to reduce intubation (conditional).
+- C (True) – In non-COVID AHRF, the panel made no recommendation for HFNO versus CPAP/NIV.
+- D (False) – HFNO is strongly recommended over conventional oxygen only to reduce intubation; no recommendation is made for mortality (high certainty of no effect).
+
+**EDIC trap:** HFNO reduces intubation, not mortality.
+
+**Ref:** Grasselli G, et al. ESICM guidelines on ARDS. *Intensive Care Med* 2023;49:727–759.
+
+Review: [W10/D5](#W10-D5)
 
 </details>
 
@@ -2792,7 +3467,18 @@ A: no recommendation, very low certainty. D: strong recommendation only for ↓ 
 
 **A.**
 
-EOLIA: pH < 7.25 with PaCO₂ ≥ 60 mmHg for > 6 h at RR 35/min (Pplat ≤ 32) – one criterion is enough. ESICM: VV-ECMO strong, moderate certainty; ECCO₂R outside RCTs strongly against. ([W10/D5](#W10-D5))
+**Why A:** EOLIA entry criteria (any one,): P/F < 50 mmHg for > 3 h; P/F < 80 mmHg for > 6 h; or pH < 7.25 with PaCO₂ ≥ 60 mmHg for > 6 h with RR increased to 35/min and Pplat ≤ 32 cmH₂O. He meets the hypercapnic criterion; ESICM 2023 recommends VV-ECMO per EOLIA criteria in an ECMO centre (strong, moderate certainty).
+
+**Why not the others:**
+
+- B – Any single criterion is enough; the hypercapnic criterion does not depend on P/F.
+- C – ECCO₂R outside RCTs carries a strong recommendation against.
+- D – The oxygenation criteria are P/F < 50 mmHg for > 3 h or < 80 mmHg for > 6 h.
+- E – The recommendation applies to non-COVID ARDS, with the same direction for COVID-19.
+
+**Ref:** Combes A, et al. EOLIA. *N Engl J Med* 2018;378:1965–1975; Grasselli G, et al. ESICM guidelines on ARDS. *Intensive Care Med* 2023;49:727–759.
+
+Review: [W10/D5](#W10-D5)
 
 </details>
 
@@ -2807,7 +3493,14 @@ EOLIA: pH < 7.25 with PaCO₂ ≥ 60 mmHg for > 6 h at RR 35/min (Pplat ≤ 32) 
 
 **A – T, B – T, C – F, D – T.**
 
-B: ↓ ΔP and PaCO₂, recruitment. A: the PVR–lung volume relationship is "U"-shaped. C: hypercapnia and acidosis ↑ PVR; target PaCO₂ < 48 mmHg. ([W07/D5](#W07-D5), [W10/D2](#W10-D2), [W10/D4](#W10-D4))
+- A (True) – PVR is lowest at FRC: the PVR–lung volume curve is U-shaped, as hyperinflation compresses alveolar vessels and atelectasis causes hypoxic vasoconstriction.
+- B (True) – Prone positioning recruits dorsal lung, lowers driving pressure and PaCO₂, and unloads the RV.
+- C (False) – Hypercapnia and acidosis *raise* PVR; RV-protective ventilation targets PaCO₂ < 48 mmHg.
+- D (True) – VV-ECMO for refractory ACP allows ultra-protective ventilation and corrects hypercapnia and hypoxaemia, unloading the RV.
+
+**Ref:** Mekontso Dessap A, et al. *Intensive Care Med* 2016;42:862–870; Vieillard-Baron A, et al. *Intensive Care Med* 2018;44:774–790.
+
+Review: [W07/D5](#W07-D5), [W10/D2](#W10-D2), [W10/D4](#W10-D4)
 
 </details>
 
@@ -2822,7 +3515,16 @@ B: ↓ ΔP and PaCO₂, recruitment. A: the PVR–lung volume relationship is "U
 
 **A – F, B – T, C – F, D – T.**
 
-D: conditional, low certainty; ESICM strong, moderate. A: strongly against outside RCTs. C: ESICM does not address corticosteroids; ATS 2024 conditionally suggests them. B: ESICM ≥ 16 h (strong, high); ATS 2017 > 12 h/day (prone was not re-addressed in the 2024 update). ([W10/D5](#W10-D5))
+- A (False) – ESICM 2023 recommends *against* ECCO₂R outside RCTs (strong, high certainty of no effect).
+- B (True) – ESICM recommends prone positioning ≥ 16 h for P/F < 150 mmHg (strong, high); ATS 2017 recommends > 12 h/day in severe ARDS, not re-addressed in 2024.
+- C (False) – ESICM 2023 does not address corticosteroids; ATS 2024 conditionally suggests them.
+- D (True) – ATS 2024 suggests VV-ECMO in selected severe ARDS (conditional, low certainty), whereas ESICM recommends it (strong, moderate).
+
+**EDIC trap:** compare both the direction and the strength of each society's recommendation.
+
+**Ref:** Grasselli G, et al. ESICM guidelines on ARDS. *Intensive Care Med* 2023;49:727–759. Qadir N, et al. ATS clinical practice guideline update on ARDS. *Am J Respir Crit Care Med* 2024;209:24–36.
+
+Review: [W10/D5](#W10-D5)
 
 </details>
 
@@ -2841,7 +3543,19 @@ D: conditional, low certainty; ESICM strong, moderate. A: strongly against outsi
 
 **D.**
 
-On VV-ECMO, CO₂ removal depends mainly on sweep gas flow through the oxygenator. Oxygenation depends mainly on blood flow relative to the patient's cardiac output. Raising RR or plateau pressure defeats the purpose of "lung rest". VA-ECMO is for cardiac failure. ([W11/D1](#W11-D1))
+**Why D:** On VV-ECMO, CO₂ removal is governed mainly by sweep gas flow through the oxygenator, because CO₂ diffuses easily into the gas phase. Raising the sweep from 2 L/min lowers PaCO₂ without touching the ventilator, so the ultra-protective "lung rest" settings stay in place.
+
+**Why not the others:**
+- A – Pplat 32 cmH₂O abandons lung rest (EOLIA kept Pplat ≤ 24 cmH₂O) and risks VILI.
+- B – Blood flow, relative to cardiac output, mainly determines oxygenation and has little effect on CO₂.
+- C – RR 30/min raises mechanical power and defeats the aim of lung rest.
+- E – VA-ECMO is for cardiac failure; isolated gas-exchange failure does not justify it.
+
+**EDIC trap:** Sweep gas → CO₂; blood flow → O₂.
+
+**Ref:** Combes A, et al. EOLIA. *N Engl J Med* 2018;378:1965–1975.
+
+Review: [W11/D1](#W11-D1)
 
 </details>
 
@@ -2856,7 +3570,16 @@ On VV-ECMO, CO₂ removal depends mainly on sweep gas flow through the oxygenato
 
 **A – T, B – F, C – F, D – F.**
 
-The control arm had no protocol, and lung-protective ventilation was used in 93 % vs 70 %. Only 68 of 90 patients (~75 %) received ECMO. CESAR showed the benefit of a **referral strategy** to an ECMO centre: death or severe disability at 6 months was 37 vs 53 %. It did not show the benefit of ECMO itself. ([W11/D1](#W11-D1))
+- A (True) – CESAR randomised 180 adults to transfer to an ECMO centre (Glenfield) for consideration of ECMO, or to conventional management in the referring hospital.
+- B (False) – Only 68 of 90 transferred patients (~75 %) actually received ECMO; some improved with protective ventilation alone.
+- C (False) – The control arm had no mandatory protocol; lung-protective ventilation was used in 93 % (ECMO centre) vs 70 % (controls).
+- D (False) – Death or severe disability at 6 months was 37 vs 53 %, which shows the benefit of a referral strategy, not of ECMO itself.
+
+**EDIC trap:** CESAR tested referral to an ECMO centre, not ECMO.
+
+**Ref:** Peek GJ, et al. CESAR. *Lancet* 2009;374:1351–1363.
+
+Review: [W11/D1](#W11-D1)
 
 </details>
 
@@ -2872,7 +3595,17 @@ The control arm had no protocol, and lung-protective ventilation was used in 93 
 
 **C.**
 
-The EOLIA criteria are P/F < 50 mmHg for > 3 h, P/F < 80 mmHg for > 6 h, or pH < 7.25 with PaCO₂ ≥ 60 mmHg for > 6 h. Ventilation for > 7 days was an exclusion criterion (E). In B, P/F < 80 has not lasted 6 h. In A, pH is not < 7.25. ([W11/D1](#W11-D1))
+**Why C:** EOLIA required, despite optimised ventilation, P/F < 50 mmHg for > 3 h, P/F < 80 mmHg for > 6 h, or pH < 7.25 with PaCO₂ ≥ 60 mmHg for > 6 h. Mechanical ventilation for > 7 days was an exclusion. Patient C has P/F 45 mmHg for 4 h on day 3, so he qualifies.
+
+**Why not the others:**
+- A – pH 7.28 is not < 7.25, so the hypercapnic criterion is not met.
+- B – P/F 70 mmHg qualifies only after > 6 h, and 4 h is too short.
+- D – P/F 90 mmHg meets none of the oxygenation thresholds.
+- E – Ventilation for > 7 days was an exclusion criterion.
+
+**Ref:** Combes A, et al. EOLIA. *N Engl J Med* 2018;378:1965–1975.
+
+Review: [W11/D1](#W11-D1)
 
 </details>
 
@@ -2887,7 +3620,16 @@ The EOLIA criteria are P/F < 50 mmHg for > 3 h, P/F < 80 mmHg for > 6 h, or pH <
 
 **A – T, B – T, C – T, D – T.**
 
-Ischaemic stroke was 0 % with ECMO vs 5 % in controls. Severe thrombocytopenia (27 vs 16 %) was also more common with ECMO. Crossover occurred in 28 % of controls. ([W11/D1](#W11-D1))
+- A (True) – Ischaemic stroke occurred in 0 % with ECMO vs 5 % in controls.
+- B (True) – The ECMO arm used ultra-protective ventilation, with Pplat ≤ 24 cmH₂O and PEEP ≥ 10 cmH₂O.
+- C (True) – Bleeding requiring transfusion was 46 vs 28 %, and severe thrombocytopenia 27 vs 16 %.
+- D (True) – 28 % of controls crossed over to rescue ECMO, and their 60-day mortality was 57 %.
+
+**EDIC trap:** The primary outcome (60-day mortality 35 vs 46 %, RR 0.76, p = 0.09) was not significant, partly because of crossover.
+
+**Ref:** Combes A, et al. EOLIA. *N Engl J Med* 2018;378:1965–1975.
+
+Review: [W11/D1](#W11-D1)
 
 </details>
 
@@ -2903,7 +3645,19 @@ Ischaemic stroke was 0 % with ECMO vs 5 % in controls. Severe thrombocytopenia (
 
 **B.**
 
-Across priors, the probability of any benefit was 88–99 %: 88 % with the strongly sceptical prior and 96 % with the minimally informative prior. The probability of a **large** benefit (RR < 0.67) ranged from 0 to 48 %, and the probability of ARR ≥ 20 % was only 0–4 %. ([W11/D1](#W11-D1))
+**Why B:** Goligher reanalysed EOLIA with Bayesian methods across several priors. The posterior probability of any mortality benefit (RR < 1) was 88 % with the strongly sceptical prior, 96 % with the minimally informative prior and up to 99 % with an enthusiastic prior.
+
+**Why not the others:**
+- A – 4 % is the upper bound for the probability of an absolute risk reduction ≥ 20 %.
+- C – 99 % is the upper end of the range (enthusiastic prior), not the sceptical one.
+- D – 50 % was not reported for any prior.
+- E – 48 % is the upper bound of the probability of a large benefit (RR < 0.67).
+
+**EDIC trap:** Any benefit ≠ large benefit.
+
+**Ref:** Goligher EC, et al. *JAMA* 2018;320:2251–2259.
+
+Review: [W11/D1](#W11-D1)
 
 </details>
 
@@ -2918,7 +3672,16 @@ Across priors, the probability of any benefit was 88–99 %: 88 % with the stron
 
 **A – F, B – F, C – F, D – F.**
 
-Hyperoxia causes systemic **vasoconstriction** and lowers cardiac output. Absorption atelectasis results from **washout** of nitrogen – oxygen is absorbed and the alveolus collapses. IOTA: liberal oxygen **increased** in-hospital mortality (RR 1.21). Pulse oximetry can **overestimate** SaO₂, especially with darker skin pigmentation and poor perfusion. This raises the risk of occult hypoxaemia at low targets. ([W11/D2](#W11-D2))
+- A (False) – Hyperoxia causes coronary and cerebral vasoconstriction, raises systemic vascular resistance and lowers cardiac output.
+- B (False) – At FiO₂ close to 1.0, nitrogen is washed out; oxygen in low-V/Q alveoli is absorbed faster than it is replaced, and the alveolus collapses.
+- C (False) – In IOTA, liberal oxygen increased in-hospital mortality (RR 1.21) in acutely ill adults.
+- D (False) – Pulse oximetry can overestimate SaO₂, especially with darker skin pigmentation and poor perfusion, so low SpO₂ targets carry a risk of occult hypoxaemia.
+
+**EDIC trap:** Nitrogen "splints" alveoli open; its washout, not its accumulation, causes absorption atelectasis.
+
+**Ref:** Chu DK, et al. IOTA. *Lancet* 2018;391:1693–1705.
+
+Review: [W11/D2](#W11-D2)
 
 </details>
 
@@ -2934,7 +3697,19 @@ Hyperoxia causes systemic **vasoconstriction** and lowers cardiac output. Absorp
 
 **B.**
 
-LOCO2 was stopped early for safety concerns and futility. 90-day mortality was **higher** with the conservative target (44.4 vs 30.4 %). Mesenteric ischaemia occurred in 5 vs 0 %. ([W11/D2](#W11-D2))
+**Why B:** LOCO2 randomised ARDS patients to a conservative (PaO₂ 55–70 mmHg) or liberal (90–105 mmHg) target. It was stopped early for safety concerns and futility after 205 patients, with 5 cases of mesenteric ischaemia in the conservative arm and none in the liberal arm.
+
+**Why not the others:**
+- A – 28-day mortality was higher, not lower, with the conservative target (34.3 vs 26.5 %).
+- C – Enrolment was stopped early, and ventilator-free days were not improved.
+- D – 90-day mortality was higher with the conservative target (44.4 vs 30.4 %).
+- E – Mesenteric ischaemia was a clear safety signal.
+
+**EDIC trap:** In ARDS, aiming for the bottom of the oxygen range was harmful.
+
+**Ref:** Barrot L, et al. LOCO2. *N Engl J Med* 2020;382:999–1008.
+
+Review: [W11/D2](#W11-D2)
 
 </details>
 
@@ -2949,7 +3724,16 @@ LOCO2 was stopped early for safety concerns and futility. 90-day mortality was *
 
 **A – F, B – T, C – T, D – F.**
 
-ICU-ROX showed a hypothesis-generating benefit signal for hypoxic-ischaemic encephalopathy and a signal of **worse** outcome in sepsis. UK-ROX did not confirm either signal. In HOT-ICU, the achieved median PaO₂ in the lower-target group was about 71 mmHg (~9.4 kPa), above the target. Small separation between arms is one reason the large trials were neutral. ([W11/D2](#W11-D2))
+- A (False) – Post hoc ICU-ROX analyses suggested possible benefit in hypoxic-ischaemic encephalopathy but possible harm in sepsis; UK-ROX confirmed neither signal.
+- B (True) – HOT-ICU enrolled adults with acute hypoxaemic failure on ≥ 10 L/min O₂ or FiO₂ ≥ 0.5, with or without invasive ventilation.
+- C (True) – UK-ROX (16 500 ventilated patients, SpO₂ 90 % vs usual care) separated the arms by only ~2 % SpO₂, and 90-day mortality was 35.4 vs 34.9 %.
+- D (False) – The achieved median PaO₂ in the lower-target arm was ~71 mmHg (~9.4 kPa), above the 8-kPa target.
+
+**EDIC trap:** Small separation between arms is one reason the large oxygen trials were neutral.
+
+**Ref:** Mackle D, et al. ICU-ROX. *N Engl J Med* 2020;382:989–998; Schjørring OL, et al. HOT-ICU. *N Engl J Med* 2021;384:1301–1311; Martin DS, et al. UK-ROX. *JAMA* 2025;334:398–408.
+
+Review: [W11/D2](#W11-D2)
 
 </details>
 
@@ -2965,7 +3749,17 @@ ICU-ROX showed a hypothesis-generating benefit signal for hypoxic-ischaemic ence
 
 **E.**
 
-A reasonable corridor for most critically ill patients is SpO₂ ~92–96 % or PaO₂ ~60–90 mmHg, avoiding both extremes. In ARDS, do not go below PaO₂ ~55–60 mmHg / SpO₂ ~88 %. Sustained SpO₂ 98–100 % at FiO₂ > 0.4 means unnecessary oxygen. ([W11/D2](#W11-D2))
+**Why E:** In LOCO2, a PaO₂ target of 55–70 mmHg increased mortality and mesenteric ischaemia, so in ARDS PaO₂ should not fall below ~55–60 mmHg (SpO₂ ~88 %). For most critically ill patients, a corridor of SpO₂ ~92–96 % (PaO₂ ~60–90 mmHg) avoids both hypoxaemia and hyperoxia.
+
+**Why not the others:**
+- A – SpO₂ 80 % is significant hypoxaemia, and a normal lactate does not make it safe.
+- B – PaO₂ 45 mmHg is below any safe floor; even 55–70 mmHg was harmful in LOCO2.
+- C – SpO₂ ≥ 98 % at FiO₂ 0.6 means avoidable hyperoxia, which was harmful in IOTA.
+- D – PaO₂ > 100 mmHg is hyperoxia; in LOCO2 gut ischaemia occurred with the low target.
+
+**Ref:** Barrot L, et al. LOCO2. *N Engl J Med* 2020;382:999–1008; Chu DK, et al. IOTA. *Lancet* 2018;391:1693–1705.
+
+Review: [W11/D2](#W11-D2)
 
 </details>
 
@@ -2980,7 +3774,16 @@ A reasonable corridor for most critically ill patients is SpO₂ ~92–96 % or P
 
 **A – T, B – T, C – T, D – T.**
 
-Intubation was 38 vs 47 vs 50 % (p = 0.18, NS). Fewer intubations were seen only in the post hoc P/F ≤ 200 subgroup. 90-day mortality (12 vs 23 vs 28 %) favoured HFNO. ([W11/D3](#W11-D3))
+- A (True) – Intubation by day 28 was 38 % (HFNO) vs 47 % (standard O₂) vs 50 % (NIV), p = 0.18.
+- B (True) – High flow washes out nasopharyngeal dead space, which improves CO₂ clearance and reduces the work of breathing.
+- C (True) – FLORALI enrolled non-hypercapnic hypoxaemic patients; PaCO₂ > 45 mmHg and cardiogenic pulmonary oedema were exclusions.
+- D (True) – HFNO generates only a low, uncontrolled positive pressure (roughly 1 cmH₂O per 10 L/min with the mouth closed).
+
+**EDIC trap:** Fewer intubations were seen only in the post hoc P/F ≤ 200 subgroup, while 90-day mortality (12 vs 23 vs 28 %) favoured HFNO.
+
+**Ref:** Frat JP, et al. FLORALI. *N Engl J Med* 2015;372:2185–2196.
+
+Review: [W11/D3](#W11-D3)
 
 </details>
 
@@ -2996,7 +3799,19 @@ Intubation was 38 vs 47 vs 50 % (p = 0.18, NS). Fewer intubations were seen only
 
 **B.**
 
-ROX = (SpO₂/FiO₂)/RR = (95/0.5)/28 = 190/28 ≈ **6.8**. ROX ≥ 4.88 at 2, 6 or 12 h is associated with a lower risk of intubation. At 6 h, ROX < 3.47 indicates high risk. ([W11/D3](#W11-D3))
+**Why B:** ROX = (SpO₂/FiO₂)/RR = (95/0.5)/28 = 190/28 ≈ 6.8. In the validation study, ROX ≥ 4.88 at 2, 6 or 12 h of HFNO identified patients at lower risk of intubation.
+
+**Why not the others:**
+- A – 3.4 is a miscalculation; at 6 h only ROX < 3.47 marks high risk of failure.
+- C – 0.15 results from inverting the formula.
+- D – 53 does not follow from the formula; the correct value here is 6.8.
+- E – 2.7 is a miscalculation, and ROX supports, rather than replaces, the clinical decision to intubate.
+
+**EDIC trap:** ROX is the score for HFNO; HACOR is the score for NIV.
+
+**Ref:** Roca O, et al. *Am J Respir Crit Care Med* 2019;199:1368–1376.
+
+Review: [W11/D3](#W11-D3)
 
 </details>
 
@@ -3011,7 +3826,14 @@ ROX = (SpO₂/FiO₂)/RR = (95/0.5)/28 = 190/28 ≈ **6.8**. ROX ≥ 4.88 at 2, 
 
 **A – F, B – F, C – T, D – F.**
 
-**Consciousness** (GCS) carries the greatest weight in HACOR. HACOR was developed for **NIV** (ROX is for HFNO). P-SILI is a **concept/hypothesis** (Brochard, AJRCCM 2017) and is used as an argument against delaying intubation when drive is uncontrolled. ([W11/D3](#W11-D3))
+- A (False) – Consciousness (GCS) carries the greatest weight in HACOR (up to 10 points), more than heart rate.
+- B (False) – P-SILI is a physiological concept (Brochard, AJRCCM 2017) rather than a syndrome proven in randomised trials; it argues against delaying intubation when drive is uncontrolled.
+- C (True) – An expired V_T > 9.5 mL/kg PBW on NIV predicted NIV failure in de novo hypoxaemic respiratory failure.
+- D (False) – HACOR was developed for NIV, not HFNO (ROX is the HFNO tool); a HACOR score > 5 after 1 h of NIV indicates high risk of failure.
+
+**Ref:** Duan J, et al. *Intensive Care Med* 2017;43:192–199; Carteaux G, et al. *Crit Care Med* 2016;44:282–290; Brochard L, et al. *Am J Respir Crit Care Med* 2017;195:438–442.
+
+Review: [W11/D3](#W11-D3)
 
 </details>
 
@@ -3027,7 +3849,17 @@ ROX = (SpO₂/FiO₂)/RR = (95/0.5)/28 = 190/28 ≈ **6.8**. ROX ≥ 4.88 at 2, 
 
 **C.**
 
-90-day mortality was 34.1 vs 56.4 %. The trial was small, single-centre and stopped early for efficacy, so it is hypothesis-generating. B = HENIVOT (helmet vs HFNO), A = FLORALI, D = Hernández I, E = HIGH-WEAN. ([W11/D3](#W11-D3))
+**Why C:** Patel randomised 83 ARDS patients on face-mask NIV to continue the face mask or switch to a helmet. Intubation fell from 61.5 % to 18.2 %, and 90-day mortality from 56.4 % to 34.1 %. The trial was small, single-centre and stopped early for efficacy, so it is hypothesis-generating.
+
+**Why not the others:**
+- A – 38 vs 47 % are the FLORALI intubation rates (HFNO vs standard O₂).
+- B – 30 vs 51 % are the HENIVOT intubation rates (helmet NIV vs HFNO).
+- D – 4.9 vs 12.2 % are the reintubation rates in Hernández I (HFNO vs conventional O₂, low-risk patients).
+- E – 11.8 vs 18.2 % are the HIGH-WEAN reintubation rates (NIV + HFNO vs HFNO).
+
+**Ref:** Patel BK, et al. *JAMA* 2016;315:2435–2441.
+
+Review: [W11/D3](#W11-D3)
 
 </details>
 
@@ -3042,7 +3874,16 @@ ROX = (SpO₂/FiO₂)/RR = (95/0.5)/28 = 190/28 ≈ **6.8**. ROX ≥ 4.88 at 2, 
 
 **A – F, B – T, C – T, D – T.**
 
-ESICM makes no mortality recommendation and has high certainty that HFNO does not change mortality. ESICM gives no recommendation on HFNO vs CPAP/NIV in AHRF in general. ([W11/D3](#W11-D3))
+- A (False) – ESICM 2023 makes no recommendation on HFNO to reduce mortality, because trials show no mortality effect.
+- B (True) – ERS 2022 suggests a trial of NIV before HFNC in hypercapnic COPD exacerbation (conditional recommendation).
+- C (True) – ESICM 2023 recommends HFNO over conventional oxygen in AHRF to reduce intubation (strong, moderate certainty).
+- D (True) – ERS/ATS 2017 recommends bilevel NIV or CPAP in cardiogenic pulmonary oedema (strong recommendation).
+
+**EDIC trap:** ESICM 2023 gives no general recommendation on HFNO vs CPAP/NIV in AHRF.
+
+**Ref:** Grasselli G, et al. *Intensive Care Med* 2023;49:727–759; Oczkowski S, et al. *Eur Respir J* 2022;59:2101574; Rochwerg B, et al. *Eur Respir J* 2017;50:1602426.
+
+Review: [W11/D3](#W11-D3)
 
 </details>
 
@@ -3058,7 +3899,17 @@ ESICM makes no mortality recommendation and has high certainty that HFNO does no
 
 **D.**
 
-Weaning failure is a failed SBT, reintubation or resumption of ventilatory support, or death within 48 h after extubation. A patient extubated onto NIV counts as "weaning in progress". ([W11/D4](#W11-D4))
+**Why D:** The Boles consensus defines weaning success as extubation with no ventilatory support for 48 h. Weaning failure is a failed SBT, reintubation or resumption of ventilatory support, or death within 48 h after extubation.
+
+**Why not the others:**
+- A – Passing an SBT is a step towards extubation, not weaning success.
+- B – A 7-day window is used by WIND for successful separation, not by Boles.
+- C – 24 h is too short; Boles uses 48 h.
+- E – A patient extubated onto NIV is classed as "weaning in progress".
+
+**Ref:** Boles JM, et al. *Eur Respir J* 2007;29:1033–1056.
+
+Review: [W11/D4](#W11-D4)
 
 </details>
 
@@ -3073,7 +3924,16 @@ Weaning failure is a failed SBT, reintubation or resumption of ventilatory suppo
 
 **A – T, B – F, C – T, D – F.**
 
-Reintubation was 11.1 vs 11.9 % (NS). Successful extubation was 82.3 vs 74.0 %. The ATS/ACCP recommendation is conditional, moderate certainty. Most SBT failures occur within the first ~20 minutes. ([W11/D4](#W11-D4))
+- A (True) – ATS/ACCP 2017 suggests an initial SBT with 5–8 cmH₂O of inspiratory pressure augmentation rather than a T-piece or CPAP (conditional, moderate certainty).
+- B (False) – Reintubation was 11.1 vs 11.9 % (NS), and successful extubation was higher after the PSV trial (82.3 vs 74.0 %).
+- C (True) – Hospital mortality was 10.4 vs 14.9 %, also favouring the PSV SBT.
+- D (False) – Most SBT failures occur early, within the first ~20 minutes.
+
+**EDIC trap:** A shorter, less demanding SBT led to more extubations without more reintubations.
+
+**Ref:** Subirà C, et al. *JAMA* 2019;321:2175–2182; Schmidt GA, et al. ATS/ACCP. *Am J Respir Crit Care Med* 2017;195:115–119.
+
+Review: [W11/D4](#W11-D4)
 
 </details>
 
@@ -3089,7 +3949,19 @@ Reintubation was 11.1 vs 11.9 % (NS). Successful extubation was 82.3 vs 74.0 %. 
 
 **E.**
 
-WIND counts from the **first separation attempt**: < 1 day = short, 1–7 days = difficult, ≥ 7 days = prolonged. ICU mortality was 6 / 17 / 29 %. "Simple" is a Boles category. ([W11/D4](#W11-D4))
+**Why E:** WIND counts from the first separation attempt (an SBT or extubation) to successful weaning: < 1 day = short, 1 to < 7 days = difficult, ≥ 7 days = prolonged. She was weaned 4 days after the first attempt, so she is in Group 2 (difficult weaning), with ICU mortality ~17 %.
+
+**Why not the others:**
+- A – "Simple weaning" is a Boles category, not a WIND group.
+- B – The "no weaning" group never had a separation attempt.
+- C – Short weaning requires success within 1 day of the first attempt.
+- D – Prolonged weaning requires ≥ 7 days from the first attempt.
+
+**EDIC trap:** Count from the first separation attempt, not intubation.
+
+**Ref:** Béduneau G, et al. WIND. *Am J Respir Crit Care Med* 2017;195:772–783.
+
+Review: [W11/D4](#W11-D4)
 
 </details>
 
@@ -3104,7 +3976,16 @@ WIND counts from the **first separation attempt**: < 1 day = short, 1–7 days =
 
 **A – T, B – T, C – F, D – F.**
 
-It was **Boles** that could not classify about half of patients. WIND classified 99 %. WIND starts at the first separation attempt (an SBT or extubation without an SBT). ([W11/D4](#W11-D4))
+- A (True) – Boles: difficult weaning = failing the first SBT and succeeding within up to 3 SBTs or 7 days; prolonged weaning needs more than that.
+- B (True) – The Boles classification counts from the first SBT.
+- C (False) – WIND starts at the first separation attempt (an SBT or extubation without an SBT), not at intubation.
+- D (False) – WIND classified 99 % of patients; it was Boles that could not classify about half (no SBT, tracheostomy, death).
+
+**EDIC trap:** WIND was created because Boles left many patients unclassifiable.
+
+**Ref:** Boles JM, et al. *Eur Respir J* 2007;29:1033–1056; Béduneau G, et al. WIND. *Am J Respir Crit Care Med* 2017;195:772–783.
+
+Review: [W11/D4](#W11-D4)
 
 </details>
 
@@ -3120,7 +4001,19 @@ It was **Boles** that could not classify about half of patients. WIND classified
 
 **A.**
 
-RSBI = f/V_T (in litres) = 30/0.4 = **75**. RSBI ≤ 105 is associated with success. It has high sensitivity and NPV but low specificity (0.64), so a low RSBI does not guarantee success. RSBI is an aid and does not replace the SBT. ([W11/D4](#W11-D4))
+**Why A:** RSBI = f/V_T in litres = 30/0.4 = 75 breaths/min/L. A value ≤ 105 is associated with weaning success, but specificity is low (~0.64), so a low RSBI does not guarantee success. RSBI is an aid and does not replace an SBT.
+
+**Why not the others:**
+- B – 12 is f × V_T (minute ventilation in L/min), not f/V_T.
+- C – 133 does not follow from the numbers; the RSBI here is 75.
+- D – The value is right, but RSBI never guarantees successful extubation.
+- E – 0.013 is V_T/f, the inverted ratio.
+
+**EDIC trap:** RSBI has high sensitivity and NPV, but low specificity.
+
+**Ref:** Yang KL, Tobin MJ. *N Engl J Med* 1991;324:1445–1450.
+
+Review: [W11/D4](#W11-D4)
 
 </details>
 
@@ -3135,7 +4028,16 @@ RSBI = f/V_T (in litres) = 30/0.4 = **75**. RSBI ≤ 105 is associated with succ
 
 **A – F, B – T, C – T, D – T.**
 
-After a failed SBT, look for the cause, rest the patient on comfortable ventilation and repeat the SBT **after 24 h**. ([W11/D4](#W11-D4))
+- A (False) – After a failed SBT, look for the cause, rest the patient on comfortable ventilation and repeat the SBT after 24 h.
+- B (True) – Negative intrathoracic pressure increases venous return and LV afterload, which can unmask LV dysfunction and cause weaning-induced pulmonary oedema.
+- C (True) – Metabolic alkalosis (e.g. after diuretics) depresses ventilatory drive and causes compensatory hypoventilation.
+- D (True) – Hypophosphataemia (like hypokalaemia and hypomagnesaemia) impairs respiratory muscle function.
+
+**EDIC trap:** Repeating the SBT the same day does not speed weaning; treating the cause does.
+
+**Ref:** Boles JM, et al. *Eur Respir J* 2007;29:1033–1056.
+
+Review: [W11/D4](#W11-D4)
 
 </details>
 
@@ -3151,7 +4053,19 @@ After a failed SBT, look for the cause, rest the patient on comfortable ventilat
 
 **C.**
 
-The non-inferiority margin was 10 %. NIV was often interrupted because of adverse effects (43 vs 0 %). Option B is Hernández I (low-risk patients, HFNO vs conventional O₂). ([W11/D5](#W11-D5))
+**Why C:** In 604 high-risk patients, 24 h of HFNO after extubation was non-inferior to NIV (margin 10 %), with reintubation 22.8 vs 19.1 %. Postextubation respiratory failure was lower with HFNO (26.9 vs 39.8 %).
+
+**Why not the others:**
+- A – HFNO met the non-inferiority criterion.
+- B – 4.9 vs 12.2 % is Hernández I (low-risk patients, HFNO vs conventional O₂).
+- D – NIV was often interrupted because of adverse effects (43 vs 0 %).
+- E – ICU mortality did not differ between groups.
+
+**EDIC trap:** Later, in HIGH-WEAN, NIV alternating with HFNO beat HFNO alone in high-risk patients (reintubation 11.8 vs 18.2 %).
+
+**Ref:** Hernández G, et al. *JAMA* 2016;316:1565–1574; Thille AW, et al. HIGH-WEAN. *JAMA* 2019;322:1465–1475.
+
+Review: [W11/D5](#W11-D5)
 
 </details>
 
@@ -3166,7 +4080,14 @@ The non-inferiority margin was 10 %. NIV was often interrupted because of advers
 
 **A – F, B – F, C – F, D – T.**
 
-Corticosteroids reduced reintubation (5.8 % vs 17.0 %). Thresholds varied between studies (e.g. 88–283 mL, or 10–24 % of V_T). The test is suggested **only in high-risk patients**, because blanket testing produces false positives and delays extubation. Reintubation after a failed cuff leak test is also a risk factor. ([W11/D5](#W11-D5))
+- A (False) – The cuff leak test is suggested only in patients at high risk of postextubation stridor, because blanket testing produces false positives and delays extubation.
+- B (False) – In patients who failed a cuff leak test, systemic corticosteroids given ≥ 4 h before extubation reduced reintubation (5.8 vs 17.0 %).
+- C (False) – Thresholds varied widely between studies (e.g. 88–283 mL, or 10–24 % of V_T).
+- D (True) – Risk factors include traumatic intubation, intubation > 6 days, a large tube, female sex and reintubation after unplanned extubation.
+
+**Ref:** Girard TD, et al. ATS/ACCP. *Am J Respir Crit Care Med* 2017;195:120–133.
+
+Review: [W11/D5](#W11-D5)
 
 </details>
 
@@ -3182,7 +4103,17 @@ Corticosteroids reduced reintubation (5.8 % vs 17.0 %). Thresholds varied betwee
 
 **C.**
 
-Severity is graded by objective parameters, not by the place of treatment. "Severe" requires **hypercapnia and acidosis** (PaCO₂ > 45 mmHg and pH < 7.35) in addition. The definition requires worsening over ≤ 14 days. ([W12/D1](#W12-D1))
+**Why C:** The Rome proposal grades severity by objective variables: dyspnoea VAS ≥ 5, RR ≥ 24/min, HR ≥ 95/min, SpO₂ < 92 % and CRP ≥ 10 mg/L. "Severe" additionally requires hypercapnia with acidosis (PaCO₂ > 45 mmHg and pH < 7.35), which this patient has.
+
+**Why not the others:**
+- A – Worsening of symptoms over ≤ 14 days with these features meets the exacerbation definition.
+- B – Mild means VAS < 5, RR < 24, HR < 95, SpO₂ ≥ 92 % and CRP < 10.
+- D – Moderate would apply if there were hypercapnia without acidosis.
+- E – The Rome proposal deliberately abandons classification by place of treatment.
+
+**Ref:** Celli BR, et al. *Am J Respir Crit Care Med* 2021;204:1251–1258; GOLD 2026 Report.
+
+Review: [W12/D1](#W12-D1)
 
 </details>
 
@@ -3197,7 +4128,14 @@ Severity is graded by objective parameters, not by the place of treatment. "Seve
 
 **A – F, B – T, C – F, D – T.**
 
-In REDUCE, re-exacerbation within 6 months was 35.9 vs 36.8 % at half the cumulative dose. Oral corticosteroids are equivalent to IV if the patient can swallow. Methylxanthines are not recommended (adverse effects). Antibiotics are typically given for 5 days. ([W12/D1](#W12-D1))
+- A (False) – Methylxanthines are not recommended, because of adverse effects.
+- B (True) – In REDUCE, re-exacerbation within 6 months was 35.9 vs 36.8 %, so 5 days of prednisone 40 mg was non-inferior to 14 days at half the cumulative dose.
+- C (False) – Oral corticosteroids are as effective as IV if the patient can swallow.
+- D (True) – Antibiotics are indicated when NIV or invasive ventilation is needed, typically for 5 days.
+
+**Ref:** Leuppi JD, et al. REDUCE. *JAMA* 2013;309:2223–2231; GOLD 2026 Report.
+
+Review: [W12/D1](#W12-D1)
 
 </details>
 
@@ -3213,7 +4151,19 @@ In REDUCE, re-exacerbation within 6 months was 35.9 vs 36.8 % at half the cumula
 
 **E.**
 
-For hypercapnia **without acidosis**, ERS/ATS suggests not using NIV (conditional, low certainty). B and D: strong recommendation, high certainty. C: a trial of NIV (strong, moderate). A: conditional, moderate. ([W12/D1](#W12-D1))
+**Why E:** PaCO₂ 55 mmHg with pH 7.38 is compensated hypercapnia without acidosis. For this situation ERS/ATS 2017 suggests not using NIV (conditional, low certainty).
+
+**Why not the others:**
+- A – NIV to facilitate weaning in hypercapnic patients is suggested (conditional, moderate certainty).
+- B – pH ≤ 7.35 with hypercapnia is a strong recommendation for bilevel NIV (high certainty).
+- C – A trial of NIV is recommended even when intubation would otherwise be needed, unless the patient is deteriorating rapidly (strong, moderate).
+- D – pH 7.33 with PaCO₂ 60 mmHg is acute respiratory acidosis, a strong indication (high certainty).
+
+**EDIC trap:** NIV treats hypercapnic acidosis, not hypercapnia alone.
+
+**Ref:** Rochwerg B, et al. ERS/ATS. *Eur Respir J* 2017;50:1602426.
+
+Review: [W12/D1](#W12-D1)
 
 </details>
 
@@ -3228,7 +4178,16 @@ For hypercapnia **without acidosis**, ERS/ATS suggests not using NIV (conditiona
 
 **A – F, B – T, C – F, D – F.**
 
-There is no lower pH limit below which NIV is absolutely contraindicated – the lower the pH, the higher the risk of failure, so monitor in the ICU with intubation immediately available. EPAP of ~4–6 cmH₂O offsets intrinsic PEEP and improves triggering. NIV reduced both mortality (RR 0.63) and intubation (RR 0.41). ([W12/D1](#W12-D1))
+- A (False) – There is no pH below which NIV is absolutely contraindicated; the lower the pH, the higher the risk of failure, so use NIV in the ICU with intubation immediately available.
+- B (True) – No improvement in pH and PaCO₂ after 1–2 h predicts NIV failure and should prompt intubation.
+- C (False) – EPAP of ~4–6 cmH₂O offsets intrinsic PEEP and reduces the work of triggering.
+- D (False) – In meta-analyses NIV reduced both mortality (RR 0.63) and intubation (RR 0.41).
+
+**EDIC trap:** Delaying intubation when NIV is failing worsens outcome.
+
+**Ref:** Rochwerg B, et al. ERS/ATS. *Eur Respir J* 2017;50:1602426; Brochard L, et al. *N Engl J Med* 1995;333:817–822.
+
+Review: [W12/D1](#W12-D1)
 
 </details>
 
@@ -3244,7 +4203,19 @@ There is no lower pH limit below which NIV is absolutely contraindicated – the
 
 **D.**
 
-A normal or rising PaCO₂ in a tachypnoeic asthmatic is a warning sign of failure. Other life-threatening features include drowsiness, confusion, a "silent chest", PEF < 25–30 % and inability to speak. ([W12/D1](#W12-D1))
+**Why D:** In acute asthma, tachypnoea should drive PaCO₂ below normal. A normal (5.3 kPa) or rising PaCO₂ in a tachypnoeic, exhausted patient signals fatigue and impending ventilatory failure, which is a life-threatening feature.
+
+**Why not the others:**
+- A – PEF 60 % is a moderate attack; life-threatening attacks have PEF < ~25–30 % of predicted.
+- B – Loud wheeze shows air movement, whereas a "silent chest" is the danger sign.
+- C – A low PaCO₂ is the expected response to tachypnoea.
+- E – SpO₂ 96 % on room air is reassuring.
+
+**EDIC trap:** A "normal" PaCO₂ in severe asthma is an alarm, not reassurance.
+
+**Ref:** Global Initiative for Asthma. GINA 2025 update.
+
+Review: [W12/D1](#W12-D1)
 
 </details>
 
@@ -3259,7 +4230,16 @@ A normal or rising PaCO₂ in a tachypnoeic asthmatic is a warning sign of failu
 
 **A – F, B – F, C – F, D – F.**
 
-Antibiotics are given only for clear infection. Adult SpO₂ target is 93–95 %. IV magnesium sulfate 2 g over 20 min is used for severe exacerbations not responding to initial treatment. For asthma, ERS/ATS makes **no recommendation** on NIV (insufficient evidence). ([W12/D1](#W12-D1))
+- A (False) – Antibiotics are given only when there is clear evidence of bacterial infection.
+- B (False) – In adults, titrate oxygen to SpO₂ 93–95 %; hyperoxia can raise PaCO₂.
+- C (False) – IV magnesium sulfate 2 g over 20 min is used in severe exacerbations not responding to initial treatment.
+- D (False) – ERS/ATS 2017 makes no recommendation on NIV in acute asthma because the evidence is insufficient.
+
+**EDIC trap:** The SpO₂ target in asthma (93–95 %) differs from COPD (88–92 %).
+
+**Ref:** Global Initiative for Asthma. GINA 2025 update; Rochwerg B, et al. *Eur Respir J* 2017;50:1602426.
+
+Review: [W12/D1](#W12-D1)
 
 </details>
 
@@ -3275,7 +4255,19 @@ Antibiotics are given only for clear infection. Adult SpO₂ target is 93–95 %
 
 **C.**
 
-A higher Ppeak with an unchanged Pplat means increased **resistance**. If both rise, compliance has fallen or hyperinflation has worsened (pneumothorax, endobronchial intubation, atelectasis, dynamic hyperinflation). ([W12/D1](#W12-D1), [W13/D2](#W13-D2))
+**Why C:** In constant-flow VCV, Ppeak − Pplat reflects the resistive pressure (flow × resistance). Here it rose from 8 to 23 cmH₂O while Pplat stayed at 22 cmH₂O, so airway resistance has increased: bronchospasm, secretions, or a kinked or bitten tube.
+
+**Why not the others:**
+- A – Tension pneumothorax lowers compliance, so Pplat would also rise.
+- B – Progression to ARDS lowers compliance and raises Pplat.
+- D – Worsening dynamic hyperinflation raises PEEPi and Pplat.
+- E – Endobronchial intubation reduces compliance, raising both Ppeak and Pplat.
+
+**EDIC trap:** Only Ppeak up → resistance; Ppeak and Pplat both up → compliance or hyperinflation.
+
+**Ref:** Hess DR. *Respir Care* 2014;59:1773–1794.
+
+Review: [W12/D1](#W12-D1), [W13/D2](#W13-D2)
 
 </details>
 
@@ -3290,7 +4282,16 @@ A higher Ppeak with an unchanged Pplat means increased **resistance**. If both r
 
 **A – T, B – T, C – T, D – T.**
 
-Severe CAP = 1 major (vasopressor-requiring shock, invasive ventilation) or ≥ 3 minor criteria. ([W12/D2](#W12-D2))
+- A (True) – Respiratory rate ≥ 30/min is a minor criterion.
+- B (True) – Septic shock requiring vasopressors is a major criterion, like the need for invasive ventilation.
+- C (True) – PaO₂/FiO₂ ≤ 250 is a minor criterion.
+- D (True) – Thrombocytopenia < 100 × 10⁹/L is a minor criterion, as are confusion, uraemia, leucopenia, hypothermia, multilobar infiltrates and hypotension needing aggressive fluids.
+
+**EDIC trap:** Severe CAP = 1 major or ≥ 3 minor criteria.
+
+**Ref:** Metlay JP, et al. ATS/IDSA. *Am J Respir Crit Care Med* 2019;200:e45–e67.
+
+Review: [W12/D2](#W12-D2)
 
 </details>
 
@@ -3306,7 +4307,19 @@ Severe CAP = 1 major (vasopressor-requiring shock, invasive ventilation) or ≥ 
 
 **D.**
 
-Legionella, Mycoplasma and Chlamydophila are not covered by β-lactams. They need a macrolide or a fluoroquinolone (doxycycline is an alternative for Legionella). ([W12/D2](#W12-D2))
+**Why D:** The urinary antigen detects only *L. pneumophila* serogroup 1, so a negative result does not exclude Legionella, especially with this typical picture (hotel stay, hyponatraemia, raised CK, relative bradycardia). Send lower respiratory tract PCR or culture and continue a macrolide or fluoroquinolone.
+
+**Why not the others:**
+- A – Legionella stains poorly on Gram stain, so a negative stain excludes nothing.
+- B – β-lactams do not cover intracellular atypical pathogens such as Legionella.
+- C – Repeating the same test does not overcome its serogroup limitation.
+- E – Stopping the macrolide risks untreated Legionnaires' disease.
+
+**EDIC trap:** A negative urinary antigen does not rule out Legionella.
+
+**Ref:** Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT. *Intensive Care Med* 2023;49:615–632; Metlay JP, et al. *Am J Respir Crit Care Med* 2019;200:e45–e67.
+
+Review: [W12/D2](#W12-D2)
 
 </details>
 
@@ -3321,7 +4334,16 @@ Legionella, Mycoplasma and Chlamydophila are not covered by β-lactams. They nee
 
 **A – F, B – F, C – F, D – F.**
 
-Hydrocortisone 200 mg/day for 4 days, then tapered (total 8 or 14 days). Septic shock on vasopressors and PCR-positive influenza were exclusion criteria. Hydrocortisone **increased** insulin requirements. 28-day mortality was 6.2 vs 11.9 %. ([W12/D2](#W12-D2))
+- A (False) – Hydrocortisone increased insulin requirements.
+- B (False) – The dose was 200 mg/day for 4 days, then tapered, for a total of 8 or 14 days.
+- C (False) – Septic shock on vasopressors was an exclusion criterion.
+- D (False) – PCR-positive influenza was an exclusion criterion.
+
+**EDIC trap:** 28-day mortality fell (6.2 vs 11.9 %) only in sCAP without shock and without influenza.
+
+**Ref:** Dequin PF, et al. CAPE COD. *N Engl J Med* 2023;388:1931–1941.
+
+Review: [W12/D2](#W12-D2)
 
 </details>
 
@@ -3337,7 +4359,17 @@ Hydrocortisone 200 mg/day for 4 days, then tapered (total 8 or 14 days). Septic 
 
 **D.**
 
-90-day mortality was 15 vs 9.8 %. A large benefit is unlikely, but a small benefit or harm was not excluded. Allocation was unequal (536 vs 122), giving wide intervals. Option C describes ESCAPe. REMAP-CAP, unlike CAPE COD, included influenza and shock. ([W12/D2](#W12-D2))
+**Why D:** The REMAP-CAP corticosteroid domain randomised 658 patients (536 : 122) to hydrocortisone 50 mg every 6 h for 7 days or no hydrocortisone, and stopped for futility. 90-day mortality was 15 vs 9.8 %; a large benefit is unlikely, but the wide intervals did not exclude a small benefit or harm.
+
+**Why not the others:**
+- A – Dexamethasone 6 mg/day for 10 days is the RECOVERY COVID-19 regimen.
+- B – There was no significant mortality reduction.
+- C – Methylprednisolone 40 mg/day with 60-day mortality 16 vs 18 % describes ESCAPe.
+- E – Unlike CAPE COD, REMAP-CAP included patients with influenza and shock.
+
+**Ref:** REMAP-CAP Investigators. *Intensive Care Med* 2025;51:665–680; Meduri GU, et al. ESCAPe. *Intensive Care Med* 2022;48:1009–1023.
+
+Review: [W12/D2](#W12-D2)
 
 </details>
 
@@ -3352,7 +4384,14 @@ Hydrocortisone 200 mg/day for 4 days, then tapered (total 8 or 14 days). Septic 
 
 **A – F, B – T, C – T, D – F.**
 
-Aspiration is treated as standard CAP, without routine anaerobic cover (except abscess/empyema). Procalcitonin is used to **shorten** antibiotic duration, not to decide on starting antibiotics. ([W12/D2](#W12-D2))
+- A (False) – Aspiration pneumonia is treated as standard CAP; anaerobic cover is added only for lung abscess or empyema.
+- B (True) – During influenza season, oseltamivir can be started empirically when PCR is unavailable.
+- C (True) – ERS/ESICM 2023 suggests adding a macrolide, rather than a fluoroquinolone, to a β-lactam (conditional, low certainty).
+- D (False) – Procalcitonin helps to shorten antibiotic duration, not to decide whether to start antibiotics.
+
+**Ref:** Martin-Loeches I, et al. ERS/ESICM/ESCMID/ALAT. *Intensive Care Med* 2023;49:615–632; Metlay JP, et al. *Am J Respir Crit Care Med* 2019;200:e45–e67.
+
+Review: [W12/D2](#W12-D2)
 
 </details>
 
@@ -3368,7 +4407,17 @@ Aspiration is treated as standard CAP, without routine anaerobic cover (except a
 
 **C.**
 
-pH > 7.2 and < 7.4 is intermediate risk: measure LDH, and consider drainage when LDH > 900 IU/L with clinical features. Streptokinase (MIST1), tPA alone and DNase alone are not effective. tPA + DNase is used for a residual collection when the drain has stopped draining. ([W12/D5](#W12-D5))
+**Why C:** BTS 2023 grades pleural pH: < 7.2 means drain, while 7.2–7.4 is intermediate risk, where LDH is measured. With LDH > 900 IU/L and ongoing sepsis, a small-bore (≤ 14 F), ultrasound-guided chest drain should be considered.
+
+**Why not the others:**
+- A – Intrapleural streptokinase was ineffective in MIST1.
+- B – VATS is reserved for failure of drainage and medical therapy, not a first step.
+- D – In MIST2, tPA alone did not work; only tPA + DNase improved drainage of a residual collection.
+- E – pH > 7.2 does not rule out drainage when LDH is high and the patient remains septic.
+
+**Ref:** Roberts ME, et al. BTS. *Thorax* 2023;78:1143–1156; Rahman NM, et al. MIST2. *N Engl J Med* 2011;365:518–526; Maskell NA, et al. MIST1. *N Engl J Med* 2005;352:865–874.
+
+Review: [W12/D5](#W12-D5)
 
 </details>
 
@@ -3383,7 +4432,16 @@ pH > 7.2 and < 7.4 is intermediate risk: measure LDH, and consider drainage when
 
 **A – T, B – T, C – F, D – F.**
 
-MACOCHA ≥ 3 = **high** risk (range 0–12); Mallampati III–IV scores 5 points. In INTUBE, a major event occurred in 45.2 %, severe hypoxaemia in 9.3 % and cardiac arrest in 3.1 %. ([W12/D3](#W12-D3))
+- A (True) – In INTUBE, a major peri-intubation event occurred in 45.2 % of patients, most often cardiovascular instability (42.6 %).
+- B (True) – First-pass success was only about 80 %.
+- C (False) – A MACOCHA score ≥ 3 (range 0–12) indicates high risk of difficult intubation.
+- D (False) – In MACOCHA, Mallampati III–IV scores 5 points, the largest single item.
+
+**EDIC trap:** In INTUBE, severe hypoxaemia occurred in 9.3 % and cardiac arrest in 3.1 %, so ICU intubation is a high-risk procedure.
+
+**Ref:** Russotto V, et al. INTUBE. *JAMA* 2021;325:1164–1172; De Jong A, et al. *Am J Respir Crit Care Med* 2013;187:832–839.
+
+Review: [W12/D3](#W12-D3)
 
 </details>
 
@@ -3399,7 +4457,17 @@ MACOCHA ≥ 3 = **high** risk (range 0–12); Mallampati III–IV scores 5 point
 
 **C.**
 
-OSA 2 + coma (GCS < 8) 1 + severe hypoxaemia (SpO₂ < 80 %) 1 + non-anaesthetist 1 = **5**. Mallampati II, normal mouth opening and normal neck mobility score 0. ([W12/D3](#W12-D3))
+**Why C:** MACOCHA: OSA 2 + coma (GCS < 8) 1 + severe hypoxaemia (SpO₂ < 80 %) 1 + non-anaesthetist operator 1 = 5. Mallampati II, mouth opening ≥ 3 cm and normal neck mobility score 0. A score ≥ 3 means high risk of difficult intubation.
+
+**Why not the others:**
+- A – 6 would need one more risk factor, such as limited mouth opening or reduced neck mobility.
+- B – 3 omits two points, e.g. the 2 points for OSA.
+- D – 4 omits one factor, typically the non-anaesthetist operator.
+- E – 2 counts only the OSA.
+
+**Ref:** De Jong A, et al. *Am J Respir Crit Care Med* 2013;187:832–839.
+
+Review: [W12/D3](#W12-D3)
 
 </details>
 
@@ -3414,7 +4482,16 @@ OSA 2 + coma (GCS < 8) 1 + severe hypoxaemia (SpO₂ < 80 %) 1 + non-anaesthetis
 
 **A – F, B – F, C – T, D – F.**
 
-Severe complications in DEVICE were 21.4 vs 20.9 %. BOUGIE was negative (80.4 vs 83.0 %). PreVent halved severe hypoxaemia (10.9 vs 22.8 %) without a difference in aspiration (2.5 vs 4.0 %). ([W12/D3](#W12-D3))
+- A (False) – In DEVICE, severe complications were 21.4 vs 20.9 % (no difference).
+- B (False) – BOUGIE was negative: first-pass success was 80.4 % with a bougie vs 83.0 % with a stylet.
+- C (True) – Videolaryngoscopy increased first-pass success (85.1 vs 70.8 %).
+- D (False) – In PreVent, bag-mask ventilation halved severe hypoxaemia (10.9 vs 22.8 %) without a significant difference in aspiration (2.5 vs 4.0 %).
+
+**EDIC trap:** Bag-mask ventilation between induction and laryngoscopy is safe and prevents hypoxaemia.
+
+**Ref:** Prekker ME, et al. DEVICE. *N Engl J Med* 2023;389:418–429; Driver BE, et al. BOUGIE. *JAMA* 2021;326:2488–2497; Casey JD, et al. PreVent. *N Engl J Med* 2019;380:811–821.
+
+Review: [W12/D3](#W12-D3)
 
 </details>
 
@@ -3430,7 +4507,19 @@ Severe complications in DEVICE were 21.4 vs 20.9 %. BOUGIE was negative (80.4 vs
 
 **B.**
 
-In-hospital 28-day mortality was 28.1 vs 29.1 % (NS). Concern about etomidate inhibiting 11β-hydroxylase did not translate into higher mortality. In patients at high risk of collapse, use a reduced dose of any induction agent. ([W12/D3](#W12-D3))
+**Why B:** In the RSI trial, 28-day in-hospital mortality did not differ (28.1 % ketamine vs 29.1 % etomidate), while cardiovascular collapse during intubation was more frequent with ketamine (22.1 vs 17.0 %).
+
+**Why not the others:**
+- A – Mortality did not differ.
+- C – Ketamine did not cause more severe hypoxaemia.
+- D – Adrenal suppression by etomidate (11β-hydroxylase) did not translate into higher mortality.
+- E – Cardiovascular collapse was more frequent with ketamine.
+
+**EDIC trap:** No induction agent is "haemodynamically safe"; reduce the dose in patients at risk of collapse.
+
+**Ref:** Casey JD, et al. RSI. *N Engl J Med* 2025.
+
+Review: [W12/D3](#W12-D3)
 
 </details>
 
@@ -3445,7 +4534,14 @@ In-hospital 28-day mortality was 28.1 vs 29.1 % (NS). Concern about etomidate in
 
 **A – T, B – T, C – T, D – F.**
 
-Propofol lowers blood pressure **more** markedly. A sudden fall in minute ventilation in severe metabolic acidosis can cause a precipitous fall in pH and cardiac arrest. ([W12/D3](#W12-D3))
+- A (True) – Succinylcholine raises K⁺ by ~0.5 mmol/L and can cause life-threatening hyperkalaemia in burns older than 24–72 h, denervation and immobilisation.
+- B (True) – In severe metabolic acidosis, a sudden fall in minute ventilation after intubation can cause a precipitous fall in pH and cardiac arrest.
+- C (True) – Sugammadex reverses rocuronium, but airway oedema or obstruction persists, so a CICO situation may still need front-of-neck access.
+- D (False) – Propofol causes more hypotension than ketamine or etomidate.
+
+**Ref:** Higgs A, et al. DAS/ICS/FICM/RCoA. *Br J Anaesth* 2018;120:323–352.
+
+Review: [W12/D3](#W12-D3)
 
 </details>
 
@@ -3461,7 +4557,19 @@ Propofol lowers blood pressure **more** markedly. A sudden fall in minute ventil
 
 **D.**
 
-6-month mortality was 35.0 vs 29.6 % (NS). Like TracMan (no mortality difference), early tracheostomy did not improve hard outcomes. The decision should be individual, typically at ~10 days if extubation is not realistic. ([W12/D4](#W12-D4))
+**Why D:** SETPOINT2 randomised ventilated patients with severe stroke to tracheostomy within 5 days or after day 10. Survival without severe disability (mRS 0–4) at 6 months did not differ (43.5 vs 47.1 %).
+
+**Why not the others:**
+- A – Early tracheostomy did not lower 30-day mortality.
+- B – Functional outcome was not better with early tracheostomy.
+- C – Procedural complications were not higher with late tracheostomy.
+- E – 6-month mortality was numerically higher with early tracheostomy (35.0 vs 29.6 %, NS).
+
+**EDIC trap:** Like TracMan, SETPOINT2 found no hard-outcome benefit from early tracheostomy; decide individually, typically at ~10 days.
+
+**Ref:** Bösel J, et al. SETPOINT2. *JAMA* 2022;327:1899–1909.
+
+Review: [W12/D4](#W12-D4)
 
 </details>
 
@@ -3476,7 +4584,16 @@ Propofol lowers blood pressure **more** markedly. A sudden fall in minute ventil
 
 **A – T, B – T, C – T, D – F.**
 
-A tracheo-innominate fistula typically presents in **weeks 1–4**, often after a "sentinel bleed". Displacement of an immature stoma is the most dangerous early complication. ([W12/D4](#W12-D4))
+- A (True) – An unstable cervical spine (no neck extension) favours a surgical approach.
+- B (True) – In the Putensen meta-analysis, percutaneous tracheostomy was associated with fewer stoma infections than surgical tracheostomy.
+- C (True) – Cuff pressure of 20–30 cmH₂O protects against both microaspiration and mucosal ischaemia.
+- D (False) – A tracheo-innominate fistula typically presents in weeks 1–4, often after a "sentinel bleed".
+
+**EDIC trap:** Displacement of an immature stoma is the most dangerous early complication.
+
+**Ref:** Putensen C, et al. *Crit Care* 2014;18:544; McGrath BA, et al. NTSP. *Anaesthesia* 2012;67:1025–1041.
+
+Review: [W12/D4](#W12-D4)
 
 </details>
 
@@ -3492,7 +4609,17 @@ A tracheo-innominate fistula typically presents in **weeks 1–4**, often after 
 
 **B.**
 
-A sentinel bleed followed by massive haemorrhage suggests a tracheo-innominate fistula. Overinflate the cuff first. If that fails, use digital compression and orotracheal intubation with the cuff placed distally, and get immediate surgery. ([W12/D4](#W12-D4))
+**Why B:** A sentinel bleed followed by brisk arterial haemorrhage two weeks after tracheostomy suggests a tracheo-innominate fistula. First overinflate the cuff to tamponade the bleeding. If that fails, compress the artery against the sternum digitally through the stoma, secure the airway with an orotracheal tube cuffed distal to the bleed, and call the surgeon immediately.
+
+**Why not the others:**
+- A – Bronchoscopy delays haemorrhage control.
+- C – CT angiography wastes time in massive bleeding.
+- D – Removing the tube loses both the airway and the tamponade.
+- E – Nebulised tranexamic acid cannot stop arterial bleeding.
+
+**Ref:** McGrath BA, et al. NTSP. *Anaesthesia* 2012;67:1025–1041.
+
+Review: [W12/D4](#W12-D4)
 
 </details>
 
@@ -3507,7 +4634,16 @@ A sentinel bleed followed by massive haemorrhage suggests a tracheo-innominate f
 
 **A – F, B – F, C – F, D – T.**
 
-Absent lung sliding also occurs with endobronchial intubation, pleurodesis, apnoea and ARDS. In BPF, **minimise** suction (it increases flow through the fistula) and use the lowest V_T, Pplat and PEEP with a short inspiratory time. Brown: conservative management was non-inferior, and ~15 % needed intervention. ([W12/D5](#W12-D5))
+- A (False) – Absent lung sliding is not specific; it also occurs with endobronchial intubation, pleurodesis, apnoea and ARDS.
+- B (False) – In bronchopleural fistula, minimise suction, because it increases flow through the fistula; use the lowest V_T, Pplat and PEEP with a short inspiratory time.
+- C (False) – Conservative management was non-inferior for re-expansion at 8 weeks, and ~15 % needed intervention.
+- D (True) – A lung point is highly specific for pneumothorax.
+
+**EDIC trap:** Lung sliding rules pneumothorax out at that point; its absence does not rule it in.
+
+**Ref:** Brown SGA, et al. *N Engl J Med* 2020;382:405–415; Lichtenstein DA, et al. *Intensive Care Med* 2000;26:1434–1440.
+
+Review: [W12/D5](#W12-D5)
 
 </details>
 
@@ -3523,7 +4659,19 @@ Absent lung sliding also occurs with endobronchial intubation, pleurodesis, apno
 
 **B.**
 
-C_stat = V_T/(Pplat − PEEP_tot) = 450/(24 − 6) = **25 mL/cmH₂O**. Flow 45 L/min = 0.75 L/s, so R = (33 − 24)/0.75 = **12 cmH₂O/L/s**. 16.7 mL/cmH₂O is C_dyn = 450/(33 − 6). R = 9 is the error of not converting flow to L/s. ([W13/D2](#W13-D2))
+**Why B:** C_stat = V_T/(Pplat − PEEP_tot) = 450/(24 − 6) = 25 mL/cmH₂O. Flow 45 L/min = 0.75 L/s, so R = (Ppeak − Pplat)/flow = (33 − 24)/0.75 = 12 cmH₂O/L/s.
+
+**Why not the others:**
+- A – 16.7 mL/cmH₂O is dynamic compliance (450/(33 − 6)), and R = 9 comes from not converting flow to L/s.
+- C – Compliance is correct, but R = 9 comes from not converting flow to L/s.
+- D – 18.75 mL/cmH₂O divides V_T by Pplat without subtracting PEEP.
+- E – 16.7 mL/cmH₂O is dynamic, not static, compliance.
+
+**EDIC trap:** Always convert flow from L/min to L/s before calculating resistance.
+
+**Ref:** Hess DR. *Respir Care* 2014;59:1773–1794.
+
+Review: [W13/D2](#W13-D2)
 
 </details>
 
@@ -3538,7 +4686,16 @@ C_stat = V_T/(Pplat − PEEP_tot) = 450/(24 − 6) = **25 mL/cmH₂O**. Flow 45 
 
 **A – T, B – F, C – T, D – T.**
 
-A concave pressure curve in VCV is **flow starvation** (patient demand exceeds set flow). Overdistension is shown by "beaking" (upper-end flattening) of the P–V loop. ([W13/D2](#W13-D2))
+- A (True) – Sawtooth oscillations on the flow–time curve suggest secretions or water in the circuit.
+- B (False) – A concave pressure–time curve in VCV means flow starvation (patient demand exceeds set flow); overdistension shows as "beaking" of the P–V loop.
+- C (True) – A scooped expiratory limb of the flow–volume loop indicates small-airway obstruction.
+- D (True) – Flow that has not returned to zero at the end of Ti in PCV means Ti < ~3τ, so V_T is not fully delivered.
+
+**EDIC trap:** Flow starvation is a patient–ventilator mismatch, not a lung-mechanics problem.
+
+**Ref:** Mojoli F, et al. *Intensive Care Med* 2016;42:914–915; Hess DR. *Respir Care* 2014;59:1773–1794.
+
+Review: [W13/D2](#W13-D2)
 
 </details>
 
@@ -3554,7 +4711,19 @@ A concave pressure curve in VCV is **flow starvation** (patient demand exceeds s
 
 **A.**
 
-τ = R × C = 20 × 0.05 L/cmH₂O = **1.0 s**. Te 2 s = 2τ, so ~86 % is exhaled (1τ ≈ 63 %, 3τ ≈ 95 %, 5τ ≈ 99 %). Option E is the error of not converting mL to L. ([W13/D2](#W13-D2))
+**Why A:** τ = R × C = 20 cmH₂O/L/s × 0.05 L/cmH₂O = 1.0 s. Te 2 s = 2τ, so ~86 % of V_T is exhaled (1τ ≈ 63 %, 3τ ≈ 95 %, 5τ ≈ 99 %).
+
+**Why not the others:**
+- B – τ is 1.0 s, not 2.5 s, and the exhaled fraction is wrong.
+- C – τ is right, but 63 % is the fraction after 1τ, not 2τ.
+- D – τ is 1.0 s, not 0.4 s, and 99 % requires ~5τ.
+- E – τ 1000 s comes from not converting mL to L.
+
+**EDIC trap:** Express compliance in L/cmH₂O when calculating τ.
+
+**Ref:** Hess DR. *Respir Care* 2014;59:1773–1794.
+
+Review: [W13/D2](#W13-D2)
 
 </details>
 
@@ -3569,7 +4738,16 @@ A concave pressure curve in VCV is **flow starvation** (patient demand exceeds s
 
 **A – T, B – F, C – F, D – T.**
 
-Absolute P_es is affected by mediastinal weight and position, so **changes** are more reliable. EPVent-2 found no difference (28-day mortality 32.4 vs 30.6 %). ([W13/D2](#W13-D2))
+- A (True) – In Chiumello's study, E_L/E_rs varied from 0.33 to 0.95, so the same Pplat can mean very different lung stress.
+- B (False) – Absolute P_es is affected by mediastinal weight and position, so changes in P_es are more reliable.
+- C (False) – EPVent-2 found no difference (28-day mortality 32.4 vs 30.6 %).
+- D (True) – An occlusion test with ΔP_es/ΔP_aw ≈ 0.8–1.2 confirms correct balloon position.
+
+**EDIC trap:** P_es is better at tracking changes than at measuring absolute pleural pressure.
+
+**Ref:** Chiumello D, et al. *Am J Respir Crit Care Med* 2008;178:346–355; Beitler JR, et al. EPVent-2. *JAMA* 2019;321:846–857; Mauri T, et al. *Intensive Care Med* 2016;42:1360–1373.
+
+Review: [W13/D2](#W13-D2)
 
 </details>
 
@@ -3585,7 +4763,17 @@ Absolute P_es is affected by mediastinal weight and position, so **changes** are
 
 **A.**
 
-ΔP_aw = 28 − 8 = 20, so E_rs = 20/0.4 = 50 cmH₂O/L. E_cw = 8/0.4 = 20, so E_L = 50 − 20 = 30 cmH₂O/L. ΔP_L = 20 − 8 = **12 cmH₂O**. P_L,ei = Pplat × E_L/E_rs = 28 × 30/50 = **16.8 cmH₂O**. ([W13/D2](#W13-D2))
+**Why A:** ΔP_aw = 28 − 8 = 20 cmH₂O, so E_rs = 20/0.4 = 50 cmH₂O/L. E_cw = 8/0.4 = 20, so E_L = 30 cmH₂O/L. ΔP_L = ΔP_aw − ΔP_es = 20 − 8 = 12 cmH₂O, and P_L,ei = Pplat × E_L/E_rs = 28 × 0.6 = 16.8 cmH₂O.
+
+**Why not the others:**
+- B – 28 cmH₂O is Pplat, not a transpulmonary pressure.
+- C – P_L,ei 28 cmH₂O ignores the chest-wall component.
+- D – 20 cmH₂O is the airway driving pressure, and 11.2 cmH₂O uses E_cw/E_rs instead of E_L/E_rs.
+- E – ΔP_L is right, but P_L,ei 11.2 cmH₂O uses the chest-wall ratio.
+
+**Ref:** Mauri T, et al. *Intensive Care Med* 2016;42:1360–1373.
+
+Review: [W13/D2](#W13-D2)
 
 </details>
 
@@ -3600,7 +4788,16 @@ Absolute P_es is affected by mediastinal weight and position, so **changes** are
 
 **A – T, B – T, C – T, D – F.**
 
-P_L,ee = PEEP_tot − P_es,ee = 10 − 14 = −4 cmH₂O, which favours atelectrauma. With a stiff chest wall, part of Pplat is used to distend the chest wall, so Pplat > 30 does not necessarily mean excessive lung stress. ([W13/D2](#W13-D2))
+- A (True) – P_L,ee = PEEP_tot − P_es,ee = 10 − 14 = −4 cmH₂O.
+- B (True) – A negative end-expiratory P_L means dependent alveoli tend to collapse at end-expiration (atelectrauma).
+- C (True) – Raising PEEP until end-expiratory P_L is ≥ 0 is physiologically reasonable, especially in obesity.
+- D (False) – With a stiff chest wall, part of Pplat distends the chest wall, so Pplat > 30 cmH₂O need not mean excessive lung stress.
+
+**EDIC trap:** In obesity, Pplat overestimates lung stress; P_es helps to separate lung from chest wall.
+
+**Ref:** Mauri T, et al. *Intensive Care Med* 2016;42:1360–1373; Talmor D, et al. *N Engl J Med* 2008;359:2095–2104.
+
+Review: [W13/D2](#W13-D2)
 
 </details>
 
@@ -3616,7 +4813,19 @@ P_L,ee = PEEP_tot − P_es,ee = 10 − 14 = −4 cmH₂O, which favours atelectr
 
 **E.**
 
-AI = asynchronous events/(ventilator cycles + ineffective efforts) × 100 = (50 + 20)/(300 + 50) × 100 = 70/350 = **20 %**. AI > 10 % = severe. The patient's true rate is 350/20 = 17.5/min, while the ventilator shows 15/min. ([W13/D3](#W13-D3))
+**Why E:** AI = asynchronous events/(ventilator cycles + ineffective efforts) × 100 = (50 + 20)/(300 + 50) × 100 = 20 %. An AI > 10 % is severe asynchrony. The patient's true rate is 350/20 = 17.5/min, while the ventilator shows only 15/min.
+
+**Why not the others:**
+- A – 6.7 % counts only double triggering, over ventilator cycles alone.
+- B – 14.3 % counts only ineffective efforts.
+- C – 23.3 % omits ineffective efforts from the denominator.
+- D – 16.7 % counts only ineffective efforts, over ventilator cycles alone.
+
+**EDIC trap:** Ineffective efforts belong in both the numerator and the denominator.
+
+**Ref:** Thille AW, et al. *Intensive Care Med* 2006;32:1515–1522.
+
+Review: [W13/D3](#W13-D3)
 
 </details>
 
@@ -3631,7 +4840,16 @@ AI = asynchronous events/(ventilator cycles + ineffective efforts) × 100 = (50 
 
 **A – T, B – F, C – T, D – F.**
 
-Reverse triggering is typical of deeply sedated patients on controlled modes. Delayed cycling (long τ) is treated by **raising** cycle-off (e.g. to 40–50 %) and lowering PS. Premature cycling is treated by lowering cycle-off. The apnoea test is done without ventilator triggering. ([W13/D3](#W13-D3))
+- A (True) – In low-V_T VCV, double triggering stacks two breaths and can nearly double the delivered V_T.
+- B (False) – Reverse triggering is typical of deeply sedated patients on controlled modes.
+- C (True) – Cardiac oscillations can auto-trigger the ventilator and mimic effort; the apnoea test is therefore done without ventilator triggering.
+- D (False) – Delayed cycling in COPD (long τ) is treated by raising the cycle-off threshold (e.g. to 40–50 %) and lowering PS.
+
+**EDIC trap:** Premature cycling → lower cycle-off; delayed cycling → raise cycle-off.
+
+**Ref:** Thille AW, et al. *Intensive Care Med* 2006;32:1515–1522; Pham T, et al. *Crit Care* 2021.
+
+Review: [W13/D3](#W13-D3)
 
 </details>
 
@@ -3647,7 +4865,19 @@ Reverse triggering is typical of deeply sedated patients on controlled modes. De
 
 **E.**
 
-The effort must first overcome PEEPi (6) and then reach the trigger (2): 6 + 2 = **8 cmH₂O**. Smaller efforts are ineffective. External PEEP (partly counterbalancing PEEPi) and lower support (smaller V_T, less PEEPi) help. ([W13/D3](#W13-D3))
+**Why E:** Before the airway pressure can fall, the patient's effort must first overcome PEEPi (6 cmH₂O) and then reach the trigger threshold (2 cmH₂O): 6 + 2 = 8 cmH₂O. Smaller efforts are ineffective.
+
+**Why not the others:**
+- A – 12 cmH₂O double-counts PEEPi.
+- B – 2 cmH₂O ignores the threshold load imposed by PEEPi.
+- C – 4 cmH₂O subtracts the trigger from PEEPi instead of adding it.
+- D – 6 cmH₂O overcomes PEEPi but does not reach the trigger.
+
+**EDIC trap:** External PEEP (below PEEPi) and lower support (smaller V_T, less PEEPi) reduce ineffective triggering.
+
+**Ref:** Thille AW, et al. *Intensive Care Med* 2008;34:1477–1486.
+
+Review: [W13/D3](#W13-D3)
 
 </details>
 
@@ -3662,7 +4892,16 @@ The effort must first overcome PEEPi (6) and then reach the trigger (2): 6 + 2 =
 
 **A – T, B – T, C – F, D – T.**
 
-Blanch was observational: AI > 10 % was **associated** with higher mortality, and it is unclear whether asynchrony is a marker or a cause. In Thille 2006, 15/62 patients (24 %) had AI > 10 %, with a median ventilation duration of 25.5 vs 7.5 days. ([W13/D3](#W13-D3))
+- A (True) – Clusters of ineffective efforts were associated with higher hospital mortality.
+- B (True) – 15 of 62 patients (24 %) had AI > 10 %.
+- C (False) – Blanch was observational: AI > 10 % was associated with higher mortality, but causality was not shown.
+- D (True) – AI > 10 % was associated with a longer duration of ventilation (median 25.5 vs 7.5 days).
+
+**EDIC trap:** "Associated with" does not mean "causes"; asynchrony may be a marker of severity.
+
+**Ref:** Vaporidi K, et al. *Intensive Care Med* 2017;43:184–191; Thille AW, et al. *Intensive Care Med* 2006;32:1515–1522; Blanch L, et al. *Intensive Care Med* 2015;41:633–641.
+
+Review: [W13/D3](#W13-D3)
 
 </details>
 
@@ -3678,7 +4917,19 @@ Blanch was observational: AI > 10 % was **associated** with higher mortality, an
 
 **D.**
 
-ΔP = 26 − 12 = 14, so ½ΔP = 7. MP = 0.098 × 16 × 0.5 × (32 − 7) = 0.784 × 25 = **19.6 J/min**. In Serpa Neto 2018, mortality rose consistently above ~17 J/min (observational). ([W13/D4](#W13-D4))
+**Why D:** ΔP = Pplat − PEEP = 26 − 12 = 14 cmH₂O, so ½ΔP = 7. MP = 0.098 × 16 × 0.5 × (32 − 7) = 0.784 × 25 = 19.6 J/min.
+
+**Why not the others:**
+- A – 24.3 J/min is an arithmetic error; the bracket is 25, not 31.
+- B – 11.0 J/min uses only ΔP (14) in the bracket.
+- C – 31.4 J/min uses Pplat + ΔP (40) instead of Ppeak − ½ΔP.
+- E – 9.8 J/min is roughly half the correct value.
+
+**EDIC trap:** In observational data (Serpa Neto 2018), mortality rose above ~17 J/min; MP is not a guideline target.
+
+**Ref:** Gattinoni L, et al. *Intensive Care Med* 2016;42:1567–1575; Serpa Neto A, et al. *Intensive Care Med* 2018;44:1914–1922.
+
+Review: [W13/D4](#W13-D4)
 
 </details>
 
@@ -3693,7 +4944,16 @@ Blanch was observational: AI > 10 % was **associated** with higher mortality, an
 
 **A – F, B – F, C – F, D – T.**
 
-PEEP increases mechanical power linearly. The RR exponent is **1.4**. MP is an observational marker, not a guideline target, and no RCT has titrated MP. ([W13/D4](#W13-D4))
+- A (False) – PEEP contributes to mechanical power, which rises linearly with PEEP.
+- B (False) – MP is an observational marker; no guideline sets an MP target, and no RCT has titrated it.
+- C (False) – MP rises with RR to the power 1.4, not linearly.
+- D (True) – MP rises with the square of V_T, driving pressure and inspiratory flow.
+
+**EDIC trap:** Lowering V_T while raising RR may not reduce mechanical power.
+
+**Ref:** Gattinoni L, et al. *Intensive Care Med* 2016;42:1567–1575.
+
+Review: [W13/D4](#W13-D4)
 
 </details>
 
@@ -3709,7 +4969,19 @@ PEEP increases mechanical power linearly. The RR exponent is **1.4**. MP is an o
 
 **D.**
 
-MP = 0.098 × 25 × 0.4 × (10 + 12) = 0.98 × 22 = **21.6 J/min**. Option B omits PEEP. ([W13/D4](#W13-D4))
+**Why D:** MP = 0.098 × 25 × 0.4 × (10 + 12) = 0.98 × 22 = 21.6 J/min.
+
+**Why not the others:**
+- A – 9.8 J/min uses only PEEP (10) in the bracket.
+- B – 11.8 J/min uses only the inspiratory pressure (12) and omits PEEP.
+- C – 26.9 J/min is an arithmetic error.
+- E – 43.1 J/min doubles the correct value.
+
+**EDIC trap:** In PCV, ΔP_insp is the pressure above PEEP, and PEEP must be added.
+
+**Ref:** Becher T, et al. *Intensive Care Med* 2019;45:1321–1323.
+
+Review: [W13/D4](#W13-D4)
 
 </details>
 
@@ -3724,7 +4996,16 @@ MP = 0.098 × 25 × 0.4 × (10 + 12) = 0.98 × 22 = **21.6 J/min**. Option B omi
 
 **A – T, B – F, C – T, D – F.**
 
-P_mus ≈ ¾ × 15 = 11.25 cmH₂O. ΔP_aw = 16 − 6 = 10. ΔP_L,dyn ≈ 10 − ⅔ × (−15) = 10 + 10 = **20 cmH₂O**. Because ΔPocc is negative, the term is **added**. Higher PS may reduce effort but need not reduce ΔP_L. ([W13/D4](#W13-D4))
+- A (True) – P_mus ≈ −¾ × (−15) ≈ 11 cmH₂O, above the ~10 cmH₂O threshold for high effort.
+- B (False) – Higher PS may reduce effort, but V_T and lung stress can rise, so ΔP_L,dyn need not fall.
+- C (True) – ΔP_aw = 16 − 6 = 10, so ΔP_L,dyn ≈ 10 − ⅔ × (−15) = 10 + 10 = 20 cmH₂O.
+- D (False) – Because ΔPocc is negative, subtracting ⅔ × ΔPocc adds 10 cmH₂O; ΔP_L,dyn is ~20 cmH₂O, not 0.
+
+**EDIC trap:** Watch the sign of ΔPocc.
+
+**Ref:** Bertoni M, et al. *Crit Care* 2019;23:346.
+
+Review: [W13/D4](#W13-D4)
 
 </details>
 
@@ -3740,7 +5021,19 @@ P_mus ≈ ¾ × 15 = 11.25 cmH₂O. ΔP_aw = 16 − 6 = 10. ΔP_L,dyn ≈ 10 −
 
 **B.**
 
-Strain = ΔV/FRC = 450/300 = **1.5**. Stress = 13.5 × 1.5 = **20.25 cmH₂O**. In animals, strain > 1.5 is clearly injurious, corresponding to a stress of ~20 cmH₂O (Gattinoni 2017). ([W13/D4](#W13-D4))
+**Why B:** Strain = ΔV/FRC = 450/300 = 1.5. Stress = specific elastance × strain = 13.5 × 1.5 ≈ 20 cmH₂O. In experimental models, a strain > 1.5 is clearly injurious, corresponding to a stress of ~20 cmH₂O.
+
+**Why not the others:**
+- A – 6.75 cmH₂O is half the correct stress.
+- C – A strain of 3 would need V_T 900 mL.
+- D – 0.67 is the inverse ratio (FRC/V_T).
+- E – 0.67 is the inverse ratio, and so is the stress of ~9 cmH₂O derived from it.
+
+**EDIC trap:** In a small "baby lung", a "normal" V_T can still cause injurious strain.
+
+**Ref:** Chiumello D, et al. *Am J Respir Crit Care Med* 2008;178:346–355; Gattinoni L, et al. *Crit Care* 2017;21:183.
+
+Review: [W13/D4](#W13-D4)
 
 </details>
 
@@ -3755,7 +5048,16 @@ Strain = ΔV/FRC = 450/300 = **1.5**. Stress = 13.5 × 1.5 = **20.25 cmH₂O**. 
 
 **A – T, B – T, C – F, D – T.**
 
-A rising Pplat means overinflation, so return to the previous PEEP. Keep PEEP if Pplat falls or does not change. The "waterfall" concept means external PEEP below the critical closing pressure does not worsen hyperinflation. ([W13/D5](#W13-D5))
+- A (True) – During controlled ventilation, the response to external PEEP is unpredictable.
+- B (True) – In Caramez et al., a paradoxical fall in Pplat and total PEEP occurred in 5 of 8 patients at least at one PEEP level.
+- C (False) – A rising Pplat means more hyperinflation, so return to the previous PEEP; keep the new PEEP only if Pplat falls or does not change.
+- D (True) – Per the "waterfall" concept, external PEEP below PEEPi reduces triggering work without worsening hyperinflation.
+
+**EDIC trap:** Use Pplat to guide a PEEP trial in obstructive disease.
+
+**Ref:** Caramez MP, et al. *Crit Care Med* 2005;33:1519–1528.
+
+Review: [W13/D5](#W13-D5)
 
 </details>
 
@@ -3771,7 +5073,19 @@ A rising Pplat means overinflation, so return to the previous PEEP. Keep PEEP if
 
 **C.**
 
-PEEPi = 15 − 6 = **9 cmH₂O**. C_stat = 450/(26 − 15) = 450/11 ≈ **41 mL/cmH₂O**. Using set PEEP gives a falsely low 22.5 mL/cmH₂O ("stiff lungs"). ([W13/D5](#W13-D5))
+**Why C:** PEEPi = total PEEP − set PEEP = 15 − 6 = 9 cmH₂O. C_stat must use total PEEP: 450/(26 − 15) = 450/11 ≈ 41 mL/cmH₂O.
+
+**Why not the others:**
+- A – PEEPi is right, but 22.5 mL/cmH₂O uses set PEEP and falsely suggests stiff lungs.
+- B – PEEPi is 9, not 6, and 17.3 mL/cmH₂O ignores PEEP entirely.
+- D – 15 cmH₂O is total, not intrinsic, PEEP.
+- E – PEEPi is the difference, not the sum, of total and set PEEP.
+
+**EDIC trap:** Ignoring PEEPi underestimates compliance.
+
+**Ref:** Pepe PE, Marini JJ. *Am Rev Respir Dis* 1982;126:166–170.
+
+Review: [W13/D5](#W13-D5)
 
 </details>
 
@@ -3786,7 +5100,16 @@ PEEPi = 15 − 6 = **9 cmH₂O**. C_stat = 450/(26 − 15) = 450/11 ≈ **41 mL/
 
 **A – T, B – T, C – F, D – F.**
 
-At RR 12 and V_T 600 mL, doubling the flow gains only 0.5 s of Te. Cutting RR from 20 to 12 at the same Ti lengthens Te from 2 to 4 s. Use permissive hypercapnia, because raising RR worsens dynamic hyperinflation. A high Ppeak with a normal Pplat is the **resistive** component, and Pplat (with PEEPi) reflects alveolar pressure. ([W13/D5](#W13-D5))
+- A (True) – With Ti 1 s, doubling the inspiratory flow gains only 0.5 s of Te, while cutting RR from 20 to 12/min lengthens Te from 2 to 4 s.
+- B (True) – Complications occurred in 65 % (11/17) of patients with V_EI ≥ 1.4 L, and in 0 % below it.
+- C (False) – Use permissive hypercapnia; raising RR shortens Te and worsens dynamic hyperinflation.
+- D (False) – A high Ppeak with an acceptable Pplat is the resistive component, while Pplat (with PEEPi) reflects alveolar pressure.
+
+**EDIC trap:** RR is the most powerful lever for lengthening Te.
+
+**Ref:** Tuxen DV, Lane S. *Am Rev Respir Dis* 1987;136:872–879; Williams TJ, et al. *Am Rev Respir Dis* 1992;146:607–615.
+
+Review: [W13/D5](#W13-D5)
 
 </details>
 
@@ -3802,7 +5125,19 @@ At RR 12 and V_T 600 mL, doubling the flow gains only 0.5 s of Te. Cutting RR fr
 
 **B.**
 
-The cycle is 60/15 = 4 s. Ti = V_T/flow = 0.6 L ÷ 1 L/s = **0.6 s**. Te = 4 − 0.6 = **3.4 s**. I:E = 0.6:3.4 ≈ **1:5.7**. ([W13/D5](#W13-D5))
+**Why B:** The cycle is 60/15 = 4 s. Ti = V_T/flow = 0.6 L ÷ 1 L/s = 0.6 s, so Te = 4 − 0.6 = 3.4 s and I:E = 0.6:3.4 ≈ 1:5.7.
+
+**Why not the others:**
+- A – Ti 0.36 s does not fit V_T 0.6 L at 1 L/s.
+- C – Te 2.4 s corresponds to a 3-s cycle (RR 20/min).
+- D – Ti 1.0 s would require a flow of 36 L/min.
+- E – Ti and Te are correct, but the I:E ratio is 1:5.7, not 1:3.
+
+**EDIC trap:** Convert flow from L/min to L/s (60 L/min = 1 L/s).
+
+**Ref:** Tuxen DV, Lane S. *Am Rev Respir Dis* 1987;136:872–879.
+
+Review: [W13/D5](#W13-D5)
 
 </details>
 
@@ -3817,7 +5152,16 @@ The cycle is 60/15 = 4 s. Ti = V_T/flow = 0.6 L ÷ 1 L/s = **0.6 s**. Te = 4 −
 
 **A – T, B – F, C – F, D – T.**
 
-When the patient "adds" volume, PRVC **lowers** support, just when more help may be needed. In Esteban, a once-daily SBT was 2.83× faster than IMV, which was the slowest method. ([W13/D1](#W13-D1))
+- A (True) – In Demoule's trial, NAVA reduced the asynchrony index (14.7 vs 26.7 %), but the primary endpoint (staying in a partial mode for 48 h) did not differ (67.2 vs 63.3 %).
+- B (False) – PRVC lowers inspiratory pressure when the patient's effort increases V_T, just when more help may be needed.
+- C (False) – In Esteban, IMV was the slowest method; a once-daily SBT was ~2.8× faster.
+- D (True) – NAVA triggers and cycles from the diaphragm's electrical activity (Edi), recorded with an oesophageal catheter.
+
+**EDIC trap:** PRVC reduces support when the patient works harder.
+
+**Ref:** Demoule A, et al. *Intensive Care Med* 2016;42:1723–1732; Esteban A, et al. *N Engl J Med* 1995;332:345–350.
+
+Review: [W13/D1](#W13-D1)
 
 </details>
 
@@ -3833,7 +5177,19 @@ When the patient "adds" volume, PRVC **lowers** support, just when more help may
 
 **D.**
 
-PBW (men) = 50 + 0.91 × (180 − 152.4) = 50 + 25.1 ≈ **75 kg**, so 450 mL ≈ 6 mL/kg PBW. ΔP = 30 − 14 = 16 cmH₂O, and C_rs = 450/16 ≈ **28 mL/cmH₂O**. Option B divides by Pplat (450/30). ([W10/D2](#W10-D2), [W13/D2](#W13-D2))
+**Why D:** PBW (men) = 50 + 0.91 × (180 − 152.4) = 50 + 25.1 ≈ 75 kg, so 450 mL ≈ 6 mL/kg PBW. ΔP = Pplat − PEEP = 30 − 14 = 16 cmH₂O, and C_rs = 450/16 ≈ 28 mL/cmH₂O.
+
+**Why not the others:**
+- A – C_rs is right, but PBW is 75 kg, not 80 kg.
+- B – 15 mL/cmH₂O divides V_T by Pplat instead of by ΔP.
+- C – PBW is 75 kg, and 32 mL/cmH₂O divides V_T by PEEP (450/14).
+- E – 45 mL/cmH₂O is a miscalculation; ΔP is 16 cmH₂O.
+
+**EDIC trap:** Compliance uses driving pressure (Pplat − total PEEP), not Pplat.
+
+**Ref:** ARDS Network. *N Engl J Med* 2000;342:1301–1308; Amato MBP, et al. *N Engl J Med* 2015;372:747–755.
+
+Review: [W10/D2](#W10-D2), [W13/D2](#W13-D2)
 
 </details>
 
@@ -3848,7 +5204,16 @@ PBW (men) = 50 + 0.91 × (180 − 152.4) = 50 + 25.1 ≈ **75 kg**, so 450 mL �
 
 **A – T, B – T, C – T, D – F.**
 
-In EOLIA, ventilation > 7 days was an **exclusion** criterion. Early referral is the lesson from CESAR. MP rises with RR (exponent 1.4). ([W10/D4](#W10-D4), [W10/D5](#W10-D5), [W11/D1](#W11-D1), [W13/D4](#W13-D4))
+- A (True) – ESICM 2023 strongly recommends against prolonged high-pressure recruitment manoeuvres.
+- B (True) – Prone positioning for ≥ 16 h/day is indicated with P/F < 150 mmHg (strong recommendation, PROSEVA).
+- C (True) – MP rises with RR (exponent 1.4), so a higher RR can offset the gain from a lower V_T.
+- D (False) – In EOLIA, ventilation > 7 days was an exclusion criterion, and CESAR showed the value of early referral.
+
+**EDIC trap:** Refer for ECMO early; late ECMO is less likely to help.
+
+**Ref:** Grasselli G, et al. *Intensive Care Med* 2023;49:727–759; Guérin C, et al. PROSEVA. *N Engl J Med* 2013;368:2159–2168; Combes A, et al. EOLIA. *N Engl J Med* 2018;378:1965–1975.
+
+Review: [W10/D4](#W10-D4), [W10/D5](#W10-D5), [W11/D1](#W11-D1), [W13/D4](#W13-D4)
 
 </details>
 
@@ -3864,7 +5229,17 @@ In EOLIA, ventilation > 7 days was an **exclusion** criterion. Early referral is
 
 **C.**
 
-The long time constant in COPD causes delayed cycling. Insufflation continues into neural expiration, Te shortens, PEEPi rises and efforts become ineffective. A higher cycle-off and lower PS (Thille 2008) shorten insufflation and reduce V_T. Raising PS worsens ineffective efforts. ([W13/D3](#W13-D3), [W12/D1](#W12-D1))
+**Why C:** COPD has a long time constant, so with cycle-off at 25 % insufflation continues into neural expiration (the end-inspiratory pressure spike). Te shortens, PEEPi rises and subsequent efforts become ineffective. A higher cycle-off (40–50 %) and lower PS shorten insufflation, reduce V_T and PEEPi, and reduce ineffective efforts.
+
+**Why not the others:**
+- A – More PS increases V_T and PEEPi, which worsens ineffective efforts.
+- B – SIMV does not correct delayed cycling and prolongs weaning.
+- D – Lowering cycle-off delays cycling even further.
+- E – A less sensitive trigger increases ineffective efforts.
+
+**Ref:** Thille AW, et al. *Intensive Care Med* 2008;34:1477–1486.
+
+Review: [W13/D3](#W13-D3), [W12/D1](#W12-D1)
 
 </details>
 
@@ -3879,7 +5254,16 @@ The long time constant in COPD causes delayed cycling. Insufflation continues in
 
 **A – F, B – T, C – F, D – T.**
 
-During reverse triggering, muscle effort (median P_mus 8.7 cmH₂O in Pham 2021) makes Pplat and compliance unreliable. In HOT-ICU, 90-day mortality was 42.9 vs 42.4 % (NS). ([W11/D2](#W11-D2), [W12/D1](#W12-D1), [W13/D3](#W13-D3))
+- A (False) – During reverse triggering, muscle effort (median P_mus 8.7 cmH₂O in Pham 2021) makes Pplat and compliance unreliable.
+- B (True) – In hypercapnic COPD, target SpO₂ 88–92 %.
+- C (False) – HOT-ICU found no difference: 90-day mortality 42.9 vs 42.4 %.
+- D (True) – In acute severe asthma in adults, target SpO₂ 93–95 %.
+
+**EDIC trap:** "Deeply sedated" does not mean passive.
+
+**Ref:** Pham T, et al. *Crit Care* 2021; Schjørring OL, et al. HOT-ICU. *N Engl J Med* 2021;384:1301–1311; GOLD 2026 Report; GINA 2025.
+
+Review: [W11/D2](#W11-D2), [W12/D1](#W12-D1), [W13/D3](#W13-D3)
 
 </details>
 
@@ -3895,7 +5279,19 @@ During reverse triggering, muscle effort (median P_mus 8.7 cmH₂O in Pham 2021)
 
 **C.**
 
-ΔP = 28 − 12 = 16, so ½ΔP = 8. MP = 0.098 × 30 × 0.42 × (34 − 8) = 1.2348 × 26 ≈ **32.1 J/min**. MP rises with RR (exponent 1.4). The driving pressure of 16 cmH₂O is also high. This is an observational association, not a guideline target. ([W13/D4](#W13-D4), [W10/D2](#W10-D2))
+**Why C:** ΔP = 28 − 12 = 16 cmH₂O, so ½ΔP = 8. MP = 0.098 × 30 × 0.42 × (34 − 8) = 1.2348 × 26 ≈ 32.1 J/min, well above the ~17 J/min associated with mortality in observational data. MP rises with RR (exponent 1.4), so RR 35/min will increase it further.
+
+**Why not the others:**
+- A – 16.1 J/min is half the correct value.
+- B – The value is correct, but raising RR increases MP rather than reducing it.
+- D – 64 J/min is double the correct value.
+- E – 12.6 J/min is a miscalculation.
+
+**EDIC trap:** The driving pressure of 16 cmH₂O is also high; MP is an observational marker, not a guideline target.
+
+**Ref:** Gattinoni L, et al. *Intensive Care Med* 2016;42:1567–1575; Serpa Neto A, et al. *Intensive Care Med* 2018;44:1914–1922.
+
+Review: [W13/D4](#W13-D4), [W10/D2](#W10-D2)
 
 </details>
 
@@ -3910,6 +5306,15 @@ During reverse triggering, muscle effort (median P_mus 8.7 cmH₂O in Pham 2021)
 
 **A – T, B – T, C – F, D – T.**
 
-One criterion is enough, and he has at least two: age > 65 and ventilation > 7 days (moderate/severe COPD would add a third). In TracMan, 30-day mortality was 30.8 vs 31.5 % (NS), with fewer sedation days in the early group. ([W13/D1](#W13-D1), [W11/D4](#W11-D4), [W11/D5](#W11-D5), [W12/D4](#W12-D4))
+- A (True) – One Hernández criterion is enough, and he has at least two: age > 65 and ventilation > 7 days (moderate/severe COPD would add a third).
+- B (True) – Extubation to prophylactic NIV in high-risk patients is the only strong ATS/ACCP 2017 liberation recommendation.
+- C (False) – In TracMan, 30-day mortality was 30.8 vs 31.5 % (NS); only sedation days were fewer with early tracheostomy.
+- D (True) – Esteban 1995: a once-daily SBT led to extubation ~2.8× faster than IMV.
+
+**EDIC trap:** Early tracheostomy does not reduce mortality.
+
+**Ref:** Hernández G, et al. *JAMA* 2016;316:1565–1574; Schmidt GA, et al. ATS/ACCP. *Am J Respir Crit Care Med* 2017;195:115–119; Young D, et al. TracMan. *JAMA* 2013;309:2121–2129; Esteban A, et al. *N Engl J Med* 1995;332:345–350.
+
+Review: [W13/D1](#W13-D1), [W11/D4](#W11-D4), [W11/D5](#W11-D5), [W12/D4](#W12-D4)
 
 </details>
