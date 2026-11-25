@@ -17,7 +17,20 @@ Answer in the [interactive quiz](https://mazur-andrej.github.io/Kviz/) to get ma
 
 **B.**
 
-Septic shock = vasopressor to keep MAP ≥ 65 **and** lactate > 2 mmol/L despite adequate fluids; mortality > 40 %. The 4 mmol/L threshold is from an older era; "severe sepsis" has been abolished. ([W01/D1](#W01-D1))
+**Why B:** Sepsis-3 defines septic shock as a vasopressor requirement to keep MAP ≥ 65 mmHg **and** lactate > 2 mmol/L despite adequate fluid resuscitation – she meets both. In the derivation cohorts this combination carried hospital mortality > 40 %.
+
+**Why not the others:**
+
+- A – The 4 mmol/L threshold comes from pre-Sepsis-3 definitions; the current cut-off is > 2 mmol/L.
+- C – The term "severe sepsis" was abolished by Sepsis-3 in 2016.
+- D – qSOFA is a prognostic bedside prompt and is not part of any sepsis or septic shock definition.
+- E – The criterion is needing vasopressors *to achieve* MAP ≥ 65 mmHg, not failing to reach it.
+
+**EDIC trap:** "lactate > 4" and "severe sepsis" are Sepsis-1/2 distractors.
+
+**Ref:** Singer M, et al. Sepsis-3. *JAMA* 2016;315:801–810; Shankar-Hari M, et al. *JAMA* 2016;315:775–787.
+
+Review: [W01/D1](#W01-D1)
 
 </details>
 
@@ -32,7 +45,16 @@ Septic shock = vasopressor to keep MAP ≥ 65 **and** lactate > 2 mmol/L despite
 
 **A – F, B – T, C – F, D – T.**
 
-Probable/definite sepsis without shock → within 1 h is a **strong** recommendation (very low certainty). Possible sepsis without shock → within **3 h** if concern persists. ICU admission within 6 h – conditional, low certainty. ([W01/D2](#W01-D2))
+- A (False) – For probable or definite sepsis without shock, antimicrobials within 1 h is a **strong** recommendation (very low certainty), as for shock.
+- B (True) – Patients needing ICU care should be admitted within 6 h (conditional, low certainty); delayed transfer is associated with worse outcome.
+- C (False) – For possible sepsis without shock the window is **3 h** if concern persists after rapid assessment; with a low likelihood of infection, deferral with close monitoring is suggested.
+- D (True) – Cultures, including blood cultures, are taken before antimicrobials when this causes no substantial delay.
+
+**EDIC trap:** a strong recommendation can rest on very low certainty evidence.
+
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812.
+
+Review: [W01/D2](#W01-D2)
 
 </details>
 
@@ -48,7 +70,18 @@ Probable/definite sepsis without shock → within 1 h is a **strong** recommenda
 
 **C.**
 
-New in 2026: no anaerobic coverage without risk factors, coverage with risk factors (e.g. intra-abdominal source). Shock → antibiotics immediately/within 1 h; PCT not for starting; source control as soon as possible. ([W01/D2](#W01-D2))
+**Why C:** New in SSC 2026: empirical anaerobic coverage is suggested for patients with risk factors for anaerobic infection, such as an intra-abdominal source, and omitted in those without (both conditional, very low certainty). Perforated diverticulitis is the textbook indication.
+
+**Why not the others:**
+
+- A – Source control should be early, ideally within 6 h of diagnosis, not delayed until after 48 h of antibiotics.
+- B – Procalcitonin is not used to decide whether to start antimicrobials.
+- D – In septic shock antimicrobials are given immediately, ideally within 1 h; the 3-h window applies only to possible sepsis without shock.
+- E – SSC 2026 advises against anaerobic coverage only in patients **without** risk factors.
+
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812.
+
+Review: [W01/D2](#W01-D2)
 
 </details>
 
@@ -63,7 +96,16 @@ New in 2026: no anaerobic coverage without risk factors, coverage with risk fact
 
 **A – T, B – T, C – T, D – T.**
 
-B: ~−2.1 L. In CLOVERS the incidence of serious adverse events was similar; both trials were negative for mortality. ([W01/D3](#W01-D3))
+- A (True) – CLASSIC (1554 ICU patients with septic shock): 90-day mortality 42.3 % (restrictive) vs 42.1 % (standard).
+- B (True) – CLOVERS (1563 ED patients with sepsis-induced hypotension): the restrictive, early-vasopressor arm received about 2.1 L less fluid in the first 24 h.
+- C (True) – Serious adverse events were similar, and death before discharge home by day 90 did not differ (14.0 % vs 14.9 %).
+- D (True) – CLASSIC enrolled ICU patients with septic shock who had received at least 1 L of fluid in the preceding 24 h.
+
+**EDIC trap:** both trials were neutral for mortality – hence SSC 2026 accepts either a liberal or a restrictive strategy after the initial 30 mL/kg.
+
+**Ref:** Meyhoff TS, et al. CLASSIC. *N Engl J Med* 2022;386:2459–2470; Shapiro NI, et al. CLOVERS. *N Engl J Med* 2023;388:499–510.
+
+Review: [W01/D3](#W01-D3)
 
 </details>
 
@@ -79,7 +121,18 @@ B: ~−2.1 L. In CLOVERS the incidence of serious adverse events was similar; bo
 
 **A.**
 
-Albumin may be appropriate after large volumes of crystalloid or in cirrhosis (conditional, moderate certainty). Not HES or gelatins. ([W01/D3](#W01-D3))
+**Why A:** SSC 2026 suggests crystalloids alone rather than adding albumin, but albumin may be appropriate after large volumes of crystalloid or in cirrhosis (conditional, moderate certainty). A cirrhotic patient who has already received 4 L fits both situations.
+
+**Why not the others:**
+
+- B – Albumin is not contraindicated in cirrhosis; it is standard there (SBP, hepatorenal syndrome, large-volume paracentesis).
+- C – Balanced crystalloids are suggested over 0.9 % saline; their small K⁺ content does not cause hyperkalaemia, whereas saline adds hyperchloraemic acidosis.
+- D – HES is recommended against (strong): more RRT and higher mortality in 6S.
+- E – Gelatins are suggested against (no benefit, anaphylaxis, possible AKI).
+
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812. Perner A, et al. 6S. *N Engl J Med* 2012;367:124–134.
+
+Review: [W01/D3](#W01-D3)
 
 </details>
 
@@ -94,7 +147,14 @@ Albumin may be appropriate after large volumes of crystalloid or in cirrhosis (c
 
 **A – T, B – F, C – F, D – T.**
 
-Vasopressin acts via V1 receptors independently of adrenergic receptors and remains effective in acidosis. VANISH: **less** RRT with vasopressin (secondary outcome). ([W01/D4](#W01-D4))
+- A (True) – SSC 2026 suggests adding vasopressin to escalating noradrenaline (conditional, moderate); in practice at ~0.25–0.5 µg/kg/min NA, fixed dose ~0.03 U/min.
+- B (False) – Vasopressin acts via V1 receptors on vascular smooth muscle, independently of adrenergic receptors, so its effect is relatively preserved in acidosis.
+- C (False) – In VANISH vasopressin was associated with **less** RRT (25.4 % vs 35.3 %, secondary outcome); kidney-failure-free days did not differ.
+- D (True) – Digital, mesenteric and myocardial ischaemia and hyponatraemia (V2-mediated water retention) are recognised adverse effects.
+
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812. Gordon AC, et al. VANISH. *JAMA* 2016;316:509–518.
+
+Review: [W01/D4](#W01-D4)
 
 </details>
 
@@ -110,7 +170,18 @@ Vasopressin acts via V1 receptors independently of adrenergic receptors and rema
 
 **D.**
 
-65 trial (JAMA 2020): permissive hypotension in patients ≥ 65 y, 90-d mortality 41.0 vs 43.8 % (NS), no signal of harm. ([W01/D4](#W01-D4))
+**Why D:** The 65 trial (Lamontagne, JAMA 2020) randomised 2600 patients aged ≥ 65 years with vasodilatory hypotension to permissive MAP 60–65 mmHg or usual care. 90-day mortality was 41.0 % vs 43.8 % (NS) with less vasopressor exposure and no signal of harm, which underpins the SSC 2026 suggestion (conditional, low).
+
+**Why not the others:**
+
+- A – SOAP II compared dopamine with noradrenaline (more arrhythmias with dopamine).
+- B – VASST compared vasopressin with noradrenaline.
+- C – ATHOS-3 tested angiotensin II in catecholamine-refractory vasoplegia.
+- E – SEPSISPAM compared MAP 80–85 vs 65–70 mmHg; mortality did not differ.
+
+**Ref:** Lamontagne F, et al. 65 trial. *JAMA* 2020;323:938–949; Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812.
+
+Review: [W01/D4](#W01-D4)
 
 </details>
 
@@ -125,7 +196,14 @@ Vasopressin acts via V1 receptors independently of adrenergic receptors and rema
 
 **A – T, B – F, C – T, D – T.**
 
-SSC 2021: start with NA/adrenaline ≥ 0.25 µg/kg/min for ≥ 4 h; no ACTH test (CORTICUS). ([W01/D5](#W01-D5))
+- A (True) – SSC 2026 suggests IV corticosteroids in septic shock (conditional, low); the regimen is hydrocortisone 200 mg/day (50 mg q6h or continuous), started at NA/adrenaline ≥ 0.25 µg/kg/min for ≥ 4 h – this patient qualifies.
+- B (False) – CORTICUS showed that the ACTH test does not identify who benefits; neither the test nor random cortisol is used to select patients.
+- C (True) – Hyperglycaemia is the most frequent adverse effect; hypernatraemia and muscle weakness also occur.
+- D (True) – Fludrocortisone 50 µg is optional; APROCCHSS (hydrocortisone + fludrocortisone) showed lower 90-day mortality.
+
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812. Annane D, et al. APROCCHSS. *N Engl J Med* 2018;378:809–818; Sprung CL, et al. CORTICUS. *N Engl J Med* 2008;358:111–124.
+
+Review: [W01/D5](#W01-D5)
 
 </details>
 
@@ -141,7 +219,18 @@ SSC 2021: start with NA/adrenaline ≥ 0.25 µg/kg/min for ≥ 4 h; no ACTH test
 
 **E.**
 
-APROCCHSS (HC + fludrocortisone): 43.0 vs 49.1 %. ADRENAL and CORTICUS without mortality benefit; CAPE COD was in severe CAP (septic shock excluded, 28-d mortality); VANISH is about vasopressin. ([W01/D5](#W01-D5), [W01/D4](#W01-D4))
+**Why E:** APROCCHSS (1241 patients) gave hydrocortisone 50 mg q6h plus fludrocortisone 50 µg for 7 days; 90-day mortality was 43.0 % vs 49.1 %, significantly lower. It is the large septic shock trial with a significant 90-day mortality benefit.
+
+**Why not the others:**
+
+- A – CAPE COD studied severe community-acquired pneumonia (septic shock excluded) with 28-day mortality as the outcome.
+- B – CORTICUS found no 28-day mortality benefit, only faster shock reversal.
+- C – VANISH tested vasopressin (factorial with hydrocortisone) against kidney-failure-free days.
+- D – ADRENAL (3800 patients, hydrocortisone 200 mg/day without fludrocortisone): 27.9 % vs 28.8 %, NS.
+
+**Ref:** Annane D, et al. APROCCHSS. *N Engl J Med* 2018;378:809–818; Venkatesh B, et al. ADRENAL. *N Engl J Med* 2018;378:797–808; Dequin PF, et al. CAPE COD. *N Engl J Med* 2023;388:1931–1941.
+
+Review: [W01/D5](#W01-D5), [W01/D4](#W01-D4)
 
 </details>
 
@@ -156,7 +245,14 @@ APROCCHSS (HC + fludrocortisone): 43.0 vs 49.1 %. ADRENAL and CORTICUS without m
 
 **A – T, B – F, C – T, D – F.**
 
-Lactate kinetics are slow (hours). Sepsis-3 septic shock = vasopressors for MAP ≥ 65 **and** lactate > **2** mmol/L despite adequate fluids. ([W01/D1](#W01-D1), [W01/D2](#W01-D2), [W04/D4](#W04-D4))
+- A (True) – Adrenaline stimulates β2 receptors, increasing aerobic glycolysis and Na⁺/K⁺-ATPase activity in muscle, so lactate rises without tissue hypoxia.
+- B (False) – Lactate kinetics are slow (hours); fast-responding markers such as CRT or stroke volume are used to judge a single bolus.
+- C (True) – Lactate is a guide, not a target: fluids should not be continued solely because lactate has not normalised.
+- D (False) – The Sepsis-3 threshold is lactate > **2** mmol/L, together with vasopressors to keep MAP ≥ 65 mmHg despite adequate fluids.
+
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812. Singer M, et al. Sepsis-3. *JAMA* 2016;315:801–810; Hernández G, et al. ANDROMEDA-SHOCK. *JAMA* 2019;321:654–664.
+
+Review: [W01/D1](#W01-D1), [W01/D2](#W01-D2), [W04/D4](#W04-D4)
 
 </details>
 
@@ -172,7 +268,18 @@ Lactate kinetics are slow (hours). Sepsis-3 septic shock = vasopressors for MAP 
 
 **E.**
 
-Saline contains 154 mmol/L Cl⁻ → fall in SID (acidosis) and renal vasoconstriction via Cl⁻ at the macula densa. ([W01/D3](#W01-D3))
+**Why E:** 0.9 % saline contains 154 mmol/L Cl⁻ (plasma ~100). Besides lowering the SID (hyperchloraemic acidosis), high chloride delivery to the macula densa triggers tubuloglomerular feedback with afferent arteriolar vasoconstriction and a fall in GFR.
+
+**Why not the others:**
+
+- A – Sodium is not directly tubulotoxic; the proposed mediator is chloride.
+- B – Saline has an SID of zero and therefore **lowers** plasma SID.
+- C – Saline contains no potassium.
+- D – Dilutional hypoalbuminaemia is mildly alkalinising, but it is not a mechanism of renal harm.
+
+**Ref:** Wilcox CS. *J Clin Invest* 1983;71:726–735; Semler MW, et al. SMART. *N Engl J Med* 2018;378:829–839.
+
+Review: [W01/D3](#W01-D3)
 
 </details>
 
@@ -187,7 +294,14 @@ Saline contains 154 mmol/L Cl⁻ → fall in SID (acidosis) and renal vasoconstr
 
 **A – F, B – T, C – F, D – F.**
 
-ATHOS-3: ↑ MAP, mortality benefit not shown → angiotensin II not first choice. LeoPARDS: **more** supraventricular tachyarrhythmias with levosimendan. Methylene blue **inhibits** NO/guanylate cyclase. ([W01/D4](#W01-D4))
+- A (False) – ATHOS-3 (321 patients): MAP response 69.9 % vs 23.4 %, but no mortality benefit was demonstrated, so angiotensin II is not first choice.
+- B (True) – Persistent hypoperfusion with cardiac dysfunction despite adequate MAP and volume → add dobutamine or switch to adrenaline (conditional, low).
+- C (False) – LeoPARDS: levosimendan did not reduce organ dysfunction and caused **more** supraventricular tachyarrhythmias (3.1 % vs 0.4 %).
+- D (False) – Methylene blue **inhibits** NO synthase and soluble guanylate cyclase, counteracting NO-mediated vasodilatation.
+
+**Ref:** Khanna A, et al. ATHOS-3. *N Engl J Med* 2017;377:419–430; Gordon AC, et al. LeoPARDS. *N Engl J Med* 2016;375:1638–1648; Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812.
+
+Review: [W01/D4](#W01-D4)
 
 </details>
 
@@ -203,7 +317,20 @@ ATHOS-3: ↑ MAP, mortality benefit not shown → angiotensin II not first choic
 
 **E.**
 
-RR ≥ 22 and SBP ≤ 100 = 2 points; qSOFA is prognostic, not diagnostic. SIRS is among the recommended tools instead of qSOFA (strong, moderate certainty). ([W01/D1](#W01-D1))
+**Why E:** RR ≥ 22/min and SBP ≤ 100 mmHg give qSOFA 2 (GCS 15 scores 0). qSOFA ≥ 2 flags a higher risk of death or prolonged ICU stay but is prognostic, not diagnostic. SSC 2026 recommends NEWS/NEWS2, MEWS or SIRS instead of qSOFA as a single screening tool (strong, moderate certainty).
+
+**Why not the others:**
+
+- A – SIRS is one of the recommended screening tools, alongside NEWS/NEWS2 and MEWS.
+- B – The criterion is SBP ≤ 100 mmHg, so 98 mmHg scores a point.
+- C – qSOFA is purely clinical and needs no laboratory value.
+- D – qSOFA does not confirm sepsis; sepsis = infection plus an acute SOFA rise ≥ 2.
+
+**EDIC trap:** "qSOFA ≥ 2 = sepsis" is false.
+
+**Ref:** Seymour CW, et al. *JAMA* 2016;315:762–774; Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812.
+
+Review: [W01/D1](#W01-D1)
 
 </details>
 
@@ -218,7 +345,16 @@ RR ≥ 22 and SBP ≤ 100 = 2 points; qSOFA is prognostic, not diagnostic. SIRS 
 
 **A – T, B – T, C – T, D – F.**
 
-30 mL/kg – conditional, low certainty and to be individualised; crystalloids as first choice – strong, moderate certainty. ([W01/D3](#W01-D3))
+- A (True) – New in 2026: active fluid removal (diuretics, then ultrafiltration) after the acute phase (conditional, very low certainty).
+- B (True) – Crystalloids as first-line fluid: strong, moderate certainty; balanced over 0.9 % saline is only conditional.
+- C (True) – Dynamic measures are suggested over physical examination or static measures such as CVP alone (conditional, low).
+- D (False) – At least 30 mL/kg within 3 h is **conditional, low certainty**, with the volume individualised by frequent reassessment.
+
+**EDIC trap:** the most quoted fluid statement (30 mL/kg) is one of the weakest.
+
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812.
+
+Review: [W01/D3](#W01-D3)
 
 </details>
 
@@ -234,7 +370,18 @@ RR ≥ 22 and SBP ≤ 100 = 2 points; qSOFA is prognostic, not diagnostic. SIRS 
 
 **E.**
 
-Classic GRADE trap – a strong recommendation can rest on very low certainty. C (conditional, low), A (conditional, low), B (conditional, moderate), D (conditional, moderate). ([W01/D2](#W01-D2), [W01/D3](#W01-D3))
+**Why E:** Antimicrobials immediately, ideally within 1 h, in septic shock is a strong recommendation despite very low certainty. GRADE allows this when the harm of delay clearly outweighs the downsides and most clinicians and patients would choose the action.
+
+**Why not the others:**
+
+- A – IV corticosteroids in septic shock: conditional, low certainty.
+- B – Vasopressin added to escalating noradrenaline: conditional, moderate certainty.
+- C – 30 mL/kg crystalloid within 3 h: conditional, low certainty.
+- D – Balanced crystalloids over 0.9 % saline: conditional, moderate certainty.
+
+**Ref:** Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812. Guyatt GH, et al. GRADE. *BMJ* 2008;336:924–926.
+
+Review: [W01/D2](#W01-D2), [W01/D3](#W01-D3)
 
 </details>
 
@@ -249,7 +396,14 @@ Classic GRADE trap – a strong recommendation can rest on very low certainty. C
 
 **A – F, B – T, C – T, D – F.**
 
-β-lactams are time-dependent: efficacy follows % fT>MIC, and the position paper proposes 100 % fT>MIC in critically ill patients. The loading dose depends on Vd; AKI in sepsis is often transient and β-lactam underdosing is a greater risk than toxicity. ([W02/D1](#W02-D1))
+- A (False) – β-lactams are time-dependent: efficacy follows % fT>MIC, and the position paper proposes 100 % fT>MIC in critically ill patients. Cmax/MIC targets belong to aminoglycosides.
+- B (True) – With intermittent dosing a trough is typically taken about 24–48 h after starting, close to steady state.
+- C (True) – The loading dose depends on volume of distribution (expanded in sepsis), not on clearance, so it is given in full.
+- D (False) – AKI in sepsis is often transient; early dose reduction risks underdosing, a greater danger than β-lactam toxicity.
+
+**Ref:** Abdul-Aziz MH, et al. Antimicrobial TDM in critically ill adults: a position paper. *Intensive Care Med* 2020;46:1127–1153.
+
+Review: [W02/D1](#W02-D1)
 
 </details>
 
@@ -265,7 +419,18 @@ Classic GRADE trap – a strong recommendation can rest on very low certainty. C
 
 **A.**
 
-Aminoglycosides = concentration-dependent (Cmax/MIC 8–10, AUC 80–120 mg·h/L); amikacin trough < 2.5 mg/L (high trough = toxicity). Routine TDM is recommended. ([W02/D1](#W02-D1))
+**Why A:** Aminoglycosides are concentration-dependent (Cmax/MIC 8–10, AUC 80–120 mg·h/L); nephro- and ototoxicity relate to sustained exposure, which the trough reflects. A trough of 6 mg/L exceeds the amikacin target of < 2.5 mg/L, so the dosing interval should be extended.
+
+**Why not the others:**
+
+- B – Routine TDM is recommended for aminoglycosides.
+- C – Even with AUC-based dosing the trough remains a toxicity marker.
+- D – A high trough adds toxicity, not efficacy; efficacy depends on the peak.
+- E – Amikacin is concentration-dependent and is given once daily for a high peak and post-antibiotic effect.
+
+**Ref:** Abdul-Aziz MH, et al. Antimicrobial TDM in critically ill adults: a position paper. *Intensive Care Med* 2020;46:1127–1153.
+
+Review: [W02/D1](#W02-D1)
 
 </details>
 
@@ -280,7 +445,16 @@ Aminoglycosides = concentration-dependent (Cmax/MIC 8–10, AUC 80–120 mg·h/L
 
 **A – F, B – T, C – T, D – T.**
 
-In BLING III there was no difference in MDR colonisation/infection or *C. difficile*. ([W02/D1](#W02-D1))
+- A (False) – BLING III found no difference in new MDR colonisation or infection, or in *C. difficile* infection.
+- B (True) – BLING III (7031 patients): 90-day mortality 24.9 % vs 26.8 %, OR 0.91, p = 0.08 – not significant.
+- C (True) – The JAMA 2024 meta-analysis (18 RCTs, 9108 patients): RR 0.86 for 90-day mortality, 99.1 % posterior probability of benefit.
+- D (True) – BLING III was included and contributed most of the patients.
+
+**EDIC trap:** a neutral trial can still drive a positive meta-analysis.
+
+**Ref:** Dulhunty JM, et al. BLING III. *JAMA* 2024;332:629–637; Abdul-Aziz MH, et al. *JAMA* 2024;332:638–648.
+
+Review: [W02/D1](#W02-D1)
 
 </details>
 
@@ -296,7 +470,18 @@ In BLING III there was no difference in MDR colonisation/infection or *C. diffic
 
 **E.**
 
-De-escalate according to susceptibility, stop anti-MRSA therapy with a negative screen; SSC 2021 advises against continuing double Gram-negative coverage; BALANCE: 7 days non-inferior to 14 (except *S. aureus* and candidaemia). ([W02/D2](#W02-D2))
+**Why E:** With a known susceptible pathogen, a stable patient and adequate source control, de-escalate to a single narrower-spectrum active agent and stop the anti-MRSA drug (negative screen) and the aminoglycoside. BALANCE showed 7 days non-inferior to 14 days for bloodstream infection (excluding *S. aureus* and candidaemia).
+
+**Why not the others:**
+
+- A – Stability does not justify stopping before an adequate course for bacteraemia.
+- B – Continued double Gram-negative coverage is advised against once susceptibility is known.
+- C – Triple therapy for 14 days adds toxicity and resistance without benefit.
+- D – CRP normalisation is not a stopping rule, and the carbapenem should be spared.
+
+**Ref:** BALANCE Investigators. *N Engl J Med* 2025;392:1065–1078; Tabah A, et al. ESICM/ESCMID de-escalation statement. *Intensive Care Med* 2020;46:245–265.
+
+Review: [W02/D2](#W02-D2)
 
 </details>
 
@@ -311,7 +496,14 @@ De-escalate according to susceptibility, stop anti-MRSA therapy with a negative 
 
 **A – F, B – F, C – F, D – T.**
 
-SAPS: 28-day mortality was **lower** with procalcitonin guidance (19.6 vs 25.0 %). ADAPT-Sepsis: only the PCT protocol shortened therapy; CRP did not shorten therapy and non-inferiority was not shown. ERS/ESICM does not recommend routine serial PCT when 7–8 days are planned (strong). ([W02/D2](#W02-D2), [W02/D5](#W02-D5))
+- A (False) – ERS/ESICM 2017 recommends **against** routine serial PCT when a 7–8-day VAP course is planned (strong, moderate).
+- B (False) – In SAPS, 28-day mortality was **lower** with PCT guidance (19.6 % vs 25.0 %), with shorter antibiotic exposure.
+- C (False) – In ADAPT-Sepsis only the PCT protocol shortened therapy; CRP guidance did not, and non-inferiority for mortality was not shown.
+- D (True) – PRORATA: 14.3 vs 11.6 antibiotic-free days by day 28 (+2.7) without excess mortality.
+
+**Ref:** Bouadma L, et al. PRORATA. *Lancet* 2010;375:463–474; de Jong E, et al. SAPS. *Lancet Infect Dis* 2016;16:819–827; Dark P, et al. ADAPT-Sepsis. *JAMA* 2025;333:682–693; Torres A, et al. ERS/ESICM/ESCMID/ALAT HAP/VAP guideline. *Eur Respir J* 2017;50:1700582.
+
+Review: [W02/D2](#W02-D2), [W02/D5](#W02-D5)
 
 </details>
 
@@ -327,7 +519,18 @@ SAPS: 28-day mortality was **lower** with procalcitonin guidance (19.6 vs 25.0 %
 
 **C.**
 
-1.5 / 5.0 = 30 % of peak → a 70 % fall; rule: < 0.5 µg/L or a fall ≥ 80 % (80 % of 5.0 = a value of 1.0). ([W02/D2](#W02-D2))
+**Why C:** PCT 1.5 µg/L is 30 % of the 5.0 µg/L peak – a 70 % fall. The PRORATA/SAPS rule allows stopping when PCT is < 0.5 µg/L or has fallen ≥ 80 % from its peak (here ≤ 1.0 µg/L), always combined with clinical improvement.
+
+**Why not the others:**
+
+- A – The fall is 70 %, not more than 80 %.
+- B – There is no "< 2 µg/L" stopping rule.
+- D – PCT guidance was validated in ICU populations that included ventilated patients.
+- E – The patient is improving and PCT is falling; nothing suggests treatment failure.
+
+**Ref:** Bouadma L, et al. PRORATA. *Lancet* 2010;375:463–474; de Jong E, et al. SAPS. *Lancet Infect Dis* 2016;16:819–827.
+
+Review: [W02/D2](#W02-D2)
 
 </details>
 
@@ -342,7 +545,14 @@ SAPS: 28-day mortality was **lower** with procalcitonin guidance (19.6 vs 25.0 %
 
 **A – F, B – F, C – T, D – F.**
 
-Vaborbactam is inactive against MBL and OXA-48; OXA-48 → ceftazidime-avibactam; NDM → aztreonam-avibactam or cefiderocol. Ceftolozane-tazobactam is potent against *Pseudomonas* but inactive against carbapenemases. ([W02/D3](#W02-D3))
+- A (False) – Vaborbactam does not inhibit OXA-48 (class D); ceftazidime-avibactam is preferred (cefiderocol alternative).
+- B (False) – Ceftolozane-tazobactam is potent against *P. aeruginosa*, including DTR strains, but is inactive against carbapenemase producers.
+- C (True) – For KPC producers meropenem-vaborbactam, ceftazidime-avibactam and imipenem-relebactam are preferred.
+- D (False) – Vaborbactam does not inhibit metallo-β-lactamases; NDM → aztreonam with avibactam (ceftazidime-avibactam + aztreonam or aztreonam-avibactam) or cefiderocol.
+
+**Ref:** Tamma PD, et al. IDSA 2024 guidance on antimicrobial-resistant Gram-negative infections. *Clin Infect Dis* 2024. Paul M, et al. ESCMID guidelines for MDR Gram-negative bacilli. *Clin Microbiol Infect* 2022;28:521–547.
+
+Review: [W02/D3](#W02-D3)
 
 </details>
 
@@ -358,7 +568,18 @@ Vaborbactam is inactive against MBL and OXA-48; OXA-48 → ceftazidime-avibactam
 
 **D.**
 
-BSI without septic shock → ertapenem (conditional, moderate). Against tigecycline (strong) and cefepime for ESBL; MERINO did not show non-inferiority of pip-tazo; new BL/BLIs should be reserved for XDR. ([W02/D3](#W02-D3))
+**Why D:** For bloodstream infection with 3rd-generation-cephalosporin-resistant (ESBL) Enterobacterales without septic shock, ESCMID 2022 suggests ertapenem rather than imipenem or meropenem (conditional, moderate), sparing the broader carbapenems.
+
+**Why not the others:**
+
+- A – Tigecycline is recommended against for bloodstream infection (strong) because serum levels are low.
+- B – New β-lactam/β-lactamase inhibitors should be reserved for carbapenem-resistant (XDR) organisms.
+- C – Cefepime is not recommended for ESBL infections (hydrolysis, inoculum effect).
+- E – MERINO showed higher 30-day mortality with piperacillin-tazobactam (12.3 % vs 3.7 %); non-inferiority was not shown.
+
+**Ref:** Paul M, et al. ESCMID guidelines for MDR Gram-negative bacilli. *Clin Microbiol Infect* 2022;28:521–547. Harris PNA, et al. MERINO. *JAMA* 2018;320:984–994.
+
+Review: [W02/D3](#W02-D3)
 
 </details>
 
@@ -373,7 +594,16 @@ BSI without septic shock → ertapenem (conditional, moderate). Against tigecycl
 
 **A – T, B – T, C – T, D – T.**
 
-IDSA 2024: sulbactam-durlobactam + a carbapenem; caution with cefiderocol (CREDIBLE-CR – higher mortality with *Acinetobacter*). ([W02/D3](#W02-D3))
+- A (True) – ATTACK (CRAB, both arms with imipenem): 28-day mortality 19 % with sulbactam-durlobactam vs 32 % with colistin, and less nephrotoxicity.
+- B (True) – Durlobactam, a diazabicyclooctane, inhibits class A, C and D β-lactamases, including *Acinetobacter* OXA carbapenemases.
+- C (True) – Sulbactam has intrinsic activity against *Acinetobacter* through binding of PBP1 and PBP3.
+- D (True) – IDSA 2024 prefers sulbactam-durlobactam plus imipenem or meropenem for invasive CRAB infection.
+
+**EDIC trap:** cefiderocol for CRAB – CREDIBLE-CR showed higher mortality in the *Acinetobacter* subgroup.
+
+**Ref:** Kaye KS, et al. ATTACK. *Lancet Infect Dis* 2023;23:1072–1084; Tamma PD, et al. IDSA 2024 guidance on antimicrobial-resistant Gram-negative infections. *Clin Infect Dis* 2024.
+
+Review: [W02/D3](#W02-D3)
 
 </details>
 
@@ -389,7 +619,18 @@ IDSA 2024: sulbactam-durlobactam + a carbapenem; caution with cefiderocol (CREDI
 
 **B.**
 
-Echinocandins penetrate poorly into the eye, CNS and urine → for endophthalmitis use an azole/amphotericin B. ([W02/D4](#W02-D4))
+**Why B:** Echinocandins are large molecules that penetrate poorly into the eye, CNS and urine. For *Candida* endophthalmitis IDSA recommends fluconazole/voriconazole (if susceptible) or liposomal amphotericin B ± flucytosine, with intravitreal therapy when vitritis or macular involvement is present.
+
+**Why not the others:**
+
+- A – Echinocandins are first-line for candidaemia, but inadequate for ocular infection.
+- C – Rezafungin is also an echinocandin and shares the same penetration problem.
+- D – Endophthalmitis needs at least 4–6 weeks of therapy, until resolution on repeated fundoscopy.
+- E – A higher caspofungin dose does not overcome poor ocular penetration.
+
+**Ref:** Pappas PG, et al. IDSA candidiasis guideline. *Clin Infect Dis* 2016;62:e1–e50.
+
+Review: [W02/D4](#W02-D4)
 
 </details>
 
@@ -404,7 +645,14 @@ Echinocandins penetrate poorly into the eye, CNS and urine → for endophthalmit
 
 **A – T, B – F, C – F, D – T.**
 
-A: adj. OR 5.19. B: classic criteria require a host factor and therefore **miss** most ICU patients. First line: voriconazole or isavuconazole; L-AmB for azole resistance. ([W02/D4](#W02-D4))
+- A (True) – In the Dutch-Belgian cohort influenza was independently associated with invasive aspergillosis (adjusted OR 5.19), as were corticosteroids.
+- B (False) – Classic EORTC/MSG criteria require a host factor (neutropenia, transplant) and therefore **miss** most ICU cases; ICU-specific definitions exist.
+- C (False) – First-line therapy is voriconazole or isavuconazole; liposomal amphotericin B for azole resistance; echinocandins are salvage or combination only.
+- D (True) – In the ECMM/ISHAM CAPA criteria, serum galactomannan > 0.5 supports probable CAPA.
+
+**Ref:** Schauwvlieghe AFAD, et al. *Lancet Respir Med* 2018;6:782–792; Koehler P, et al. ECMM/ISHAM CAPA. *Lancet Infect Dis* 2021;21:e149–e162.
+
+Review: [W02/D4](#W02-D4)
 
 </details>
 
@@ -420,7 +668,18 @@ A: adj. OR 5.19. B: classic criteria require a host factor and therefore **miss*
 
 **B.**
 
-No response after 4–5 days and no further evidence of invasive candidiasis (or a negative non-culture test with high NPV) → consider stopping. ([W02/D4](#W02-D4))
+**Why B:** IDSA 2016: in non-neutropenic ICU patients on empirical antifungal therapy with no clinical response after 4–5 days and no subsequent evidence of invasive candidiasis – or a negative non-culture test with high negative predictive value such as β-D-glucan – stopping should be considered.
+
+**Why not the others:**
+
+- A – 14 days from the first negative blood culture applies to documented, uncomplicated candidaemia.
+- C – Adding fluconazole to an echinocandin has no proven synergy.
+- D – Switching to liposomal amphotericin B without evidence of infection adds toxicity only.
+- E – Voriconazole targets moulds and is not indicated here.
+
+**Ref:** Pappas PG, et al. IDSA candidiasis guideline. *Clin Infect Dis* 2016;62:e1–e50.
+
+Review: [W02/D4](#W02-D4)
 
 </details>
 
@@ -435,7 +694,14 @@ No response after 4–5 days and no further evidence of invasive candidiasis (or
 
 **A – F, B – F, C – F, D – F.**
 
-ERS/ESICM: stop after 3 days if HAP is unlikely and there is no deterioration. IDSA/ATS 2016 suggests **non-invasive** sampling with semiquantitative cultures and **not** using PCT/CRP/CPIS to decide whether to start. HCAP was abandoned because the patients **did not** have as many MDR pathogens as assumed (excessive broad-spectrum therapy). ([W02/D5](#W02-D5))
+- A (False) – ERS/ESICM 2017: if HAP is unlikely and there is no deterioration within 72 h, antibiotics are stopped after about 3 days.
+- B (False) – IDSA/ATS 2016 suggests **non-invasive** sampling (endotracheal aspirate) with **semiquantitative** cultures.
+- C (False) – HCAP was abandoned because these patients **did not** have as many MDR pathogens as assumed, which led to excessive broad-spectrum therapy.
+- D (False) – IDSA/ATS 2016 recommends clinical criteria alone, **not** PCT, CRP or CPIS, to decide whether to start antibiotics.
+
+**Ref:** Kalil AC, et al. IDSA/ATS HAP/VAP guideline. *Clin Infect Dis* 2016;63:e61–e111. Torres A, et al. ERS/ESICM/ESCMID/ALAT HAP/VAP guideline. *Eur Respir J* 2017;50:1700582.
+
+Review: [W02/D5](#W02-D5)
 
 </details>
 
@@ -451,7 +717,18 @@ ERS/ESICM: stop after 3 days if HAP is unlikely and there is no deterioration. I
 
 **E.**
 
-MRSA coverage when MRSA > 10–20 %; double antipseudomonal coverage only with MDR risk factors or > 10 % resistance. ([W02/D5](#W02-D5))
+**Why E:** IDSA/ATS 2016: add MRSA coverage (vancomycin or linezolid) when MRSA exceeds 10–20 % of *S. aureus* isolates, and use two antipseudomonal agents only with MDR risk factors or > 10 % Gram-negative resistance to the planned monotherapy. With MRSA 25 %, resistance 5 % and no MDR risk factors: one antipseudomonal agent plus anti-MRSA cover.
+
+**Why not the others:**
+
+- A – MRSA prevalence of 25 % exceeds the threshold for MRSA coverage.
+- B – Double antipseudomonal therapy is not indicated with 5 % resistance and no MDR risk factors.
+- C – Ceftriaxone has no antipseudomonal activity, which VAP regimens require.
+- D – Colistin plus meropenem is reserved for suspected carbapenem-resistant organisms.
+
+**Ref:** Kalil AC, et al. IDSA/ATS HAP/VAP guideline. *Clin Infect Dis* 2016;63:e61–e111.
+
+Review: [W02/D5](#W02-D5)
 
 </details>
 
@@ -466,7 +743,14 @@ MRSA coverage when MRSA > 10–20 %; double antipseudomonal coverage only with M
 
 **A – T, B – T, C – F, D – T.**
 
-iDIAPASON: death/recurrence 35.2 vs 25.5 %, non-inferiority not shown, stopped early. ([W02/D5](#W02-D5), [W02/D2](#W02-D2))
+- A (True) – The 7–8-day course does not apply to immunosuppression, cystic fibrosis, empyema, lung abscess, cavitation, necrotising pneumonia or secondary bacteraemia.
+- B (True) – PneumA: 28-day mortality was similar with 8 and 15 days (18.8 % vs 17.2 %); recurrence was higher with non-fermenters after 8 days.
+- C (False) – iDIAPASON: death or recurrence 35.2 % vs 25.5 % with 8 vs 15 days; non-inferiority was not shown and the trial stopped early.
+- D (True) – IDSA/ATS 2016 recommends 7 days for both HAP and VAP.
+
+**Ref:** Chastre J, et al. PneumA. *JAMA* 2003;290:2588–2598; Bouglé A, et al. iDIAPASON. *Intensive Care Med* 2022;48:841–849; Kalil AC, et al. IDSA/ATS HAP/VAP guideline. *Clin Infect Dis* 2016;63:e61–e111. Torres A, et al. ERS/ESICM/ESCMID/ALAT HAP/VAP guideline. *Eur Respir J* 2017;50:1700582.
+
+Review: [W02/D5](#W02-D5), [W02/D2](#W02-D2)
 
 </details>
 
@@ -482,7 +766,18 @@ iDIAPASON: death/recurrence 35.2 vs 25.5 %, non-inferiority not shown, stopped e
 
 **A.**
 
-Remove a short-term CVC with Gram-negatives (including *Pseudomonas*); no salvage with *Pseudomonas*; guidewire exchange does not remove the biofilm; uncomplicated Gram-negative BSI 7 days (BALANCE). ([W03/D1](#W03-D1))
+**Why A:** Short-term CVCs with CRBSI due to Gram-negative bacilli, including *P. aeruginosa*, should be removed. Without endocarditis, septic thrombophlebitis or persistent bacteraemia the infection is uncomplicated, and about 7 days of therapy suffice (BALANCE: 7 non-inferior to 14 days).
+
+**Why not the others:**
+
+- B – Guidewire exchange leaves the infected tract and biofilm in place and is not used for proven CRBSI.
+- C – 4–6 weeks are for complicated CRBSI (endocarditis, septic thrombosis); 6 weeks is overtreatment here.
+- D – Catheter retention is not appropriate for *Pseudomonas* with a short-term catheter.
+- E – Antibiotic lock salvage is for selected long-term catheters, not *Pseudomonas*.
+
+**Ref:** Mermel LA, et al. IDSA guideline for intravascular catheter-related infection. *Clin Infect Dis* 2009;49:1–45. BALANCE Investigators. *N Engl J Med* 2025;392:1065–1078.
+
+Review: [W03/D1](#W03-D1)
 
 </details>
 
@@ -497,7 +792,14 @@ Remove a short-term CVC with Gram-negatives (including *Pseudomonas*); no salvag
 
 **A – T, B – F, C – F, D – F.**
 
-Keystone was a before–after cohort, not an RCT. Pneumothorax was most frequent with the subclavian site (2.1 vs 1.4 vs 0.7 %); the subclavian site also had the fewest CRBSI + DVT. CLEAN: chlorhexidine–alcohol reduced CRBSI (HR 0.21), with more severe skin reactions. ([W03/D1](#W03-D1))
+- A (True) – Dressing trial: chlorhexidine-impregnated sponges reduced major CRBSI (HR 0.24) without increasing resistance.
+- B (False) – Keystone was a before–after collaborative cohort in Michigan ICUs (CRBSI fell up to 66 %), not a randomised trial.
+- C (False) – In 3SITES mechanical complications, mainly pneumothorax, were most frequent with the **subclavian** site (2.1 vs 1.4 vs 0.7 % subclavian/jugular/femoral); subclavian also had the fewest CRBSI + DVT.
+- D (False) – CLEAN: 2 % chlorhexidine–alcohol **reduced** CRBSI vs povidone iodine–alcohol (HR 0.21), at the cost of more severe skin reactions.
+
+**Ref:** Timsit JF, et al. Dressing. *JAMA* 2009;301:1231–1241; Pronovost P, et al. *N Engl J Med* 2006;355:2725–2732; Parienti JJ, et al. 3SITES. *N Engl J Med* 2015;373:1220–1229; Mimoz O, et al. CLEAN. *Lancet* 2015;386:2069–2077.
+
+Review: [W03/D1](#W03-D1)
 
 </details>
 
@@ -513,7 +815,18 @@ Keystone was a before–after cohort, not an RCT. Pneumothorax was most frequent
 
 **B.**
 
-CoNS: 5–7 days after removal; 10–14 days only if the catheter is retained with lock therapy. ([W03/D1](#W03-D1))
+**Why B:** IDSA 2009: uncomplicated coagulase-negative staphylococcal CRBSI after catheter removal is treated for 5–7 days, reflecting the low virulence of CoNS. If the catheter is retained, 10–14 days with antibiotic lock therapy are needed.
+
+**Why not the others:**
+
+- A – 6–8 weeks is the duration for osteomyelitis.
+- C – 4–6 weeks is for complicated CRBSI such as endocarditis or septic thrombophlebitis.
+- D – 14 days from the first negative blood culture applies to uncomplicated candidaemia.
+- E – 10–14 days applies to catheter retention with lock therapy, not after removal.
+
+**Ref:** Mermel LA, et al. IDSA guideline for intravascular catheter-related infection. *Clin Infect Dis* 2009;49:1–45.
+
+Review: [W03/D1](#W03-D1)
 
 </details>
 
@@ -528,7 +841,14 @@ CoNS: 5–7 days after removal; 10–14 days only if the catheter is retained wi
 
 **A – T, B – F, C – T, D – T.**
 
-Age > 50 y and a cell-mediated immune defect (corticosteroids) → *Listeria*. Stop dexamethasone if the pathogen is other than *S. pneumoniae* or *H. influenzae*. ([W03/D2](#W03-D2), [W03/D4](#W03-D4))
+- A (True) – ESCMID 2016 indications for CT before LP: focal deficits, new-onset seizures, GCS < 10 and severe immunocompromise.
+- B (False) – Dexamethasone is stopped if the pathogen is not *S. pneumoniae* or *H. influenzae*; in neurolisteriosis it was associated with higher mortality (MONALISA).
+- C (True) – If LP is delayed (e.g. for CT), dexamethasone and antibiotics are given immediately after blood cultures.
+- D (True) – Age > 50 years and cell-mediated immunosuppression (corticosteroids) are *Listeria* risk factors → add amoxicillin/ampicillin to ceftriaxone.
+
+**Ref:** van de Beek D, et al. ESCMID acute bacterial meningitis guideline. *Clin Microbiol Infect* 2016;22(Suppl 3):S37–S62. Charlier C, et al. MONALISA. *Lancet Infect Dis* 2017;17:510–519.
+
+Review: [W03/D2](#W03-D2), [W03/D4](#W03-D4)
 
 </details>
 
@@ -544,7 +864,18 @@ Age > 50 y and a cell-mediated immune defect (corticosteroids) → *Listeria*. S
 
 **A.**
 
-If antibiotics have already been started, dexamethasone can be started up to 4 h after the first dose. Reduced vancomycin penetration is not a reason to omit it. ([W03/D2](#W03-D2))
+**Why A:** ESCMID 2016 recommends dexamethasone 10 mg q6h for 4 days, ideally started with or just before the first antibiotic dose. If antibiotics have already been given, dexamethasone can still be started up to 4 h after the first dose – at 2 h it should be given now.
+
+**Why not the others:**
+
+- B – Reduced vancomycin CSF penetration with dexamethasone is not a reason to omit it.
+- C – A single dose after 24 h has no evidence base and falls outside the 4-h window.
+- D – The 4-h window has not yet passed.
+- E – Dexamethasone is started empirically and stopped if another pathogen is identified; waiting for culture loses the benefit.
+
+**Ref:** van de Beek D, et al. ESCMID acute bacterial meningitis guideline. *Clin Microbiol Infect* 2016;22(Suppl 3):S37–S62. de Gans J, van de Beek D. *N Engl J Med* 2002;347:1549–1556.
+
+Review: [W03/D2](#W03-D2)
 
 </details>
 
@@ -559,7 +890,14 @@ If antibiotics have already been started, dexamethasone can be started up to 4 h
 
 **A – T, B – T, C – T, D – F.**
 
-Corticosteroids in HSV encephalitis are not routinely recommended (only retrospective data). ([W03/D2](#W03-D2))
+- A (True) – Acyclovir can crystallise in renal tubules (crystal nephropathy, AKI); ensure hydration and adjust the 10 mg/kg q8h dose to renal function.
+- B (True) – In the French multicentre ICU cohort (Jaquet), 71 % had a poor functional outcome at 90 days.
+- C (True) – MRI is the most sensitive imaging; bilateral, often asymmetric temporal lobe involvement is almost pathognomonic.
+- D (False) – IDSA 2008 does not recommend routine adjunctive corticosteroids; supporting data are only retrospective.
+
+**Ref:** Tunkel AR, et al. IDSA encephalitis guideline. *Clin Infect Dis* 2008;47:303–327; Jaquet P, et al. *Intensive Care Med* 2019;45:1103–1111.
+
+Review: [W03/D2](#W03-D2)
 
 </details>
 
@@ -575,7 +913,18 @@ Corticosteroids in HSV encephalitis are not routinely recommended (only retrospe
 
 **A.**
 
-Type II NSTI (GAS; varicella, NSAID). GAS → penicillin + clindamycin (IDSA, strong); never clindamycin monotherapy (resistance). Doxycycline + ceftriaxone is for *Vibrio*. ([W03/D3](#W03-D3))
+**Why A:** Varicella and NSAID use are classic risk factors for type II (monomicrobial) NSTI due to group A *Streptococcus*; Gram-positive cocci in chains confirm it. IDSA recommends penicillin plus clindamycin (strong): clindamycin suppresses toxin production and is unaffected by inoculum size (Eagle effect).
+
+**Why not the others:**
+
+- B – Doxycycline plus ceftriaxone (or ceftazidime) is the regimen for *Vibrio vulnificus*.
+- C – Clindamycin monotherapy risks failure because of GAS clindamycin resistance.
+- D – Piperacillin-tazobactam alone lacks an antitoxin effect; it is an empirical partner for polymicrobial type I NSTI.
+- E – Vancomycin alone is inferior for GAS and has no antitoxin effect.
+
+**Ref:** Stevens DL, et al. IDSA skin and soft-tissue infection guideline. *Clin Infect Dis* 2014;59:e10–e52.
+
+Review: [W03/D3](#W03-D3)
 
 </details>
 
@@ -590,7 +939,16 @@ Type II NSTI (GAS; varicella, NSAID). GAS → penicillin + clindamycin (IDSA, st
 
 **A – T, B – F, C – T, D – F.**
 
-CRP ≥ 150 = 4, WBC 15–25 = 1, Hb 11–13.5 = 1, Na < 135 = 2, creatinine ≤ 141 = 0, glucose ≤ 10 = 0 → **8**. LRINEC never delays exploration; CT gas sensitivity 88.5 % vs LRINEC 68.2 % (higher). ([W03/D3](#W03-D3))
+- A (True) – LRINEC ≥ 8 is high risk (6–7 intermediate, ≤ 5 low).
+- B (False) – LRINEC never delays surgical exploration; clinical suspicion is enough to operate.
+- C (True) – CRP ≥ 150 = 4, WBC 15–25 = 1, Hb 11–13.5 = 1, Na⁺ < 135 = 2, creatinine ≤ 141 µmol/L = 0, glucose ≤ 10 mmol/L = 0 → **8**.
+- D (False) – In the Fernando meta-analysis, fascial gas on CT was **more** sensitive (88.5 %) than LRINEC ≥ 6 (68.2 %).
+
+**EDIC trap:** a low LRINEC score does not rule out NSTI.
+
+**Ref:** Wong CH, et al. LRINEC. *Crit Care Med* 2004;32:1535–1541; Fernando SM, et al. *Ann Surg* 2019;269:58–65.
+
+Review: [W03/D3](#W03-D3)
 
 </details>
 
@@ -606,7 +964,18 @@ CRP ≥ 150 = 4, WBC 15–25 = 1, Hb 11–13.5 = 1, Na < 135 = 2, creatinine ≤
 
 **B.**
 
-Streptococcal TSS: often NSTI, severe local pain, blood cultures often positive, high mortality (~38 %). The other options are typical of staphylococcal TSS. ([W03/D3](#W03-D3))
+**Why B:** Streptococcal TSS typically complicates invasive soft-tissue infection (NSTI, myositis) with pain out of proportion to the findings; blood cultures are often positive and mortality is high (~38 %).
+
+**Why not the others:**
+
+- A – Negative blood cultures are typical of staphylococcal TSS, where toxin is produced at a colonised site.
+- C – Low mortality (< 5 %) is characteristic of staphylococcal, especially menstrual, TSS.
+- D – Tampon use is the classic association of staphylococcal TSS.
+- E – Late desquamation of palms and soles is a hallmark of staphylococcal TSS.
+
+**Ref:** Stevens DL, et al. IDSA skin and soft-tissue infection guideline. *Clin Infect Dis* 2014;59:e10–e52; Lappin E, Ferguson AJ. *Lancet Infect Dis* 2009;9:281–290.
+
+Review: [W03/D3](#W03-D3)
 
 </details>
 
@@ -621,7 +990,14 @@ Streptococcal TSS: often NSTI, severe local pain, blood cultures often positive,
 
 **A – F, B – T, C – T, D – T.**
 
-Persistent fever in a stable patient is not a reason to escalate; think of fungal infection (chest CT, galactomannan). ([W03/D4](#W03-D4))
+- A (False) – Persistent fever in a haemodynamically stable patient without a new focus is not by itself a reason to escalate antibacterial therapy.
+- B (True) – Fever persisting beyond 4–7 days in profound neutropenia should prompt a search for invasive fungal infection (chest CT, galactomannan) and antifungal therapy.
+- C (True) – IDSA defines fever as a single temperature ≥ 38.3 °C or ≥ 38.0 °C sustained for ≥ 1 h.
+- D (True) – ECIL-4: where ESBL prevalence is high, cephalosporins are unsuitable for escalation; de-escalation starting with a carbapenem is preferred.
+
+**Ref:** Freifeld AG, et al. IDSA febrile neutropenia guideline. *Clin Infect Dis* 2011;52:e56–e93; Averbuch D, et al. ECIL-4. *Haematologica* 2013;98:1826–1835.
+
+Review: [W03/D4](#W03-D4)
 
 </details>
 
@@ -637,7 +1013,18 @@ Persistent fever in a stable patient is not a reason to escalate; think of funga
 
 **A.**
 
-Humoral immunity/asplenia → encapsulated bacteria. PJP/CMV/*Nocardia*/*Cryptococcus* = T cells; moulds = prolonged neutropenia; CoNS/*Candida* = barriers. ([W03/D4](#W03-D4))
+**Why A:** The spleen clears opsonised bacteria and hosts IgM memory B cells, so asplenia impairs defence against encapsulated organisms. Overwhelming post-splenectomy infection is mostly due to *S. pneumoniae*, with *H. influenzae* and *N. meningitidis*, and can be fulminant.
+
+**Why not the others:**
+
+- B – *Nocardia* and *Cryptococcus* point to T-cell (cell-mediated) defects.
+- C – CoNS and *Candida* reflect breached barriers such as catheters.
+- D – *Pneumocystis* and CMV are T-cell defect pathogens (transplant, HIV, corticosteroids).
+- E – *Aspergillus* and Mucorales are typical of prolonged neutropenia or high-dose corticosteroids.
+
+**Ref:** Rubin LG, Schaffner W. Care of the asplenic patient. *N Engl J Med* 2014;371:349–356.
+
+Review: [W03/D4](#W03-D4)
 
 </details>
 
@@ -652,7 +1039,14 @@ Humoral immunity/asplenia → encapsulated bacteria. PJP/CMV/*Nocardia*/*Cryptoc
 
 **A – T, B – F, C – F, D – F.**
 
-C: reduced – 5.6 vs 8.1 %; 20.9 vs 32.5 %. D: the benefit was confined to regimens **with** an IV component (RR 0.84 vs 1.01). Ecological non-inferiority for resistant organisms was not confirmed. ([W03/D5](#W03-D5))
+- A (True) – SOD is oropharyngeal paste (e.g. colistin, tobramycin, amphotericin B) with surveillance cultures; SDD adds a gastric suspension and a short IV antibiotic course.
+- B (False) – The SuDDICU ecological assessment did **not** confirm unit-level non-inferiority for resistant organisms.
+- C (False) – At patient level SuDDICU **reduced** bacteraemia (5.6 % vs 8.1 %) and resistant-organism cultures (20.9 % vs 32.5 %), although hospital mortality was not significantly lower.
+- D (False) – In the Hammond meta-analysis the mortality benefit was confined to regimens **with** an IV component (RR 0.84 vs 1.01).
+
+**Ref:** SuDDICU Investigators. *JAMA* 2022;328:1911–1921; Hammond NE, et al. *JAMA* 2022;328:1922–1934.
+
+Review: [W03/D5](#W03-D5)
 
 </details>
 
@@ -668,7 +1062,18 @@ C: reduced – 5.6 vs 8.1 %; 20.9 vs 32.5 %. D: the benefit was confined to regi
 
 **E.**
 
-Colonisation ≠ infection (do not treat), but in sepsis it guides the choice of empirical therapy. OXA-48 → ceftazidime-avibactam; vaborbactam does not cover OXA-48, ceftolozane is inactive against carbapenemases. ([W03/D5](#W03-D5), [W02/D3](#W02-D3))
+**Why E:** Colonisation is not treated by itself, but in septic shock it predicts the likely pathogen and should guide empirical therapy. OXA-48 is a class D carbapenemase inhibited by avibactam, so a regimen containing ceftazidime-avibactam is the logical choice.
+
+**Why not the others:**
+
+- A – Ceftolozane-tazobactam is inactive against carbapenemase producers.
+- B – Piperacillin-tazobactam is hydrolysed by OXA-48 producers, which often co-produce ESBL.
+- C – Vaborbactam does not inhibit OXA-48.
+- D – Ignoring known colonisation in septic shock risks inactive empirical therapy, which increases mortality.
+
+**Ref:** Paul M, et al. ESCMID guidelines for MDR Gram-negative bacilli. *Clin Microbiol Infect* 2022;28:521–547. Tamma PD, et al. IDSA 2024 guidance on antimicrobial-resistant Gram-negative infections. *Clin Infect Dis* 2024.
+
+Review: [W03/D5](#W03-D5), [W02/D3](#W02-D3)
 
 </details>
 
@@ -683,7 +1088,14 @@ Colonisation ≠ infection (do not treat), but in sepsis it guides the choice of
 
 **A – F, B – T, C – F, D – T.**
 
-MOSAR: neither rapid PCR nor conventional screening with isolation further reduced acquisition. BUGG: no difference in the primary outcome (only MRSA alone slightly ↓). ([W03/D5](#W03-D5))
+- A (False) – MOSAR: neither rapid PCR nor conventional screening with isolation further reduced acquisition; hand hygiene with chlorhexidine bathing did.
+- B (True) – REDUCE MRSA: universal decolonisation (mupirocin + chlorhexidine bathing) reduced bloodstream infection from any pathogen by 44 %.
+- C (False) – BUGG: universal gloves and gowns did not reduce the composite MRSA/VRE acquisition; only MRSA alone fell slightly.
+- D (True) – ESCMID 2014: for CRE/CRAB, and in outbreaks, active screening with contact precautions remains part of the multimodal approach.
+
+**Ref:** Derde LPG, et al. MOSAR. *Lancet Infect Dis* 2014;14:31–39; Huang SS, et al. REDUCE MRSA. *N Engl J Med* 2013;368:2255–2265; Harris AD, et al. BUGG. *JAMA* 2013;310:1571–1580; Tacconelli E, et al. ESCMID. *Clin Microbiol Infect* 2014;20(Suppl 1):1–55.
+
+Review: [W03/D5](#W03-D5)
 
 </details>
 
@@ -699,7 +1111,18 @@ MOSAR: neither rapid PCR nor conventional screening with isolation further reduc
 
 **C.**
 
-Empirical vancomycin (not linezolid); Gram-negative coverage in critical illness and with a femoral catheter; consider an echinocandin with TPN/femoral catheter; septic shock = indication for removal. ([W03/D1](#W03-D1))
+**Why C:** IDSA 2009: empirical vancomycin covers MRSA and CoNS; add Gram-negative coverage in critical illness or with a femoral catheter; consider an echinocandin with TPN, a femoral catheter or prolonged broad-spectrum antibiotics. Septic shock is itself an indication for catheter removal.
+
+**Why not the others:**
+
+- A – Linezolid is not recommended for empirical CRBSI therapy, and the catheter should not be kept in shock.
+- B – Fluconazole alone leaves the bacterial pathogens uncovered.
+- D – No Gram-negative coverage, and catheter retention is inappropriate in septic shock.
+- E – Guidewire exchange is inappropriate with suspected CRBSI and septic shock.
+
+**Ref:** Mermel LA, et al. IDSA guideline for intravascular catheter-related infection. *Clin Infect Dis* 2009;49:1–45.
+
+Review: [W03/D1](#W03-D1)
 
 </details>
 
@@ -715,7 +1138,18 @@ Empirical vancomycin (not linezolid); Gram-negative coverage in critical illness
 
 **B.**
 
-CaO₂ = 1.34 × 10 × 0.95 + 0.003 × 80 = 12.73 + 0.24 ≈ 12.97 mL/dL; DO₂ = 5 × 12.97 × 10 ≈ **650 mL/min**. Dissolved O₂ is negligible. ([W04/D1](#W04-D1))
+**Why B:** CaO₂ = 1.34 × 10 × 0.95 + 0.003 × 80 = 12.73 + 0.24 ≈ 12.97 mL/dL. DO₂ = CO × CaO₂ × 10 = 5 × 12.97 × 10 ≈ **650 mL/min**; the factor 10 converts dL to L. Dissolved O₂ contributes < 2 %.
+
+**Why not the others:**
+
+- A – The factor 10 (dL → L) has been omitted.
+- C – Twice the true value – an arithmetic error.
+- D – Multiplies by 100 instead of 10.
+- E – Too low for these values; it matches none of the calculation steps.
+
+**Ref:** Vincent JL, De Backer D. Circulatory shock. *N Engl J Med* 2013;369:1726–1734.
+
+Review: [W04/D1](#W04-D1)
 
 </details>
 
@@ -730,7 +1164,14 @@ CaO₂ = 1.34 × 10 × 0.95 + 0.003 × 80 = 12.73 + 0.24 ≈ 12.97 mL/dL; DO₂ 
 
 **A – T, B – T, C – T, D – F.**
 
-Distributive shock typically has a normal/high SvO₂ (which does not exclude tissue hypoxia). ([W04/D1](#W04-D1))
+- A (True) – Hypovolaemic shock: low filling pressures, low CO, high SVR, low SvO₂.
+- B (True) – Obstructive shock (PE, tamponade, tension pneumothorax) was ~2 % of cases and is rapidly reversible with targeted treatment.
+- C (True) – Cardiogenic shock: low CO, high SVR, high filling pressures, low SvO₂.
+- D (False) – Septic (distributive) shock after fluid resuscitation typically has a normal or high SvO₂, which does not exclude tissue hypoxia from impaired extraction.
+
+**Ref:** Vincent JL, De Backer D. Circulatory shock. *N Engl J Med* 2013;369:1726–1734.
+
+Review: [W04/D1](#W04-D1)
 
 </details>
 
@@ -746,7 +1187,18 @@ Distributive shock typically has a normal/high SvO₂ (which does not exclude ti
 
 **A.**
 
-PLR works in spontaneous breathing and arrhythmia if CO/SV is measured in real time (threshold ≥ 10 %). PPV does not work in AF and spontaneous breathing; EEO requires intubation; BP alone is insensitive; the IVC is unreliable. ([W04/D2](#W04-D2), [W04/D5](#W04-D5))
+**Why A:** PLR is a reversible autotransfusion of ~300 mL that remains valid in spontaneous breathing and arrhythmia, provided its effect is measured in real time on CO/SV (e.g. LVOT VTI). An increase ≥ 10 % predicts fluid responsiveness.
+
+**Why not the others:**
+
+- B – PPV needs controlled ventilation and sinus rhythm; it is invalid in AF and spontaneous breathing.
+- C – Arterial pressure changes are an insensitive surrogate of stroke volume change.
+- D – Respiratory IVC variation is unreliable, especially with spontaneous breathing.
+- E – The end-expiratory occlusion test requires mechanical ventilation.
+
+**Ref:** Monnet X, et al. *Intensive Care Med* 2016;42:1935–1947; Cecconi M, et al. ESICM consensus on circulatory shock and haemodynamic monitoring. *Intensive Care Med* 2014;40:1795–1815.
+
+Review: [W04/D2](#W04-D2), [W04/D5](#W04-D5)
 
 </details>
 
@@ -761,7 +1213,14 @@ PLR works in spontaneous breathing and arrhythmia if CO/SV is measured in real t
 
 **A – T, B – T, C – F, D – F.**
 
-C: only 51 % with VT < 8 vs 88 % with VT ≥ 8. With spontaneous breathing the AUC is only ~0.68. ([W04/D2](#W04-D2))
+- A (True) – Tidal volume challenge: VT increased from 6 to 8 mL/kg PBW for 1 min; an absolute PPV rise ≥ 3.5 % predicts responsiveness under low-VT ventilation.
+- B (True) – Michard (2000): a PPV threshold of 13 % had sensitivity 94 % and specificity 96 %.
+- C (False) – De Backer: with VT < 8 mL/kg PPV correctly classified only 51 % of patients vs 88 % with VT ≥ 8.
+- D (False) – Spontaneous breathing makes intrathoracic pressure swings irregular, so PPV reliability falls (AUC ~0.68).
+
+**Ref:** Michard F, et al. *Am J Respir Crit Care Med* 2000;162:134–138; De Backer D, et al. *Intensive Care Med* 2005;31:517–523; Myatra SN, et al. *Crit Care Med* 2017;45:415–421.
+
+Review: [W04/D2](#W04-D2)
 
 </details>
 
@@ -777,7 +1236,18 @@ C: only 51 % with VT < 8 vs 88 % with VT ≥ 8. With spontaneous breathing the A
 
 **A.**
 
-TPTD or PAC in severe shock, especially with ARDS (Level 2, C); no routine PAC (Level 1, A); measure CO/SV in non-responders; less invasive devices only if validated in shock. ([W04/D3](#W04-D3), [W04/D1](#W04-D1))
+**Why A:** ESICM 2014 suggests transpulmonary thermodilution or a pulmonary artery catheter in severe shock, especially with ARDS, and in patients not responding to initial therapy (Level 2, C). CO/SV should be measured to judge the response to fluids or inotropes.
+
+**Why not the others:**
+
+- B – Routine PAC use in shock is recommended against (Level 1, A).
+- C – CO measurement is suggested in non-responders even though outcome data are limited.
+- D – CVP alone should not guide fluid therapy.
+- E – Less invasive devices should be used only if validated in shock.
+
+**Ref:** Cecconi M, et al. ESICM consensus on circulatory shock and haemodynamic monitoring. *Intensive Care Med* 2014;40:1795–1815.
+
+Review: [W04/D3](#W04-D3), [W04/D1](#W04-D1)
 
 </details>
 
@@ -792,7 +1262,14 @@ TPTD or PAC in severe shock, especially with ARDS (Level 2, C); no routine PAC (
 
 **A – T, B – T, C – T, D – T.**
 
-GEDV is a **static** preload indicator – it is not used alone to guide fluids (Level 1, B). ([W04/D3](#W04-D3))
+- A (True) – ITTV = CO × mean transit time and PTV = CO × downslope time; GEDV = ITTV − PTV.
+- B (True) – ITBV ≈ 1.25 × GEDV, and EVLW = ITTV − ITBV.
+- C (True) – GEDV is a **static** volumetric preload indicator and should not be used alone to guide fluids (Level 1, B).
+- D (True) – The average of three consecutive cold-saline boluses improves precision.
+
+**Ref:** Monnet X, Teboul JL. Transpulmonary thermodilution: advantages and limits. *Crit Care* 2017;21:147; Cecconi M, et al. ESICM consensus on circulatory shock and haemodynamic monitoring. *Intensive Care Med* 2014;40:1795–1815.
+
+Review: [W04/D3](#W04-D3)
 
 </details>
 
@@ -808,7 +1285,18 @@ GEDV is a **static** preload indicator – it is not used alone to guide fluids 
 
 **B.**
 
-EVLWI above normal (< 7, upper limit ~10 mL/kg) and PVPI ≤ 3 → hydrostatic (cardiogenic) oedema; PVPI > 3 = permeability oedema. ([W04/D3](#W04-D3))
+**Why B:** EVLWI above the normal range (< 7, upper limit ~10 mL/kg) indicates pulmonary oedema. PVPI (EVLW/pulmonary blood volume) ≤ 3 points to hydrostatic oedema, > 3 to permeability oedema. In cardiogenic shock after MI, EVLWI 14 with PVPI 2.1 = hydrostatic (cardiogenic) oedema.
+
+**Why not the others:**
+
+- A – EVLWI can far exceed 10 mL/kg (> 20 in severe ARDS).
+- C – 14 mL/kg is clearly increased.
+- D – Permeability (ARDS-type) oedema requires PVPI > 3.
+- E – Hypovolaemia does not increase lung water; preload would be judged by GEDVI or dynamic indices.
+
+**Ref:** Monnet X, Teboul JL. Transpulmonary thermodilution: advantages and limits. *Crit Care* 2017;21:147.
+
+Review: [W04/D3](#W04-D3)
 
 </details>
 
@@ -823,7 +1311,14 @@ EVLWI above normal (< 7, upper limit ~10 mL/kg) and PVPI ≤ 3 → hydrostatic (
 
 **A – T, B – T, C – F, D – T.**
 
-ScvO₂ (superior vena cava) does not reflect blood from the lower body and coronary sinus; its trends mostly parallel SvO₂. ([W04/D4](#W04-D4))
+- A (True) – A Pcv-aCO₂ gap ≥ 6 mmHg despite ScvO₂ ≥ 70 % suggests insufficient flow to wash out CO₂, so increasing CO may be considered.
+- B (True) – By the Fick equation for CO₂, Pcv-aCO₂ ≈ k × VCO₂ / CO – inversely related to cardiac output.
+- C (False) – ScvO₂ (superior vena cava) **lacks** lower-body and coronary sinus blood, which SvO₂ includes; its trends mostly parallel SvO₂.
+- D (True) – ScvO₂ < 70 % reflects increased extraction, i.e. DO₂ insufficient for VO₂.
+
+**Ref:** Cecconi M, et al. ESICM consensus on circulatory shock and haemodynamic monitoring. *Intensive Care Med* 2014;40:1795–1815. Ospina-Tascón GA, et al. *Crit Care* 2013;17:R294.
+
+Review: [W04/D4](#W04-D4)
 
 </details>
 
@@ -839,7 +1334,18 @@ ScvO₂ (superior vena cava) does not reflect blood from the lower body and coro
 
 **B.**
 
-Early recognition, antibiotics and fluids became standard; a rigid CVP/ScvO₂/Hct protocol adds nothing. PRISM: no subgroup benefited. ([W04/D4](#W04-D4))
+**Why B:** ProCESS, ARISE and ProMISe found no mortality benefit of EGDT, and control-arm mortality was far lower than in Rivers, because early recognition, antibiotics and fluids had become usual care. Rivers was single-centre and unblinded; the PRISM patient-level meta-analysis found no subgroup that benefited.
+
+**Why not the others:**
+
+- A – EGDT was not harmful; it was neutral, with more ICU use and costs.
+- C – Vasopressor choice was not the explanation.
+- D – All three enrolled patients with refractory hypotension or lactate ≥ 4 mmol/L.
+- E – Lactate was measured and was an enrolment criterion.
+
+**Ref:** PRISM Investigators. *N Engl J Med* 2017;376:2223–2234; Rivers E, et al. *N Engl J Med* 2001;345:1368–1377.
+
+Review: [W04/D4](#W04-D4)
 
 </details>
 
@@ -854,7 +1360,14 @@ Early recognition, antibiotics and fluids became standard; a rigid CVP/ScvO₂/H
 
 **A – F, B – T, C – F, D – F.**
 
-Control in AS-2: CRT only at baseline and after 6 h; mortality 26.5 vs 26.6 %, win ratio 1.16 driven by shorter duration of organ support. ANDROMEDA-SHOCK lasted 8 h, ANDROMEDA-SHOCK-2 6 h. ([W04/D4](#W04-D4))
+- A (False) – In ANDROMEDA-SHOCK-2 the control group had CRT measured only at baseline and after 6 h; hourly CRT-targeted resuscitation was the intervention.
+- B (True) – ANDROMEDA-SHOCK (424 patients): 28-day mortality 34.9 % vs 43.4 %, p = 0.06 – not significant, with less organ dysfunction at 72 h.
+- C (False) – ANDROMEDA-SHOCK-2: mortality 26.5 % vs 26.6 %; the hierarchical win ratio of 1.16 was driven by shorter organ support.
+- D (False) – ANDROMEDA-SHOCK lasted 8 h, ANDROMEDA-SHOCK-2 6 h.
+
+**Ref:** Hernández G, et al. ANDROMEDA-SHOCK. *JAMA* 2019;321:654–664; Hernández G, et al. ANDROMEDA-SHOCK-2. *JAMA* 2025;334:1988–1999.
+
+Review: [W04/D4](#W04-D4)
 
 </details>
 
@@ -870,7 +1383,20 @@ Control in AS-2: CRT only at baseline and after 6 h; mortality 26.5 vs 26.6 %, w
 
 **E.**
 
-RV/LV > 0.6 = dilatation (≥ 1 severe) + paradoxical septum (D-shape) = acute cor pulmonale; normal free wall thickness argues against chronic overload (hypertrophy). Fluids are potentially harmful here. ([W04/D5](#W04-D5))
+**Why E:** RV/LV end-diastolic area ratio > 0.6 means RV dilatation (≥ 1 severe), and a D-shaped LV means septal flattening from RV overload – together acute cor pulmonale. Normal RV free wall thickness argues against chronic overload, and a dilated IVC shows high RA pressure. With hypotension this is obstructive shock, e.g. massive PE.
+
+**Why not the others:**
+
+- A – Chronic RV pressure overload causes RV free wall hypertrophy (> 5 mm).
+- B – Hypovolaemia gives small, hyperdynamic ventricles and a small, collapsing IVC.
+- C – Tamponade shows an effusion with RA/RV diastolic collapse, not RV dilatation.
+- D – Distributive shock shows a hyperdynamic LV with a normal-sized RV.
+
+**EDIC trap:** fluids may worsen RV dilatation and septal shift here.
+
+**Ref:** Robba C, et al. ESICM basic ultrasound consensus. *Intensive Care Med* 2021;47:1347–1367. Vieillard-Baron A, et al. Acute RV failure. *Intensive Care Med* 2018;44:774–790.
+
+Review: [W04/D5](#W04-D5)
 
 </details>
 
@@ -885,7 +1411,14 @@ RV/LV > 0.6 = dilatation (≥ 1 severe) + paradoxical septum (D-shape) = acute c
 
 **A – T, B – F, C – T, D – F.**
 
-A dilated non-collapsing IVC is part of the picture of RV failure/tamponade, not proof of non-responsiveness. High PEEP and/or low VT is one of the situations in which IVC assessment fails. ([W04/D5](#W04-D5))
+- A (True) – The Delphi process defined strong recommendations as ≥ 84 % agreement and weak as ≥ 74 %.
+- B (False) – A dilated, non-collapsing IVC reflects high RA pressure (RV failure, tamponade); it does not prove fluid non-responsiveness.
+- C (True) – A small, collapsing IVC supports severe hypovolaemia in the right clinical context.
+- D (False) – High PEEP and/or low tidal volume are situations in which IVC assessment fails.
+
+**Ref:** Robba C, et al. ESICM basic ultrasound consensus. *Intensive Care Med* 2021;47:1347–1367. Via G, et al. *Intensive Care Med* 2016;42:1164–1167.
+
+Review: [W04/D5](#W04-D5)
 
 </details>
 
@@ -901,7 +1434,18 @@ A dilated non-collapsing IVC is part of the picture of RV failure/tamponade, not
 
 **D.**
 
-A, B, C and E are risk factors for ACP (prevalence 22 %; severe ACP mortality 57 vs 42 %). ([W04/D5](#W04-D5))
+**Why D:** In 752 patients with moderate-to-severe ARDS, ACP prevalence was 22 %. Four risk factors formed the ACP risk score: pneumonia as the cause, driving pressure ≥ 18 cmH₂O, PaO₂/FiO₂ < 150 mmHg and PaCO₂ ≥ 48 mmHg. Prone positioning was protective; severe ACP carried higher mortality (57 % vs 42 %).
+
+**Why not the others:**
+
+- A – PaO₂/FiO₂ < 150 mmHg is one of the four risk factors.
+- B – Pneumonia as the cause of ARDS is a risk factor.
+- C – Driving pressure ≥ 18 cmH₂O is a risk factor.
+- E – PaCO₂ ≥ 48 mmHg is a risk factor.
+
+**Ref:** Mekontso Dessap A, et al. *Intensive Care Med* 2016;42:862–870.
+
+Review: [W04/D5](#W04-D5)
 
 </details>
 
@@ -916,7 +1460,14 @@ A, B, C and E are risk factors for ACP (prevalence 22 %; severe ACP mortality 57
 
 **A – T, B – T, C – F, D – T.**
 
-B: 44.9 %. C: Level 1, A **against**. D: Level 1, B. ([W04/D1](#W04-D1))
+- A (True) – Gattinoni (NEJM 1995, 762 patients): targeting a supranormal cardiac index (or SvO₂ ≥ 70 %) did not reduce mortality.
+- B (True) – The cardiac index target was reached in only 44.9 % of the supranormal group.
+- C (False) – ESICM 2014 recommends **against** an absolute (supranormal) DO₂ target (Level 1, A).
+- D (True) – ESICM 2014 recommends against inotropes for isolated cardiac dysfunction without hypoperfusion (Level 1, B).
+
+**Ref:** Gattinoni L, et al. *N Engl J Med* 1995;333:1025–1032; Cecconi M, et al. ESICM consensus on circulatory shock and haemodynamic monitoring. *Intensive Care Med* 2014;40:1795–1815.
+
+Review: [W04/D1](#W04-D1)
 
 </details>
 
@@ -931,7 +1482,14 @@ B: 44.9 %. C: Level 1, A **against**. D: Level 1, B. ([W04/D1](#W04-D1))
 
 **A – T, B – T, C – F, D – F.**
 
-B: Level 2, B. C: SSC 2026 suggests **60–65** mmHg in patients aged ≥ 65 (conditional, low). In the chronic hypertension subgroup there was less creatinine doubling and RRT, but no effect on mortality. ([W04/D1](#W04-D1), [W01/D4](#W01-D4))
+- A (True) – ESICM 2014: individualise the MAP target (Level 1, B), with an initial MAP ≥ 65 mmHg (Level 1, C).
+- B (True) – A higher MAP may be considered in septic shock with chronic hypertension (Level 2, B).
+- C (False) – SSC 2026 suggests **60–65** mmHg in patients aged ≥ 65 years (conditional, low), based on the 65 trial.
+- D (False) – In SEPSISPAM's chronic hypertension subgroup the higher target reduced creatinine doubling and RRT but not mortality.
+
+**Ref:** Cecconi M, et al. ESICM consensus on circulatory shock and haemodynamic monitoring. *Intensive Care Med* 2014;40:1795–1815. Asfar P, et al. SEPSISPAM. *N Engl J Med* 2014;370:1583–1593; Prescott HC, et al. Surviving Sepsis Campaign 2026. *Intensive Care Med* 2026 / *Crit Care Med* 2026;54:725–812.
+
+Review: [W04/D1](#W04-D1), [W01/D4](#W01-D4)
 
 </details>
 
@@ -947,7 +1505,18 @@ B: Level 2, B. C: SSC 2026 suggests **60–65** mmHg in patients aged ≥ 65 (co
 
 **E.**
 
-AG = 140 − (114 + 12) = 14; corrected = 14 + 0.25 × (40 − 20) = **19**. Delta ratio = (19 − 12) / (24 − 12) = 7 / 12 ≈ **0.58** (0.4–0.8 → HAGMA + NAGMA). Winter 1.5 × 12 + 8 = 26 ± 2 → pCO₂ 26 appropriate. ([W05/D1](#W05-D1))
+**Why E:** AG = 140 − (114 + 12) = 14, but hypoalbuminaemia hides unmeasured anions: corrected AG = 14 + 0.25 × (40 − 20) = **19**. Delta ratio = (19 − 12) / (24 − 12) ≈ **0.58** (0.4–0.8 = HAGMA from lactate + NAGMA from saline). Winter: 1.5 × 12 + 8 = 26 ± 2, so PaCO₂ 26 is appropriate.
+
+**Why not the others:**
+
+- A – A delta ratio < 1 means HCO₃⁻ fell more than AG rose, so a NAGMA coexists.
+- B – The uncorrected AG of 14 is misleading with albumin 20 g/L.
+- C – PaCO₂ equals Winter's prediction, so there is no respiratory acidosis.
+- D – A coexisting metabolic alkalosis would give a delta ratio > 2.
+
+**Ref:** Berend K, et al. Physiological approach to assessment of acid–base disturbances. *N Engl J Med* 2014;371:1434–1445. Figge J, et al. *Crit Care Med* 1998;26:1807–1810.
+
+Review: [W05/D1](#W05-D1)
 
 </details>
 
@@ -962,7 +1531,14 @@ AG = 140 − (114 + 12) = 14; corrected = 14 + 0.25 × (40 − 20) = **19**. Del
 
 **A – F, B – F, C – F, D – F.**
 
-SIDa = (138 + 4) − (108 + 4) = 30; SIDe = 14 + 8 = 22; SIG = 8 → unmeasured anions **in addition** to lactate (lactate is already in SIDa). Lactate is a strong anion; ATOT = albumin and phosphate; hypoalbuminaemia (↓ ATOT) is **alkalinising**. ([W05/D2](#W05-D2))
+- A (False) – Lactate is a strong anion (fully dissociated) and is counted in the SID; ATOT comprises the weak acids albumin and phosphate.
+- B (False) – SIDe = 14 + 8 = 22 and SIG = 30 − 22 = 8, indicating unmeasured anions **in addition** to lactate, which is already in SIDa.
+- C (False) – Hypoalbuminaemia lowers ATOT and is **alkalinising**.
+- D (False) – Apparent SID = (138 + 4) − (108 + 4) = **30**; 22 is the effective SID.
+
+**Ref:** Fencl V, et al. *Am J Respir Crit Care Med* 2000;162:2246–2251; Stewart PA. *Can J Physiol Pharmacol* 1983;61:1444–1461.
+
+Review: [W05/D2](#W05-D2)
 
 </details>
 
@@ -978,7 +1554,18 @@ SIDa = (138 + 4) − (108 + 4) = 30; SIDe = 14 + 8 = 22; SIG = 8 → unmeasured 
 
 **A.**
 
-Acute: HCO₃⁻ ↑ by 1 per 10 mmHg → 24 + 3 = 27 (exactly). pH = 6.1 + log(27 / 2.1) = 6.1 + 1.11 ≈ **7.21**. Chronically HCO₃⁻ would be ~34.5. ([W05/D1](#W05-D1))
+**Why A:** In acute respiratory acidosis HCO₃⁻ rises ~1 mmol/L per 10 mmHg PaCO₂ above 40: 24 + 3 = 27, exactly as measured. pH = 6.1 + log(27 / (0.03 × 70)) = 6.1 + 1.11 ≈ **7.21**. Opioid overdose in a previously healthy patient fits acute hypoventilation.
+
+**Why not the others:**
+
+- B – The primary disorder is respiratory, and the patient is acidaemic.
+- C – Chronic compensation (~3.5 per 10 mmHg) would give HCO₃⁻ ~34.5 and pH ~7.32.
+- D – A coexisting metabolic alkalosis would raise HCO₃⁻ above the expected 27.
+- E – A coexisting metabolic acidosis would lower HCO₃⁻ below 27.
+
+**Ref:** Berend K, et al. Physiological approach to assessment of acid–base disturbances. *N Engl J Med* 2014;371:1434–1445.
+
+Review: [W05/D1](#W05-D1)
 
 </details>
 
@@ -993,7 +1580,14 @@ Acute: HCO₃⁻ ↑ by 1 per 10 mmHg → 24 + 3 = 27 (exactly). pH = 6.1 + log(
 
 **A – T, B – F, C – T, D – T.**
 
-Alkalaemia shifts the dissociation curve to the **left**. Current diuretics = chloride-resistant (U-Cl⁻ > 20), previous diuretics = chloride-responsive. ([W05/D3](#W05-D3))
+- A (True) – Hypokalaemia shifts H⁺ into cells and increases distal H⁺ secretion and ammoniagenesis, maintaining the alkalosis.
+- B (False) – Alkalaemia shifts the oxyhaemoglobin dissociation curve to the **left**, impairing O₂ unloading.
+- C (True) – Loss of Cl⁻ relative to Na⁺ (gastric suction, loop diuretic) raises the SID, producing alkalosis.
+- D (True) – During active diuretic effect urine Cl⁻ is > 20 mmol/L; after the effect wears off it falls < 20 (chloride-responsive).
+
+**Ref:** Berend K, et al. Physiological approach to assessment of acid–base disturbances. *N Engl J Med* 2014;371:1434–1445.
+
+Review: [W05/D3](#W05-D3)
 
 </details>
 
@@ -1009,7 +1603,18 @@ Alkalaemia shifts the dissociation curve to the **left**. Current diuretics = ch
 
 **B.**
 
-BICARICU-2: 62.1 vs 61.7 %, KRT 35 vs 50 %. Risks: hypernatraemia, ↓ iCa²⁺, intracellular acidosis from CO₂ (ventilation must be increased). ([W05/D2](#W05-D2))
+**Why B:** SSC 2021 suggests sodium bicarbonate in septic shock with pH ≤ 7.2 and AKIN 2–3 (weak, low), based on the BICAR-ICU stratum. BICARICU-2 (JAMA 2025, n = 640, AKI KDIGO 2–3) showed 90-day mortality 62.1 % vs 61.7 % but less KRT by day 28 (35 % vs 50 %).
+
+**Why not the others:**
+
+- A – Bicarbonate generates CO₂, so minute ventilation must be increased, not lowered.
+- C – BICARICU-2 found no mortality difference.
+- D – Alkalinisation increases calcium binding to albumin and **lowers** ionised calcium.
+- E – Bicarbonate is suggested against for improving haemodynamics in hypoperfusion-related lactic acidaemia.
+
+**Ref:** Jaber S, et al. BICAR-ICU. *Lancet* 2018;392:31–40; Jung B, et al. BICARICU-2. *JAMA* 2025; Evans L, et al. SSC 2021. *Intensive Care Med* 2021;47:1181–1247.
+
+Review: [W05/D2](#W05-D2)
 
 </details>
 
@@ -1024,7 +1629,14 @@ BICARICU-2: 62.1 vs 61.7 %, KRT 35 vs 50 %. Risks: hypernatraemia, ↓ iCa²⁺,
 
 **A – F, B – T, C – F, D – T.**
 
-Visual disturbance points to **methanol** (formic acid). Calculated osmolality = 2 × 138 + 5 + 7 = 288; OG = 320 − 288 = **32**. Dialysis (severe acidosis, visual disturbance, AKI) removes both the parent compound and the metabolites. ([W05/D3](#W05-D3))
+- A (False) – Visual disturbance points to **methanol**, whose toxic metabolite is formic acid; ethylene glycol causes AKI with calcium oxalate crystals.
+- B (True) – Calculated osmolality = 2 × 138 + 5 + 7 = 288; osmolal gap = 320 − 288 = **32** mOsm/kg.
+- C (False) – Fomepizole blocks alcohol dehydrogenase but removes nothing; haemodialysis (severe acidosis, visual signs, AKI) clears both the alcohol and formate.
+- D (True) – Folic/folinic acid enhances formate metabolism to CO₂ and water.
+
+**Ref:** Kraut JA, Mullins ME. Toxic alcohols. *N Engl J Med* 2018;378:270–280; Roberts DM, et al. EXTRIP methanol. *Crit Care Med* 2015;43:461–472.
+
+Review: [W05/D3](#W05-D3)
 
 </details>
 
@@ -1040,7 +1652,18 @@ Visual disturbance points to **methanol** (formic acid). Calculated osmolality =
 
 **B.**
 
-K⁺ < 3.5 → delay insulin and replace K⁺ first. Bicarbonate only if pH < 7.0. ([W05/D3](#W05-D3))
+**Why B:** The 2024 consensus says that with K⁺ < 3.5 mmol/L insulin is delayed and potassium replaced first, because insulin drives K⁺ into cells and can precipitate arrhythmias. IV fluids continue; insulin (0.1 U/kg/h) starts once K⁺ ≥ 3.5.
+
+**Why not the others:**
+
+- A – Fluid resuscitation is the first priority and is never withheld for potassium.
+- C – An insulin bolus is unnecessary and dangerous with K⁺ < 3.5.
+- D – Fixed-rate insulin is standard, but only after K⁺ ≥ 3.5 mmol/L.
+- E – Bicarbonate is reserved for pH < 7.0.
+
+**Ref:** Umpierrez GE, et al. Hyperglycemic crises in adults with diabetes: a consensus report. *Diabetes Care* 2024;47:1257–1275.
+
+Review: [W05/D3](#W05-D3)
 
 </details>
 
@@ -1055,7 +1678,14 @@ K⁺ < 3.5 → delay insulin and replace K⁺ first. Bicarbonate only if pH < 7.
 
 **A – T, B – T, C – T, D – F.**
 
-AG = 140 − 107 = 33; delta ratio = 21 / 9 ≈ 2.3; corrected HCO₃⁻ = 15 + 21 = 36 (> 26). Winter 1.5 × 15 + 8 = 30.5 ± 2 → pCO₂ 30 appropriate. ([W05/D1](#W05-D1))
+- A (True) – AG = 140 − (92 + 15) = 33; albumin is normal, so no correction is needed.
+- B (True) – The delta ratio assumes a baseline HCO₃⁻ of 24; a high baseline from compensated chronic respiratory acidosis can yield a ratio > 2 without metabolic alkalosis.
+- C (True) – Delta ratio = 21 / 9 ≈ 2.3 and corrected HCO₃⁻ = 15 + 21 = 36 (> 26) → coexisting metabolic alkalosis, consistent with the low Cl⁻.
+- D (False) – Winter: 1.5 × 15 + 8 = 30.5 ± 2, so PaCO₂ 30 is appropriate compensation.
+
+**Ref:** Berend K, et al. Physiological approach to assessment of acid–base disturbances. *N Engl J Med* 2014;371:1434–1445.
+
+Review: [W05/D1](#W05-D1)
 
 </details>
 
@@ -1071,7 +1701,18 @@ AG = 140 − 107 = 33; delta ratio = 21 / 9 ≈ 2.3; corrected HCO₃⁻ = 15 + 
 
 **E.**
 
-D-lactate from bacterial fermentation; standard analysers measure only L-lactate → an "invisible" HAGMA with encephalopathy. Isopropanol: ketosis without acidosis, ↑ OG. ([W05/D2](#W05-D2))
+**Why E:** In short bowel syndrome undigested carbohydrate reaches the colon, where bacteria ferment it to D-lactate. Standard analysers measure only L-lactate, producing an "invisible" HAGMA with encephalopathy (confusion, ataxia, slurred speech).
+
+**Why not the others:**
+
+- A – Type A lactic acidosis raises L-lactate, which the laboratory would detect.
+- B – Metformin-associated lactic acidosis also raises measurable L-lactate.
+- C – Isopropanol causes ketosis and a raised osmolal gap without acidosis.
+- D – Diarrhoea causes a normal, not high, anion gap acidosis.
+
+**Ref:** Kraut JA, Madias NE. Lactic acidosis. *N Engl J Med* 2014;371:2309–2319.
+
+Review: [W05/D2](#W05-D2)
 
 </details>
 
@@ -1086,7 +1727,14 @@ D-lactate from bacterial fermentation; standard analysers measure only L-lactate
 
 **A – F, B – F, C – T, D – F.**
 
-A: lower with balanced crystalloids – 14.3 vs 15.4 %. B: normal AG. D: renal NH₄⁺ excretion is intact, so the UAG is negative (as in diarrhoea). ([W05/D2](#W05-D2), [W01/D3](#W01-D3))
+- A (False) – SMART (15 802 patients): MAKE30 was **lower** with balanced crystalloids – 14.3 % vs 15.4 %.
+- B (False) – Hyperchloraemic acidosis has a **normal** anion gap; Cl⁻ replaces HCO₃⁻.
+- C (True) – Saline (Na⁺ 154, Cl⁻ 154) has an SID of zero and dilutes plasma SID (~40), causing acidosis.
+- D (False) – Renal NH₄⁺ excretion is intact, so the urine anion gap is **negative** (as in diarrhoea); a positive UAG suggests distal RTA.
+
+**Ref:** Semler MW, et al. SMART. *N Engl J Med* 2018;378:829–839; Berend K, et al. Physiological approach to assessment of acid–base disturbances. *N Engl J Med* 2014;371:1434–1445.
+
+Review: [W05/D2](#W05-D2), [W01/D3](#W01-D3)
 
 </details>
 
