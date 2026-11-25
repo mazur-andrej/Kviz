@@ -3,6 +3,73 @@
 Answer in the [interactive quiz](https://mazur-andrej.github.io/Kviz/) to get marked automatically. Answers are hidden below each question.
 
 
+## Case-style practice · W01-D1 · Sepsis-3, SOFA and SOFA-2
+
+**1.** Five patients have received adequate fluid resuscitation. Which one meets the Sepsis-3 criteria for septic shock?
+
+- A. Acute cholangitis; MAP 58 mmHg after 30 mL/kg crystalloid, noradrenaline 0.12 µg/kg/min started, MAP now 67 mmHg, lactate 2.9 mmol/L
+- B. Pneumonia; noradrenaline 0.08 µg/kg/min needed to keep MAP 66 mmHg, lactate 1.5 mmol/L
+- C. Faecal peritonitis; MAP 72 mmHg without vasopressors, lactate 4.6 mmol/L
+- D. Ruptured abdominal aortic aneurysm; noradrenaline 0.3 µg/kg/min, lactate 6.0 mmol/L
+- E. Pyelonephritis; SBP 88 mmHg on arrival, MAP 75 mmHg after 1 L crystalloid, lactate 2.4 mmol/L
+
+<details><summary>Answer</summary>
+
+**A.**
+
+Septic shock (Sepsis-3) = sepsis **plus** a vasopressor requirement to keep MAP ≥ 65 mmHg **and** lactate > 2 mmol/L despite adequate fluids. B lacks the lactate criterion (sepsis only), C has no vasopressor need, D is not an infection (haemorrhagic shock), E responded to fluids.
+
+**EDIC trap:** Hyperlactataemia alone, or a vasopressor alone, is not septic shock.
+
+**Ref:** Singer M, et al. Sepsis-3. *JAMA* 2016;315:801–810.
+
+</details>
+
+**2.** A 79-year-old nursing-home resident on the ward has fever, new confusion, RR 24/min, SBP 104 mmHg and SpO₂ 93 % on air. Regarding screening and the diagnosis of sepsis:
+
+- A. Her qSOFA score is 2. — T / F
+- B. SSC 2026 recommends qSOFA rather than NEWS/NEWS2 as the single screening tool for sepsis. — T / F
+- C. Had her qSOFA been < 2, sepsis would have been excluded. — T / F
+- D. If her baseline SOFA is unknown and she has no known pre-existing organ dysfunction, the baseline is assumed to be 0. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – T.**
+
+- A (True) – RR ≥ 22 (1) + altered mentation (1); SBP ≤ 100 is not met (0) → qSOFA 2.
+- B (False) – SSC 2026 recommends **against** qSOFA as a single screening tool compared with NEWS/NEWS2, MEWS or SIRS (strong, moderate certainty).
+- C (False) – qSOFA is prognostic, not diagnostic; a low score does not rule sepsis out.
+- D (True) – Sepsis-3 convention – sepsis = acute rise in SOFA ≥ 2 attributable to infection.
+
+**EDIC trap:** qSOFA predicts poor outcome; it neither defines nor excludes sepsis.
+
+**Ref:** Singer M, et al. Sepsis-3. *JAMA* 2016; Surviving Sepsis Campaign 2026.
+
+</details>
+
+**3.** A 54-year-old man with septic shock is on noradrenaline 0.3 µg/kg/min plus vasopressin, invasive ventilation with P/F 140 mmHg, continuous RRT and platelets 70 × 10⁹/L. Scoring him with SOFA-2 (JAMA 2025):
+
+- A. His kidney score is 4 because he is receiving RRT. — T / F
+- B. Platelets of 70 × 10⁹/L give the maximum haemostasis score of 4. — T / F
+- C. SOFA-2 adds a sixth, gastrointestinal organ system. — T / F
+- D. In the cardiovascular system, noradrenaline 0.3 µg/kg/min plus a second vasopressor scores higher than noradrenaline 0.3 µg/kg/min alone. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – T.**
+
+- A (True) – Receiving (or meeting criteria for) RRT = 4 kidney points.
+- B (False) – SOFA-2 platelet cut-offs are 150 / 100 / 80 / 50; 4 points only at ≤ 50 × 10⁹/L, so 70 scores 3.
+- C (False) – SOFA-2 keeps 6 systems – brain, respiratory, cardiovascular, liver, kidney, haemostasis; GI and immune dysfunction were not included.
+- D (True) – Combined NA + adrenaline 0.2–0.4 µg/kg/min = 3; any other vasopressor or inotrope adds a level (→ 4).
+
+**EDIC trap:** SOFA-2 has the same 6 systems with new names and modern organ support – no GI system.
+
+**Ref:** Ranzani OT, et al. SOFA-2. *JAMA* 2025.
+
+</details>
+
+
 ## Case-style practice · W01-D2 · Initial septic shock resuscitation
 
 **1.** A 58-year-old woman arrives in the emergency department with obstructive pyelonephritis. BP 78/42 mmHg (MAP 54), HR 124/min, capillary refill time 5 s, lactate 5.1 mmol/L. Regarding her initial management according to the Surviving Sepsis Campaign 2026:
@@ -149,6 +216,73 @@ Answer in the [interactive quiz](https://mazur-andrej.github.io/Kviz/) to get ma
 </details>
 
 
+## Case-style practice · W01-D5 · Corticosteroids and adjuncts in septic shock
+
+**1.** A 66-year-old woman with faecal peritonitis has had source control. Despite adequate fluids she has needed noradrenaline 0.35 µg/kg/min for 5 hours to keep MAP 66 mmHg. Regarding corticosteroids:
+
+- A. Hydrocortisone 200 mg/day is indicated. — T / F
+- B. A short Synacthen (ACTH) test should be done first to select patients who will benefit. — T / F
+- C. In APROCCHSS, hydrocortisone plus fludrocortisone reduced 90-day mortality. — T / F
+- D. In ADRENAL, hydrocortisone reduced 90-day mortality. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – SSC: septic shock with NA/adrenaline ≥ 0.25 µg/kg/min for ≥ 4 h → IV hydrocortisone 200 mg/day.
+- B (False) – No ACTH test – it does not identify responders.
+- C (True) – APROCCHSS (with fludrocortisone 50 µg) – lower 90-day mortality.
+- D (False) – ADRENAL – no mortality difference, but faster shock resolution and shorter ventilation.
+
+**EDIC trap:** ADRENAL = faster shock reversal, not lower mortality.
+
+**Ref:** Venkatesh B, et al. *N Engl J Med* 2018;378:797–808; Annane D, et al. *N Engl J Med* 2018;378:809–818.
+
+</details>
+
+**2.** A 58-year-old man with severe community-acquired pneumonia (no influenza) is admitted to the ICU on high-flow nasal oxygen, FiO₂ 0.6. He needs no vasopressors. Which statement about corticosteroids is best supported?
+
+- A. Corticosteroids are contraindicated because he is not in shock
+- B. Hydrocortisone 200 mg/day can be considered; in CAPE COD it reduced 28-day mortality in severe CAP without shock
+- C. Give fludrocortisone alone
+- D. Measure a random cortisol and treat only if it is < 10 µg/dL
+- E. Give methylprednisolone 1 g/day for 3 days
+
+<details><summary>Answer</summary>
+
+**B.**
+
+CAPE COD (severe CAP in ICU, septic shock and influenza excluded) – hydrocortisone reduced 28-day mortality. Random cortisol does not select patients; pulse methylprednisolone is not the studied regimen.
+
+**EDIC trap:** Corticosteroids are for septic **shock** (NA ≥ 0.25 for ≥ 4 h) and for severe CAP **without** shock – not for sepsis without shock in general.
+
+**Ref:** Dequin PF, et al. CAPE COD. *N Engl J Med* 2023;388:1931–1941.
+
+</details>
+
+**3.** Regarding adjunctive therapies in septic shock (SSC 2026):
+
+- A. High-dose IV vitamin C is suggested. — T / F
+- B. Sodium bicarbonate is suggested for patients with pH ≤ 7.2 and AKI stage 2–3. — T / F
+- C. Sodium bicarbonate is suggested to improve haemodynamics in hypoperfusion-induced lactic acidaemia. — T / F
+- D. Intravenous immunoglobulins are suggested in adult septic shock. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – T, C – F, D – F.**
+
+- A (False) – Suggested against (LOVIT – harm signal).
+- B (True) – BICAR-ICU subgroup – fewer deaths and less RRT with pH ≤ 7.2 and AKI 2–3.
+- C (False) – Not to improve haemodynamics or reduce vasopressor dose.
+- D (False) – Suggested against.
+
+**EDIC trap:** Bicarbonate only for pH ≤ 7.2 **with** AKI 2–3 – never "for the blood pressure".
+
+**Ref:** Surviving Sepsis Campaign 2026; Jaber S, et al. BICAR-ICU. *Lancet* 2018;392:31–40.
+
+</details>
+
+
 ## Case-style practice · W02-D1 · Antimicrobial dosing and microbiology basics
 
 **1.** A 76-year-old man with an estimated creatinine clearance of 40 mL/min (CKD stage 3b) is admitted with sepsis. Regarding his antimicrobial dosing:
@@ -194,6 +328,73 @@ Answer in the [interactive quiz](https://mazur-andrej.github.io/Kviz/) to get ma
 </details>
 
 
+## Case-style practice · W02-D2 · De-escalation, duration of therapy and procalcitonin
+
+**1.** A 70-year-old ventilated man developed VAP. BAL grew *Klebsiella pneumoniae* susceptible to ceftriaxone. On day 3 of meropenem plus amikacin he is afebrile and his oxygenation is improving.
+
+- A. Switching to ceftriaxone monotherapy is de-escalation. — T / F
+- B. A total course of 8 days is reasonable. — T / F
+- C. In PneumA, 8 days of treatment increased mortality compared with 15 days. — T / F
+- D. A procalcitonin fall of ≥ 80 % from its peak supports stopping antibiotics. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – Narrower spectrum and fewer drugs = de-escalation (SSC 2026: strong recommendation to reassess and de-escalate daily).
+- B (True) – PneumA – 8 days as good as 15 days for mortality.
+- C (False) – No mortality difference; only recurrence was higher with non-fermenting Gram-negatives.
+- D (True) – Stopping rule: PCT < 0.5 µg/L or ≥ 80 % fall from peak.
+
+**EDIC trap:** The non-fermenter recurrence signal in PneumA applies to *Pseudomonas*/*Acinetobacter*, not to *Klebsiella*.
+
+**Ref:** Chastre J, et al. PneumA. *JAMA* 2003;290:2588–2598.
+
+</details>
+
+**2.** A 64-year-old woman has *E. coli* bacteraemia from obstructive pyelonephritis. The obstruction was drained, she is afebrile by day 4 and not immunosuppressed. What is the shortest total duration of antibiotics supported by trial evidence?
+
+- A. 3 days
+- B. 5 days
+- C. 7 days
+- D. 14 days
+- E. Until CRP has normalised
+
+<details><summary>Answer</summary>
+
+**C.**
+
+BALANCE: 7 days was non-inferior to 14 days for 90-day mortality (14.5 vs 16.1 %) in bloodstream infection; *S. aureus* and candidaemia were excluded. CRP-guided duration is not supported (ADAPT-Sepsis).
+
+**EDIC trap:** 7 days does **not** apply to *S. aureus* bacteraemia (≥ 14 days).
+
+**Ref:** BALANCE Investigators. *N Engl J Med* 2025.
+
+</details>
+
+**3.** Regarding biomarker-guided antibiotic therapy:
+
+- A. Procalcitonin is best used to decide when to stop antibiotics rather than whether to start them in suspected septic shock. — T / F
+- B. In ADAPT-Sepsis, CRP-guided stopping shortened antibiotic duration as well as PCT-guided stopping. — T / F
+- C. In PRORATA, PCT guidance gave more antibiotic-free days without a significant increase in mortality. — T / F
+- D. In SAPS, PCT guidance shortened antibiotic duration and was associated with lower mortality. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – T.**
+
+- A (True) – Do not delay antibiotics waiting for PCT in septic shock.
+- B (False) – Only PCT reduced duration; CRP did not.
+- C (True) – PRORATA – +2.7 antibiotic-free days, mortality non-inferior.
+- D (True) – SAPS – shorter duration and lower mortality.
+
+**EDIC trap:** PCT is a **stopping** tool; CRP is not.
+
+**Ref:** Bouadma L, et al. PRORATA. *Lancet* 2010; de Jong E, et al. SAPS. *Lancet Infect Dis* 2016; ADAPT-Sepsis. *JAMA* 2025.
+
+</details>
+
+
 ## Case-style practice · W02-D3 · Multidrug resistance and anti-MRSA therapy
 
 **1.** Regarding antimicrobial resistance and MRSA treatment:
@@ -213,6 +414,73 @@ Answer in the [interactive quiz](https://mazur-andrej.github.io/Kviz/) to get ma
 - D (False) – oral vancomycin is essentially not absorbed (used only for *C. difficile*); linezolid, by contrast, has ~100 % oral bioavailability.
 
 **Ref:** Magiorakos AP et al., Clin Microbiol Infect 2012;18:268–281; Silverman JA et al., J Infect Dis 2005;191:2149–2152.
+
+</details>
+
+
+## Case-style practice · W02-D4 · Candidaemia and aspergillosis in the ICU
+
+**1.** A 62-year-old man, 9 days after bowel surgery and with a central venous catheter, has *Candida albicans* in two blood cultures.
+
+- A. An echinocandin is the first-line treatment. — T / F
+- B. The central venous catheter should be removed. — T / F
+- C. An ophthalmological examination should be done within the first week. — T / F
+- D. Treatment should last 14 days from the first positive blood culture. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – Echinocandin first line; step down to fluconazole after 5–7 days if stable, cultures negative and the isolate is susceptible.
+- B (True) – Remove the CVC.
+- C (True) – Look for endophthalmitis within the first week.
+- D (False) – 14 days from the **first negative** blood culture (clearance), not from the first positive.
+
+**EDIC trap:** Duration counts from blood-culture clearance.
+
+**Ref:** Pappas PG, et al. IDSA candidiasis guideline. *Clin Infect Dis* 2016;62:e1–e50.
+
+</details>
+
+**2.** A 55-year-old ventilated man is being investigated for VAP. Endotracheal aspirate grows *Candida albicans* (moderate growth) and *Staphylococcus aureus*. He has no other risk factors for invasive candidiasis and blood cultures are negative. Regarding *Candida*:
+
+- A. Start fluconazole
+- B. Start an echinocandin
+- C. No antifungal treatment – this is colonisation
+- D. Start liposomal amphotericin B
+- E. Treat if serum β-D-glucan is positive in 1 hour
+
+<details><summary>Answer</summary>
+
+**C.**
+
+*Candida* in airway secretions is almost always colonisation; *Candida* pneumonia is exceptionally rare. Treat the bacterial VAP.
+
+**EDIC trap:** *Candida* in the airway ≠ *Candida* pneumonia.
+
+**Ref:** Pappas PG, et al. *Clin Infect Dis* 2016.
+
+</details>
+
+**3.** A 48-year-old woman with severe influenza A pneumonia on invasive ventilation has BAL galactomannan 1.4 (ODI) on day 3 in the ICU. She has no classical host factors.
+
+- A. A diagnosis of influenza-associated pulmonary aspergillosis (IAPA) requires classical host factors (e.g. neutropenia, transplant). — T / F
+- B. BAL galactomannan ≥ 1.0 supports a diagnosis of probable aspergillosis in this setting. — T / F
+- C. Voriconazole or isavuconazole is first-line treatment. — T / F
+- D. *Aspergillus* in BAL in influenza ICU patients is almost always colonisation and need not be treated. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – T, C – T, D – F.**
+
+- A (False) – The IAPA definition does not require host factors (~19 % of ICU influenza patients develop IAPA).
+- B (True) – BAL GM ≥ 1.0 (or serum GM > 0.5, or positive BAL culture) = probable.
+- C (True) – Voriconazole/isavuconazole first line; liposomal amphotericin B if azole resistance.
+- D (False) – IAPA carries high mortality and should be treated.
+
+**EDIC trap:** Severe influenza is itself a risk factor – no host factors needed.
+
+**Ref:** Verweij PE, et al. IAPA consensus. *Intensive Care Med* 2020;46:1524–1535.
 
 </details>
 
@@ -260,6 +528,73 @@ Answer in the [interactive quiz](https://mazur-andrej.github.io/Kviz/) to get ma
 - E – contusions appear within 24 h of injury and resolve over days; these had been resolving.
 
 **Ref:** Kalil AC et al., ATS/IDSA HAP/VAP guidelines, Clin Infect Dis 2016;63:e61–e111; Torres A et al., Eur Respir J 2017;50:1700582.
+
+</details>
+
+
+## Case-style practice · W03-D1 · CRBSI/CLABSI
+
+**1.** A ventilated patient with a 9-day-old jugular CVC develops fever. Paired blood cultures grow *Enterobacter cloacae*: the CVC sample becomes positive after 10 h, the peripheral sample after 13 h. No other source is found.
+
+- A. This is a CLABSI, but CRBSI cannot be diagnosed without culturing the catheter tip
+- B. CRBSI is confirmed: the differential time to positivity is ≥ 2 h
+- C. The result most likely represents contamination
+- D. CRBSI requires a differential time to positivity of ≥ 5 h
+- E. CRBSI is excluded because the peripheral culture is also positive
+
+<details><summary>Answer</summary>
+
+**B.**
+
+DTP ≥ 2 h (CVC positive earlier than peripheral) proves the catheter is the source = CRBSI (alternatives: tip ≥ 15 CFU, quantitative ratio ≥ 3:1). CLABSI is the surveillance definition (CVC > 2 days, no other source).
+
+**EDIC trap:** CLABSI = surveillance; CRBSI = proof the catheter is the source.
+
+**Ref:** Mermel LA, et al. IDSA CRBSI guideline. *Clin Infect Dis* 2009;49:1–45.
+
+</details>
+
+**2.** A 60-year-old woman has *Staphylococcus aureus* (MSSA) bacteraemia from a 6-day-old jugular CVC.
+
+- A. The catheter must be removed. — T / F
+- B. She needs at least 14 days of IV therapy after the first negative blood culture. — T / F
+- C. Transoesophageal echocardiography should be performed. — T / F
+- D. Antibiotic lock therapy with catheter retention is an acceptable alternative. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – *S. aureus* = always remove.
+- B (True) – ≥ 14 days for uncomplicated infection, longer if complicated.
+- C (True) – TEE to exclude endocarditis.
+- D (False) – Lock therapy/retention is not acceptable for *S. aureus*.
+
+**EDIC trap:** *S. aureus*: remove, ≥ 14 days, TEE.
+
+**Ref:** Mermel LA, et al. *Clin Infect Dis* 2009.
+
+</details>
+
+**3.** Regarding the prevention of CVC infections:
+
+- A. Chlorhexidine–alcohol skin antisepsis is superior to povidone-iodine–alcohol. — T / F
+- B. The subclavian site has the lowest rates of infection and thrombosis but more pneumothorax. — T / F
+- C. Transparent dressings must be changed every 48 hours. — T / F
+- D. The femoral site is preferred to reduce infection risk. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – CLEAN – HR 0.21 for CRBSI.
+- B (True) – 3SITES.
+- C (False) – Transparent/CHG dressings every 7 days (or if soiled or loose).
+- D (False) – Avoid femoral when possible.
+
+**EDIC trap:** Fewest infections = subclavian; most = femoral.
+
+**Ref:** Mimoz O, et al. CLEAN. *Lancet* 2015; Parienti JJ, et al. 3SITES. *N Engl J Med* 2015.
 
 </details>
 
@@ -626,6 +961,73 @@ Schedule 1 also includes acute meningitis, acute encephalitis, meningococcal sep
 </details>
 
 
+## Case-style practice · W04-D1 · Physiology of shock
+
+**1.** A patient has a cardiac output of 5 L/min, haemoglobin 100 g/L (10 g/dL) and SaO₂ 90 %. Ignoring dissolved oxygen, what is his oxygen delivery (DO₂)?
+
+- A. ≈ 300 mL/min
+- B. ≈ 450 mL/min
+- C. ≈ 600 mL/min
+- D. ≈ 800 mL/min
+- E. ≈ 1,000 mL/min
+
+<details><summary>Answer</summary>
+
+**C.**
+
+CaO₂ = 1.34 × 10 × 0.90 ≈ 12.1 mL/dL = 121 mL/L. DO₂ = CO × CaO₂ = 5 × 121 ≈ 600 mL/min.
+
+**EDIC trap:** Remember × 10 to convert mL/dL to mL/L.
+
+**Ref:** Vincent JL, De Backer D. Circulatory shock. *N Engl J Med* 2013;369:1726–1734.
+
+</details>
+
+**2.** Regarding venous oxygen saturation and oxygen delivery:
+
+- A. A low SvO₂ is typical of cardiogenic and hypovolaemic shock. — T / F
+- B. A normal or high SvO₂ in septic shock confirms adequate tissue oxygenation. — T / F
+- C. Below the critical DO₂, VO₂ becomes delivery-dependent and lactate rises. — T / F
+- D. At constant VO₂ and cardiac output, anaemia lowers SvO₂. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – T.**
+
+- A (True) – Low flow → high extraction → low SvO₂.
+- B (False) – Normal or high SvO₂ in distributive shock can coexist with tissue hypoxia (impaired extraction, shunting).
+- C (True) – Supply dependency below DO₂crit.
+- D (True) – Lower CaO₂ → more extraction → lower SvO₂.
+
+**EDIC trap:** A "good" SvO₂ in sepsis is not reassurance.
+
+**Ref:** Cecconi M, et al. ESICM shock consensus. *Intensive Care Med* 2014;40:1795–1815.
+
+</details>
+
+**3.** According to the ESICM 2014 consensus on circulatory shock:
+
+- A. Hypotension is required for the diagnosis of shock. — T / F
+- B. Routine use of a pulmonary artery catheter is recommended. — T / F
+- C. Echocardiography is the preferred modality to evaluate the type of shock. — T / F
+- D. An initial MAP target of ≥ 65 mmHg is recommended, individualised thereafter. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – F, C – T, D – T.**
+
+- A (False) – Shock = inadequate cellular O₂ utilisation; hypotension is not required.
+- B (False) – Recommended **against** routine PAC (1A).
+- C (True) – Echo preferred (2B).
+- D (True) – Initial MAP ≥ 65, then individualise.
+
+**EDIC trap:** Shock can exist with a normal blood pressure.
+
+**Ref:** Cecconi M, et al. *Intensive Care Med* 2014.
+
+</details>
+
+
 ## Case-style practice · W04-D2 · Fluid responsiveness
 
 **1.** A 71-year-old man on day 2 after laparotomy for faecal peritonitis is ventilated on pressure support 10 cmH2O and PEEP 6 cmH2O, triggering every breath at 24/min. He is in sinus rhythm with MAP 61 mmHg on low-dose noradrenaline. Which finding best indicates that he will increase his cardiac output with a fluid bolus?
@@ -809,6 +1211,73 @@ Schedule 1 also includes acute meningitis, acute encephalitis, meningococcal sep
 </details>
 
 
+## Case-style practice · W04-D5 · Echocardiography and POCUS in shock
+
+**1.** A ventilated patient in shock has an LVOT VTI of 16 cm. During passive leg raising it rises to 18.5 cm. How should this be interpreted?
+
+- A. Not fluid responsive – the change is < 25 %
+- B. Fluid responsive – VTI rose by ≥ 10 %
+- C. Uninterpretable without an IVC measurement
+- D. Uninterpretable because the patient is ventilated
+- E. Fluid responsive only if CVP also rises by ≥ 2 mmHg
+
+<details><summary>Answer</summary>
+
+**B.**
+
+(18.5 − 16)/16 ≈ +16 % ≥ 10 % threshold for PLR → fluid responsive. PLR works in ventilated patients; the least significant change of VTI is ~12 %.
+
+**EDIC trap:** PLR threshold 10 %; EEO + EIO 13 %.
+
+**Ref:** Robba C, et al. ESICM POCUS consensus. *Intensive Care Med* 2021;47:1347–1367.
+
+</details>
+
+**2.** A patient with moderate ARDS on PEEP 14 becomes hypotensive. TTE shows RV/LV end-diastolic area ratio 1.1 and paradoxical septal motion.
+
+- A. The RV is severely dilated. — T / F
+- B. A fluid bolus is the first step. — T / F
+- C. Noradrenaline to maintain RV perfusion pressure is appropriate. — T / F
+- D. Prone positioning can unload the RV. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – T.**
+
+- A (True) – RV/LV > 0.6 = dilated, ≥ 1 = severe; with septal dyskinesia = acute cor pulmonale (~22 % in ARDS).
+- B (False) – Fluids worsen RV dilatation and septal shift.
+- C (True) – Restore RV coronary perfusion.
+- D (True) – Proning lowers pulmonary vascular resistance and is part of RV-protective ventilation.
+
+**EDIC trap:** In ACP, fluids harm.
+
+**Ref:** Mekontso Dessap A, et al. *Intensive Care Med* 2016;42:862–870.
+
+</details>
+
+**3.** Regarding the inferior vena cava (IVC) in shock:
+
+- A. A small IVC that collapses on inspiration in a spontaneously breathing hypotensive patient suggests hypovolaemia. — T / F
+- B. A plethoric IVC in a patient on high PEEP reliably excludes fluid responsiveness. — T / F
+- C. A non-dilated IVC makes cardiac tamponade very unlikely. — T / F
+- D. ESICM 2021 recommends using ultrasound to predict fluid responsiveness in all patients with shock. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – Small collapsing IVC = hypovolaemia.
+- B (False) – PEEP is one of the ~10 situations where the IVC fails.
+- C (True) – Tamponade almost always produces a plethoric IVC.
+- D (False) – Recommended against for basic ultrasound in shock without hypovolaemia.
+
+**EDIC trap:** IVC size has many confounders – PEEP, RV failure, TR, intra-abdominal hypertension.
+
+**Ref:** Robba C, et al. *Intensive Care Med* 2021.
+
+</details>
+
+
 ## Case-style practice · W05-D1 · Acid–base: anion gap and blood gas analysis
 
 **1.** Which of the following typically cause a normal anion gap (hyperchloraemic) metabolic acidosis?
@@ -917,6 +1386,71 @@ Schedule 1 also includes acute meningitis, acute encephalitis, meningococcal sep
 - D (False) – OH⁻, like H⁺, HCO₃⁻, A⁻ and CO₃²⁻, is a dependent variable.
 
 **Ref:** Stewart PA, Modern quantitative acid–base chemistry, Can J Physiol Pharmacol 1983;61:1444–1461; Kellum JA, Crit Care 2000;4:6–14.
+
+</details>
+
+
+## Case-style practice · W05-D3 · Metabolic alkalosis, mixed disorders, ketoacidoses and toxic alcohols
+
+**1.** After 5 days of vomiting, a 40-year-old woman has pH 7.52, HCO₃⁻ 38 mmol/L, PaCO₂ 6.4 kPa (48 mmHg), K⁺ 2.9 mmol/L and urine chloride 8 mmol/L. The best treatment is:
+
+- A. Acetazolamide
+- B. 0.9 % NaCl with KCl
+- C. Spironolactone
+- D. Hydrochloric acid infusion as first line
+- E. Haemodialysis
+
+<details><summary>Answer</summary>
+
+**B.**
+
+Urine Cl⁻ < 20 = chloride-responsive alkalosis (vomiting, NG losses, previous diuretics) → replace volume, chloride and potassium.
+
+**EDIC trap:** U-Cl⁻ < 20 → saline-responsive; > 20 → mineralocorticoid excess or current diuretics.
+
+**Ref:** Galla JH. Metabolic alkalosis. *J Am Soc Nephrol* 2000;11:369–375.
+
+</details>
+
+**2.** A confused man has Na⁺ 140 mmol/L, glucose 5 mmol/L, urea 5 mmol/L, ethanol undetectable and measured osmolality 330 mOsm/kg. Which is correct?
+
+- A. Osmolar gap 10 – normal
+- B. Osmolar gap 40 – a toxic alcohol should be suspected
+- C. Osmolar gap 40 – this is diagnostic of methanol
+- D. The osmolar gap cannot be calculated without a lactate
+- E. Osmolar gap −10 – laboratory error
+
+<details><summary>Answer</summary>
+
+**B.**
+
+Calculated = 2 × 140 + 5 + 5 = 290; gap = 330 − 290 = 40 (> 10) → suspect a toxic alcohol (methanol, ethylene glycol…). The gap does not identify which one, and a normal gap does not exclude poisoning.
+
+**EDIC trap:** Late presentation: the gap falls as the alcohol is metabolised while the anion gap rises.
+
+**Ref:** Kraut JA, Mullins ME. Toxic alcohols. *N Engl J Med* 2018;378:270–280.
+
+</details>
+
+**3.** Regarding ketoacidosis and mixed disorders:
+
+- A. β-hydroxybutyrate ≥ 3 mmol/L is part of the 2024 consensus definition of DKA. — T / F
+- B. If K⁺ is < 3.5 mmol/L, insulin should be delayed until potassium is replaced. — T / F
+- C. The 2024 DKA definition requires glucose ≥ 11.1 mmol/L in all patients. — T / F
+- D. Salicylate poisoning typically causes respiratory alkalosis with a high anion gap metabolic acidosis. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – Ketones ≥ 3 mmol/L.
+- B (True) – Insulin drives K⁺ into cells – risk of arrhythmia.
+- C (False) – Glucose ≥ 11.1 **or** a history of diabetes (euglycaemic DKA, e.g. SGLT2 inhibitors).
+- D (True) – Central respiratory stimulation + HAGMA.
+
+**EDIC trap:** Euglycaemic DKA – SGLT2 inhibitors.
+
+**Ref:** Umpierrez GE, et al. Hyperglycemic crises consensus. *Diabetes Care* 2024;47:1257–1275.
 
 </details>
 
@@ -1082,6 +1616,71 @@ Schedule 1 also includes acute meningitis, acute encephalitis, meningococcal sep
 - D – calcitonin acts within hours but tachyphylaxis develops within 48 h, so it is a bridge, not long-term therapy.
 
 **Ref:** El-Hajj Fuleihan G, et al. Treatment of hypercalcemia of malignancy in adults: an Endocrine Society clinical practice guideline, J Clin Endocrinol Metab 2023;108:507–528; Walker MD, Shane E, JAMA 2022;328:1624–1636.
+
+</details>
+
+
+## Case-style practice · W07-D1 · Cardiogenic shock
+
+**1.** A 63-year-old man with anterior STEMI has BP 82/50 mmHg, cool mottled skin and lactate 4.2 mmol/L. He is started on noradrenaline and dobutamine and goes for PCI; his lactate is falling. His SCAI SHOCK stage is:
+
+- A. A
+- B. B
+- C. C
+- D. D
+- E. E
+
+<details><summary>Answer</summary>
+
+**C.**
+
+C (classic) = hypoperfusion needing an intervention (drugs/MCS) beyond fluids. B = hypotension without hypoperfusion; D = deteriorating despite initial therapy; E = extremis (e.g. lactate ≥ 8, CPR). Cardiac arrest with coma adds an "A" modifier.
+
+**EDIC trap:** Stage D means worsening despite the initial intervention.
+
+**Ref:** Naidu SS, et al. SCAI SHOCK update. *J Am Coll Cardiol* 2022;79:933–946.
+
+</details>
+
+**2.** Regarding the management of cardiogenic shock after myocardial infarction:
+
+- A. Noradrenaline is the preferred vasopressor. — T / F
+- B. Dopamine is preferred because it reduced mortality in the cardiogenic shock subgroup of SOAP II. — T / F
+- C. Routine intra-aortic balloon pump use is recommended. — T / F
+- D. Emergency revascularisation of the culprit lesion reduced 6-month mortality in the SHOCK trial. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – T.**
+
+- A (True) – Norepinephrine is first line.
+- B (False) – Dopamine caused more arrhythmias and higher mortality in the CS subgroup.
+- C (False) – IABP routine use – class III (IABP-SHOCK II).
+- D (True) – SHOCK – no 30-day difference but lower 6-month mortality.
+
+**EDIC trap:** SHOCK: the benefit appeared at 6 months, not 30 days.
+
+**Ref:** Hochman JS, et al. SHOCK. *N Engl J Med* 1999; De Backer D, et al. SOAP II. *N Engl J Med* 2010.
+
+</details>
+
+**3.** In which patient is the evidence for a microaxial flow pump (DanGer Shock, IIa) most applicable?
+
+- A. STEMI with cardiogenic shock, awake, no cardiac arrest
+- B. Comatose survivor of out-of-hospital cardiac arrest with STEMI and shock
+- C. Isolated right ventricular infarction with shock
+- D. Takotsubo syndrome with LVOT obstruction
+- E. Septic cardiomyopathy with low cardiac output
+
+<details><summary>Answer</summary>
+
+**A.**
+
+DanGer Shock enrolled STEMI-related CS and excluded comatose OHCA survivors; it reduced 180-day mortality at the cost of more complications. Routine MCS for all CS is not recommended.
+
+**EDIC trap:** Microaxial pump = selected STEMI-CS, not comatose OHCA.
+
+**Ref:** Møller JE, et al. DanGer Shock. *N Engl J Med* 2024;390:1382–1393.
 
 </details>
 
@@ -1748,7 +2347,14 @@ Schedule 1 also includes acute meningitis, acute encephalitis, meningococcal sep
 
 **A – T, B – T, C – T, D – F.**
 
-A, B – unchanged since ERC 2015/2021: adrenaline and amiodarone after the third shock. C – lidocaine 1 mg/kg (100 mg), further 50 mg after the fifth shock, is the alternative (ALPS trial). D – in PEA/asystole, give adrenaline 1 mg as soon as IV/IO access is obtained (earlier adrenaline is associated with better outcomes in non-shockable rhythms). Reference: Soar J, Böttiger BW, Carli P, et al. European Resuscitation Council Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Kudenchuk PJ, et al. ALPS. **N Engl J Med** 2016;374:1711–1722.
+- A (True) – in VF/pVT, adrenaline 1 mg is given after the 3rd shock and then every 3–5 min. This is unchanged since ERC 2015/2021.
+- B (True) – amiodarone 300 mg after 3 shocks, with a further 150 mg after the 5th shock.
+- C (True) – lidocaine 1 mg/kg (100 mg), with a further 50 mg after the 5th shock, is the alternative if amiodarone is unavailable. ALPS showed similar outcomes.
+- D (False) – in PEA/asystole, give adrenaline 1 mg **as soon as IV/IO access is obtained**. Earlier adrenaline is associated with better outcomes in non-shockable rhythms.
+
+**EDIC trap:** the timing of adrenaline depends on the rhythm: immediately in non-shockable, after the 3rd shock in shockable.
+
+**Ref:** Soar J, Böttiger BW, Carli P, et al. ERC Guidelines 2025 Adult ALS, Resuscitation 2025;215(Suppl 1):110769; Kudenchuk PJ, et al. ALPS, N Engl J Med 2016;374:1711–1722.
 
 </details>
 
@@ -1764,7 +2370,15 @@ A, B – unchanged since ERC 2015/2021: adrenaline and amiodarone after the thir
 
 **E.**
 
-ERC 2025 recommends attempting IV access first and using the intraosseous route if IV access is not rapidly achievable. IO doses are the same as IV doses. PARAMEDIC-3 and IVIO found no improvement in survival with an IO-first strategy, but IO remains the standard fallback. Tracheal drug administration is no longer recommended (unpredictable absorption); IM adrenaline is not used in arrest; central venous cannulation interrupts CPR and takes too long. Reference: Soar J, et al. ERC Guidelines 2025 Adult Advanced Life Support. **Resuscitation** 2025;215(Suppl 1):110769; Couper K, et al. A randomized trial of drug route in out-of-hospital cardiac arrest (PARAMEDIC-3). **N Engl J Med** 2025;392:336–348.
+**Why E:** ERC 2025 recommends trying IV access first and using the **intraosseous route** (proximal humerus or tibia) if IV access is not rapidly achievable. IO drug doses are the **same as IV doses**. PARAMEDIC-3 and IVIO found no survival benefit from an IO-first strategy, but IO remains the standard fallback.
+
+**Why not the others:**
+- A – tracheal drug administration is no longer recommended because absorption is unpredictable.
+- B – IM adrenaline is not used in cardiac arrest, since there is no muscle perfusion.
+- C – a femoral central line interrupts CPR, takes too long and is not faster than IO.
+- D – IO doses are not doubled.
+
+**Ref:** Soar J, et al. ERC 2025 Adult ALS, Resuscitation 2025;215(Suppl 1):110769; Couper K, et al. PARAMEDIC-3, N Engl J Med 2025;392:336–348.
 
 </details>
 
@@ -1779,7 +2393,12 @@ ERC 2025 recommends attempting IV access first and using the intraosseous route 
 
 **A – F, B – T, C – F, D – T.**
 
-A – PARAMEDIC-3 (n = 6082) found no difference in 30-day survival (4.5 % vs 5.1 %), and IVIO (Denmark) likewise found no benefit. B – a 20 mL flush (and limb elevation) speeds delivery to the central circulation. C – the tracheal route is no longer recommended. D – the humerus is closer to the central circulation and allows higher flows, although no outcome benefit by site has been shown. Reference: Couper K, et al. PARAMEDIC-3. **N Engl J Med** 2025;392:336–348; Vallentin MF, et al. IVIO. **N Engl J Med** 2025;392:349–360; Soar J, et al. ERC 2025 ALS. **Resuscitation** 2025;215(Suppl 1):110769.
+- A (False) – PARAMEDIC-3 (n = 6082) found no difference in 30-day survival (4.5% IO vs 5.1% IV). IVIO (Denmark) also found no benefit.
+- B (True) – a flush of about 20 mL, with limb elevation, speeds delivery to the central circulation.
+- C (False) – the tracheal route is no longer recommended for adrenaline.
+- D (True) – the humerus is closer to the central circulation and allows higher flows than the tibia, although no outcome benefit by site has been shown.
+
+**Ref:** Couper K, et al. PARAMEDIC-3, N Engl J Med 2025;392:336–348; Vallentin MF, et al. IVIO, N Engl J Med 2025;392:349–360; Soar J, et al. ERC 2025 ALS, Resuscitation 2025;215(Suppl 1):110769.
 
 </details>
 
@@ -1797,7 +2416,12 @@ A – PARAMEDIC-3 (n = 6082) found no difference in 30-day survival (4.5 % vs 5.
 
 **A – F, B – F, C – T, D – F.**
 
-A – TTM2 (n = 1900): no difference in mortality or functional outcome; hypothermia caused more arrhythmias; ERC–ESICM recommends active fever prevention (≤ 37.5 °C) for at least 72 h. B – BOX: PaO2 targets of 9–10 vs 13–14 kPa (and MAP 63 vs 77 mmHg) showed no difference. C – TOMAHAWK and COACT were neutral (TOMAHAWK showed a trend towards harm); delayed/selective angiography is appropriate without STE. D – prophylactic antibiotics are not routinely recommended despite a lower early pneumonia rate in ANTHARTIC. Reference: Nolan JP, Sandroni C, Cariou A, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care. **Resuscitation** 2025;215(Suppl 1):110809; Desch S, et al. TOMAHAWK. **N Engl J Med** 2021;385:2544–2553; Schmidt H, et al. BOX (oxygen). **N Engl J Med** 2022;387:1467–1476.
+- A (False) – TTM2 (n = 1900) found no difference in mortality or functional outcome, and hypothermia caused more arrhythmias. ERC–ESICM 2025 recommends active fever prevention (≤ 37.5 °C) for 36–72 h.
+- B (False) – BOX compared PaO₂ targets of 9–10 vs 13–14 kPa (and MAP 63 vs 77 mmHg) and found no difference in death or severe disability.
+- C (True) – TOMAHAWK, like COACT, was neutral and showed a trend towards harm. Delayed or selective angiography is appropriate without ST elevation.
+- D (False) – prophylactic antibiotics are not routinely recommended, even though ANTHARTIC showed a lower early pneumonia rate.
+
+**Ref:** Nolan JP, Sandroni C, Cariou A, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care, Resuscitation 2025;215(Suppl 1):110809; Desch S, et al. TOMAHAWK, N Engl J Med 2021;385:2544–2553; Schmidt H, et al. BOX (oxygen), N Engl J Med 2022;387:1467–1476.
 
 </details>
 
@@ -1813,7 +2437,15 @@ A – TTM2 (n = 1900): no difference in mortality or functional outcome; hypothe
 
 **A.**
 
-ERC–ESICM 2025 recommends avoiding both hypoxaemia and hyperoxaemia after ROSC – titrate FiO2 to SpO2 94–98 % (PaO2 10–13 kPa) once SpO2 can be measured reliably – and targeting normocapnia (PaCO2 4.5–6.0 kPa); hypocapnia causes cerebral vasoconstriction. Temperature management means preventing fever (≤ 37.5 °C) rather than cooling to 33 °C (TTM2). Immediate angiography is reserved for ST elevation or high suspicion of ongoing coronary occlusion – here there is a non-coronary cause. Reference: Nolan JP, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care. **Resuscitation** 2025;215(Suppl 1):110809; Dankiewicz J, et al. TTM2. **N Engl J Med** 2021;384:2283–2294.
+**Why A:** ERC–ESICM 2025 recommends avoiding both hypoxaemia and hyperoxaemia after ROSC. Once SpO₂ can be measured reliably, titrate FiO₂ to **SpO₂ 94–98% (PaO₂ 10–13 kPa)**. Target **normocapnia (PaCO₂ 4.7–6.0 kPa)**, because hypocapnia (here 3.8 kPa) causes cerebral vasoconstriction. Correcting the PaO₂ of 35 kPa and the PaCO₂ is the immediate priority.
+
+**Why not the others:**
+- B – keeping FiO₂ 0.6 maintains harmful hyperoxaemia.
+- C – hyperventilation to 3.5 kPa worsens cerebral ischaemia.
+- D – temperature control means preventing fever (≤ 37.5 °C), not cooling to 33 °C (TTM2).
+- E – immediate angiography is for ST elevation or strongly suspected occlusion, and this arrest had a non-coronary cause (hyperkalaemia).
+
+**Ref:** Nolan JP, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care, Resuscitation 2025;215(Suppl 1):110809; Dankiewicz J, et al. TTM2, N Engl J Med 2021;384:2283–2294.
 
 </details>
 
@@ -1831,7 +2463,14 @@ ERC–ESICM 2025 recommends avoiding both hypoxaemia and hyperoxaemia after ROSC
 
 **A – T, B – T, C – T, D – F.**
 
-A – intracellular shift and cold diuresis cause hypokalaemia; rewarm slowly (0.25–0.5 °C/h). B – cytochrome P450 activity falls ~7–20 % per °C below 37 °C (propofol, fentanyl, midazolam accumulate), confounding neuroprognostication. C – shivering is treated with sedation, opioids, magnesium, surface counter-warming and, if needed, neuromuscular blockade. D – hypothermia causes bradycardia, PR/QT prolongation and J (Osborn) waves. Other complications: infection (pneumonia), coagulopathy/bleeding, hyperglycaemia and diuresis. TTM2 showed no benefit of 33 °C over fever prevention. Reference: Polderman KH. Mechanisms of action, physiological effects, and complications of hypothermia. **Crit Care Med** 2009;37(7 Suppl):S186–S202; Dankiewicz J, et al. TTM2. **N Engl J Med** 2021;384:2283–2294.
+- A (True) – cooling shifts K⁺ into cells and causes cold diuresis, leading to hypokalaemia; rewarming can cause rebound hyperkalaemia. Rewarm slowly (0.25–0.5 °C/h).
+- B (True) – cytochrome P450 activity falls by about 7–20% per °C below 37 °C. Propofol, fentanyl and midazolam accumulate, which delays awakening and confounds neuroprognostication.
+- C (True) – shivering increases metabolic rate and O₂ consumption. Control it with sedation, opioids, magnesium, surface counter-warming and, if needed, NMB.
+- D (False) – hypothermia causes **bradycardia**, PR/QT **prolongation** and J (Osborn) waves.
+
+Other complications are infection (pneumonia), coagulopathy, hyperglycaemia and diuresis. TTM2 showed no benefit of 33 °C over fever prevention.
+
+**Ref:** Polderman KH. Mechanisms of action, physiological effects, and complications of hypothermia, Crit Care Med 2009;37(7 Suppl):S186–S202; Dankiewicz J, et al. TTM2, N Engl J Med 2021;384:2283–2294.
 
 </details>
 
@@ -1849,7 +2488,79 @@ A – intracellular shift and cold diuresis cause hypokalaemia; rewarm slowly (0
 
 **A – T, B – T, C – F, D – F.**
 
-The algorithm applies to patients who are comatose (motor score ≤ 3) ≥ 72 h after ROSC, after exclusion of confounders (sedation, hypothermia, metabolic causes). Poor outcome is likely when ≥ 2 of: no pupillary and corneal reflexes, bilaterally absent N20, highly malignant EEG (suppressed background ± periodic discharges, burst-suppression), NSE > 60 µg/L at 48/72 h, status myoclonus ≤ 72 h, diffuse anoxic injury on CT/MRI. A single sign such as motor response alone is not sufficient, and early assessment risks self-fulfilling prophecies. Reference: Nolan JP, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care. **Resuscitation** 2025;215(Suppl 1):110809; Sandroni C, et al. Prognostication after cardiac arrest. **Crit Care** 2018;22:150.
+- A (True) – bilaterally absent N20 SSEP waves at ≥ 24 h after ROSC are one of the six predictors of poor outcome.
+- B (True) – NSE > 60 µg/L at 48 and/or 72 h supports a poor outcome, provided haemolysis has been excluded.
+- C (False) – prognostication starts **≥ 72 h** after ROSC in patients who are still unconscious (GCS motor ≤ 5 in 2025; ≤ 3 in 2021), after excluding confounders such as sedation, hypothermia and metabolic causes. Assessing at 12 h risks a self-fulfilling prophecy.
+- D (False) – motor response alone is unreliable and is used only to select patients. Poor outcome requires ≥ 2 of the six predictors: absent pupillary and corneal reflexes, absent N20, highly malignant EEG, NSE > 60 µg/L, status myoclonus ≤ 72 h, and diffuse anoxic injury on CT/MRI.
+
+**Ref:** Nolan JP, et al. ERC–ESICM Guidelines 2025: Post-Resuscitation Care, Resuscitation 2025;215(Suppl 1):110809; Sandroni C, et al. Prognostication after cardiac arrest, Crit Care 2018;22:150.
+
+</details>
+
+
+## Case-style practice · W09-D5 · ECPR and special circumstances
+
+**1.** A 35-year-old man is found in a snowdrift in VF with a core temperature of 27 °C.
+
+- A. Adrenaline is withheld until the core temperature is ≥ 30 °C. — T / F
+- B. A maximum of 3 shocks should be given until the temperature is > 30 °C. — T / F
+- C. Rewarming with VA-ECMO is preferred while in cardiac arrest. — T / F
+- D. Once the temperature is 30–35 °C, adrenaline is given every 3–5 minutes. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – < 30 °C: no adrenaline.
+- B (True) – Max 3 shocks below 30 °C.
+- C (True) – Extracorporeal rewarming (VA-ECMO) in arrest.
+- D (False) – 30–35 °C: double the interval – every 6–10 min.
+
+**EDIC trap:** Hypothermia: adrenaline intervals are doubled, not standard.
+
+**Ref:** ERC Guidelines 2025 – special circumstances.
+
+</details>
+
+**2.** A woman at 34 weeks of gestation has a cardiac arrest on the labour ward. CPR is under way with manual left uterine displacement. What else should be prioritised?
+
+- A. Wait for 20 minutes of CPR before considering delivery
+- B. Prepare for resuscitative hysterotomy as early as possible if there is no rapid ROSC
+- C. Withhold adrenaline because of uterine perfusion
+- D. Move her to the operating theatre before any delivery is considered
+- E. Tilt her 15° to the right
+
+<details><summary>Answer</summary>
+
+**B.**
+
+Resuscitative hysterotomy should be done as early as possible (decision early, aim within ~5 min) when there is no rapid ROSC; it helps maternal resuscitation and the fetus. Do it where she is; manual left uterine displacement relieves aortocaval compression.
+
+**EDIC trap:** The hysterotomy is for the mother's resuscitation as much as for the baby.
+
+**Ref:** ERC Guidelines 2025 – cardiac arrest in pregnancy.
+
+</details>
+
+**3.** Regarding extracorporeal CPR (ECPR) for refractory out-of-hospital cardiac arrest:
+
+- A. The ARREST trial was stopped early because of better survival with ECPR in refractory VF. — T / F
+- B. The Prague OHCA trial showed a significant improvement in its primary endpoint. — T / F
+- C. INCEPTION showed no significant difference in 30-day survival with a favourable neurological outcome. — T / F
+- D. ERC 2025 suggests ECPR for all refractory arrests irrespective of the system. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – ARREST (n = 30): 43 vs 7 % survival.
+- B (False) – Prague OHCA: 31.5 vs 22.0 % – not significant (better 30-day neurological outcome).
+- C (True) – INCEPTION: 20 vs 16 % (NS), long low-flow times.
+- D (False) – Only in selected patients in systems able to deliver it.
+
+**EDIC trap:** ECPR works only in a system – selection and short low-flow time.
+
+**Ref:** Yannopoulos D, et al. ARREST. *Lancet* 2020; Belohlavek J, et al. *JAMA* 2022; Suverein MM, et al. INCEPTION. *N Engl J Med* 2023.
 
 </details>
 
@@ -1867,7 +2578,14 @@ The algorithm applies to patients who are comatose (motor score ≤ 3) ≥ 72 h 
 
 **A – T, B – T, C – T, D – F.**
 
-The Global definition keeps the Berlin timing (≤ 1 week) and the requirement that oedema is not fully explained by cardiac failure or fluid overload, but extends to non-intubated patients (HFNO ≥ 30 L/min or NIV/CPAP ≥ 5 cmH2O), accepts SpO2/FiO2 and lung ultrasound, and adds a resource-limited variant without PEEP/flow requirements. The PAOP criterion was abandoned with the Berlin definition (2012); ARDS may coexist with raised hydrostatic pressure. Reference: Matthay MA, et al. A new global definition of acute respiratory distress syndrome. **Am J Respir Crit Care Med** 2024;209:37–47; ARDS Definition Task Force. Berlin definition. **JAMA** 2012;307:2526–2533.
+- A (True) – non-intubated patients on HFNO ≥ 30 L/min (or NIV/CPAP with PEEP ≥ 5 cmH2O) with P/F ≤ 300 or S/F ≤ 315 qualify; they are not graded by severity.
+- B (True) – SpO2/FiO2 ≤ 315 may replace PaO2/FiO2, but only when SpO2 ≤ 97 % (flat part of the dissociation curve above that).
+- C (True) – bilateral B-lines and/or consolidations on lung ultrasound by a trained operator are accepted, alongside chest X-ray or CT.
+- D (False) – the PAOP criterion belonged to AECC 1994 and was abandoned in Berlin 2012; oedema must only be not primarily explained by cardiac failure or fluid overload, and ARDS may coexist with raised hydrostatic pressure.
+
+**EDIC trap:** the Global definition keeps the Berlin timing (≤ 1 week) and adds a resource-limited variant without PEEP or flow requirements.
+
+**Ref:** Matthay MA et al., Am J Respir Crit Care Med 2024;209:37–47; ARDS Definition Task Force, JAMA 2012;307:2526–2533.
 
 </details>
 
@@ -1883,7 +2601,149 @@ The Global definition keeps the Berlin timing (≤ 1 week) and the requirement t
 
 **A.**
 
-TRALI = new acute hypoxaemia with bilateral infiltrates within 6 h of transfusion without evidence of left atrial hypertension; it is often accompanied by fever and hypotension and is associated with plasma-rich products (donor anti-HLA/HNA antibodies). TACO (B) presents with hypertension, raised BNP and fluid overload. Anaphylaxis (C) causes bronchospasm, urticaria and angio-oedema; haemolytic reactions (E) cause haemoglobinuria and DIC rather than isolated lung injury. Management is supportive (lung-protective ventilation, no diuretics) and reporting to haemovigilance. If the hypoxaemia occurred later or with another risk factor, it would be classified as ARDS ("TRALI type II" if ARDS risk factor present). Reference: Vlaar APJ, et al. A consensus redefinition of transfusion-related acute lung injury. **Transfusion** 2019;59:2465–2476; Vlaar APJ, et al. Transfusion strategies in non-bleeding critically ill adults: ESICM clinical practice guideline. **Intensive Care Med** 2020;46:673–696.
+**Why A:** TRALI is new acute hypoxaemia with bilateral infiltrates within 6 h of transfusion without evidence of left atrial hypertension as the main cause. Fever and hypotension, normal LV function, a collapsing IVC and a normal BNP after plasma-rich products (donor anti-HLA/HNA antibodies) fit TRALI.
+
+**Why not the others:**
+- B – TACO typically causes hypertension, raised BNP, a plethoric IVC and a positive fluid balance.
+- C – anaphylaxis presents with bronchospasm, urticaria and angio-oedema, usually within minutes.
+- D – aspiration has no link to transfusion timing and is often dependent or unilateral.
+- E – acute haemolysis causes haemoglobinuria, DIC and AKI rather than isolated lung injury.
+
+**EDIC trap:** in the 2019 redefinition, TRALI type II has an ARDS risk factor but stable respiratory status in the 12 h before transfusion; if ARDS was already worsening, it is classified as ARDS.
+
+**Ref:** Vlaar APJ et al., Transfusion 2019;59:2465–2476; Vlaar APJ et al., Intensive Care Med 2020;46:673–696.
+
+</details>
+
+
+## Case-style practice · W10-D2 · Protective ventilation
+
+**1.** A 165-cm-tall woman (actual weight 95 kg) with ARDS is intubated. Approximately what tidal volume corresponds to 6 mL/kg predicted body weight?
+
+- A. 300 mL
+- B. 340 mL
+- C. 400 mL
+- D. 450 mL
+- E. 570 mL
+
+<details><summary>Answer</summary>
+
+**B.**
+
+PBW (women) = 45.5 + 0.91 × (165 − 152.4) ≈ 57 kg → 6 mL/kg ≈ 340 mL. Actual weight is irrelevant.
+
+**EDIC trap:** Using actual weight in obesity gives dangerously large volumes.
+
+**Ref:** ARDS Network. *N Engl J Med* 2000;342:1301–1308.
+
+</details>
+
+**2.** A passive patient in volume control has VT 420 mL, PEEP 10 cmH₂O and a plateau pressure of 26 cmH₂O. Which pair is correct?
+
+- A. Driving pressure 16 cmH₂O; compliance ≈ 26 mL/cmH₂O
+- B. Driving pressure 26 cmH₂O; compliance ≈ 16 mL/cmH₂O
+- C. Driving pressure 16 cmH₂O; compliance ≈ 42 mL/cmH₂O
+- D. Driving pressure 10 cmH₂O; compliance ≈ 42 mL/cmH₂O
+- E. Driving pressure cannot be calculated without peak pressure
+
+<details><summary>Answer</summary>
+
+**A.**
+
+ΔP = Pplat − PEEP = 16; Crs = VT/ΔP = 420/16 ≈ 26 mL/cmH₂O.
+
+**EDIC trap:** Peak − plateau reflects resistance, not compliance.
+
+**Ref:** Amato MBP, et al. *N Engl J Med* 2015;372:747–755.
+
+</details>
+
+**3.** Regarding lung-protective ventilation:
+
+- A. In ARMA, 6 mL/kg PBW reduced mortality compared with 12 mL/kg (31.0 vs 39.8 %). — T / F
+- B. ESICM 2023 strongly recommends VT 4–8 mL/kg PBW in ARDS. — T / F
+- C. Targeting driving pressure has been validated in a randomised trial. — T / F
+- D. Permissive hypercapnia is safe in patients with raised intracranial pressure. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – ARMA – stopped early for benefit.
+- B (True) – Strong recommendation.
+- C (False) – ΔP comes from observational analysis (Amato 2015) – not RCT-validated.
+- D (False) – Caution in ICH and RV failure.
+
+**EDIC trap:** ΔP is a strong predictor, not a proven target.
+
+**Ref:** ARDS Network 2000; Grasselli G, et al. ESICM ARDS guidelines. *Intensive Care Med* 2023;49:727–759.
+
+</details>
+
+
+## Case-style practice · W10-D3 · PEEP and recruitment
+
+**1.** Regarding PEEP and recruitment trials in ARDS:
+
+- A. In ART, maximal recruitment with PEEP titration increased mortality. — T / F
+- B. In the Briel meta-analysis, higher PEEP was associated with benefit only at P/F ≤ 200 mmHg. — T / F
+- C. ESICM 2023 recommends a specific method of PEEP titration. — T / F
+- D. In EPVent-2, oesophageal-pressure-guided PEEP improved outcome compared with empirical high PEEP. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – ART – 55.3 vs 49.3 %, more barotrauma.
+- B (True) – Mild ARDS – trend towards harm.
+- C (False) – No recommendation on PEEP level or titration method.
+- D (False) – No difference.
+
+**EDIC trap:** Recruitment manoeuvres: prolonged RM strongly against; brief RM conditionally against routine use.
+
+**Ref:** ART investigators. *JAMA* 2017;318:1335–1345; Briel M, et al. *JAMA* 2010;303:865–873.
+
+</details>
+
+**2.** A 60-year-old man has moderate–severe ARDS with P/F 130 mmHg on VT 6 mL/kg PBW. Which approach is most consistent with ESICM 2023 and ATS 2024?
+
+- A. A prolonged recruitment manoeuvre at 40 cmH₂O for 40 s, then decremental PEEP titration
+- B. A higher-PEEP strategy without prolonged recruitment manoeuvres
+- C. Routine recruitment manoeuvres every 4 hours
+- D. PEEP 5 cmH₂O to minimise haemodynamic effects
+- E. PEEP guided only by peak airway pressure
+
+<details><summary>Answer</summary>
+
+**B.**
+
+ATS 2024 conditionally suggests higher PEEP without RM in moderate–severe ARDS; ESICM 2023 strongly recommends against prolonged high-pressure RM and makes no recommendation on PEEP titration.
+
+**EDIC trap:** ESICM and ATS agree on avoiding prolonged RM.
+
+**Ref:** Grasselli G, et al. *Intensive Care Med* 2023; Qadir N, et al. ATS ARDS guideline. *Am J Respir Crit Care Med* 2024.
+
+</details>
+
+**3.** Regarding the classic higher-PEEP trials:
+
+- A. ALVEOLI found no reduction in mortality with higher PEEP. — T / F
+- B. LOVS reduced refractory hypoxaemia and the need for rescue therapies. — T / F
+- C. EXPRESS increased ventilator-free days. — T / F
+- D. All three trials showed a significant reduction in mortality. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – ALVEOLI – no mortality benefit.
+- B (True) – LOVS – less refractory hypoxaemia.
+- C (True) – EXPRESS – more ventilator- and organ-failure-free days.
+- D (False) – None showed lower mortality on its own.
+
+**EDIC trap:** Higher PEEP improves oxygenation and secondary endpoints, not mortality.
+
+**Ref:** Brower RG, et al. *N Engl J Med* 2004; Meade MO, et al. *JAMA* 2008; Mercat A, et al. *JAMA* 2008.
 
 </details>
 
@@ -1902,7 +2762,15 @@ TRALI = new acute hypoxaemia with bilateral infiltrates within 6 h of transfusio
 
 **D.**
 
-In moderate–severe ARDS (P/F < 150 mmHg), prone positioning for ≥ 16 h/day reduces mortality (PROSEVA) and is strongly recommended by ESICM 2023. He does not yet meet EOLIA criteria after optimisation (e.g. P/F < 50 for > 3 h, < 80 for > 6 h, or pH < 7.25 with PaCO2 ≥ 60 mmHg for > 6 h); ECMO should be considered if he fails proning. HFOV increased mortality (OSCILLATE) or had no effect (OSCAR); iNO improves oxygenation transiently without survival benefit; prolonged high-pressure recruitment manoeuvres increased mortality in ART and are recommended against. Reference: Guérin C, et al. PROSEVA. **N Engl J Med** 2013;368:2159–2168; Grasselli G, et al. ESICM guidelines on ARDS. **Intensive Care Med** 2023;49:727–759; Combes A, et al. EOLIA. **N Engl J Med** 2018;378:1965–1975.
+**Why D:** After intubation and stabilisation he has P/F 85 mmHg on FiO2 0.8 and PEEP 14 – the PROSEVA population, in which proning ≥ 16 h/day reduced 28-day mortality (16.0 vs 32.8 %). ESICM 2023 strongly recommends it (high certainty). He does not yet meet EOLIA criteria (e.g. P/F < 80 for > 6 h); ECMO is considered if he fails proning.
+
+**Why not the others:**
+- A – HFOV increased mortality in OSCILLATE and had no effect in OSCAR.
+- B – inhaled NO improves oxygenation transiently without survival benefit and may cause AKI.
+- C – ECMO referral is premature before proning and before EOLIA criteria are met.
+- E – prolonged high-pressure RMs with decremental PEEP increased mortality in ART and are strongly recommended against.
+
+**Ref:** Guérin C et al. (PROSEVA), N Engl J Med 2013;368:2159–2168; Grasselli G et al., Intensive Care Med 2023;49:727–759; Combes A et al. (EOLIA), N Engl J Med 2018;378:1965–1975.
 
 </details>
 
@@ -1917,7 +2785,79 @@ In moderate–severe ARDS (P/F < 150 mmHg), prone positioning for ≥ 16 h/day r
 
 **A – T, B – T, C – F, D – F.**
 
-A – strong recommendation (PROSEVA, meta-analyses). B – ART (Brazil) showed higher 28-day mortality with high-pressure recruitment and titrated PEEP; brief recruitment manoeuvres are not recommended either way. C – iNO is not recommended to improve survival; it improves oxygenation transiently but does not reduce mortality and may cause AKI. D – after ROSE (no mortality benefit of early cisatracurium with lighter sedation), ESICM recommends against routine continuous NMBA infusion; NMBA may still be used for specific indications (e.g. refractory asynchrony). Reference: Grasselli G, Calfee CS, Camporota L, et al. ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies. **Intensive Care Med** 2023;49:727–759; NHLBI PETAL Network. ROSE. **N Engl J Med** 2019;380:1997–2008; ART Investigators. **JAMA** 2017;318:1335–1345.
+- A (True) – prone positioning for moderate–severe ARDS (P/F < 150, PEEP ≥ 5), early and ≥ 16 h, is a strong recommendation with high certainty (PROSEVA, meta-analyses).
+- B (True) – prolonged high-pressure RMs (≥ 35 cmH2O for ≥ 1 min) are strongly recommended against after ART showed higher 28-day mortality; brief RMs are conditionally suggested against for routine use.
+- C (False) – iNO is not recommended; it improves oxygenation transiently but does not reduce mortality and may cause AKI.
+- D (False) – after ROSE (no benefit of cisatracurium versus light sedation) ESICM recommends against routine continuous NMBA infusion (strong, moderate); NMBA may still be used for specific indications such as refractory asynchrony.
+
+**EDIC trap:** ATS 2024 differs on NMBA (conditional for in early severe ARDS).
+
+**Ref:** Grasselli G et al., Intensive Care Med 2023;49:727–759; Moss M et al. (ROSE), N Engl J Med 2019;380:1997–2008; Cavalcanti AB et al. (ART), JAMA 2017;318:1335–1345.
+
+</details>
+
+
+## Case-style practice · W10-D5 · ESICM ARDS guidelines 2023
+
+**1.** According to the ESICM 2023 ARDS guidelines:
+
+- A. Prone positioning for ≥ 16 h/day is recommended in ARDS with P/F < 150 mmHg. — T / F
+- B. Routine continuous infusion of neuromuscular blockers is recommended in moderate–severe ARDS. — T / F
+- C. VV-ECMO is recommended for selected patients with severe ARDS according to EOLIA criteria, in an ECMO centre. — T / F
+- D. ECCO₂R is recommended to allow ultra-protective ventilation. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – Strong recommendation, early.
+- B (False) – Strongly **against** routine NMBA infusion.
+- C (True) – Strong recommendation (EOLIA criteria, experienced centre).
+- D (False) – Against ECCO₂R outside RCTs.
+
+**EDIC trap:** Prone and ECMO – for; routine NMBA and ECCO₂R – against.
+
+**Ref:** Grasselli G, et al. *Intensive Care Med* 2023;49:727–759.
+
+</details>
+
+**2.** A 50-year-old woman with non-COVID pneumonia has acute hypoxaemic respiratory failure (SpO₂ 88 % on 15 L/min via a reservoir mask, RR 32/min) and no indication for immediate intubation. ESICM 2023 recommends:
+
+- A. Conventional oxygen therapy
+- B. High-flow nasal oxygen
+- C. Immediate intubation
+- D. NIV rather than HFNO (strong recommendation)
+- E. Helmet CPAP as first line (strong recommendation)
+
+<details><summary>Answer</summary>
+
+**B.**
+
+Strong recommendation: HFNO over conventional O₂ to reduce intubation. No recommendation on NIV vs HFNO in non-COVID AHRF (CPAP/NIV are conditionally suggested in COVID-19).
+
+**EDIC trap:** ESICM gives no recommendation on NIV vs HFNO outside COVID-19.
+
+**Ref:** Grasselli G, et al. *Intensive Care Med* 2023.
+
+</details>
+
+**3.** Which treatment does ATS 2024 conditionally recommend in ARDS, whereas ESICM 2023 makes no such recommendation?
+
+- A. Prone positioning
+- B. Low tidal volume
+- C. Corticosteroids
+- D. VV-ECMO
+- E. Routine prolonged recruitment manoeuvres
+
+<details><summary>Answer</summary>
+
+**C.**
+
+ATS 2024 conditionally recommends corticosteroids, NMBA in early severe ARDS and higher PEEP without RM. ESICM 2023 does not recommend corticosteroids for ARDS in general.
+
+**EDIC trap:** Know where the two guidelines differ.
+
+**Ref:** Qadir N, et al. *Am J Respir Crit Care Med* 2024;209:24–36.
 
 </details>
 
@@ -1936,7 +2876,18 @@ A – strong recommendation (PROSEVA, meta-analyses). B – ART (Brazil) showed 
 
 **C.**
 
-Duration of high-pressure/high-FiO2 ventilation before ECMO (> 7 days) is associated with poor outcome (a component of the RESP score) because established fibroproliferative lung injury is less reversible; ELSO lists mechanical ventilation at high settings for > 7–10 days as a relative contraindication. Severe hypoxaemia and hypercapnic acidosis despite optimisation (B, D) are indications (EOLIA criteria). Age 52 and obesity (A, E) are not contraindications; obesity is not associated with worse ECMO outcomes. Reference: Tonna JE, et al. Management of adult patients supported with VV-ECMO: guideline from the ELSO. **ASAIO J** 2021;67:601–610; Schmidt M, et al. Predicting survival after ECMO for severe acute respiratory failure: the RESP score. **Am J Respir Crit Care Med** 2014;189:1374–1382; Combes A, et al. EOLIA. **N Engl J Med** 2018;378:1965–1975.
+**Why C:** More than 7 days of high-pressure/high-FiO₂ ventilation before ECMO is associated with poor survival (a component of the RESP score) because established fibroproliferative injury is less reversible. ELSO lists mechanical ventilation at high settings (Pplat > 30 cmH₂O, FiO₂ > 0.9) for > 7–10 days as a relative contraindication, and EOLIA excluded patients ventilated > 7 days.
+
+**Why not the others:**
+
+- A – Age 52 is not a contraindication; age only lowers the RESP score at older ages.
+- B – P/F 55 mmHg despite proning is an indication, close to the EOLIA thresholds.
+- D – Hypercapnic acidosis despite optimisation is itself an EOLIA-type indication (pH < 7.25, PaCO₂ ≥ 60 mmHg).
+- E – Obesity is not a contraindication and is not associated with worse ECMO outcome.
+
+**EDIC trap:** the "7-day rule" – time on injurious ventilation matters more than the severity of hypoxaemia.
+
+**Ref:** Tonna JE, et al. ELSO VV-ECMO guideline. *ASAIO J* 2021;67:601–610. Schmidt M, et al. RESP score. *Am J Respir Crit Care Med* 2014;189:1374–1382. Combes A, et al. EOLIA. *N Engl J Med* 2018;378:1965–1975.
 
 </details>
 
@@ -1954,7 +2905,14 @@ Duration of high-pressure/high-FiO2 ventilation before ECMO (> 7 days) is associ
 
 **A – T, B – T, C – F, D – F.**
 
-A – occult hypoxaemia (SaO2 < 88 % with SpO2 92–96 %) was about three times more frequent in Black than in White patients (Sjoding 2020); regulators (FDA 2025 draft guidance) now require more diverse validation. B – methylene blue absorbs strongly at 660 nm. C – oximetry measures the ratio of oxy- to total haemoglobin, so moderate anaemia causes little error at normal saturations (accuracy worsens with severe anaemia and hypoxaemia). D – HbF has similar absorption spectra to HbA and causes negligible error. Reference: Sjoding MW, et al. Racial bias in pulse oximetry measurement. **N Engl J Med** 2020;383:2477–2478; Jubran A. Pulse oximetry. **Crit Care** 2015;19:272.
+- A (True) – Occult hypoxaemia (SaO₂ < 88 % with SpO₂ 92–96 %) was about three times more frequent in Black than in White patients (Sjoding 2020); the FDA 2025 draft guidance requires more diverse validation.
+- B (True) – Methylene blue absorbs strongly at 660 nm and causes a transient falsely low SpO₂.
+- C (False) – Oximetry measures the ratio of oxy- to total haemoglobin, so moderate anaemia causes little error at normal saturations; accuracy worsens only with severe anaemia combined with hypoxaemia.
+- D (False) – HbF has absorption spectra similar to HbA and causes negligible error.
+
+**EDIC trap:** dyes and dyshaemoglobins distort SpO₂; anaemia and HbF largely do not.
+
+**Ref:** Sjoding MW, et al. Racial bias in pulse oximetry measurement. *N Engl J Med* 2020;383:2477–2478. Jubran A. Pulse oximetry. *Crit Care* 2015;19:272.
 
 </details>
 
@@ -1969,7 +2927,14 @@ A – occult hypoxaemia (SaO2 < 88 % with SpO2 92–96 %) was about three times 
 
 **A – T, B – T, C – T, D – T.**
 
-A, B – the ratio of pulsatile (AC) to non-pulsatile (DC) absorbance at the two wavelengths ("ratio of ratios") is converted to SpO2 via a calibration curve; deoxyhaemoglobin absorbs more red, oxyhaemoglobin more infrared light. C – values below ~70–80 % are extrapolated and less accurate. D – the device assumes all pulsatile absorbance is arterial; venous pulsation, tourniquets or probe position below heart level with congestion lower the reading. Carboxyhaemoglobin is read as oxyhaemoglobin; methaemoglobin drives readings towards ~85 %. Reference: Jubran A. Pulse oximetry. **Crit Care** 2015;19:272; Chan ED, Chan MM, Chan MM. Pulse oximetry: understanding its basic principles facilitates appreciation of its limitations. **Respir Med** 2013;107:789–799.
+- A (True) – Two wavelengths are used: ~660 nm (red) and ~940 nm (infrared); the ratio of pulsatile (AC) to non-pulsatile (DC) absorbance ("ratio of ratios") is converted to SpO₂.
+- B (True) – Deoxyhaemoglobin absorbs more red light, oxyhaemoglobin more infrared light.
+- C (True) – Calibration curves are empirical, from healthy volunteers desaturated to ~70–80 %; values below this are extrapolated and less accurate.
+- D (True) – The device assumes all pulsatile absorbance is arterial; venous pulsation (severe TR, congestion, tourniquet) lowers the reading.
+
+**EDIC trap:** carboxyhaemoglobin is read as oxyhaemoglobin (falsely high); methaemoglobin drives readings towards ~85 %.
+
+**Ref:** Jubran A. Pulse oximetry. *Crit Care* 2015;19:272. Chan ED, et al. Pulse oximetry: basic principles and limitations. *Respir Med* 2013;107:789–799.
 
 </details>
 
@@ -1987,7 +2952,14 @@ A, B – the ratio of pulsatile (AC) to non-pulsatile (DC) absorbance at the two
 
 **A – T, B – F, C – F, D – F.**
 
-A – strong recommendation, high certainty. B – bilevel NIV or CPAP is recommended in cardiogenic pulmonary oedema (strong). C – NIV for established post-extubation failure may delay reintubation and increase mortality (Esteban 2004); it is suggested only to prevent failure in high-risk patients (with HFNO as an alternative). D – no recommendation was made for de novo hypoxaemic failure; HFNO is suggested over NIV in this setting by the 2022 ERS guideline. Reference: Rochwerg B, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. **Eur Respir J** 2017;50:1602426; Oczkowski S, et al. ERS clinical practice guidelines: high-flow nasal cannula in acute respiratory failure. **Eur Respir J** 2022;59:2101574.
+- A (True) – In hypercapnic COPD exacerbation with pH ≤ 7.35, NIV reduces intubation and mortality (strong recommendation, high certainty).
+- B (False) – Bilevel NIV or CPAP is recommended in cardiogenic pulmonary oedema (strong, moderate certainty), not contraindicated.
+- C (False) – NIV for established post-extubation failure may delay reintubation and increased ICU mortality (Esteban 2004); it is suggested against, and used only to prevent failure in high-risk patients.
+- D (False) – No recommendation was made for de novo hypoxaemic failure; the ERS 2022 guideline suggests HFNC over NIV in this setting (conditional).
+
+**EDIC trap:** strong NIV recommendations exist only for hypercapnic COPD and cardiogenic oedema.
+
+**Ref:** Rochwerg B, et al. ERS/ATS NIV guideline. *Eur Respir J* 2017;50:1602426. Oczkowski S, et al. ERS HFNC guideline. *Eur Respir J* 2022;59:2101574. Esteban A, et al. *N Engl J Med* 2004;350:2452–2460.
 
 </details>
 
@@ -2005,7 +2977,79 @@ A – strong recommendation, high certainty. B – bilevel NIV or CPAP is recomm
 
 **A – T, B – T, C – T, D – F.**
 
-A – Yang & Tobin (1991) described RSBI < 105 as predicting success. B – MIP reflects inspiratory muscle strength but alone has poor specificity. C – guidelines recommend proceeding directly to an SBT (PS 5–8 cmH2O or T-piece, 30–120 min) in patients meeting readiness criteria, rather than relying on predictors. D – RSBI is sensitive but not specific; extubation can still fail from upper-airway, secretion or cardiac causes. Reference: Yang KL, Tobin MJ. A prospective study of indexes predicting the outcome of trials of weaning from mechanical ventilation. **N Engl J Med** 1991;324:1445–1450; Boles JM, et al. Weaning from mechanical ventilation. **Eur Respir J** 2007;29:1033–1056.
+- A (True) – RSBI = RR / V_T (L) during unassisted breathing; Yang & Tobin found < 105 breaths/min/L predicted success (sensitivity 0.97).
+- B (True) – A MIP more negative than −20 to −30 cmH₂O reflects adequate inspiratory muscle strength and is associated with success, but alone has poor specificity.
+- C (True) – The SBT itself is the best test; guidelines advise proceeding directly to an SBT (PS 5–8 cmH₂O or T-piece, 30–120 min) once readiness criteria are met.
+- D (False) – RSBI is sensitive but not specific (0.64); extubation can still fail from upper-airway, secretion or cardiac causes.
+
+**EDIC trap:** predictors are aids – the decision is made on the SBT.
+
+**Ref:** Yang KL, Tobin MJ. *N Engl J Med* 1991;324:1445–1450. Boles JM, et al. *Eur Respir J* 2007;29:1033–1056. Schmidt GA, et al. ATS/ACCP. *Am J Respir Crit Care Med* 2017;195:115–119.
+
+</details>
+
+
+## Case-style practice · W11-D5 · Extubation failure and post-extubation support
+
+**1.** A 45-year-old man ventilated for 2 days after abdominal surgery passes a spontaneous breathing trial. He has no risk factors for extubation failure. The best post-extubation support is:
+
+- A. Preventive NIV
+- B. High-flow nasal oxygen
+- C. No oxygen support
+- D. CPAP 10 cmH₂O
+- E. Heliox
+
+<details><summary>Answer</summary>
+
+**B.**
+
+In low-risk patients HFNO reduced reintubation compared with conventional oxygen (4.9 vs 12.2 %). Preventive NIV is for high-risk patients.
+
+**EDIC trap:** Low risk → HFNO; high risk → NIV (± HFNO between sessions).
+
+**Ref:** Hernández G, et al. *JAMA* 2016;315:1354–1361.
+
+</details>
+
+**2.** A 72-year-old man with COPD and hypercapnia during the SBT is extubated.
+
+- A. Preventive NIV immediately after extubation is recommended. — T / F
+- B. In HIGH-WEAN, HFNO alternating with NIV reduced reintubation compared with HFNO alone. — T / F
+- C. If respiratory failure develops 18 h later, NIV should be used to avoid reintubation. — T / F
+- D. HFNO alone was inferior to NIV in high-risk patients. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – ATS/ACCP 2017 – preventive NIV in high-risk patients.
+- B (True) – 11.8 vs 18.2 %.
+- C (False) – NIV for established post-extubation failure delayed reintubation and increased mortality (25 vs 14 %).
+- D (False) – HFNO was non-inferior to NIV (22.8 vs 19.1 %).
+
+**EDIC trap:** Preventive NIV – yes; rescue NIV – no.
+
+**Ref:** Thille AW, et al. HIGH-WEAN. *JAMA* 2019; Esteban A, et al. *N Engl J Med* 2004.
+
+</details>
+
+**3.** A 68-year-old woman intubated for 8 days after a difficult, traumatic intubation fails a cuff-leak test. She is otherwise ready for extubation. The best next step is:
+
+- A. Extubate immediately and give nebulised adrenaline
+- B. Give systemic corticosteroids at least 4 h before extubation, without repeating the test
+- C. Perform a tracheostomy
+- D. Delay extubation by 7 days
+- E. Repeat the cuff-leak test every 6 hours until it is positive
+
+<details><summary>Answer</summary>
+
+**B.**
+
+In high-risk patients with a failed cuff-leak test, corticosteroids ≥ 4 h before extubation reduce post-extubation stridor and reintubation; the test need not be repeated (e.g. methylprednisolone 20 mg every 4 h from 12 h before: laryngeal oedema 3 vs 22 %).
+
+**EDIC trap:** Don't make extubation wait for a positive retest.
+
+**Ref:** François B, et al. *Lancet* 2007;369:1083–1089; Girard TD, et al. ATS/ACCP. *Am J Respir Crit Care Med* 2017.
 
 </details>
 
@@ -2137,6 +3181,71 @@ PVL-associated necrotising pneumonia (young, post-influenza, haemoptysis, leucop
 **B.**
 
 Pregnancy (especially the third trimester) and obesity were the leading risk factors for critical illness and death in the 2009 H1N1 pandemic, and pregnant women remain a high-risk group for seasonal influenza. Neuraminidase inhibitors should be started as soon as possible in any hospitalised or high-risk patient, regardless of symptom duration (benefit is still seen > 48 h). Corticosteroids are associated with higher mortality in influenza pneumonia. Imaging must not be withheld (shielded CXR/CT dose is low). The threshold for ICU review should be low. Reference: Uyeki TM, et al. Clinical practice guidelines by the IDSA: 2018 update on diagnosis, treatment, chemoprophylaxis and institutional outbreak management of seasonal influenza. **Clin Infect Dis** 2019;68:e1–e47; Siston AM, et al. Pandemic 2009 influenza A(H1N1) virus illness among pregnant women in the United States. **JAMA** 2010;303:1517–1525.
+
+</details>
+
+
+## Case-style practice · W12-D3 · Airway management in the ICU
+
+**1.** During ICU intubation, two laryngoscopy attempts and two attempts with a second-generation supraglottic device have failed. Facemask ventilation is impossible and SpO₂ is 70 % and falling. The next step is:
+
+- A. A third supraglottic device
+- B. Fibreoptic intubation via the nose
+- C. Scalpel–bougie–tube front-of-neck access
+- D. Wake the patient up
+- E. Needle cricothyroidotomy with jet ventilation as first choice
+
+<details><summary>Answer</summary>
+
+**C.**
+
+DAS 2018: plan A (laryngoscopy, max 3 + 1) → B (2nd-gen SAD) → C (facemask) → D CICO → surgical cricothyroidotomy with scalpel–bougie–tube. Waking up is not an option in ICU patients with respiratory failure.
+
+**EDIC trap:** Use capnography at every step.
+
+**Ref:** Higgs A, et al. DAS ICU guidelines. *Br J Anaesth* 2018;120:323–352.
+
+</details>
+
+**2.** Regarding tracheal intubation of critically ill adults:
+
+- A. A videolaryngoscope increases first-attempt success. — T / F
+- B. Routine use of a bougie improved first-attempt success. — T / F
+- C. Preoxygenation with NIV reduced hypoxaemia compared with a facemask. — T / F
+- D. Bag-mask ventilation between induction and laryngoscopy reduced severe hypoxaemia. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – T.**
+
+- A (True) – DEVICE.
+- B (False) – BOUGIE – no improvement.
+- C (True) – PREOXI.
+- D (True) – PreVent.
+
+**EDIC trap:** Bougie – not routinely.
+
+**Ref:** Prekker ME, et al. DEVICE. *N Engl J Med* 2023; Gibbs KW, et al. PREOXI. *N Engl J Med* 2024; Casey JD, et al. PreVent. *N Engl J Med* 2019.
+
+</details>
+
+**3.** In the RSI trial (2025) comparing ketamine with etomidate for emergency intubation of critically ill adults:
+
+- A. Ketamine reduced 28-day mortality
+- B. Etomidate increased 28-day mortality through adrenal suppression
+- C. Mortality was similar, but cardiovascular collapse was more frequent with ketamine
+- D. Cardiovascular collapse was more frequent with etomidate
+- E. Ketamine increased first-attempt success
+
+<details><summary>Answer</summary>
+
+**C.**
+
+No difference in 28-day mortality; more peri-intubation cardiovascular collapse with ketamine.
+
+**EDIC trap:** Neither induction agent is "haemodynamically safe" in shock – reduce the dose.
+
+**Ref:** Casey JD, et al. RSI trial. *N Engl J Med* 2025.
 
 </details>
 
@@ -2275,6 +3384,526 @@ A – PaCO2 ∝ VCO2 / [VE × (1 − VD/VT)]. B – alveolar ventilation = RR ×
 </details>
 
 
+## Case-style practice · W13-D3 · Patient–ventilator asynchronies
+
+**1.** A 70-year-old man with COPD on pressure support 18 cmH₂O, PEEP 5 cmH₂O has repeated small negative deflections in the airway pressure and brief flow increases during expiration that are not followed by a ventilator breath. The best action is:
+
+- A. Increase pressure support to 24 cmH₂O
+- B. Reduce pressure support and/or add external PEEP
+- C. Increase trigger sensitivity to the maximum (auto-trigger)
+- D. Lower the cycle-off percentage to 5 %
+- E. Start neuromuscular blockade
+
+<details><summary>Answer</summary>
+
+**B.**
+
+Ineffective efforts – the patient cannot overcome PEEPi. Excessive support (large VT, short expiratory time) worsens PEEPi; reduce PS/VT and add external PEEP below PEEPi.
+
+**EDIC trap:** More support usually makes ineffective efforts worse.
+
+**Ref:** Thille AW, et al. *Intensive Care Med* 2006;32:1515–1522.
+
+</details>
+
+**2.** Regarding patient–ventilator asynchrony:
+
+- A. An asynchrony index > 10 % is considered severe. — T / F
+- B. Delayed cycling in COPD is corrected by increasing the cycle-off (expiratory trigger) percentage. — T / F
+- C. Auto-triggering may be caused by circuit leak or cardiac oscillations. — T / F
+- D. Reverse triggering cannot cause breath stacking. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – AI = events/(ventilator cycles + ineffective efforts) × 100.
+- B (True) – Higher cycle-off % ends inspiration earlier.
+- C (True) – Beware auto-triggering in suspected brain death.
+- D (False) – Reverse triggering can lead to double triggering/breath stacking with hidden large VT.
+
+**EDIC trap:** Delayed cycling → raise cycle-off %; premature cycling → lower it.
+
+**Ref:** Thille 2006; Blanch L, et al. *Intensive Care Med* 2015;41:633–641.
+
+</details>
+
+**3.** In Thille's 2006 study of asynchrony during assisted ventilation, the two most common types were:
+
+- A. Auto-triggering and premature cycling
+- B. Ineffective efforts and double triggering
+- C. Reverse triggering and flow starvation
+- D. Delayed cycling and auto-triggering
+- E. Trigger delay and premature cycling
+
+<details><summary>Answer</summary>
+
+**B.**
+
+24 % of patients had AI > 10 %, mainly ineffective efforts and double triggering; this was associated with longer ventilation.
+
+**EDIC trap:** AI > 10 % is associated with longer ventilation and (observationally) higher mortality.
+
+**Ref:** Thille AW, et al. *Intensive Care Med* 2006.
+
+</details>
+
+
+## Case-style practice · W13-D4 · VILI, P-SILI, mechanical power, P0.1 and Pocc
+
+**1.** A passive patient in volume control has RR 20/min, VT 0.5 L, peak pressure 30 cmH₂O, plateau 25 cmH₂O and PEEP 10 cmH₂O. Using the simplified formula 0.098 × RR × VT × (Ppeak − ½ΔP), mechanical power is approximately:
+
+- A. 11 J/min
+- B. 17 J/min
+- C. 22 J/min
+- D. 30 J/min
+- E. 44 J/min
+
+<details><summary>Answer</summary>
+
+**C.**
+
+ΔP = 25 − 10 = 15. MP = 0.098 × 20 × 0.5 × (30 − 7.5) = 0.98 × 22.5 ≈ 22 J/min – above the ~17 J/min associated with higher mortality in observational data.
+
+**EDIC trap:** The MP threshold comes from observational data, not RCTs.
+
+**Ref:** Gattinoni L, et al. *Intensive Care Med* 2016; Serpa Neto A, et al. *Intensive Care Med* 2018.
+
+</details>
+
+**2.** A patient on pressure support has P0.1 4.5 cmH₂O and an occlusion pressure swing (ΔPocc) of −20 cmH₂O.
+
+- A. The P0.1 suggests high respiratory drive. — T / F
+- B. Estimated inspiratory muscle pressure is about 15 cmH₂O. — T / F
+- C. A mechanical power above ~17 J/min has been shown in RCTs to increase mortality. — T / F
+- D. Pendelluft and large transpulmonary pressure swings are mechanisms of P-SILI. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – P0.1 > 3.5 = high drive/effort (≤ 1 = low).
+- B (True) – Pmus ≈ −¾ × ΔPocc = 15 cmH₂O.
+- C (False) – Observational association only.
+- D (True) – P-SILI: large P_L swings, pendelluft, increased transvascular pressure.
+
+**EDIC trap:** High P0.1 on PS – think about under-assistance and P-SILI.
+
+**Ref:** Telias I, et al. *Am J Respir Crit Care Med* 2020; Bertoni M, et al. *Crit Care* 2019.
+
+</details>
+
+**3.** Which best describes lung strain?
+
+- A. Transpulmonary pressure divided by tidal volume
+- B. The ratio of tidal volume (plus PEEP volume) to end-expiratory lung volume
+- C. Peak minus plateau pressure
+- D. Tidal volume per kg actual body weight
+- E. Respiratory rate × driving pressure
+
+<details><summary>Answer</summary>
+
+**B.**
+
+Strain = ΔV/FRC (EELV) – deformation relative to the size of the "baby lung"; stress (transpulmonary pressure) ≈ 13.5 × strain. Strain > 1.5 is harmful in animals.
+
+**EDIC trap:** VT per kg PBW is only a surrogate for strain.
+
+**Ref:** Chiumello D, et al. *Am J Respir Crit Care Med* 2008;178:346–355.
+
+</details>
+
+
+## Case-style practice · W13-D5 · Ventilation in obstruction
+
+**1.** A 28-year-old woman with status asthmaticus is intubated and ventilated at RR 24/min. She becomes profoundly hypotensive within minutes. The first step is:
+
+- A. Give a 1 L fluid bolus
+- B. Increase PEEP to 15 cmH₂O
+- C. Briefly disconnect from the ventilator and look for a pneumothorax
+- D. Start an adrenaline infusion
+- E. Increase the respiratory rate to correct hypercapnia
+
+<details><summary>Answer</summary>
+
+**C.**
+
+Dynamic hyperinflation with high PEEPi reduces venous return; disconnection lets the lungs empty. Exclude tension pneumothorax, then use low RR, low VT, high flow, I:E ≥ 1:3 and accept hypercapnia.
+
+**EDIC trap:** Hypotension after intubation in asthma = auto-PEEP or pneumothorax until proven otherwise.
+
+**Ref:** Leatherman J. Mechanical ventilation for severe asthma. *Chest* 2015;147:1671–1680.
+
+</details>
+
+**2.** Regarding dynamic hyperinflation:
+
+- A. Minute ventilation is the main determinant of dynamic hyperinflation. — T / F
+- B. PEEPi is measured with an end-expiratory hold in a passive patient. — T / F
+- C. In assisted ventilation of COPD, external PEEP set below PEEPi reduces the work of triggering. — T / F
+- D. In severe asthma a plateau pressure up to 35 cmH₂O is acceptable. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – Lower minute ventilation – the most effective step.
+- B (True) – PEEPi = total PEEP − set PEEP.
+- C (True) – Counterbalances PEEPi.
+- D (False) – Aim Pplat < 30 (ideally < 25); end-inspiratory volume ≥ 1.4 L predicts complications.
+
+**EDIC trap:** Lowering RR helps more than increasing inspiratory flow.
+
+**Ref:** Williams TJ, Tuxen DV, et al. *Am Rev Respir Dis* 1992;146:607–615.
+
+</details>
+
+**3.** A 68-year-old man with an acute COPD exacerbation has pH 7.30, PaCO₂ 9 kPa (68 mmHg), RR 28/min and is alert. What is recommended?
+
+- A. HFNO as first line instead of NIV
+- B. Bilevel NIV
+- C. Immediate intubation
+- D. Controlled O₂ only, recheck gas in 6 h
+- E. Doxapram
+
+<details><summary>Answer</summary>
+
+**B.**
+
+NIV is strongly recommended for acute hypercapnic COPD exacerbation with pH ≤ 7.35 (ERS/ATS 2017). There is no recommendation for NIV in asthma.
+
+**EDIC trap:** pH ≤ 7.35 + hypercapnia = NIV.
+
+**Ref:** Rochwerg B, et al. ERS/ATS NIV guideline. *Eur Respir J* 2017;50:1602426.
+
+</details>
+
+
+## Case-style practice · W14-D1 · Review: sepsis and infections
+
+**1.** A 59-year-old man has MSSA bacteraemia from an infected peripheral cannula, which has been removed. Blood cultures are negative after 48 h and TEE shows no vegetations. The minimum appropriate duration of IV therapy is:
+
+- A. 5 days
+- B. 7 days
+- C. 10 days
+- D. 14 days from the first negative culture
+- E. 6 weeks
+
+<details><summary>Answer</summary>
+
+**D.**
+
+Uncomplicated *S. aureus* bacteraemia needs ≥ 14 days; BALANCE (7 days) excluded *S. aureus*. 4–6 weeks for complicated infection or endocarditis.
+
+**EDIC trap:** 7-day courses do not apply to *S. aureus*.
+
+**Ref:** Mermel LA, et al. *Clin Infect Dis* 2009; BALANCE. *N Engl J Med* 2025.
+
+</details>
+
+**2.** Revision – sepsis and infections:
+
+- A. *Candida* in endotracheal aspirate is usually colonisation. — T / F
+- B. Procalcitonin is recommended to decide whether to start antimicrobials in suspected septic shock. — T / F
+- C. Hydrocortisone is indicated in septic shock needing NA ≥ 0.25 µg/kg/min for ≥ 4 h. — T / F
+- D. A patient on noradrenaline with lactate 1.5 mmol/L meets the Sepsis-3 criteria for septic shock. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – Do not treat.
+- B (False) – Start immediately; PCT helps to stop.
+- C (True) – SSC.
+- D (False) – Both criteria are needed (vasopressor and lactate > 2).
+
+**EDIC trap:** Septic shock = vasopressor **and** lactate > 2 mmol/L.
+
+**Ref:** Surviving Sepsis Campaign 2026.
+
+</details>
+
+**3.** Rezafungin was compared with caspofungin in candidaemia and invasive candidiasis (ReSTORE). Its main distinguishing feature is:
+
+- A. Oral administration
+- B. Once-weekly IV dosing, non-inferior to caspofungin
+- C. Activity against *Aspergillus* only
+- D. Superior mortality to caspofungin
+- E. It is an azole
+
+<details><summary>Answer</summary>
+
+**B.**
+
+Rezafungin is a long-acting echinocandin given once weekly; it was non-inferior to caspofungin.
+
+**EDIC trap:** It is still an echinocandin.
+
+**Ref:** Thompson GR, et al. ReSTORE. *Lancet* 2023;401:49–59.
+
+</details>
+
+
+## Case-style practice · W14-D2 · Review: shock, cardiovascular and cardiac arrest
+
+**1.** A patient with septic shock has ScvO₂ 82 % and lactate 5.0 mmol/L on noradrenaline. Which interpretation is best?
+
+- A. Tissue oxygenation is adequate because ScvO₂ is above 70 %
+- B. High ScvO₂ may reflect impaired O₂ extraction; it does not exclude tissue hypoxia
+- C. The lactate must be a laboratory error
+- D. Transfuse to raise ScvO₂ further
+- E. Start dobutamine to increase ScvO₂
+
+<details><summary>Answer</summary>
+
+**B.**
+
+In distributive shock, SvO₂/ScvO₂ is often normal or high because of microcirculatory shunting and impaired extraction. A high value is not reassurance.
+
+**EDIC trap:** Normal SvO₂ ≠ adequate tissue oxygenation.
+
+**Ref:** Cecconi M, et al. *Intensive Care Med* 2014.
+
+</details>
+
+**2.** Revision – shock and cardiac arrest:
+
+- A. SCAI stage E denotes extremis, e.g. lactate ≥ 8 mmol/L or ongoing CPR. — T / F
+- B. In hypothermic cardiac arrest at 28 °C adrenaline is withheld. — T / F
+- C. In anaphylaxis without cardiac arrest, a 1 mg IV adrenaline bolus is first-line. — T / F
+- D. In local anaesthetic systemic toxicity with cardiac arrest, 20 % lipid emulsion 1.5 mL/kg is given. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – SCAI E.
+- B (True) – < 30 °C – no adrenaline.
+- C (False) – IM adrenaline 0.5 mg, repeat after 5 min; IV bolus only by experienced specialists.
+- D (True) – Lipid 1.5 mL/kg, prolonged CPR.
+
+**EDIC trap:** Anaphylaxis = IM, not IV bolus.
+
+**Ref:** ERC Guidelines 2025.
+
+</details>
+
+**3.** Which echocardiographic finding argues most strongly against cardiac tamponade in a hypotensive patient?
+
+- A. A 2-cm circumferential pericardial effusion
+- B. Right atrial systolic collapse
+- C. A dilated IVC that does not collapse
+- D. A small (non-dilated) IVC
+- E. A swinging heart
+
+<details><summary>Answer</summary>
+
+**D.**
+
+Tamponade raises right atrial pressure, so the IVC is almost always plethoric; a non-dilated IVC makes tamponade very unlikely.
+
+**EDIC trap:** Tamponade is a clinical diagnosis – effusion size alone does not decide.
+
+**Ref:** Robba C, et al. *Intensive Care Med* 2021.
+
+</details>
+
+
+## Case-style practice · W14-D3 · Review: respiratory
+
+**1.** A 180-cm-tall man with ARDS is to be ventilated at 6 mL/kg predicted body weight. His tidal volume should be approximately:
+
+- A. 360 mL
+- B. 410 mL
+- C. 450 mL
+- D. 540 mL
+- E. 600 mL
+
+<details><summary>Answer</summary>
+
+**C.**
+
+PBW (men) = 50 + 0.91 × (180 − 152.4) ≈ 75 kg → 6 mL/kg ≈ 450 mL.
+
+**EDIC trap:** Measure the height – don't estimate it.
+
+**Ref:** ARDS Network 2000.
+
+</details>
+
+**2.** Revision – respiratory:
+
+- A. Prone positioning for ≥ 16 h/day is recommended in ARDS with P/F < 150 mmHg. — T / F
+- B. ESICM 2023 recommends prolonged high-pressure recruitment manoeuvres. — T / F
+- C. NIV used for established post-extubation respiratory failure delayed reintubation and increased mortality. — T / F
+- D. In status asthmaticus, an I:E ratio of 1:1 is recommended to improve oxygenation. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – Strong recommendation.
+- B (False) – Strongly against.
+- C (True) – Esteban 2004.
+- D (False) – Long expiration – I:E ≥ 1:3.
+
+**EDIC trap:** Rescue NIV after extubation is harmful.
+
+**Ref:** Guérin C, et al. PROSEVA. *N Engl J Med* 2013; Esteban A, et al. *N Engl J Med* 2004.
+
+</details>
+
+**3.** A patient on pressure support 18 cmH₂O, PEEP 6 cmH₂O, breathes at RR 12/min with VT 10 mL/kg PBW. P0.1 is 0.6 cmH₂O. The best change is:
+
+- A. Increase pressure support
+- B. Reduce pressure support
+- C. Switch to volume control
+- D. Add a sedative infusion
+- E. Increase PEEP to 12 cmH₂O
+
+<details><summary>Answer</summary>
+
+**B.**
+
+P0.1 ≤ 1 with a large VT and low RR suggests over-assistance (low drive); reduce support to avoid ineffective efforts and diaphragm disuse.
+
+**EDIC trap:** Low P0.1 = over-assist; high P0.1 (> 3.5) = under-assist/high drive.
+
+**Ref:** Telias I, et al. *Am J Respir Crit Care Med* 2020.
+
+</details>
+
+
+## Case-style practice · W14-D4 · Review: acid–base and electrolytes
+
+**1.** A patient has pH 7.18, HCO₃⁻ 12 mmol/L and PaCO₂ 5.3 kPa (40 mmHg). Which is correct?
+
+- A. Compensated metabolic acidosis
+- B. Metabolic acidosis with an additional respiratory acidosis
+- C. Metabolic acidosis with an additional respiratory alkalosis
+- D. Primary respiratory acidosis
+- E. Normal compensation
+
+<details><summary>Answer</summary>
+
+**B.**
+
+Winter's formula: expected PaCO₂ = 1.5 × 12 + 8 = 26 ± 2 mmHg (≈ 3.5 kPa). Measured 40 mmHg is higher → inadequate compensation = coexisting respiratory acidosis (e.g. fatigue, sedation).
+
+**EDIC trap:** A "normal" PaCO₂ in metabolic acidosis is abnormal.
+
+**Ref:** Berend K, et al. *N Engl J Med* 2014;371:1434–1445.
+
+</details>
+
+**2.** A patient has Na⁺ 140, Cl⁻ 94 and HCO₃⁻ 22 mmol/L (normal anion gap 12). What is the most likely acid–base diagnosis?
+
+- A. Normal acid–base status
+- B. Normal anion gap metabolic acidosis
+- C. High anion gap metabolic acidosis with concomitant metabolic alkalosis
+- D. Pure high anion gap metabolic acidosis
+- E. Respiratory alkalosis only
+
+<details><summary>Answer</summary>
+
+**C.**
+
+AG = 140 − (94 + 22) = 24 → ΔAG 12; ΔHCO₃⁻ = 24 − 22 = 2. Delta ratio ≈ 6 (> 2) → HAGMA plus metabolic alkalosis (e.g. DKA with vomiting).
+
+**EDIC trap:** A near-normal HCO₃⁻ can hide two opposing disorders – always calculate the anion gap.
+
+**Ref:** Berend K, et al. *N Engl J Med* 2014.
+
+</details>
+
+**3.** Revision – acid–base:
+
+- A. Metabolic alkalosis with urine Cl⁻ > 20 mmol/L and hypertension suggests mineralocorticoid excess. — T / F
+- B. In DIABOLO, acetazolamide shortened the duration of mechanical ventilation. — T / F
+- C. A normal osmolar gap excludes toxic-alcohol poisoning. — T / F
+- D. In DKA with K⁺ 3.2 mmol/L, insulin should be delayed until potassium is replaced. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – T.**
+
+- A (True) – Chloride-resistant alkalosis.
+- B (False) – No significant reduction.
+- C (False) – Late presenters may have a normal gap (alcohol already metabolised).
+- D (True) – K⁺ < 3.5 → delay insulin.
+
+**EDIC trap:** A normal osmolar gap does not exclude toxic alcohols.
+
+**Ref:** Faisy C, et al. DIABOLO. *JAMA* 2016;315:480–488.
+
+</details>
+
+
+## Case-style practice · W14-D5 · Mini-mock: mixed topics W01–W13
+
+**1.** A 70-year-old woman has *Klebsiella pneumoniae* bacteraemia from a CVC, which has been removed. She defervesces within 48 h and repeat cultures are negative. The total duration of antibiotics should be about:
+
+- A. 3 days
+- B. 7 days
+- C. 14 days
+- D. 4 weeks
+- E. Until the CRP is normal
+
+<details><summary>Answer</summary>
+
+**B.**
+
+Gram-negative CRBSI with the catheter removed and a rapid response: 7 days (BALANCE). *S. aureus* ≥ 14 days, CoNS 5–7 days.
+
+**EDIC trap:** Duration depends on the organism: Gram-negative 7 days, *S. aureus* ≥ 14.
+
+**Ref:** BALANCE. *N Engl J Med* 2025.
+
+</details>
+
+**2.** Mixed revision:
+
+- A. A videolaryngoscope increases first-attempt intubation success in critically ill adults. — T / F
+- B. In high-risk patients, HFNO alternating with NIV after extubation reduced reintubation compared with HFNO alone. — T / F
+- C. In APROCCHSS, hydrocortisone plus fludrocortisone reduced 90-day mortality. — T / F
+- D. Empirical micafungin improved invasive-fungal-infection-free survival in EMPIRICUS. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – DEVICE.
+- B (True) – HIGH-WEAN.
+- C (True) – APROCCHSS.
+- D (False) – No improvement (68 vs 60 %, NS), only fewer new IFIs.
+
+**EDIC trap:** Empirical antifungals in non-neutropenic ICU patients – no proven benefit.
+
+**Ref:** Timsit JF, et al. EMPIRICUS. *JAMA* 2016;316:1555–1564.
+
+</details>
+
+**3.** A passive ARDS patient has VT 450 mL (7.5 mL/kg PBW), PEEP 12 cmH₂O and plateau pressure 30 cmH₂O. The most appropriate change is:
+
+- A. Increase VT to recruit the lung
+- B. Reduce VT towards 6 mL/kg PBW to lower the plateau and driving pressure
+- C. Perform a prolonged recruitment manoeuvre
+- D. Reduce PEEP to 5 cmH₂O to lower the plateau
+- E. No change – the plateau is acceptable
+
+<details><summary>Answer</summary>
+
+**B.**
+
+ΔP = 18 cmH₂O with Pplat at the 30 limit; reduce VT (4–8 mL/kg PBW, strong ESICM recommendation) and accept hypercapnia. Prolonged RM is strongly recommended against.
+
+**EDIC trap:** A plateau at 30 with a high ΔP is not "fine".
+
+**Ref:** Grasselli G, et al. *Intensive Care Med* 2023.
+
+</details>
+
+
 ## Case-style practice · W15-D1 · Traumatic brain injury
 
 **1.** A 34-year-old motorcyclist is admitted with an isolated severe traumatic brain injury. The team wants to quote a 6-month outcome estimate to the family using the CRASH and IMPACT prognostic models. Regarding the variables in these models:
@@ -2385,6 +4014,71 @@ Early decline in consciousness with upgaze palsy and ventriculomegaly with trans
 **B.**
 
 Symptomatic DCI after the aneurysm is secured is usually treated with a trial of induced hypertension (stepwise MAP increase while assessing neurological response), with endovascular rescue (angioplasty/intra-arterial vasodilators) if refractory. The evidence is weak (HIMALAIA stopped early), but hypervolaemia and haemodilution are harmful, high-dose statin (STASH) showed no benefit, and IV nimodipine causes hypotension without proven advantage over oral. Ref: Gathier CS et al. *Stroke* 2018 (HIMALAIA); Treggiari MM et al. *Neurocrit Care* 2023.
+
+</details>
+
+
+## Case-style practice · W15-D3 · Spontaneous intracerebral haemorrhage
+
+**1.** A 67-year-old man has a 15-mL left putaminal haemorrhage with SBP 210 mmHg, 2 hours after onset. The best blood-pressure strategy is:
+
+- A. Leave BP untreated to preserve cerebral perfusion
+- B. Lower SBP to about 140 mmHg within 1 hour, avoiding falls below 130 mmHg
+- C. Lower SBP to 110 mmHg as fast as possible
+- D. Lower SBP to below 180 mmHg over 24 hours only
+- E. Lower MAP by 50 % in the first hour
+
+<details><summary>Answer</summary>
+
+**B.**
+
+Target SBP ~140 mmHg early and smoothly, avoid < 130 (ATACH-2 harm signal); the INTERACT3 care bundle improved outcome.
+
+**EDIC trap:** Intensive lowering below 130 mmHg is not better.
+
+**Ref:** Greenberg SM, et al. AHA/ASA ICH guideline. *Stroke* 2022; Ma L, et al. INTERACT3. *Lancet* 2023.
+
+</details>
+
+**2.** A 75-year-old woman taking apixaban has a lobar ICH. Which is an appropriate reversal strategy?
+
+- A. Idarucizumab 5 g IV
+- B. Vitamin K 10 mg IV alone
+- C. Platelet transfusion
+- D. Four-factor PCC 50 IU/kg (or andexanet alfa where available)
+- E. Protamine sulfate
+
+<details><summary>Answer</summary>
+
+**D.**
+
+Factor Xa inhibitors: 4F-PCC 50 IU/kg or andexanet (ANNEXA-I: better haemostatic efficacy, more thrombotic events). Idarucizumab is for dabigatran; vitamin K + PCC for warfarin.
+
+**EDIC trap:** Match the reversal agent to the anticoagulant.
+
+**Ref:** Connolly SJ, et al. ANNEXA-I. *N Engl J Med* 2024;390:1745–1755.
+
+</details>
+
+**3.** Regarding the ICU management of spontaneous ICH:
+
+- A. Platelet transfusion is recommended for patients on antiplatelet drugs. — T / F
+- B. Cerebellar haemorrhage > 15 mL or with hydrocephalus is an indication for evacuation. — T / F
+- C. Prophylactic anti-seizure medication is recommended. — T / F
+- D. The ICH score should not be used to limit care in the first 24 hours. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – T, C – F, D – T.**
+
+- A (False) – PATCH – harm.
+- B (True) – Surgical evacuation.
+- C (False) – Not recommended without seizures.
+- D (True) – Avoid early DNR/limitation – self-fulfilling prophecy.
+
+**EDIC trap:** Platelets for antiplatelet ICH – no (PATCH).
+
+**Ref:** Baharoglu MI, et al. PATCH. *Lancet* 2016;387:2605–2613.
 
 </details>
 
