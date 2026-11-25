@@ -3978,7 +3978,13 @@ P0.1 ≤ 1 with a large VT and low RR suggests over-assistance (low drive); redu
 
 **B.**
 
-Winter's formula: expected PaCO₂ = 1.5 × 12 + 8 = 26 ± 2 mmHg (≈ 3.5 kPa). Measured 40 mmHg is higher → inadequate compensation = coexisting respiratory acidosis (e.g. fatigue, sedation).
+**Why B:** Winter's formula: expected PaCO₂ = 1.5 × 12 + 8 = 26 ± 2 mmHg (≈ 3.5 kPa). The measured 40 mmHg is too high, so respiratory compensation is inadequate. That means a coexisting respiratory acidosis, from fatigue, sedation, neuromuscular weakness or airway obstruction.
+
+**Why not the others:**
+- A – Compensated metabolic acidosis would have a PaCO₂ of ~24–28 mmHg.
+- C – An added respiratory alkalosis would push PaCO₂ below 24 mmHg.
+- D – A primary respiratory acidosis would raise HCO₃⁻, not lower it to 12.
+- E – PaCO₂ lies far outside the predicted range.
 
 **EDIC trap:** A "normal" PaCO₂ in metabolic acidosis is abnormal.
 
@@ -3998,11 +4004,17 @@ Winter's formula: expected PaCO₂ = 1.5 × 12 + 8 = 26 ± 2 mmHg (≈ 3.5 kPa).
 
 **C.**
 
-AG = 140 − (94 + 22) = 24 → ΔAG 12; ΔHCO₃⁻ = 24 − 22 = 2. Delta ratio ≈ 6 (> 2) → HAGMA plus metabolic alkalosis (e.g. DKA with vomiting).
+**Why C:** AG = 140 − (94 + 22) = 24, so ΔAG = 12, but HCO₃⁻ has fallen by only 2. The delta ratio is ≈ 6 (> 2), so something has added HCO₃⁻: a concomitant metabolic alkalosis, e.g. DKA with vomiting. The low Cl⁻ (94) supports chloride loss.
 
-**EDIC trap:** A near-normal HCO₃⁻ can hide two opposing disorders – always calculate the anion gap.
+**Why not the others:**
+- A – An AG of 24 is abnormal, despite the near-normal HCO₃⁻.
+- B – The AG is high, not normal, and Cl⁻ is low rather than high.
+- D – A pure HAGMA would lower HCO₃⁻ to ~12 (delta ratio 1–2).
+- E – Respiratory alkalosis does not explain an AG of 24.
 
-**Ref:** Berend K, et al. *N Engl J Med* 2014.
+**EDIC trap:** A near-normal HCO₃⁻ can hide two opposing disorders, so always calculate the anion gap.
+
+**Ref:** Berend K, et al. *N Engl J Med* 2014;371:1434–1445; Rastegar A. *J Am Soc Nephrol* 2007;18:2429–2431.
 
 </details>
 
@@ -4017,14 +4029,14 @@ AG = 140 − (94 + 22) = 24 → ΔAG 12; ΔHCO₃⁻ = 24 − 22 = 2. Delta rati
 
 **A – T, B – F, C – F, D – T.**
 
-- A (True) – Chloride-resistant alkalosis.
-- B (False) – No significant reduction.
-- C (False) – Late presenters may have a normal gap (alcohol already metabolised).
-- D (True) – K⁺ < 3.5 → delay insulin.
+- A (True) – U-Cl⁻ > 20 with hypertension means chloride-resistant alkalosis from mineralocorticoid excess (hyperaldosteronism, Cushing's, liquorice).
+- B (False) – DIABOLO: ventilation lasted 136.5 vs 163 h, NS.
+- C (False) – Late presenters have already metabolised the alcohol to acids, so the osmolar gap may be normal while the AG is high.
+- D (True) – If K⁺ is < 3.5 mmol/L, delay insulin and replace K⁺ first, because insulin drives K⁺ into cells and risks arrhythmias.
 
 **EDIC trap:** A normal osmolar gap does not exclude toxic alcohols.
 
-**Ref:** Faisy C, et al. DIABOLO. *JAMA* 2016;315:480–488.
+**Ref:** Faisy C, et al. DIABOLO. *JAMA* 2016;315:480–488; Umpierrez GE, et al. *Diabetes Care* 2024.
 
 </details>
 
@@ -4043,11 +4055,17 @@ AG = 140 − (94 + 22) = 24 → ΔAG 12; ΔHCO₃⁻ = 24 − 22 = 2. Delta rati
 
 **B.**
 
-Gram-negative CRBSI with the catheter removed and a rapid response: 7 days (BALANCE). *S. aureus* ≥ 14 days, CoNS 5–7 days.
+**Why B:** In Gram-negative CRBSI with the catheter removed, rapid defervescence and negative repeat cultures, 7 days in total is enough. BALANCE found 7 days non-inferior to 14 days for 90-day mortality in bloodstream infection, mostly with Gram-negatives.
 
-**EDIC trap:** Duration depends on the organism: Gram-negative 7 days, *S. aureus* ≥ 14.
+**Why not the others:**
+- A – 3 days is shorter than any trial-supported course for bacteraemia.
+- C – 14 days is the minimum for *S. aureus*, or for a source that is not controlled.
+- D – 4 weeks is for complicated infection (endocarditis, osteomyelitis, septic thrombosis).
+- E – A normal CRP is not a validated rule for stopping antibiotics.
 
-**Ref:** BALANCE. *N Engl J Med* 2025.
+**EDIC trap:** Duration depends on the organism: Gram-negative 7 days, *S. aureus* ≥ 14 days, CoNS 5–7 days.
+
+**Ref:** BALANCE. *N Engl J Med* 2025;392:1065–1078.
 
 </details>
 
@@ -4062,14 +4080,14 @@ Gram-negative CRBSI with the catheter removed and a rapid response: 7 days (BALA
 
 **A – T, B – T, C – T, D – F.**
 
-- A (True) – DEVICE.
-- B (True) – HIGH-WEAN.
-- C (True) – APROCCHSS.
-- D (False) – No improvement (68 vs 60 %, NS), only fewer new IFIs.
+- A (True) – DEVICE: videolaryngoscopy increased first-attempt success (85.1 vs 70.8 %).
+- B (True) – HIGH-WEAN: NIV alternating with HFNO reduced reintubation in high-risk patients compared with HFNO alone.
+- C (True) – APROCCHSS: hydrocortisone plus fludrocortisone reduced 90-day mortality (43.0 vs 49.1 %).
+- D (False) – EMPIRICUS: IFI-free survival was 68 vs 60 %, NS. Only new IFIs were fewer.
 
-**EDIC trap:** Empirical antifungals in non-neutropenic ICU patients – no proven benefit.
+**EDIC trap:** Empirical antifungals in non-neutropenic ICU patients have no proven benefit.
 
-**Ref:** Timsit JF, et al. EMPIRICUS. *JAMA* 2016;316:1555–1564.
+**Ref:** Prekker ME, et al. DEVICE. *N Engl J Med* 2023;389:418–429; Thille AW, et al. HIGH-WEAN. *JAMA* 2019;322:1465–1475; Timsit JF, et al. EMPIRICUS. *JAMA* 2016;316:1555–1564.
 
 </details>
 
@@ -4085,11 +4103,17 @@ Gram-negative CRBSI with the catheter removed and a rapid response: 7 days (BALA
 
 **B.**
 
-ΔP = 18 cmH₂O with Pplat at the 30 limit; reduce VT (4–8 mL/kg PBW, strong ESICM recommendation) and accept hypercapnia. Prolonged RM is strongly recommended against.
+**Why B:** ΔP = 30 − 12 = 18 cmH₂O, above the ~15 linked to higher mortality, and Pplat is at the 30 cmH₂O ceiling. ESICM strongly recommends low VT (4–8 mL/kg PBW), so reducing VT towards 6 mL/kg lowers both Pplat and ΔP. Accept permissive hypercapnia and raise RR within limits.
+
+**Why not the others:**
+- A – Increasing VT raises Pplat and ΔP (volutrauma).
+- C – Prolonged high-pressure recruitment manoeuvres are strongly recommended against.
+- D – Dropping PEEP to 5 lowers Pplat but not ΔP, and risks derecruitment.
+- E – Pplat 30 is the upper limit, and a ΔP of 18 is too high.
 
 **EDIC trap:** A plateau at 30 with a high ΔP is not "fine".
 
-**Ref:** Grasselli G, et al. *Intensive Care Med* 2023.
+**Ref:** Grasselli G, et al. *Intensive Care Med* 2023;49:727–759; Amato MBP, et al. *N Engl J Med* 2015;372:747–755.
 
 </details>
 
@@ -4107,7 +4131,14 @@ Gram-negative CRBSI with the catheter removed and a rapid response: 7 days (BALA
 
 **A – T, B – T, C – F, D – F.**
 
-IMPACT core = age, GCS motor score and pupillary reactivity. The extended model adds pre-hospital hypoxia and hypotension, Marshall CT class, traumatic SAH and epidural haematoma; the lab model adds glucose and haemoglobin (not sodium). Neither IMPACT nor CRASH uses ICU-phase data such as ICP – both are admission models built for baseline risk stratification. CRASH uses age, GCS, pupils, major extracranial injury and CT findings, with country-income adjustment. Ref: Steyerberg EW et al. *PLoS Med* 2008; MRC CRASH Trial Collaborators. *BMJ* 2008.
+- A (True) – the IMPACT core model uses age, GCS motor score and pupillary reactivity; the motor score carries most prognostic information.
+- B (True) – the extended model adds pre-hospital hypoxia and hypotension, Marshall CT class, traumatic SAH and epidural haematoma.
+- C (False) – the lab model adds **glucose and haemoglobin**, not sodium.
+- D (False) – IMPACT (and CRASH) are admission models; ICU-phase data such as ICP are not included.
+
+**EDIC trap:** CRASH uses age, GCS, pupils, major extracranial injury and CT findings, with adjustment for country income; neither model should be used alone to limit care in an individual patient.
+
+**Ref:** Steyerberg EW, PLoS Med 2008; MRC CRASH Trial Collaborators, BMJ 2008.
 
 </details>
 
@@ -4122,7 +4153,14 @@ IMPACT core = age, GCS motor score and pupillary reactivity. The extended model 
 
 **A – F, B – T, C – T, D – F.**
 
-BTF 4th ed. (2016) does not recommend prophylactic hypothermia (POLAR 2018 found no benefit; Eurotherm3235 showed harm when used for ICP control). Prolonged hyperventilation ≤ 25 mmHg is a Level IIB "not recommended". Steroids are Level I contraindicated after CRASH-1 (increased mortality). Phenytoin (or levetiracetam) reduces early (< 7 days) seizures only – it does not prevent late post-traumatic epilepsy. Ref: Carney N et al. *Neurosurgery* 2017; Cooper DJ et al. *JAMA* 2018 (POLAR).
+- A (False) – BTF 4th edition does not recommend early (≤ 2.5 h), short-term prophylactic hypothermia in diffuse injury; POLAR (2018) confirmed no benefit, and Eurotherm3235 showed harm with hypothermia for ICP control.
+- B (True) – prolonged prophylactic hyperventilation to PaCO₂ ≤ 3.3 kPa (25 mmHg) is not recommended (Level IIB).
+- C (True) – steroids are contraindicated (Level I) because CRASH showed increased mortality.
+- D (False) – phenytoin (or levetiracetam) reduces **early** (< 7 days) seizures only; it does not prevent late post-traumatic epilepsy.
+
+**EDIC trap:** "prophylaxis prevents epilepsy" is a classic false statement – seizure prophylaxis is limited to 1 week.
+
+**Ref:** Carney N, Neurosurgery 2017; Cooper DJ, JAMA 2018 (POLAR).
 
 </details>
 
@@ -4138,7 +4176,17 @@ BTF 4th ed. (2016) does not recommend prophylactic hypothermia (POLAR 2018 found
 
 **D.**
 
-Sustained ICP > 22 mmHg despite basic measures (sedation, positioning, normocapnia, normothermia) should be treated next with intermittent hyperosmolar boluses – a tier 1 SIBICC intervention. Barbiturate coma and hypothermia are tier 3 rescue options with significant harms (Eurotherm3235 showed worse outcome with hypothermia for ICP). Albumin was associated with higher mortality in TBI (SAFE-TBI) and steroids are harmful (CRASH-1). Ref: Hawryluk GWJ et al. *Intensive Care Med* 2019 (SIBICC); Andrews PJD et al. *N Engl J Med* 2015.
+**Why D:** Sustained ICP > 22 mmHg despite tier-0 measures (sedation, head-up, normocapnia, normothermia, normal Na) with no surgical lesion calls for tier-1 SIBICC treatment: an intermittent bolus of hypertonic saline or mannitol. CPP is adequate, so osmotherapy is the logical next step.
+
+**Why not the others:**
+- A – albumin was associated with higher mortality in TBI (SAFE-TBI) and does not lower ICP.
+- B – barbiturate coma is a tier-3 rescue with hypotension and infection risks.
+- C – hypothermia to 33 °C worsened outcome when used for ICP control (Eurotherm3235); only 35–36 °C is a tier-3 option.
+- E – corticosteroids increase mortality in TBI (CRASH); dexamethasone is for vasogenic tumour oedema.
+
+**EDIC trap:** move up the SIBICC tiers stepwise and repeat CT before escalating.
+
+**Ref:** Hawryluk GWJ, Intensive Care Med 2019 (SIBICC); Andrews PJD, N Engl J Med 2015.
 
 </details>
 
@@ -4156,7 +4204,14 @@ Sustained ICP > 22 mmHg despite basic measures (sedation, positioning, normocapn
 
 **A – T, B – F, C – F, D – T.**
 
-Nimodipine is the only drug with proven outcome benefit (it reduces DCI rather than angiographic spasm). Prophylactic hypertension and hypervolaemia ("triple H") are not recommended; the aim is euvolaemia and avoidance of hypotension. TCD MCA velocity > 200 cm/s with Lindegaard (MCA/ICA) > 6 indicates severe vasospasm; a ratio < 3 suggests hyperaemia. Ref: Hoh BL et al. *Stroke* 2023 (AHA/ASA aSAH guideline); Treggiari MM et al. *Neurocrit Care* 2023.
+- A (True) – oral nimodipine 60 mg 4-hourly for 21 days is the only drug with proven outcome benefit; it reduces DCI and poor outcome rather than angiographic spasm.
+- B (False) – **prophylactic** induced hypertension is not recommended; induced hypertension is a treatment for symptomatic DCI.
+- C (False) – prophylactic hypervolaemia ("triple H") does not improve CBF or outcome and causes complications; aim for euvolaemia.
+- D (True) – MCA mean velocity > 200 cm/s with a Lindegaard ratio (MCA/extracranial ICA) > 6 indicates severe vasospasm; a ratio < 3 suggests hyperaemia.
+
+**EDIC trap:** angiographic vasospasm and DCI are not synonyms – nimodipine improves outcome without reducing spasm.
+
+**Ref:** Hoh BL, Stroke 2023 (AHA/ASA aSAH guideline); Treggiari MM, Neurocrit Care 2023.
 
 </details>
 
@@ -4171,7 +4226,14 @@ Nimodipine is the only drug with proven outcome benefit (it reduces DCI rather t
 
 **A – T, B – F, C – F, D – F.**
 
-ADPKD (and other connective-tissue disorders) carries a several-fold higher aneurysm prevalence. Alcohol intake shows a dose-dependent increase in risk, not protection; the main modifiable factors are smoking, hypertension and heavy alcohol. Diabetes and hypercholesterolaemia are not positively associated (some studies even show an inverse association). Screening is usually advised when ≥ 2 first-degree relatives are affected or in ADPKD, not for a single affected relative. Ref: Feigin VL et al. *Stroke* 2005; Claassen J, Park S. *Lancet* 2022.
+- A (True) – ADPKD is associated with a several-fold higher prevalence of intracranial aneurysms and SAH.
+- B (False) – alcohol shows a dose-dependent **increase** in risk; smoking, hypertension and heavy alcohol are the main modifiable factors.
+- C (False) – diabetes is not positively associated with aneurysmal SAH (some studies show an inverse association).
+- D (False) – screening is usually advised when **≥ 2 first-degree relatives** are affected, or in ADPKD – not for a single affected relative.
+
+**EDIC trap:** risk factors for aneurysmal SAH differ from atherosclerotic ones – diabetes and hypercholesterolaemia do not increase risk.
+
+**Ref:** Feigin VL, Stroke 2005; Claassen J, Park S, Lancet 2022.
 
 </details>
 
@@ -4187,7 +4249,17 @@ ADPKD (and other connective-tissue disorders) carries a several-fold higher aneu
 
 **E.**
 
-Early decline in consciousness with upgaze palsy and ventriculomegaly with transependymal oedema is acute obstructive/communicating hydrocephalus, which occurs in ~20–30 % of SAH and is treated with CSF diversion (EVD). DCI is unusual before day 3 and TCD is normal; no new blood argues against rebleeding; sodium and glucose are normal. Ref: Hoh BL et al. *Stroke* 2023; Claassen J, Park S. *Lancet* 2022.
+**Why E:** Early decline in consciousness with impaired upgaze (dorsal midbrain compression), enlarged temporal horns, a rounded third ventricle and periventricular lucency is acute hydrocephalus. It complicates ~20–30 % of SAH and is treated with CSF diversion by EVD, which often produces rapid neurological improvement.
+
+**Why not the others:**
+- A – the route of nimodipine is irrelevant to hydrocephalus; IV nimodipine causes hypotension.
+- B – induced hypertension treats DCI, which is unusual before day 3; TCD is normal.
+- C – sodium is normal and hydrocephalus needs drainage, not osmotherapy.
+- D – CT shows no new blood, arguing against rebleeding.
+
+**EDIC trap:** in early SAH deterioration think rebleeding and hydrocephalus; from day 3–14 think DCI.
+
+**Ref:** Hoh BL, Stroke 2023; Claassen J, Park S, Lancet 2022.
 
 </details>
 
@@ -4203,7 +4275,17 @@ Early decline in consciousness with upgaze palsy and ventriculomegaly with trans
 
 **B.**
 
-Symptomatic DCI after the aneurysm is secured is usually treated with a trial of induced hypertension (stepwise MAP increase while assessing neurological response), with endovascular rescue (angioplasty/intra-arterial vasodilators) if refractory. The evidence is weak (HIMALAIA stopped early), but hypervolaemia and haemodilution are harmful, high-dose statin (STASH) showed no benefit, and IV nimodipine causes hypotension without proven advantage over oral. Ref: Gathier CS et al. *Stroke* 2018 (HIMALAIA); Treggiari MM et al. *Neurocrit Care* 2023.
+**Why B:** New focal deficit on day 7 with the aneurysm secured and CT excluding hydrocephalus, rebleeding and established infarction is symptomatic DCI. First-line treatment is a trial of induced hypertension with noradrenaline, raising MAP stepwise while reassessing the deficit; endovascular rescue (angioplasty/intra-arterial vasodilators) follows if refractory.
+
+**Why not the others:**
+- A – hypervolaemia/haemodilution is harmful; he is already euvolaemic.
+- C – mannitol does not treat ischaemia and causes hypovolaemia.
+- D – high-dose statins showed no benefit (STASH).
+- E – IV nimodipine causes hypotension and has no proven advantage over oral.
+
+**EDIC trap:** evidence for induced hypertension is weak (HIMALAIA stopped early), but it remains guideline-endorsed for symptomatic DCI.
+
+**Ref:** Gathier CS, Stroke 2018 (HIMALAIA); Treggiari MM, Neurocrit Care 2023.
 
 </details>
 
@@ -4222,11 +4304,17 @@ Symptomatic DCI after the aneurysm is secured is usually treated with a trial of
 
 **B.**
 
-Target SBP ~140 mmHg early and smoothly, avoid < 130 (ATACH-2 harm signal); the INTERACT3 care bundle improved outcome.
+**Why B:** For spontaneous ICH with SBP 150–220 mmHg presenting early, guidelines support lowering SBP to ~140 mmHg (range 130–150) promptly and smoothly, avoiding large variability. INTERACT3, with a care bundle including early intensive BP lowering (< 140 mmHg within 1 h), glycaemic control, fever treatment and anticoagulation reversal, improved functional outcome.
 
-**EDIC trap:** Intensive lowering below 130 mmHg is not better.
+**Why not the others:**
+- A – untreated SBP 210 mmHg favours haematoma expansion.
+- C – lowering to 110 mmHg is excessive; ATACH-2 (target 110–139) showed no benefit and more renal adverse events.
+- D – a 24-hour target < 180 mmHg is too slow and too lenient.
+- E – a 50 % MAP reduction risks ischaemia.
 
-**Ref:** Greenberg SM, et al. AHA/ASA ICH guideline. *Stroke* 2022; Ma L, et al. INTERACT3. *Lancet* 2023.
+**EDIC trap:** lowering SBP below 130 mmHg is potentially harmful and is not recommended.
+
+**Ref:** Greenberg SM, Stroke 2022 (AHA/ASA ICH guideline); Ma L, Lancet 2023 (INTERACT3).
 
 </details>
 
@@ -4242,11 +4330,17 @@ Target SBP ~140 mmHg early and smoothly, avoid < 130 (ATACH-2 harm signal); the 
 
 **D.**
 
-Factor Xa inhibitors: 4F-PCC 50 IU/kg or andexanet (ANNEXA-I: better haemostatic efficacy, more thrombotic events). Idarucizumab is for dabigatran; vitamin K + PCC for warfarin.
+**Why D:** Apixaban is a factor Xa inhibitor. Reversal options are four-factor PCC 50 IU/kg or andexanet alfa where available. ANNEXA-I (n = 530) showed better haemostatic efficacy with andexanet than usual care (mostly PCC) (67.0 vs 53.1 %), but more thrombotic events, including ischaemic stroke, and no difference in mortality or functional outcome.
 
-**EDIC trap:** Match the reversal agent to the anticoagulant.
+**Why not the others:**
+- A – idarucizumab reverses dabigatran (direct thrombin inhibitor).
+- B – vitamin K reverses warfarin and is ineffective for DOACs.
+- C – platelet transfusion does not reverse anticoagulants (and was harmful for antiplatelet ICH in PATCH).
+- E – protamine reverses unfractionated heparin (partially LMWH).
 
-**Ref:** Connolly SJ, et al. ANNEXA-I. *N Engl J Med* 2024;390:1745–1755.
+**EDIC trap:** match the reversal agent to the drug – and check time since last dose.
+
+**Ref:** Connolly SJ, N Engl J Med 2024 (ANNEXA-I); Greenberg SM, Stroke 2022.
 
 </details>
 
@@ -4287,7 +4381,17 @@ Factor Xa inhibitors: 4F-PCC 50 IU/kg or andexanet (ANNEXA-I: better haemostatic
 
 **C.**
 
-In unknown-onset/wake-up stroke with a proximal anterior-circulation large-vessel occlusion and a favourable imaging profile, thrombectomy improves functional outcome up to 24 h from last seen well (DAWN, DEFUSE-3), and more recent trials extend benefit to larger cores. IV thrombolysis can also be considered with imaging selection (WAKE-UP, EXTEND), but thrombectomy is the key intervention here. BP needs only to be kept ≤ 185/110 mmHg peri-procedure; heparin and hemicraniectomy are not indicated. Ref: Nogueira RG et al. *N Engl J Med* 2018; Albers GW et al. *N Engl J Med* 2018; Turc G et al. *Eur Stroke J* 2023 (ESO).
+**Why C:** This is a wake-up stroke (9 h since last seen well) with a right M1 occlusion, ASPECTS 8 and a small core with a large penumbra. DAWN and DEFUSE-3 showed that thrombectomy improves functional outcome up to 24 h from last seen well with favourable imaging, and later trials extended benefit to large cores.
+
+**Why not the others:**
+- A – aspirin alone leaves a salvageable penumbra untreated.
+- B – BP only needs to be ≤ 185/110 mmHg around reperfusion; aggressive lowering risks penumbral infarction.
+- D – heparin has no role in acute ischaemic stroke and increases bleeding.
+- E – hemicraniectomy is for malignant oedema, not for a salvageable penumbra.
+
+**EDIC trap:** IV thrombolysis can also be considered with imaging selection (WAKE-UP, EXTEND), but must not delay thrombectomy.
+
+**Ref:** Nogueira RG, N Engl J Med 2018 (DAWN); Albers GW, N Engl J Med 2018 (DEFUSE-3); Turc G, Eur Stroke J 2023.
 
 </details>
 
@@ -4303,7 +4407,17 @@ In unknown-onset/wake-up stroke with a proximal anterior-circulation large-vesse
 
 **E.**
 
-The decision for hemicraniectomy in malignant MCA infarction is clinical and radiological (infarct volume, midline shift, decreasing consciousness); ICP monitoring is not required and ICP may be normal despite life-threatening shift. Pooled DECIMAL/DESTINY/HAMLET data show a large mortality reduction in ≤ 60 years when done within 48 h; DESTINY II showed survival benefit in > 60 years at the cost of more disability, so shared decision-making is essential. Aphasia is not an exclusion. Ref: Vahedi K et al. *Lancet Neurol* 2007; Jüttler E et al. *N Engl J Med* 2014; van der Worp HB et al. *Eur Stroke J* 2021.
+**Why E:** The decision to perform hemicraniectomy for malignant MCA infarction is clinical and radiological (infarct volume > 50 % MCA territory, midline shift, falling consciousness). ICP monitoring is not required, and ICP can be normal despite life-threatening shift because the mass effect is lateral and focal.
+
+**Why not the others:**
+- A – pooled DECIMAL/DESTINY/HAMLET data show a large mortality reduction in patients ≤ 60 years operated within 48 h.
+- B – DESTINY II: surgery in > 60 years increased survival, but most survivors had mRS 4–5.
+- C – aphasia (dominant hemisphere) is not an exclusion; many survivors accept the outcome.
+- D – osmotherapy can temporise but has not been shown to improve outcome.
+
+**EDIC trap:** shared decision-making about acceptable disability is essential, particularly in older patients.
+
+**Ref:** Vahedi K, Lancet Neurol 2007; Jüttler E, N Engl J Med 2014 (DESTINY II); van der Worp HB, Eur Stroke J 2021.
 
 </details>
 
@@ -4318,7 +4432,14 @@ The decision for hemicraniectomy in malignant MCA infarction is clinical and rad
 
 **A – T, B – F, C – T, D – F.**
 
-ATTENTION and BAOCHE (2022) showed better functional outcome with thrombectomy for basilar occlusion. In HINTS, a normal head-impulse test in a patient with acute continuous vertigo suggests a central (stroke) cause. DWI is falsely negative in up to ~20 % of small posterior-fossa infarcts within 24–48 h. Space-occupying cerebellar infarction is treated with suboccipital decompression (± EVD); EVD alone risks upward herniation and does not relieve brainstem compression. Ref: Tao C et al. *N Engl J Med* 2022; Jovin TG et al. *N Engl J Med* 2022; Wijdicks EFM et al. *Stroke* 2014.
+- A (True) – ATTENTION (≤ 12 h) and BAOCHE (6–24 h) (NEJM 2022) showed better functional outcome with thrombectomy for basilar artery occlusion.
+- B (False) – in an acute continuous vestibular syndrome, a **normal** head-impulse test suggests a **central** (stroke) cause; an abnormal (corrective saccade) test suggests a peripheral lesion (HINTS).
+- C (True) – DWI is falsely negative in up to ~20 % of small posterior-fossa infarcts within 24–48 h.
+- D (False) – space-occupying cerebellar infarction with brainstem compression needs suboccipital decompressive craniectomy (± EVD); EVD alone risks upward herniation.
+
+**EDIC trap:** HINTS is reassuring only when it fits a peripheral pattern – a normal head impulse is the dangerous finding.
+
+**Ref:** Tao C, N Engl J Med 2022; Jovin TG, N Engl J Med 2022; Wijdicks EFM, Stroke 2014.
 
 </details>
 
@@ -4333,7 +4454,14 @@ ATTENTION and BAOCHE (2022) showed better functional outcome with thrombectomy f
 
 **A – T, B – T, C – F, D – T.**
 
-ESO 2023 recommends tenecteplase 0.25 mg/kg as an alternative to alteplase. BP must be ≤ 185/110 before and < 180/105 for 24 h after lysis. In immobile stroke patients, IPC reduced DVT (CLOTS 3); early LMWH has no mortality benefit and increases bleeding. ELAN (2023) and OPTIMAS (2024) showed early DOAC initiation is non-inferior and not associated with more bleeding. Ref: Alamowitch S et al. *Eur Stroke J* 2023; Fischer U et al. *N Engl J Med* 2023 (ELAN); CLOTS 3 Collaboration. *Lancet* 2013.
+- A (True) – ESO 2023 recommends tenecteplase 0.25 mg/kg as an alternative to alteplase 0.9 mg/kg.
+- B (True) – BP must be ≤ 185/110 mmHg before lysis and < 180/105 mmHg for 24 h afterwards.
+- C (False) – in immobile stroke patients, **intermittent pneumatic compression** reduced DVT (CLOTS 3); early prophylactic LMWH has no proven mortality benefit and increases bleeding, so it is not preferred to IPC.
+- D (True) – ELAN (2023) and OPTIMAS (2024) found early DOAC initiation no worse than delayed initiation, without more symptomatic haemorrhage.
+
+**EDIC trap:** early DOAC timing in ELAN depended on stroke size (≤ 48 h minor/moderate, day 6–7 major).
+
+**Ref:** Alamowitch S, Eur Stroke J 2023; Fischer U, N Engl J Med 2023 (ELAN); Werring DJ, Lancet 2024 (OPTIMAS); CLOTS 3 Collaboration, Lancet 2013.
 
 </details>
 
@@ -4349,7 +4477,17 @@ ESO 2023 recommends tenecteplase 0.25 mg/kg as an alternative to alteplase. BP m
 
 **D.**
 
-TACS requires all three: higher cerebral dysfunction (dysphasia, neglect), homonymous visual field defect and motor/sensory deficit in ≥ 2 of face, arm, leg. PACS = two of the three or isolated cortical deficit; LACS = pure motor/sensory without cortical signs; POCS = brainstem/cerebellar or isolated hemianopia. TACS has the worst prognosis (~40 % 30-day mortality) and usually reflects a proximal MCA/ICA occlusion – a thrombectomy candidate. Ref: Bamford J et al. *Lancet* 1991.
+**Why D:** TACS requires all three of: higher cortical dysfunction (dysphasia, neglect, visuospatial disorder), homonymous visual field defect and motor/sensory deficit in ≥ 2 of face, arm and leg. He has dysphasia, right hemianopia and face–arm–leg weakness. TACS carries the worst prognosis (~40 % 30-day mortality) and usually reflects proximal MCA/ICA occlusion – a thrombectomy candidate.
+
+**Why not the others:**
+- A – LACS is pure motor/sensory (or sensorimotor/ataxic hemiparesis) without cortical signs.
+- B – PACS has two of the three components or isolated cortical dysfunction.
+- C – POCS involves brainstem/cerebellar signs or isolated hemianopia.
+- E – symptoms are ongoing, so this is not a TIA.
+
+**EDIC trap:** a hemianopia alone is POCS; with dysphasia and hemiparesis it is TACS.
+
+**Ref:** Bamford J, Lancet 1991.
 
 </details>
 
@@ -4367,7 +4505,14 @@ TACS requires all three: higher cerebral dysfunction (dysphasia, neglect), homon
 
 **A – T, B – T, C – T, D – F.**
 
-RAMPART showed IM midazolam (autoinjector) was at least as effective as IV lorazepam pre-hospital. ESETT found levetiracetam 60 mg/kg, fosphenytoin 20 mg PE/kg and valproate 40 mg/kg each stopped seizures in ~50 %. Refractory SE = failure of first- and second-line therapy, requiring anaesthetic agents (midazolam, propofol, thiopental) with EEG monitoring. Neuromuscular blockers abolish the motor signs only – seizures continue electrographically, so EEG is mandatory if they are used. Ref: Silbergleit R et al. *N Engl J Med* 2012; Kapur J et al. *N Engl J Med* 2019; Trinka E et al. *Epilepsia* 2015.
+- A (True) – RAMPART: IM midazolam 10 mg (autoinjector) was at least as effective as IV lorazepam pre-hospital and faster to give.
+- B (True) – ESETT: levetiracetam 60 mg/kg, fosphenytoin 20 mg PE/kg and valproate 40 mg/kg each terminated seizures in ~50 %, with similar adverse events.
+- C (True) – refractory SE = seizures continuing after an adequate benzodiazepine and one second-line antiseizure drug; anaesthetic agents (midazolam, propofol, thiopental) with continuous EEG are then needed.
+- D (False) – neuromuscular blockers abolish only motor signs; electrographic seizures continue, so EEG is mandatory if they are used.
+
+**EDIC trap:** give an adequate first benzodiazepine dose early – under-dosing is the commonest error.
+
+**Ref:** Silbergleit R, N Engl J Med 2012; Kapur J, N Engl J Med 2019; Trinka E, Epilepsia 2015.
 
 </details>
 
@@ -4386,7 +4531,17 @@ RAMPART showed IM midazolam (autoinjector) was at least as effective as IV loraz
 
 **A.**
 
-Remifentanil is hydrolysed by non-specific blood and tissue esterases, so its context-sensitive half-time (~3–4 min) is unchanged by liver or kidney failure. Morphine-6-glucuronide (active) and morphine-3-glucuronide accumulate in renal failure; oxycodone depends on hepatic CYP metabolism and renal excretion; norpethidine accumulates and causes seizures; codeine is a prodrug with unpredictable CYP2D6 activation. Note that the remifentanil metabolite (remifentanil acid) accumulates in renal failure but has negligible activity. Ref: Devlin JW et al. *Crit Care Med* 2018 (PADIS); Breen D et al. *Crit Care* 2004.
+**Why A:** Remifentanil is hydrolysed by non-specific blood and tissue esterases, so its context-sensitive half-time (~3–4 min) is unchanged by hepatic or renal failure. Its metabolite, remifentanil acid, accumulates in renal failure but has negligible activity.
+
+**Why not the others:**
+- B – morphine-6-glucuronide (active) and morphine-3-glucuronide accumulate in renal failure.
+- C – oxycodone depends on hepatic CYP metabolism and renal excretion; both are impaired.
+- D – norpethidine accumulates in renal failure and causes seizures.
+- E – codeine is a prodrug with unpredictable CYP2D6 activation; its metabolites accumulate in AKI.
+
+**EDIC trap:** "least affected by organ failure" points to esterase metabolism – remifentanil (opioid) and cisatracurium (Hofmann elimination) among NMBAs.
+
+**Ref:** Devlin JW, Crit Care Med 2018 (PADIS); Breen D, Crit Care 2004.
 
 </details>
 
@@ -4402,7 +4557,17 @@ Remifentanil is hydrolysed by non-specific blood and tissue esterases, so its co
 
 **E.**
 
-Low-dose ketamine (e.g. 0.1–0.3 mg/kg/h) is an effective opioid-sparing adjunct, especially in opioid-tolerant patients and after major abdominal surgery; PADIS suggests it in post-surgical ICU patients. NSAIDs are inadvisable with AKI and vasopressor need; clonidine worsens hypotension; gabapentinoids require enteral absorption (ileus) and act slowly; further opioid escalation worsens ileus without solving tolerance. Ref: Devlin JW et al. *Crit Care Med* 2018 (PADIS); Brinck ECV et al. *Cochrane Database Syst Rev* 2018.
+**Why E:** Low-dose ketamine (e.g. 0.1–0.3 mg/kg/h) is an effective opioid-sparing adjunct, particularly in opioid-tolerant patients and after major abdominal surgery. PADIS suggests it as an adjunct in post-surgical ICU adults; it does not depress respiration or worsen hypotension or ileus.
+
+**Why not the others:**
+- A – NSAIDs are inadvisable with rising creatinine and vasopressor requirement.
+- B – clonidine worsens hypotension.
+- C – gabapentinoids need enteral absorption (prolonged ileus) and act slowly.
+- D – further opioid escalation worsens ileus and does not overcome tolerance (or opioid-induced hyperalgesia).
+
+**EDIC trap:** multimodal analgesia is chosen by excluding what the patient's organ dysfunction forbids.
+
+**Ref:** Devlin JW, Crit Care Med 2018 (PADIS); Brinck ECV, Cochrane Database Syst Rev 2018.
 
 </details>
 
@@ -4421,7 +4586,17 @@ Low-dose ketamine (e.g. 0.1–0.3 mg/kg/h) is an effective opioid-sparing adjunc
 
 **B.**
 
-For agitated delirium that prevents weaning/extubation, PADIS suggests dexmedetomidine; DahLIA showed more ventilator-free hours with dexmedetomidine than placebo in agitated delirium. With QTc 520 ms, haloperidol and quetiapine add arrhythmic risk, and neither shortens delirium (MIND-USA, AID-ICU). Benzodiazepines are a risk factor for delirium; deep propofol sedation delays weaning. Ref: Reade MC et al. *JAMA* 2016 (DahLIA); Devlin JW et al. *Crit Care Med* 2018 (PADIS); Andersen-Ranberg NC et al. *N Engl J Med* 2022.
+**Why B:** For agitated delirium that prevents weaning or extubation, after non-pharmacological measures and analgesia, PADIS suggests dexmedetomidine. DahLIA showed more ventilator-free hours at 7 days with dexmedetomidine than placebo. It does not prolong QT, an advantage with QTc 520 ms.
+
+**Why not the others:**
+- A – benzodiazepines are a delirium risk factor; there is no alcohol withdrawal to justify them.
+- C – haloperidol prolongs QT (already 520 ms) and does not shorten delirium (MIND-USA, AID-ICU).
+- D – quetiapine also prolongs QT and its absorption is delayed via NG tube.
+- E – deep propofol sedation delays weaning and is not a delirium treatment.
+
+**EDIC trap:** QTc > 500 ms is a common threshold to avoid antipsychotics.
+
+**Ref:** Reade MC, JAMA 2016 (DahLIA); Devlin JW, Crit Care Med 2018 (PADIS); Andersen-Ranberg NC, N Engl J Med 2022.
 
 </details>
 
@@ -4436,7 +4611,14 @@ For agitated delirium that prevents weaning/extubation, PADIS suggests dexmedeto
 
 **A – T, B – F, C – T, D – F.**
 
-In >15 000 patients, ABCDEF bundle compliance was associated with less delirium, coma, restraint use and mortality. REDUCE (haloperidol 1–2 mg 8-hourly in 1789 patients) showed no effect on 28-day survival or delirium. PADIS suggests a multicomponent sleep-promoting strategy. The rivastigmine trial was stopped early because of higher mortality and longer delirium. Ref: Pun BT et al. *Crit Care Med* 2019; van den Boogaard M et al. *JAMA* 2018; van Eijk MM et al. *Lancet* 2010.
+- A (True) – in > 15 000 patients, higher ABCDEF bundle compliance was associated with less delirium, coma, restraint use and mortality (cohort data).
+- B (False) – REDUCE (haloperidol 1–2 mg 8-hourly, n = 1789) showed no effect on 28-day survival or delirium incidence.
+- C (True) – PADIS suggests sleep-promoting protocols, including noise and light reduction (earplugs, eye masks).
+- D (False) – the rivastigmine add-on trial was stopped early because of **higher mortality** and longer delirium duration.
+
+**EDIC trap:** non-pharmacological strategies are the only measures with supportive evidence for delirium prevention.
+
+**Ref:** Pun BT, Crit Care Med 2019; van den Boogaard M, JAMA 2018; van Eijk MM, Lancet 2010.
 
 </details>
 
@@ -4451,7 +4633,14 @@ In >15 000 patients, ABCDEF bundle compliance was associated with less delirium,
 
 **A – T, B – F, C – F, D – F.**
 
-Assessment starts with the RASS: at −4/−5 the patient is comatose and is reassessed later. Inattention is tested with the letters test (squeeze on "A") or pictures. CAM-ICU is positive with features 1 (acute change/fluctuation) + 2 (inattention) + either 3 (altered level of consciousness, RASS ≠ 0) or 4 (disorganised thinking). It remains valid in patients with dementia (it detects acute change from baseline). Ref: Ely EW et al. *JAMA* 2001; Devlin JW et al. *Crit Care Med* 2018.
+- A (True) – assessment starts with the RASS; at −4/−5 the patient is comatose, cannot be assessed and is reassessed later.
+- B (False) – inattention is tested with the letters test ("SAVEAHAART" – squeeze on "A") or picture recognition, not the MMSE.
+- C (False) – CAM-ICU is positive with Feature 1 (acute change/fluctuation) + Feature 2 (inattention) + **either** Feature 3 (RASS ≠ 0) **or** Feature 4 (disorganised thinking).
+- D (False) – it remains valid in dementia, because it detects acute change from the patient's baseline.
+
+**EDIC trap:** "all four features" is the classic false statement – three are sufficient.
+
+**Ref:** Ely EW, JAMA 2001; Devlin JW, Crit Care Med 2018 (PADIS).
 
 </details>
 
@@ -4466,7 +4655,14 @@ Assessment starts with the RASS: at −4/−5 the patient is comatose and is rea
 
 **A – T, B – F, C – T, D – F.**
 
-BRAIN-ICU showed delirium duration predicted global cognition at 3 and 12 months. Hypoactive and mixed forms predominate and are often missed. ICDSC (8 items) ≥ 4 indicates delirium. MIND-USA found no difference in days alive without delirium or coma with haloperidol or ziprasidone versus placebo. Ref: Pandharipande PP et al. *N Engl J Med* 2013; Girard TD et al. *N Engl J Med* 2018; Bergeron N et al. *Intensive Care Med* 2001.
+- A (True) – BRAIN-ICU: longer delirium duration independently predicted worse global cognition at 3 and 12 months.
+- B (False) – hypoactive and mixed forms predominate; pure hyperactive delirium is uncommon, and hypoactive delirium is often missed.
+- C (True) – the ICDSC (8 items) indicates delirium at ≥ 4; 1–3 is subsyndromal delirium.
+- D (False) – MIND-USA found no difference in days alive without delirium or coma with haloperidol or ziprasidone versus placebo.
+
+**EDIC trap:** antipsychotics are for distressing symptoms, not for shortening delirium.
+
+**Ref:** Pandharipande PP, N Engl J Med 2013; Girard TD, N Engl J Med 2018; Bergeron N, Intensive Care Med 2001.
 
 </details>
 
@@ -4484,7 +4680,14 @@ BRAIN-ICU showed delirium duration predicted global cognition at 3 and 12 months
 
 **A – T, B – F, C – F, D – F.**
 
-Around two-thirds have a preceding respiratory or gastrointestinal infection (Campylobacter jejuni most often; also CMV, EBV, Mycoplasma, Zika, SARS-CoV-2). Anti-GQ1b is associated with Miller Fisher syndrome and Bickerstaff encephalitis; AMAN is associated with anti-GM1/GD1a. Incidence is ~1–2 per 100 000/year. Nadir is reached within 4 weeks (usually 2); progression > 8 weeks suggests CIDP. Ref: Shahrizaila N et al. *Lancet* 2021; Leonhard SE et al. *Nat Rev Neurol* 2019.
+- A (True) – about two-thirds report a preceding respiratory or gastrointestinal infection, most often Campylobacter jejuni (also CMV, EBV, Mycoplasma, Zika, SARS-CoV-2).
+- B (False) – anti-GQ1b antibodies characterise Miller Fisher syndrome and Bickerstaff encephalitis; AMAN is associated with anti-GM1/GD1a.
+- C (False) – annual incidence is ~1–2 per 100 000.
+- D (False) – the nadir is reached within 4 weeks (usually ~2 weeks); progression beyond 8 weeks suggests CIDP (acute-onset CIDP if 4–8 weeks or treatment-related fluctuations).
+
+**EDIC trap:** Campylobacter-associated GBS is often axonal (AMAN) with slower recovery.
+
+**Ref:** Shahrizaila N, Lancet 2021; Leonhard SE, Nat Rev Neurol 2019.
 
 </details>
 
@@ -4499,7 +4702,14 @@ Around two-thirds have a preceding respiratory or gastrointestinal infection (Ca
 
 **A – T, B – T, C – F, D – T.**
 
-Dystrophic and denervated muscle can release large amounts of potassium (rhabdomyolysis/upregulated receptors) after suxamethonium. Myotonic patients may develop sustained contracture. Myasthenic patients are resistant to suxamethonium but very sensitive to non-depolarising agents – use reduced doses with quantitative monitoring. Sugammadex encapsulates rocuronium independently of acetylcholinesterase and has been used successfully in MG. Ref: Martyn JAJ, Richtsfeld M. *Anesthesiology* 2006; Blichfeldt-Lauridsen L, Hansen BD. *Acta Anaesthesiol Scand* 2012.
+- A (True) – dystrophic muscle can release large amounts of potassium (rhabdomyolysis) after suxamethonium, causing hyperkalaemic arrest, especially in undiagnosed boys.
+- B (True) – suxamethonium can trigger a generalised myotonic contracture, including masseter rigidity, making ventilation and intubation difficult.
+- C (False) – myasthenic patients are resistant to suxamethonium but **very sensitive** to non-depolarising agents; use reduced doses with quantitative monitoring.
+- D (True) – sugammadex encapsulates rocuronium independently of acetylcholinesterase and has been used successfully in MG, avoiding neostigmine.
+
+**EDIC trap:** in MG, avoid neostigmine reversal – it may precipitate cholinergic weakness.
+
+**Ref:** Martyn JAJ, Richtsfeld M, Anesthesiology 2006; Blichfeldt-Lauridsen L, Hansen BD, Acta Anaesthesiol Scand 2012.
 
 </details>
 
@@ -4514,7 +4724,14 @@ Dystrophic and denervated muscle can release large amounts of potassium (rhabdom
 
 **A – T, B – T, C – F, D – F.**
 
-Magnesium reduces presynaptic acetylcholine release and can provoke crisis. Macrolides, fluoroquinolones and aminoglycosides impair neuromuscular transmission (FDA warnings for macrolides and quinolones). Others include beta-blockers, immune checkpoint inhibitors, quinine and botulinum toxin. Third-generation cephalosporins and paracetamol are considered safe choices. Ref: Sheikh S et al. *Muscle Nerve* 2021; Narayanaswami P et al. *Neurology* 2021.
+- A (True) – magnesium reduces presynaptic acetylcholine release and can provoke myasthenic crisis; correct hypomagnesaemia cautiously with monitoring.
+- B (True) – macrolides impair neuromuscular transmission (FDA warning), as do fluoroquinolones and aminoglycosides.
+- C (False) – third-generation cephalosporins such as ceftriaxone are considered safe choices for pneumonia in MG.
+- D (False) – paracetamol does not affect neuromuscular transmission.
+
+**EDIC trap:** other precipitants include beta-blockers, immune checkpoint inhibitors, quinine, botulinum toxin and aminoglycosides.
+
+**Ref:** Sheikh S, Muscle Nerve 2021; Narayanaswami P, Neurology 2021.
 
 </details>
 
@@ -4530,7 +4747,17 @@ Magnesium reduces presynaptic acetylcholine release and can provoke crisis. Macr
 
 **A.**
 
-The "20/30/40 rule" (VC < 20 ml/kg, MIP weaker than −30 cmH2O, MEP < 40 cmH2O), rapid decline and bulbar dysfunction predict respiratory failure; intubation should be elective before hypoxaemia or hypercapnia, which are late signs. NIV is unsafe with bulbar weakness and aspiration risk. Changing immunotherapy does not address the imminent airway problem (and PE after IVIg is not beneficial); pyridostigmine has no role in GBS. Ref: Lawn ND et al. *Arch Neurol* 2001; Shahrizaila N et al. *Lancet* 2021.
+**Why A:** He meets the "20/30/40 rule" (VC 17 ml/kg < 20, MIP −25 cmH₂O weaker than −30), with a rapid fall in VC, bulbar weakness and bifacial palsy. These predict respiratory failure; intubation should be elective and controlled, before hypoxaemia or hypercapnia, which are late signs.
+
+**Why not the others:**
+- B – NIV is unsafe with bulbar dysfunction and aspiration risk, and it delays definitive airway control.
+- C – waiting for hypercapnia risks a crash intubation with dysautonomic instability.
+- D – plasma exchange after IVIg is not beneficial and does not address the imminent airway problem.
+- E – pyridostigmine has no role in GBS.
+
+**EDIC trap:** normal SpO₂ and PaCO₂ do not mean respiratory safety in neuromuscular weakness – follow VC and MIP trends.
+
+**Ref:** Lawn ND, Arch Neurol 2001; Shahrizaila N, Lancet 2021.
 
 </details>
 
@@ -4546,7 +4773,17 @@ The "20/30/40 rule" (VC < 20 ml/kg, MIP weaker than −30 cmH2O, MEP < 40 cmH2O)
 
 **C.**
 
-Fatigable ocular, bulbar and proximal weakness without sensory signs, normal reflexes and CK, plus a thymic mass (thymoma or hyperplasia), is typical of acetylcholine-receptor antibody myasthenia gravis. LEMS has proximal leg weakness, areflexia that improves after exercise, autonomic features and is associated with small-cell lung cancer. Polymyositis raises CK; Miller Fisher gives ophthalmoplegia, ataxia and areflexia; myotonic dystrophy has myotonia and distal weakness. Ref: Gilhus NE. *N Engl J Med* 2016.
+**Why C:** Fatigable ptosis and diplopia worse in the evening, fatigable jaw and neck weakness, normal reflexes, sensation and CK, plus an anterior mediastinal mass (thymoma or thymic hyperplasia), are typical of acetylcholine-receptor antibody myasthenia gravis. Thymectomy is indicated for thymoma.
+
+**Why not the others:**
+- A – LEMS causes proximal leg weakness, reduced reflexes that improve after exercise and autonomic features, and is associated with small-cell lung cancer.
+- B – polymyositis raises CK and is not fatigable or ocular.
+- D – Miller Fisher syndrome gives ophthalmoplegia, ataxia and areflexia after infection.
+- E – myotonic dystrophy has myotonia and distal weakness.
+
+**EDIC trap:** fatigability plus ocular involvement plus normal reflexes = MG; areflexia should prompt LEMS or GBS variants.
+
+**Ref:** Gilhus NE, N Engl J Med 2016.
 
 </details>
 
@@ -4561,7 +4798,14 @@ Fatigable ocular, bulbar and proximal weakness without sensory signs, normal ref
 
 **A – T, B – T, C – F, D – F.**
 
-Protein is raised in only ~50 % in the first week (~90 % by week 3), so a normal early result does not exclude GBS. Mild pleocytosis (5–50/µl) is compatible, but > 50/µl suggests infection (HIV, Lyme, CMV polyradiculitis), leptomeningeal malignancy or sarcoid. Glucose is normal. Raised protein with normal cells is also seen in CIDP, spinal block, diabetes and other conditions. Ref: Leonhard SE et al. *Nat Rev Neurol* 2019; Fokke C et al. *Brain* 2014.
+- A (True) – CSF protein is raised in only ~50 % in the first week (~90 % by week 3), so a normal early result does not exclude GBS.
+- B (True) – mild pleocytosis (5–50/µl) is compatible, but > 50/µl suggests infection (HIV, Lyme, CMV polyradiculitis), leptomeningeal malignancy or sarcoidosis.
+- C (False) – CSF glucose is normal in GBS; a low glucose suggests infection or malignancy.
+- D (False) – albuminocytological dissociation is not specific: it also occurs in CIDP, spinal block, diabetes and other conditions.
+
+**EDIC trap:** GBS is a clinical diagnosis supported by CSF and nerve conduction studies – never delay treatment for a normal early LP.
+
+**Ref:** Leonhard SE, Nat Rev Neurol 2019; Fokke C, Brain 2014.
 
 </details>
 
@@ -4577,7 +4821,17 @@ Protein is raised in only ~50 % in the first week (~90 % by week 3), so a normal
 
 **E.**
 
-Descending symmetrical paralysis starting with cranial nerves, autonomic signs (dilated pupils, dry mouth), normal sensation and preserved consciousness in an injecting drug user = wound botulism. Antitoxin should be given as early as possible on clinical suspicion without waiting for confirmation, because it only neutralises circulating toxin. Antibiotics are given after antitoxin with debridement; IVIg/plasma exchange are GBS treatments; pyridostigmine is ineffective. Ref: Rao AK et al. *MMWR Recomm Rep* 2021 (CDC botulism guidelines).
+**Why E:** Descending symmetrical paralysis starting with cranial nerves, autonomic signs (dilated poorly reactive pupils, dry mouth), normal sensation and preserved consciousness in a black-tar heroin injector with an abscess = wound botulism. Give botulinum antitoxin as early as possible on clinical suspicion, without waiting for laboratory confirmation, because it neutralises only circulating toxin.
+
+**Why not the others:**
+- A – IVIg is a GBS treatment and does not neutralise toxin.
+- B – plasma exchange is a GBS/MG treatment, not for botulism.
+- C – pyridostigmine is ineffective in botulism.
+- D – antibiotics (penicillin or metronidazole) are given after antitoxin with debridement; alone they do not treat toxin already released.
+
+**EDIC trap:** descending paralysis with dilated pupils = botulism; ascending with areflexia = GBS.
+
+**Ref:** Rao AK, MMWR Recomm Rep 2021 (CDC botulism guidelines).
 
 </details>
 
@@ -4595,7 +4849,14 @@ Descending symmetrical paralysis starting with cranial nerves, autonomic signs (
 
 **A – T, B – T, C – T, D – F.**
 
-The tests assess the cranial-nerve reflex arcs: pupils (II/III), corneal (V/VII), vestibulo-ocular (VIII/III/VI, ≥ 50 ml ice-cold water over 1 min with tympanic membranes visible), motor response in cranial nerve distribution to central pain, gag and cough (IX/X), then apnoea. Mid-sized fixed pupils are compatible. Spinal reflexes – tendon reflexes, triple flexion, even Lazarus sign – may persist and do not preclude diagnosis. Ref: Academy of Medical Royal Colleges. *Code of Practice for the Diagnosis and Confirmation of Death* 2008 (rev. 2025); Greer DM et al. *JAMA* 2020 (World Brain Death Project).
+- A (True) – the UK Code requires at least 50 ml of ice-cold water injected slowly over 1 minute into each external auditory meatus, with tympanic membranes visualised; any eye movement precludes the diagnosis.
+- B (True) – absent gag (posterior pharynx stimulation) and cough (suction catheter to the carina) reflexes indicate loss of glossopharyngeal and vagal (medullary) function.
+- C (True) – pupils must be fixed and unresponsive to bright light; they need not be dilated, and mid-sized fixed pupils are compatible.
+- D (False) – spinal reflexes (tendon reflexes, triple flexion, Lazarus sign) can persist and do not preclude the diagnosis.
+
+**EDIC trap:** the 2025 UK Code requires both eyes and both ears to be examinable; otherwise an ancillary investigation is needed.
+
+**Ref:** Academy of Medical Royal Colleges, Code of Practice for the Diagnosis and Confirmation of Death 2025; Greer DM, JAMA 2020 (World Brain Death Project).
 
 </details>
 
@@ -4608,9 +4869,16 @@ The tests assess the cranial-nerve reflex arcs: pupils (II/III), corneal (V/VII)
 
 <details><summary>Answer</summary>
 
-**A – T, B – T, C – F, D – F.**
+**A – F, B – T, C – F, D – T.**
 
-UK guidance requires reversible causes to be excluded: core temperature > 34 °C, sodium 115–160 mmol/L, potassium > 2 mmol/L, phosphate and magnesium 0.5–3.0 mmol/L, glucose 3.0–20 mmol/L, and no residual sedative or neuromuscular blocking effect. In the apnoea test, starting PaCO2 ≥ 6.0 kPa (pH < 7.40) and a rise ≥ 0.5 kPa without respiratory effort over 5 min confirm apnoea (higher starting values in chronic CO2 retainers). Ref: Academy of Medical Royal Colleges. *Code of Practice for the Diagnosis and Confirmation of Death* 2008 (rev. 2025); Greer DM et al. *JAMA* 2020.
+- A (False) – these are the old 2008 values. The 2025 UK Code uses an augmented CO₂ apnoea test off the ventilator: starting PaCO₂ ≥ 5.3 kPa, end-point PaCO₂ ≥ 8.0 kPa with pH < 7.30 and a rise ≥ 2.7 kPa, over at least 5 min, with no respiratory effort.
+- B (True) – glucose must be 3.0–20.0 mmol/L before testing.
+- C (False) – sodium must be **125–160 mmol/L** (lower limit raised from 115 in 2008), not a normal range of 135–145.
+- D (True) – core temperature must be ≥ 36 °C at testing (raised from > 34 °C); after hypothermia < 36 °C, wait 24 h after rewarming.
+
+**EDIC trap:** older MCQs quote 34 °C, Na 115 and a 0.5 kPa rise – all superseded since January 2025.
+
+**Ref:** Academy of Medical Royal Colleges, Code of Practice for the Diagnosis and Confirmation of Death 2025; Greer DM, JAMA 2020.
 
 </details>
 
@@ -4625,7 +4893,14 @@ UK guidance requires reversible causes to be excluded: core temperature > 34 °C
 
 **A – T, B – F, C – F, D – F.**
 
-After 5 min of continuous asystole (ECG, absent arterial pulsatility or echo), absence of pupillary and corneal reflexes and of motor response to supraorbital pressure is confirmed and the time recorded. Any return of cardiac or respiratory activity restarts a fresh 5-minute observation. EEG is not part of confirmation. In the UK, ancillary tests are only needed when the clinical tests cannot be completed or confounders cannot be excluded (e.g. high cervical cord injury, extensive facial trauma). Ref: Academy of Medical Royal Colleges. *Code of Practice for the Diagnosis and Confirmation of Death* 2008 (rev. 2025).
+- A (True) – death is confirmed after a minimum of 5 minutes of observed continuous cardiorespiratory arrest (mechanical asystole and apnoea), supported by ECG, echo or arterial trace; then absent pupillary and motor responses (and corneal reflexes) are checked.
+- B (False) – EEG is not part of confirming death after circulatory arrest.
+- C (False) – any spontaneous return of cardiac or respiratory activity requires a **fresh** 5-minute observation from the next arrest.
+- D (False) – in the UK, ancillary tests are needed only when clinical tests cannot be completed or confounders excluded (e.g. high cervical cord injury, ears/eyes not examinable).
+
+**EDIC trap:** mandatory ancillary testing varies between European countries – the UK and US use them only selectively.
+
+**Ref:** Academy of Medical Royal Colleges, Code of Practice for the Diagnosis and Confirmation of Death 2025.
 
 </details>
 
@@ -4643,7 +4918,14 @@ After 5 min of continuous asystole (ECG, absent arterial pulsatility or echo), a
 
 **A – T, B – T, C – F, D – T.**
 
-Parenchymal sensors are zeroed only before insertion and may drift by a few mmHg over days; an EVD is the reference standard and can drain CSF (but not measure accurately while open). PRx is a moving correlation between slow waves of MAP and ICP: negative/near-zero values indicate preserved reactivity; positive values (> 0.2–0.3) indicate impaired autoregulation and are associated with worse outcome and are used to estimate CPPopt. B waves reflect vasogenic oscillations and are seen with reduced compensatory reserve. Ref: Le Roux P et al. *Neurocrit Care* 2014; Czosnyka M, Pickard JD. *J Neurol Neurosurg Psychiatry* 2004.
+- A (True) – parenchymal microtransducers are zeroed only before insertion and may drift by a few mmHg over days.
+- B (True) – an EVD is the reference standard and also drains CSF therapeutically (though it cannot measure accurately while open to drain).
+- C (False) – PRx is a moving correlation between slow waves of MAP and ICP; **positive** values (> 0.2–0.3) indicate pressure-passive vessels and **impaired** autoregulation, associated with worse outcome. Negative/near-zero values indicate intact reactivity.
+- D (True) – B waves are 0.5–2/min vasogenic oscillations seen with reduced compensatory reserve.
+
+**EDIC trap:** the CPP with the lowest PRx is "CPPopt" – an individualised target that remains investigational.
+
+**Ref:** Le Roux P, Neurocrit Care 2014; Czosnyka M, Pickard JD, J Neurol Neurosurg Psychiatry 2004.
 
 </details>
 
@@ -4658,7 +4940,14 @@ Parenchymal sensors are zeroed only before insertion and may drift by a few mmHg
 
 **A – T, B – T, C – T, D – T.**
 
-P1 = arterial pulsation (choroid plexus), P2 = tidal wave reflecting brain compliance (P2 > P1 when compliance is poor), P3 = dicrotic wave after the notch. RAP (correlation between pulse amplitude and mean ICP) near 0 means good reserve, near +1 means exhausted reserve, and falling values at very high ICP signal terminal vasomotor collapse. Plateau waves (5–20 min) occur with intact autoregulation but poor compliance and indicate risk of ischaemia. Ref: Czosnyka M, Pickard JD. *J Neurol Neurosurg Psychiatry* 2004; Hawryluk GWJ et al. *Intensive Care Med* 2019.
+- A (True) – P1 (percussion wave) reflects arterial pulsation transmitted through the choroid plexus.
+- B (True) – P3, the dicrotic wave, follows the dicrotic notch (aortic valve closure).
+- C (True) – RAP (correlation between pulse amplitude and mean ICP) near 0 means good reserve; near +1 means exhausted reserve; falling values at very high ICP signal terminal vasomotor collapse.
+- D (True) – plateau waves are rises to 50–100 mmHg lasting 5–20 min, occurring with intact autoregulation but poor compliance; they are always pathological and indicate ischaemic risk.
+
+**EDIC trap:** P2 > P1 (tidal wave dominant) means poor intracranial compliance.
+
+**Ref:** Czosnyka M, Pickard JD, J Neurol Neurosurg Psychiatry 2004; Hawryluk GWJ, Intensive Care Med 2019.
 
 </details>
 
