@@ -17,7 +17,13 @@ Answer in the [interactive quiz](https://mazur-andrej.github.io/Kviz/) to get ma
 
 **A.**
 
-Septic shock (Sepsis-3) = sepsis **plus** a vasopressor requirement to keep MAP ≥ 65 mmHg **and** lactate > 2 mmol/L despite adequate fluids. B lacks the lactate criterion (sepsis only), C has no vasopressor need, D is not an infection (haemorrhagic shock), E responded to fluids.
+**Why A:** Cholangitis is an infection with organ dysfunction (sepsis). Despite 30 mL/kg crystalloid he needs noradrenaline to keep MAP ≥ 65 mmHg **and** his lactate is > 2 mmol/L – both Sepsis-3 criteria for septic shock are met.
+
+**Why not the others:**
+- B – Vasopressor-dependent, but lactate 1.5 mmol/L is ≤ 2: sepsis with hypotension, not septic shock.
+- C – Hyperlactataemia, but MAP is maintained without any vasopressor.
+- D – Haemorrhagic shock from aneurysm rupture; there is no infection, so it is not sepsis.
+- E – Hypotension corrected with fluids alone; there is no vasopressor requirement.
 
 **EDIC trap:** Hyperlactataemia alone, or a vasopressor alone, is not septic shock.
 
@@ -252,7 +258,13 @@ Septic shock (Sepsis-3) = sepsis **plus** a vasopressor requirement to keep MAP 
 
 **B.**
 
-CAPE COD (severe CAP in ICU, septic shock and influenza excluded) – hydrocortisone reduced 28-day mortality. Random cortisol does not select patients; pulse methylprednisolone is not the studied regimen.
+**Why B:** CAPE COD enrolled ICU patients with severe CAP (HFNO/NIV/ventilation, high FiO₂) and excluded septic shock and influenza. Hydrocortisone 200 mg/day (tapered, 8–14 days) reduced 28-day mortality (6.2 vs 11.9 %), and current guidelines suggest corticosteroids in severe CAP.
+
+**Why not the others:**
+- A – Shock is not required; the benefit was shown precisely in patients without shock.
+- C – Fludrocortisone alone has never been studied in CAP; it is given only with hydrocortisone in septic shock (APROCCHSS).
+- D – A random cortisol does not identify who benefits and is not used to select patients.
+- E – Pulse methylprednisolone 1 g/day is not the studied regimen and adds hyperglycaemia and infection risk.
 
 **EDIC trap:** Corticosteroids are for septic **shock** (NA ≥ 0.25 for ≥ 4 h) and for severe CAP **without** shock – not for sepsis without shock in general.
 
@@ -364,11 +376,17 @@ CAPE COD (severe CAP in ICU, septic shock and influenza excluded) – hydrocorti
 
 **C.**
 
-BALANCE: 7 days was non-inferior to 14 days for 90-day mortality (14.5 vs 16.1 %) in bloodstream infection; *S. aureus* and candidaemia were excluded. CRP-guided duration is not supported (ADAPT-Sepsis).
+**Why C:** In BALANCE (hospitalised and ICU patients with bloodstream infection), 7 days was non-inferior to 14 days for 90-day mortality (14.5 vs 16.1 %). This patient fits: source controlled, clinically improved, not immunosuppressed and not *S. aureus* or *Candida*.
+
+**Why not the others:**
+- A – 3 days has not been tested in Gram-negative bacteraemia.
+- B – 5 days lacks randomised evidence in bacteraemia; the shortest proven course is 7 days.
+- D – 14 days gave no mortality benefit over 7 days and only adds antibiotic exposure.
+- E – CRP-guided stopping is not supported; in ADAPT-Sepsis only procalcitonin guidance safely shortened therapy.
 
 **EDIC trap:** 7 days does **not** apply to *S. aureus* bacteraemia (≥ 14 days).
 
-**Ref:** BALANCE Investigators. *N Engl J Med* 2025.
+**Ref:** Daneman N, et al. BALANCE. *N Engl J Med* 2025;392:1065–1078; Dark P, et al. ADAPT-Sepsis. *JAMA* 2025.
 
 </details>
 
@@ -454,7 +472,13 @@ BALANCE: 7 days was non-inferior to 14 days for 90-day mortality (14.5 vs 16.1 %
 
 **C.**
 
-*Candida* in airway secretions is almost always colonisation; *Candida* pneumonia is exceptionally rare. Treat the bacterial VAP.
+**Why C:** *Candida* in respiratory secretions of ventilated patients is almost always colonisation; true *Candida* pneumonia is exceptionally rare and needs histological proof. With negative blood cultures and no risk factors, no antifungal is given – treat the *S. aureus* VAP.
+
+**Why not the others:**
+- A – Fluconazole for airway colonisation adds toxicity and resistance without benefit.
+- B – Echinocandins are for candidaemia/invasive candidiasis, not respiratory isolates.
+- D – Liposomal amphotericin B is not indicated without invasive infection.
+- E – β-D-glucan has poor positive predictive value in ICU patients and does not make airway *Candida* pathogenic.
 
 **EDIC trap:** *Candida* in the airway ≠ *Candida* pneumonia.
 
@@ -546,7 +570,13 @@ BALANCE: 7 days was non-inferior to 14 days for 90-day mortality (14.5 vs 16.1 %
 
 **B.**
 
-DTP ≥ 2 h (CVC positive earlier than peripheral) proves the catheter is the source = CRBSI (alternatives: tip ≥ 15 CFU, quantitative ratio ≥ 3:1). CLABSI is the surveillance definition (CVC > 2 days, no other source).
+**Why B:** The CVC culture turned positive 3 h before the peripheral one; a differential time to positivity ≥ 2 h confirms the catheter as the source (CRBSI). Alternatives are a tip culture ≥ 15 CFU with the same organism, or a quantitative ratio ≥ 3:1.
+
+**Why not the others:**
+- A – Tip culture is only one option; DTP diagnoses CRBSI with the catheter in situ.
+- C – The same Gram-negative in both sets with a clear DTP is true infection, not contamination.
+- D – The validated DTP threshold is 2 h, not 5 h.
+- E – A positive peripheral culture is required for CRBSI; it confirms bacteraemia rather than excluding it.
 
 **EDIC trap:** CLABSI = surveillance; CRBSI = proof the catheter is the source.
 
@@ -975,7 +1005,13 @@ Schedule 1 also includes acute meningitis, acute encephalitis, meningococcal sep
 
 **C.**
 
-CaO₂ = 1.34 × 10 × 0.90 ≈ 12.1 mL/dL = 121 mL/L. DO₂ = CO × CaO₂ = 5 × 121 ≈ 600 mL/min.
+**Why C:** CaO₂ = 1.34 × Hb (g/dL) × SaO₂ = 1.34 × 10 × 0.90 ≈ 12.1 mL/dL = 121 mL/L. DO₂ = CO × CaO₂ = 5 × 121 ≈ 600 mL/min; dissolved oxygen (0.003 × PaO₂) would add very little.
+
+**Why not the others:**
+- A – ≈ 300 mL/min would need roughly half the cardiac output or haemoglobin.
+- B – ≈ 450 mL/min corresponds to an SaO₂ of about 67 %.
+- D – ≈ 800 mL/min would need Hb ≈ 13 g/dL at the same CO and SaO₂.
+- E – ≈ 1,000 mL/min is normal resting DO₂ (Hb 15 g/dL, SaO₂ ~98 %).
 
 **EDIC trap:** Remember × 10 to convert mL/dL to mL/L.
 
@@ -1225,7 +1261,13 @@ CaO₂ = 1.34 × 10 × 0.90 ≈ 12.1 mL/dL = 121 mL/L. DO₂ = CO × CaO₂ = 5 
 
 **B.**
 
-(18.5 − 16)/16 ≈ +16 % ≥ 10 % threshold for PLR → fluid responsive. PLR works in ventilated patients; the least significant change of VTI is ~12 %.
+**Why B:** (18.5 − 16)/16 ≈ +16 %, above the ≥ 10 % rise in VTI/cardiac output that defines a positive passive leg raise. It also exceeds the least significant change of VTI (~12 %), and PLR remains valid in ventilated patients.
+
+**Why not the others:**
+- A – 25 % is not the PLR threshold; a ≥ 10 % rise is.
+- C – IVC size is unreliable in ventilated patients and is not needed to interpret PLR.
+- D – PLR is valid regardless of ventilation or spontaneous breathing, unlike pulse pressure variation.
+- E – CVP changes do not predict fluid responsiveness; PLR is judged on a flow variable.
 
 **EDIC trap:** PLR threshold 10 %; EEO + EIO 13 %.
 
@@ -1404,7 +1446,13 @@ CaO₂ = 1.34 × 10 × 0.90 ≈ 12.1 mL/dL = 121 mL/L. DO₂ = CO × CaO₂ = 5 
 
 **B.**
 
-Urine Cl⁻ < 20 = chloride-responsive alkalosis (vomiting, NG losses, previous diuretics) → replace volume, chloride and potassium.
+**Why B:** Urine Cl⁻ 8 mmol/L (< 20) indicates chloride-responsive alkalosis from vomiting; volume, chloride and potassium depletion maintain renal HCO₃⁻ reabsorption. 0.9 % NaCl with KCl corrects all three; the PaCO₂ of 48 mmHg is appropriate compensation (expected ≈ 40 + 0.7 × 14 ≈ 50).
+
+**Why not the others:**
+- A – Acetazolamide suits alkalosis with volume overload and would worsen hypokalaemia here.
+- C – Spironolactone treats chloride-resistant alkalosis from mineralocorticoid excess (U-Cl⁻ > 20).
+- D – HCl is reserved for severe, refractory alkalosis when saline fails or is contraindicated.
+- E – Haemodialysis is for alkalosis with renal failure or refractory volume overload.
 
 **EDIC trap:** U-Cl⁻ < 20 → saline-responsive; > 20 → mineralocorticoid excess or current diuretics.
 
@@ -1424,7 +1472,13 @@ Urine Cl⁻ < 20 = chloride-responsive alkalosis (vomiting, NG losses, previous 
 
 **B.**
 
-Calculated = 2 × 140 + 5 + 5 = 290; gap = 330 − 290 = 40 (> 10) → suspect a toxic alcohol (methanol, ethylene glycol…). The gap does not identify which one, and a normal gap does not exclude poisoning.
+**Why B:** Calculated osmolality = 2 × Na⁺ + glucose + urea = 2 × 140 + 5 + 5 = 290 mOsm/kg; gap = 330 − 290 = 40 (> 10) → suspect a toxic alcohol (methanol, ethylene glycol). The gap does not identify which alcohol, and a normal gap does not exclude poisoning.
+
+**Why not the others:**
+- A – The gap is 40, not 10; 10 would be the upper limit of normal.
+- C – A raised gap is not specific: ethylene glycol, isopropanol, mannitol and ketoacidosis also raise it.
+- D – Lactate is not part of the calculated osmolality.
+- E – Measured exceeds calculated, so the gap is positive (+40), not −10.
 
 **EDIC trap:** Late presentation: the gap falls as the alcohol is metabolised while the anion gap rises.
 
@@ -1634,7 +1688,13 @@ Calculated = 2 × 140 + 5 + 5 = 290; gap = 330 − 290 = 40 (> 10) → suspect a
 
 **C.**
 
-C (classic) = hypoperfusion needing an intervention (drugs/MCS) beyond fluids. B = hypotension without hypoperfusion; D = deteriorating despite initial therapy; E = extremis (e.g. lactate ≥ 8, CPR). Cardiac arrest with coma adds an "A" modifier.
+**Why C:** He has hypoperfusion (cool, mottled skin, lactate 4.2 mmol/L) requiring intervention beyond fluids (noradrenaline, dobutamine) – SCAI stage C. His falling lactate shows he is not deteriorating; cardiac arrest with coma would add an "A" modifier.
+
+**Why not the others:**
+- A – Stage A is "at risk" (e.g. large MI) without hypotension or hypoperfusion.
+- B – Stage B is hypotension or tachycardia without hypoperfusion.
+- D – Stage D means deterioration despite initial therapy; his lactate is improving.
+- E – Stage E is extremis, e.g. refractory collapse, ongoing CPR or lactate ≥ 8 mmol/L.
 
 **EDIC trap:** Stage D means worsening despite the initial intervention.
 
@@ -1676,7 +1736,13 @@ C (classic) = hypoperfusion needing an intervention (drugs/MCS) beyond fluids. B
 
 **A.**
 
-DanGer Shock enrolled STEMI-related CS and excluded comatose OHCA survivors; it reduced 180-day mortality at the cost of more complications. Routine MCS for all CS is not recommended.
+**Why A:** DanGer Shock enrolled STEMI-related cardiogenic shock and excluded comatose OHCA survivors. The microaxial pump reduced 180-day mortality (45.8 vs 58.5 %) at the cost of more bleeding, limb ischaemia and renal replacement therapy; routine MCS for all CS is not recommended.
+
+**Why not the others:**
+- B – Comatose OHCA survivors were excluded because of the high risk of anoxic brain injury.
+- C – Isolated RV shock was excluded; the device unloads the left ventricle.
+- D – Takotsubo with LVOT obstruction was not studied and is managed by avoiding inotropes and unloading the obstruction.
+- E – Septic cardiomyopathy was not enrolled; there is no RCT support for microaxial pumps there.
 
 **EDIC trap:** Microaxial pump = selected STEMI-CS, not comatose OHCA.
 
@@ -2534,11 +2600,17 @@ Other complications are infection (pneumonia), coagulopathy, hyperglycaemia and 
 
 **B.**
 
-Resuscitative hysterotomy should be done as early as possible (decision early, aim within ~5 min) when there is no rapid ROSC; it helps maternal resuscitation and the fetus. Do it where she is; manual left uterine displacement relieves aortocaval compression.
+**Why B:** ERC 2025: if there is no rapid ROSC, prepare for resuscitative hysterotomy early, aiming for delivery within ~5 minutes of arrest. Done where she is, it relieves aortocaval compression, improves CPR effectiveness and helps the fetus; manual left uterine displacement continues meanwhile.
+
+**Why not the others:**
+- A – Waiting 20 minutes worsens both maternal and fetal outcomes.
+- C – Adrenaline is given in standard ALS doses; maternal resuscitation comes first.
+- D – Transfer to theatre delays delivery; perform it at the site of arrest.
+- E – Displacement is to the left, not a right tilt, which worsens aortocaval compression.
 
 **EDIC trap:** The hysterotomy is for the mother's resuscitation as much as for the baby.
 
-**Ref:** ERC Guidelines 2025 – cardiac arrest in pregnancy.
+**Ref:** European Resuscitation Council Guidelines 2025: Special Circumstances (cardiac arrest in pregnancy). *Resuscitation* 2025.
 
 </details>
 
@@ -2630,7 +2702,13 @@ Resuscitative hysterotomy should be done as early as possible (decision early, a
 
 **B.**
 
-PBW (women) = 45.5 + 0.91 × (165 − 152.4) ≈ 57 kg → 6 mL/kg ≈ 340 mL. Actual weight is irrelevant.
+**Why B:** PBW (women) = 45.5 + 0.91 × (165 − 152.4) ≈ 57 kg, so 6 mL/kg ≈ 340 mL. Tidal volume is set on height and sex, because lung size does not grow with body weight.
+
+**Why not the others:**
+- A – 300 mL is ≈ 5.3 mL/kg PBW, below the starting target.
+- C – 400 mL is ≈ 7 mL/kg PBW.
+- D – 450 mL is ≈ 8 mL/kg PBW, the upper limit, not the target.
+- E – 570 mL is 6 mL/kg of actual weight (95 kg).
 
 **EDIC trap:** Using actual weight in obesity gives dangerously large volumes.
 
@@ -2650,7 +2728,13 @@ PBW (women) = 45.5 + 0.91 × (165 − 152.4) ≈ 57 kg → 6 mL/kg ≈ 340 mL. A
 
 **A.**
 
-ΔP = Pplat − PEEP = 16; Crs = VT/ΔP = 420/16 ≈ 26 mL/cmH₂O.
+**Why A:** ΔP = Pplat − PEEP = 26 − 10 = 16 cmH₂O. Static compliance Crs = VT/ΔP = 420/16 ≈ 26 mL/cmH₂O; a ΔP > 15 is associated with higher mortality.
+
+**Why not the others:**
+- B – 26 cmH₂O is the plateau pressure, not ΔP, and compliance is not 16.
+- C – ΔP is correct but 42 mL/cmH₂O divides VT by PEEP instead of ΔP.
+- D – 10 cmH₂O is the PEEP, not the driving pressure.
+- E – Peak pressure is not needed; in a passive patient plateau minus PEEP gives ΔP.
 
 **EDIC trap:** Peak − plateau reflects resistance, not compliance.
 
@@ -2717,7 +2801,13 @@ PBW (women) = 45.5 + 0.91 × (165 − 152.4) ≈ 57 kg → 6 mL/kg ≈ 340 mL. A
 
 **B.**
 
-ATS 2024 conditionally suggests higher PEEP without RM in moderate–severe ARDS; ESICM 2023 strongly recommends against prolonged high-pressure RM and makes no recommendation on PEEP titration.
+**Why B:** ATS 2024 conditionally suggests higher PEEP without lung recruitment manoeuvres in moderate–severe ARDS and recommends against prolonged RM. ESICM 2023 strongly recommends against prolonged high-pressure RM and makes no recommendation on PEEP titration.
+
+**Why not the others:**
+- A – This is the ART approach, which increased mortality and barotrauma.
+- C – Routine brief RMs are conditionally discouraged by ESICM 2023.
+- D – Low PEEP in moderate–severe ARDS lost the benefit seen with higher PEEP at P/F ≤ 200 mmHg.
+- E – Peak pressure reflects airway resistance, not lung stress, and does not guide PEEP.
 
 **EDIC trap:** ESICM and ATS agree on avoiding prolonged RM.
 
@@ -2833,7 +2923,13 @@ ATS 2024 conditionally suggests higher PEEP without RM in moderate–severe ARDS
 
 **B.**
 
-Strong recommendation: HFNO over conventional O₂ to reduce intubation. No recommendation on NIV vs HFNO in non-COVID AHRF (CPAP/NIV are conditionally suggested in COVID-19).
+**Why B:** ESICM 2023 strongly recommends HFNO over conventional oxygen in non-COVID acute hypoxaemic respiratory failure to reduce intubation. It makes no recommendation on NIV vs HFNO outside COVID-19; CPAP/NIV are conditionally suggested only in COVID-19.
+
+**Why not the others:**
+- A – Conventional oxygen is inferior to HFNO (FLORALI: fewer intubations in severe hypoxaemia).
+- C – Without an immediate indication, monitored HFNO is appropriate, watching for delayed intubation.
+- D – ESICM gives no recommendation either way on NIV vs HFNO in non-COVID AHRF.
+- E – Helmet CPAP is only conditionally suggested, and only in COVID-19.
 
 **EDIC trap:** ESICM gives no recommendation on NIV vs HFNO outside COVID-19.
 
@@ -2853,7 +2949,13 @@ Strong recommendation: HFNO over conventional O₂ to reduce intubation. No reco
 
 **C.**
 
-ATS 2024 conditionally recommends corticosteroids, NMBA in early severe ARDS and higher PEEP without RM. ESICM 2023 does not recommend corticosteroids for ARDS in general.
+**Why C:** ATS 2024 conditionally recommends corticosteroids in ARDS (along with NMBA in early severe ARDS and higher PEEP without RM). ESICM 2023 makes no recommendation for corticosteroids in ARDS in general (only in COVID-19).
+
+**Why not the others:**
+- A – Both guidelines strongly recommend prone positioning in moderate–severe ARDS.
+- B – Both guidelines recommend low tidal volume ventilation.
+- D – Both endorse VV-ECMO for selected severe ARDS in experienced centres.
+- E – Both recommend against prolonged recruitment manoeuvres.
 
 **EDIC trap:** Know where the two guidelines differ.
 
@@ -3003,7 +3105,13 @@ ATS 2024 conditionally recommends corticosteroids, NMBA in early severe ARDS and
 
 **B.**
 
-In low-risk patients HFNO reduced reintubation compared with conventional oxygen (4.9 vs 12.2 %). Preventive NIV is for high-risk patients.
+**Why B:** In low-risk patients, 24 h of HFNO after extubation reduced 72-h reintubation compared with conventional oxygen (4.9 vs 12.2 %). Guidelines suggest HFNO for low-risk patients and reserve preventive NIV for high-risk ones.
+
+**Why not the others:**
+- A – Preventive NIV has shown benefit only in high-risk patients (e.g. hypercapnia, COPD, heart failure).
+- C – No support forgoes the reduction in reintubation seen with HFNO.
+- D – Prophylactic CPAP has not been shown to prevent reintubation in low-risk patients.
+- E – Heliox is only a temporising measure for upper-airway obstruction or stridor.
 
 **EDIC trap:** Low risk → HFNO; high risk → NIV (± HFNO between sessions).
 
@@ -3045,7 +3153,13 @@ In low-risk patients HFNO reduced reintubation compared with conventional oxygen
 
 **B.**
 
-In high-risk patients with a failed cuff-leak test, corticosteroids ≥ 4 h before extubation reduce post-extubation stridor and reintubation; the test need not be repeated (e.g. methylprednisolone 20 mg every 4 h from 12 h before: laryngeal oedema 3 vs 22 %).
+**Why B:** In high-risk patients with a failed cuff-leak test, systemic corticosteroids ≥ 4 h before extubation reduce post-extubation stridor and reintubation (methylprednisolone 20 mg every 4 h from 12 h before: laryngeal oedema 3 vs 22 %). ATS/ACCP 2017 advises against repeating the test before extubation.
+
+**Why not the others:**
+- A – Nebulised adrenaline treats established stridor; extubating without prophylaxis risks reintubation.
+- C – A failed cuff-leak test is not an indication for tracheostomy.
+- D – A 7-day delay prolongs ventilation; corticosteroids act within hours.
+- E – Repeated testing delays extubation and is not required.
 
 **EDIC trap:** Don't make extubation wait for a positive retest.
 
