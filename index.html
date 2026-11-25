@@ -72,6 +72,7 @@ textarea{width:100%;min-height:120px;font:16px/1.45 "IBM Plex Sans",system-ui,sa
 :focus-visible{outline:3px solid var(--red);outline-offset:2px}
 @media(max-width:600px){.today{grid-template-columns:1fr}.dial{justify-self:start}.top b span{display:none}}
 @media(prefers-reduced-motion:no-preference){.q{transition:border-color .2s}}
+.q img{display:block;max-width:100%;height:auto;margin:10px 0;border-radius:8px}
 </style>
 </head>
 <body>
@@ -88,7 +89,7 @@ const CTX=/\b(question|Q)\s?\d+\b|same patient|previous (question|patient)|above
 const addDays=(d,n)=>{const t=new Date(d+'T12:00');t.setDate(t.getDate()+n);return t.toISOString().slice(0,10)};
 const shuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const fmi=s=>esc(s).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/(^|[^*])\*([^*\n]+)\*/g,'$1<i>$2</i>').replace(/`([^`]+)`/g,'<code>$1</code>').replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,'<a href="$2">$1</a>');
+const fmi=s=>esc(s).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/(^|[^*])\*([^*\n]+)\*/g,'$1<i>$2</i>').replace(/`([^`]+)`/g,'<code>$1</code>').replace(/!\[([^\]]*)\]\((data:image\/[a-z]+;base64,[A-Za-z0-9+\/=]+)\)/g,'<img alt="$1" src="$2">').replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,'<a href="$2">$1</a>');
 const fmd=s=>(s||'').split(/\n{2,}/).map(b=>/^\s*[-*] /.test(b)?'<ul>'+b.split(/\n/).filter(l=>l.trim()).map(l=>'<li>'+fmi(l.replace(/^\s*[-*] /,''))+'</li>').join('')+'</ul>':/^#{1,4} /.test(b)?'<h3>'+fmi(b.replace(/^#+ /,''))+'</h3>':'<p>'+fmi(b).replace(/\n/g,'<br>')+'</p>').join('');
 const md=s=>{try{return marked.parse(s||'')}catch(e){return fmd(s)}};
 const mdi=s=>{try{return marked.parseInline(s||'')}catch(e){return fmi(s)}};
