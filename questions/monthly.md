@@ -5318,3 +5318,1759 @@ Review: [W13/D4](#W13-D4), [W10/D2](#W10-D2)
 Review: [W13/D1](#W13-D1), [W11/D4](#W11-D4), [W11/D5](#W11-D5), [W12/D4](#W12-D4)
 
 </details>
+
+
+## Monthly review – March (Sat 27 Mar 2027)
+
+**1.** A 35-year-old with severe diffuse TBI has ICP 25 mmHg despite tier 0 and tier 1 measures: deeper sedation, head up 30°, mannitol and hypertonic saline boluses, CSF drainage via an EVD and PaCO₂ 36 mmHg. Repeat CT shows no surgical lesion. According to SIBICC, which is the most appropriate next step?
+
+- A. Hyperventilate to PaCO₂ 28 mmHg
+- B. Start a barbiturate coma
+- C. Change mannitol to a continuous infusion
+- D. Give a test dose of a neuromuscular blocker and continue it as an infusion if ICP falls
+- E. Insert a lumbar drain for additional CSF drainage
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** SIBICC moves up one tier at a time, and only when the lower tier has failed and a surgical lesion has been excluded. Tier 2 includes mild hypocapnia (PaCO₂ 32–35 mmHg), neuromuscular blockade (a test dose, then an infusion if it works), a MAP challenge to assess autoregulation and raising CPP if autoregulation is intact.
+
+**Why not the others:**
+- A – SIBICC lists ventilation to PaCO₂ < 30 mmHg among the things not to do; it risks cerebral ischaemia.
+- B – Barbiturate coma is tier 3, used only if a test dose lowers ICP and hypotension can be avoided.
+- C – Mannitol should be given as intermittent boluses; a continuous infusion is explicitly discouraged.
+- E – Lumbar CSF drainage is also on the "not recommended" list (herniation risk).
+
+**Ref:** Hawryluk GWJ, et al. SIBICC. *Intensive Care Med* 2019;45:1783–1794.
+
+Review: [W15/D1](#W15-D1)
+
+</details>
+
+**2.** Regarding the Brain Trauma Foundation 4th-edition recommendations for severe TBI:
+
+- A. ICP above 22 mmHg should be treated. — T / F
+- B. A CPP target of 60–70 mmHg is recommended, and aggressive attempts to keep CPP above 70 mmHg with fluids and vasopressors carry a risk of ARDS. — T / F
+- C. Phenytoin prophylaxis is recommended because it prevents late post-traumatic epilepsy. — T / F
+- D. Prolonged prophylactic hyperventilation to PaCO₂ ≤ 25 mmHg is not recommended, but brief hyperventilation can be used as a temporising bridge. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – BTF 4th edition raised the treatment threshold from 20 to 22 mmHg (Level IIB), because mortality rises above it.
+- B (True) – CPP 60–70 mmHg is the target (IIB); pushing CPP above 70 mmHg with fluids and pressors raises the risk of ARDS (III).
+- C (False) – Phenytoin is recommended to prevent early seizures (< 7 days, IIA); prophylaxis does not prevent late seizures or epilepsy.
+- D (True) – Prophylactic hyperventilation to PaCO₂ ≤ 25 mmHg is not recommended (IIB), especially in the first 24 h; brief hyperventilation is only a bridge (e.g. herniation).
+
+**EDIC trap:** Older trials (DECRA, Eurotherm) use 20 mmHg – read the stem carefully.
+
+**Ref:** Carney N, et al. BTF 4th edition. *Neurosurgery* 2017;80:6–15.
+
+Review: [W15/D1](#W15-D1)
+
+</details>
+
+**3.** A 28-year-old with TBI has ICP above 25 mmHg for 6 hours despite stage 1 and stage 2 medical therapy. The neurosurgeon proposes a secondary decompressive craniectomy, and the family asks what to expect. Based on RESCUEicp, which statement best describes the effect of surgery at 6 months?
+
+- A. Lower mortality, but more patients in a vegetative state or with severe disability
+- B. Similar mortality with more favourable functional outcomes
+- C. Similar mortality with worse functional outcomes
+- D. No effect on ICP but fewer ICU days
+- E. Higher mortality but less disability among survivors
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** RESCUEicp (n = 408) randomised patients with ICP > 25 mmHg for 1–12 h despite stage 1–2 therapy to last-tier craniectomy or medical care including barbiturates. Six-month mortality was 26.9 vs 48.9 %, but vegetative state (8.5 vs 2.1 %) and lower severe disability (21.9 vs 14.4 %) were more frequent. Surgery means survival, often with disability – a values-based decision with the family.
+
+**Why not the others:**
+- B – Upper severe disability or better was not significantly different at 6 months (42.8 vs 34.6 %); the difference became significant only at 12 months.
+- C – This describes DECRA (early bifrontal DC for diffuse injury): unfavourable outcome 70 vs 51 %, mortality similar.
+- D – Craniectomy lowered ICP in both DECRA and RESCUEicp.
+- E – Mortality was lower, not higher.
+
+**Ref:** Hutchinson PJ, et al. RESCUEicp. *N Engl J Med* 2016;375:1119–1130; Cooper DJ, et al. DECRA. *N Engl J Med* 2011;364:1493–1502.
+
+Review: [W15/D1](#W15-D1)
+
+</details>
+
+**4.** A 50-year-old with moderate–severe TBI is on day 3 in the ICU. He is haemodynamically stable with no active bleeding, and his haemoglobin is 8.2 g/dL. Which transfusion strategy is best supported by the 2024 trials?
+
+- A. Transfuse only if Hb falls below 7 g/dL, as in general ICU patients
+- B. Transfuse only if PbtO₂ falls below 20 mmHg
+- C. Transfuse to keep Hb above 12 g/dL
+- D. Transfuse to keep Hb above about 9 g/dL
+- E. Give erythropoietin instead of red cells
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** TRAIN (n = 820; TBI, SAH and ICH) compared transfusion triggers of 9 and 7 g/dL. Unfavourable neurological outcome was 62.6 vs 73.5 % (RR 0.85), and there was less cerebral ischaemia in the liberal arm. HEMOTION (10 vs 7 g/dL) showed a non-significant trend the same way.
+
+**Why not the others:**
+- A – The "7 for everyone" message comes from general ICU trials (TRICC, TRISS) and does not apply to acute brain injury.
+- B – No trial validated PbtO₂-triggered transfusion; transfusion is only one late option in the low-PbtO₂ algorithm.
+- C – No trial tested a target of 12 g/dL; even 10 g/dL (HEMOTION) was not significantly better.
+- E – Erythropoietin is not a substitute for transfusion.
+
+**Ref:** Taccone FS, et al. TRAIN. *JAMA* 2024;332:1623–1633; Turgeon AF, et al. HEMOTION. *N Engl J Med* 2024;391:722–735.
+
+Review: [W15/D1](#W15-D1)
+
+</details>
+
+**5.** Regarding trials of temperature, tranexamic acid and osmotherapy in TBI:
+
+- A. In Eurotherm3235, hypothermia (32–35 °C) for raised ICP improved functional outcome. — T / F
+- B. In POLAR, early prophylactic hypothermia improved the rate of favourable outcome. — T / F
+- C. In CRASH-3, tranexamic acid given within 3 hours benefited patients with mild–moderate TBI (GCS 9–15), but not those with bilateral unreactive pupils. — T / F
+- D. In COBI, a continuous infusion of 20 % saline targeting Na 145–155 mmol/L improved 6-month GOS-E. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – F, C – T, D – F.**
+
+- A (False) – Eurotherm3235 was stopped early because outcome was worse with hypothermia (favourable GOS-E 26 vs 37 %).
+- B (False) – POLAR (n = 511) found no benefit: favourable outcome 48.8 vs 49.1 %.
+- C (True) – CRASH-3 (1 g over 10 min + 1 g over 8 h): RR 0.78 for head-injury death in GCS 9–15; no benefit in severe TBI or with bilateral unreactive pupils; earlier is better.
+- D (False) – COBI (n = 370) found no difference in 6-month GOS-E (adjusted OR 1.02) or in intracranial hypertension. Use hyperosmolar boluses for ICP crises.
+
+**EDIC trap:** Aim for controlled normothermia (36–37.5 °C); deeper cooling is tier 3 only.
+
+**Ref:** Andrews PJD, et al. Eurotherm3235. *N Engl J Med* 2015;373:2403–2412; CRASH-3. *Lancet* 2019;394:1713–1723; Roquilly A, et al. COBI. *JAMA* 2021;325:2056–2066.
+
+Review: [W15/D1](#W15-D1)
+
+</details>
+
+**6.** The SIBICC consensus lists several interventions that should NOT be used in the management of raised ICP after TBI. All of the following are on that list EXCEPT:
+
+- A. Mannitol given as a continuous infusion
+- B. Lumbar CSF drainage
+- C. Ventilation to PaCO₂ below 30 mmHg
+- D. Corticosteroids
+- E. A test dose of neuromuscular blocker followed by an infusion if effective
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** Neuromuscular blockade, after a test dose shows that ICP falls, is a recognised tier 2 intervention in SIBICC. It reduces ICP by abolishing coughing, straining and ventilator asynchrony.
+
+**Why not the others:**
+- A – Mannitol must be given as intermittent boluses (0.25–1 g/kg); continuous infusion is explicitly discouraged.
+- B – Lumbar CSF drainage is not recommended because of the risk of herniation in a patient with intracranial mass effect.
+- C – PaCO₂ < 30 mmHg causes cerebral vasoconstriction and ischaemia; SIBICC allows only mild hypocapnia (32–35 mmHg) in tier 2.
+- D – Steroids are not recommended (CRASH: 2-week mortality 21.1 vs 17.9 %, higher with steroids).
+
+**Ref:** Hawryluk GWJ, et al. SIBICC. *Intensive Care Med* 2019;45:1783–1794.
+
+Review: [W15/D1](#W15-D1)
+
+</details>
+
+**7.** A 52-year-old woman with aneurysmal SAH (WFNS II) had her aneurysm coiled on day 1. On day 6 she develops new right arm weakness, and her GCS falls from 15 to 13 for more than 1 hour. CT shows no hydrocephalus or rebleeding, Na is 137 mmol/L, and TCD shows a left MCA mean velocity of 170 cm/s with a Lindegaard ratio of 4.5. What is the most appropriate management?
+
+- A. Hypervolaemic "triple-H" therapy
+- B. Fluid restriction to 1 L/day
+- C. Euvolaemia, a cautious trial of induced hypertension with noradrenaline, and endovascular rescue if the deficit persists
+- D. Start an intravenous magnesium infusion
+- E. Start clazosentan
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** This is delayed cerebral ischaemia (new focal deficit or GCS fall ≥ 2 for ≥ 1 h, other causes excluded) with TCD evidence of vasospasm (velocity > 120 cm/s, Lindegaard > 3). Management is euvolaemia, optimised haemoglobin, and a stepwise trial of induced hypertension in a secured aneurysm. Refractory symptomatic vasospasm can be treated with angioplasty or intra-arterial vasodilators.
+
+**Why not the others:**
+- A – Prophylactic or therapeutic hypervolaemia gives no benefit and causes pulmonary oedema and hyponatraemia.
+- B – Fluid restriction increases the risk of DCI.
+- D – Magnesium failed in MASH-2 (poor outcome 26.2 vs 25.3 %); ESO 2026 recommends against it.
+- E – Clazosentan reduced angiographic vasospasm but not clinically relevant DCI or poor outcome; it is licensed only in Japan.
+
+**Ref:** Vergouwen MDI, et al. ESO/EANS SAH guideline. *Eur Stroke J* 2026; Hoh BL, et al. AHA aSAH. *Stroke* 2023;54:e314–e370.
+
+Review: [W15/D2](#W15-D2)
+
+</details>
+
+**8.** Regarding prevention of rebleeding and delayed cerebral ischaemia after aneurysmal SAH:
+
+- A. Nimodipine improves outcome mainly by reversing angiographic vasospasm. — T / F
+- B. If nimodipine 60 mg every 4 hours causes hypotension, 30 mg every 2 hours may be given instead. — T / F
+- C. In ULTRA, ultra-early tranexamic acid before aneurysm securing improved functional outcome. — T / F
+- D. In ISAT, endovascular coiling reduced death or dependency at 1 year compared with clipping. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – T, C – F, D – T.**
+
+- A (False) – In BRANT, nimodipine reduced cerebral infarction (22 vs 33 %) and poor outcome (20 vs 33 %) without a convincing effect on angiographic vasospasm; the benefit is thought to be neuroprotective or microvascular.
+- B (True) – Splitting the dose to 30 mg every 2 h keeps the same 21-day course while limiting hypotension.
+- C (False) – ULTRA (n = 955): good outcome 60 vs 64 % (OR 0.86, NS), rebleeding 10 vs 14 % (NS). ESO 2026 recommends against routine antifibrinolytics.
+- D (True) – ISAT: death or dependency 23.7 vs 30.6 % (ARR 6.9 %, NNT ~14), with slightly more late rebleeding after coiling.
+
+**Ref:** Pickard JD, et al. BRANT. *BMJ* 1989;298:636–642; Post R, et al. ULTRA. *Lancet* 2021;397:112–118; Molyneux A, et al. ISAT. *Lancet* 2002;360:1267–1274.
+
+Review: [W15/D2](#W15-D2)
+
+</details>
+
+**9.** A 47-year-old man is on day 5 after a coiled anterior communicating artery aneurysm. Na has fallen from 139 to 128 mmol/L. Urine output is 4 L/day with high urine sodium, he is tachycardic, his weight has fallen by 2 kg and ultrasound shows a collapsing IVC. What is the most appropriate treatment?
+
+- A. Fluid restriction to 800 mL/day
+- B. Isotonic or hypertonic saline, with fludrocortisone to reduce natriuresis
+- C. Tolvaptan
+- D. Furosemide with oral salt tablets
+- E. 0.45 % saline to match urine losses
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** Natriuresis with clinical hypovolaemia points to cerebral salt wasting, a common cause of hyponatraemia after SAH. Hypovolaemia promotes delayed cerebral ischaemia, so the treatment is to replace salt and volume with isotonic or hypertonic saline. Fludrocortisone (or hydrocortisone) reduces natriuresis.
+
+**Why not the others:**
+- A – Fluid restriction is the classic SIADH treatment, but it is harmful after SAH because it worsens hypovolaemia and increases DCI risk.
+- C – A vaptan causes free-water diuresis and would worsen volume depletion; it is not part of SAH management.
+- D – A loop diuretic would increase volume loss in a hypovolaemic patient.
+- E – Hypotonic fluid would lower sodium further and worsen cerebral oedema.
+
+**EDIC trap:** After SAH, never fluid-restrict a hyponatraemic patient.
+
+**Ref:** Hoh BL, et al. AHA aSAH. *Stroke* 2023;54:e314–e370; Treggiari MM, et al. NCS aSAH. *Neurocrit Care* 2023;39:1–28.
+
+Review: [W15/D2](#W15-D2)
+
+</details>
+
+**10.** A 78-year-old man has a spontaneous supratentorial intracerebral haemorrhage. GCS is 11. On CT the haematoma measures 5 × 4 × 3.5 cm, and there is intraventricular extension. What is his ICH score, and what is the associated 30-day mortality?
+
+- A. 1 – about 13 %
+- B. 2 – about 26 %
+- C. 3 – about 72 %
+- D. 4 – about 97 %
+- E. 3 – about 26 %
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** Volume by ABC/2 = (5 × 4 × 3.5) / 2 = 35 mL, so volume ≥ 30 mL scores 1. GCS 5–12 scores 1, and IVH scores 1. Infratentorial origin (0) and age ≥ 80 years (0) do not apply. The total is 3, which corresponds to a 30-day mortality of about 72 %.
+
+**Why not the others:**
+- A – A score of 1 (13 %) counts only one feature.
+- B – A score of 2 (26 %) misses the volume or the IVH.
+- D – A score of 4 (97 %) needs age ≥ 80 or infratentorial origin too.
+- E – 26 % is the mortality for a score of 2.
+
+**EDIC trap:** Do not limit care on the basis of the score alone in the first 24 h (ESO 2025, AHA 2022).
+
+**Ref:** Greenberg SM, et al. AHA ICH. *Stroke* 2022;53:e282–e361; Steiner T, et al. ESO/EANS ICH. *Eur Stroke J* 2025;10:1007–1086.
+
+Review: [W15/D3](#W15-D3)
+
+</details>
+
+**11.** Regarding blood pressure and antithrombotic reversal in spontaneous ICH:
+
+- A. AHA 2022 states that lowering SBP below 130 mmHg is potentially harmful. — T / F
+- B. In PATCH, platelet transfusion in patients taking antiplatelet drugs increased death or dependence. — T / F
+- C. In ANNEXA-I, andexanet improved haemostatic efficacy but increased thrombotic events, without reducing 30-day mortality. — T / F
+- D. Dabigatran-associated ICH is reversed with idarucizumab 5 g IV. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – T.**
+
+- A (True) – AHA 2022: a target of 140 mmHg (range 130–150) is reasonable; < 130 mmHg is class 3 (harm). ATACH-2 (110–139 mmHg) showed no benefit and more renal adverse events (9.0 vs 4.0 %).
+- B (True) – PATCH: death or dependence OR 2.05 with platelets. Do not transfuse unless surgery is planned.
+- C (True) – ANNEXA-I: haemostatic efficacy 67.0 vs 53.1 %, thrombotic events 10.3 vs 5.6 %, ischaemic stroke 6.5 vs 1.5 %, and no difference in mortality or mRS. Andexanet was withdrawn from the US market in December 2025.
+- D (True) – Idarucizumab 5 g IV (RE-VERSE AD); haemodialysis or PCC are alternatives.
+
+**Ref:** Greenberg SM, et al. AHA ICH. *Stroke* 2022;53:e282–e361; Baharoglu MI, et al. PATCH. *Lancet* 2016;387:2605–2613; Connolly SJ, et al. ANNEXA-I. *N Engl J Med* 2024;390:1745–1755.
+
+Review: [W15/D3](#W15-D3)
+
+</details>
+
+**12.** A 66-year-old man has a 20 mL cerebellar haemorrhage. Over 3 hours his GCS falls from 15 to 12, and repeat CT shows compression of the fourth ventricle with early hydrocephalus. Which is the most appropriate management?
+
+- A. External ventricular drain alone
+- B. Intensive SBP lowering to below 120 mmHg
+- C. Recombinant factor VIIa
+- D. Conservative management with repeat CT in 24 hours
+- E. Urgent surgical evacuation of the haematoma
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** A cerebellar haemorrhage larger than 15 mL (or ≥ 3 cm), or one causing brainstem compression or hydrocephalus, needs urgent surgical evacuation. This patient meets all three criteria and is deteriorating.
+
+**Why not the others:**
+- A – An EVD alone does not remove the mass in the posterior fossa and risks upward herniation.
+- B – SBP < 130 mmHg is potentially harmful (ATACH-2, AHA 2022); the target is ~140 mmHg.
+- C – rFVIIa reduces haematoma growth without clinical benefit and increases arterial thrombosis (FAST; FASTEST stopped for futility).
+- D – Waiting in a deteriorating patient with posterior fossa mass effect risks fatal brainstem compression.
+
+**Ref:** Steiner T, et al. ESO/EANS ICH. *Eur Stroke J* 2025;10:1007–1086; Greenberg SM, et al. AHA ICH. *Stroke* 2022;53:e282–e361.
+
+Review: [W15/D3](#W15-D3)
+
+</details>
+
+**13.** A 68-year-old man wakes with right hemiparesis and aphasia (NIHSS 10). He was last known well 9 hours ago. MRI shows an acute DWI lesion with no corresponding FLAIR signal change, and there is no large-vessel occlusion. BP is 175/95 mmHg, and there are no contraindications. What is the most appropriate treatment?
+
+- A. IV alteplase 0.9 mg/kg (10 % as a bolus, the rest over 60 minutes)
+- B. No thrombolysis, because he is outside the 4.5-hour window
+- C. IV tenecteplase 0.5 mg/kg
+- D. Lower SBP below 140 mmHg before any reperfusion therapy
+- E. Aspirin plus clopidogrel for 21 days
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** A DWI–FLAIR mismatch suggests the lesion is less than about 4.5 h old. In WAKE-UP, alteplase in this setting increased mRS 0–1 from 41.8 to 53.3 %. BP is below the pre-thrombolysis limit of 185/110 mmHg.
+
+**Why not the others:**
+- B – In wake-up or unknown-onset stroke, the tissue window (DWI–FLAIR or perfusion mismatch) replaces clock time.
+- C – The tenecteplase dose for stroke is 0.25 mg/kg (max 25 mg).
+- D – BP needs to be < 185/110 mmHg before IVT; lowering it further is not required and may reduce penumbral perfusion.
+- E – Dual antiplatelet therapy is for non-disabling minor stroke; aphasia with hemiparesis is disabling.
+
+**Ref:** Thomalla G, et al. WAKE-UP. *N Engl J Med* 2018;379:611–622; Berge E, et al. ESO IVT. *Eur Stroke J* 2021;6:I–LXII.
+
+Review: [W15/D4](#W15-D4)
+
+</details>
+
+**14.** Regarding endovascular thrombectomy (EVT) for acute ischaemic stroke:
+
+- A. DAWN and DEFUSE 3 showed benefit of EVT beyond 6 hours (up to 24 hours) in patients selected by clinical–core or perfusion mismatch. — T / F
+- B. Patients with large ischaemic cores (e.g. ASPECTS 3–5) still benefit functionally from EVT. — T / F
+- C. ESCAPE-MeVO showed that EVT improves outcome in medium and distal vessel occlusions. — T / F
+- D. After successful EVT, an intensive SBP target below 140 mmHg improves functional outcome. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – DAWN (6–24 h): mRS 0–2 49 vs 13 %; DEFUSE 3 (6–16 h): 45 vs 17 %.
+- B (True) – SELECT2, ANGEL-ASPECT and TENSION showed better function with more, mostly asymptomatic, haemorrhage. LASTE (ASPECTS 0–5) also reduced mortality (36.1 vs 55.5 %).
+- C (False) – ESCAPE-MeVO: mRS 0–1 41.6 vs 43.1 %, mortality 13.3 vs 8.4 %, sICH 5.4 vs 2.2 %. DISTAL was also neutral.
+- D (False) – OPTIMAL-BP (mRS 0–2 39.4 vs 54.4 %) and ENCHANTED2/MT showed harm. The target after EVT is < 180/105 mmHg.
+
+**EDIC trap:** "EVT only within 6 h" and "large core = no EVT" are outdated, but "smaller vessel = still benefits" is false.
+
+**Ref:** Nogueira RG, et al. DAWN. *N Engl J Med* 2018;378:11–21; Sarraj A, et al. SELECT2. *N Engl J Med* 2023;388:1259–1271; Goyal M, et al. ESCAPE-MeVO. *N Engl J Med* 2025;392:1385–1395; Nam HS, et al. OPTIMAL-BP. *JAMA* 2023;330:832–842.
+
+Review: [W15/D4](#W15-D4)
+
+</details>
+
+**15.** Regarding blood pressure management in acute ischaemic stroke, all of the following statements are correct EXCEPT:
+
+- A. Without reperfusion therapy, BP is treated only if it exceeds 220/120 mmHg, unless there is another indication.
+- B. Before IV thrombolysis, BP must be below 185/110 mmHg.
+- C. After IV thrombolysis, BP is kept below 180/105 mmHg for 24 hours.
+- D. Prehospital BP lowering before imaging improved outcome in patients later found to have ischaemic stroke.
+- E. After thrombectomy, an SBP target below 140 mmHg is not recommended, even after complete reperfusion.
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** In INTERACT4 (ambulance BP lowering to 130–140 mmHg within 2 h of onset, before imaging), the overall effect was neutral (OR 1.00). It helped patients with ICH (OR 0.75) but harmed those with ischaemic stroke (OR 1.30), so BP should not be lowered before imaging.
+
+**Why not the others:**
+- A – Permissive hypertension up to 220/120 mmHg (then lower by ~15 % in 24 h) is correct without reperfusion therapy; treat earlier only for dissection, ACS, pulmonary oedema or eclampsia.
+- B – < 185/110 mmHg before IVT is correct.
+- C – < 180/105 mmHg for 24 h after IVT is correct; ENCHANTED showed no benefit of more intensive lowering.
+- E – Correct (AHA 2026), based on OPTIMAL-BP, ENCHANTED2/MT, BP-TARGET and BEST-II.
+
+**Ref:** Li G, et al. INTERACT4. *N Engl J Med* 2024;390:1862–1872; Prabhakaran S, et al. AHA/ASA AIS guideline. *Stroke* 2026.
+
+Review: [W15/D4](#W15-D4), [W15/D3](#W15-D3)
+
+</details>
+
+**16.** A 52-year-old man has a right MCA infarction involving more than half of the MCA territory. Thirty hours after onset his GCS falls from 13 to 9, and CT shows a 7 mm midline shift. He was previously independent. Which intervention most improves his chance of survival?
+
+- A. Repeated mannitol boluses and hyperventilation as definitive therapy
+- B. Therapeutic hypothermia at 33 °C
+- C. Decompressive hemicraniectomy now
+- D. High-dose dexamethasone
+- E. Waiting for a fixed dilated pupil before considering surgery
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** In malignant MCA infarction, oedema peaks on days 2–5 and untreated mortality approaches 80 %. In the pooled DECIMAL, DESTINY and HAMLET analysis (age ≤ 60, surgery ≤ 48 h), hemicraniectomy reduced mortality from 71 to 22 % (NNT ~2) and increased mRS ≤ 3 from 21 to 43 %. He is 52 and within 48 h.
+
+**Why not the others:**
+- A – Osmotherapy and hyperventilation are only a bridge; they do not change outcome.
+- B – Hypothermia (DEPTH-SOS) was not beneficial.
+- D – Steroids do not change outcome in ischaemic oedema.
+- E – The benefit was shown with surgery within 48 h, before herniation; waiting loses the window.
+
+**EDIC trap:** In patients > 60 years (DESTINY II), surgery doubles survival without severe disability (38 vs 18 %), but no patient reached mRS 0–2.
+
+**Ref:** Vahedi K, et al. Pooled analysis. *Lancet Neurol* 2007;6:215–222; Jüttler E, et al. DESTINY II. *N Engl J Med* 2014;370:1091–1100.
+
+Review: [W15/D4](#W15-D4)
+
+</details>
+
+**17.** Paramedics find a 30-year-old man (75 kg) with generalised tonic–clonic seizures that have lasted 7 minutes. Intravenous access cannot be obtained. What is the best first treatment?
+
+- A. Rectal diazepam 5 mg
+- B. IV phenytoin as soon as access is obtained
+- C. IV lorazepam 1 mg once access is obtained
+- D. Intramuscular midazolam 10 mg
+- E. Observation until 30 minutes (t2) before treating
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** Convulsive SE is treated from t1 = 5 min. In RAMPART, IM midazolam 10 mg (> 40 kg) stopped seizures before hospital arrival in 73.4 % vs 63.4 % with IV lorazepam, mainly because it was given faster. A full benzodiazepine dose given early is essential, because GABA-A receptors are internalised as seizures continue.
+
+**Why not the others:**
+- A – 5 mg of rectal diazepam is an underdose and absorption is unreliable.
+- B – Phenytoin is a second-line drug and is less effective than benzodiazepines as first-line treatment (Treiman: 43.6 %).
+- C – Lorazepam 1 mg is an underdose; the dose is 4 mg (0.1 mg/kg). Underdosing is the commonest error.
+- E – t2 (30 min) marks the risk of long-term damage; treatment must start at t1 (5 min).
+
+**Ref:** Silbergleit R, et al. RAMPART. *N Engl J Med* 2012;366:591–600; Trinka E, et al. ILAE. *Epilepsia* 2015;56:1515–1523.
+
+Review: [W15/D5](#W15-D5)
+
+</details>
+
+**18.** A 40-year-old woman is still seizing 25 minutes after two full doses of IV lorazepam. Regarding her further management:
+
+- A. In ESETT, levetiracetam, fosphenytoin and valproate had similar efficacy as second-line agents. — T / F
+- B. If seizures continue despite an adequately dosed second-line drug, she has refractory status epilepticus. — T / F
+- C. If she needs anaesthetic infusions, HYBERNATUS supports adding hypothermia at 32–34 °C to improve functional outcome. — T / F
+- D. If seizures persist or recur 24 hours or more after starting anaesthetic therapy, including on weaning, she has super-refractory status epilepticus. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – ESETT: seizure cessation with improved responsiveness at 60 min was 47 % (levetiracetam), 45 % (fosphenytoin) and 46 % (valproate). NICE prefers levetiracetam first.
+- B (True) – RSE = persistence despite a benzodiazepine plus one adequately dosed second-line ASM. This means ICU, intubation, a midazolam/propofol/barbiturate infusion and cEEG.
+- C (False) – HYBERNATUS: good outcome 49 vs 43 % (NS), with more adverse events. Hypothermia is not routine neuroprotection.
+- D (True) – SRSE persists or recurs ≥ 24 h after starting anaesthetic therapy. Ketamine, additional ASMs and immunotherapy (if autoimmune) are options.
+
+**Ref:** Kapur J, et al. ESETT. *N Engl J Med* 2019;381:2103–2113; Legriel S, et al. HYBERNATUS. *N Engl J Med* 2016;375:2457–2467; Trinka E, et al. ILAE. *Epilepsia* 2015;56:1515–1523.
+
+Review: [W15/D5](#W15-D5)
+
+</details>
+
+**19.** A 60-year-old ventilated patient has decompensated cirrhosis and anuric AKI. He needs analgesia-based sedation that will not accumulate. Which opioid is most appropriate?
+
+- A. Morphine
+- B. Remifentanil
+- C. Fentanyl by prolonged infusion
+- D. Hydromorphone
+- E. Midazolam with morphine boluses
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** Remifentanil is hydrolysed by non-specific plasma and tissue esterases, so its clearance does not depend on liver or kidney function. Its offset is 3–10 min even after long infusions, which makes it the drug of choice in combined hepatic and renal failure. Rapid offset means analgesia must be planned before stopping it, and hyperalgesia or tolerance can develop.
+
+**Why not the others:**
+- A – Morphine is glucuronidated to M6G (active, renally cleared) and M3G (neuroexcitatory). These accumulate in AKI and cause prolonged sedation and respiratory depression.
+- C – Fentanyl is lipophilic, and its context-sensitive half-time rises with long infusions; it accumulates in adipose tissue.
+- D – Hydromorphone's metabolite H3G accumulates in renal failure.
+- E – Midazolam's active metabolite (α-OH-midazolam) accumulates in AKI, it is deliriogenic, and morphine has the problems above.
+
+**Ref:** Devlin JW, et al. PADIS. *Crit Care Med* 2018;46:e825–e873.
+
+Review: [W16/D1](#W16-D1)
+
+</details>
+
+**20.** Regarding sedation trials in ventilated adults:
+
+- A. In SPICE III, dexmedetomidine as the primary sedative reduced 90-day mortality. — T / F
+- B. In the ABC trial, pairing daily sedation interruption with a spontaneous breathing trial reduced 1-year mortality. — T / F
+- C. In NONSEDA, no sedation did not reduce 90-day mortality compared with light sedation with daily interruption. — T / F
+- D. In SESAR, inhaled sevoflurane in moderate–severe ARDS was associated with higher 90-day mortality than IV propofol. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – T, C – T, D – T.**
+
+- A (False) – SPICE III (n = 4000): 90-day mortality 29.1 vs 29.1 %. There was more bradycardia and hypotension, and a signal of harm in patients ≤ 65 years.
+- B (True) – ABC (Girard 2008): ventilator-free days 14.7 vs 11.6 and 1-year mortality 44 vs 58 % (HR 0.68).
+- C (True) – NONSEDA: 90-day mortality 42.4 vs 37.0 % (NS). No sedation was not superior to light sedation.
+- D (True) – SESAR (n = 687): fewer ventilator-free days (−2.1 d) and 90-day mortality 52.9 vs 44.3 % (HR 1.31).
+
+**EDIC trap:** "Dexmedetomidine reduces mortality" is false.
+
+**Ref:** Shehabi Y, et al. SPICE III. *N Engl J Med* 2019;380:2506–2517; Girard TD, et al. ABC. *Lancet* 2008;371:126–134; Olsen HT, et al. NONSEDA. *N Engl J Med* 2020;382:1103–1111; Jabaudon M, et al. SESAR. *JAMA* 2025;333:1608–1617.
+
+Review: [W16/D1](#W16-D1)
+
+</details>
+
+**21.** A 22-year-old with severe TBI has received propofol at 5 mg/kg/h for 3 days to control ICP. Lactate has risen to 7 mmol/L, CK is 18 000 U/L, K⁺ is 6.0 mmol/L, triglycerides are high, and the ECG shows new coved ST elevation in V1–V3. What is the most likely diagnosis?
+
+- A. Septic shock
+- B. Malignant hyperthermia
+- C. Neuroleptic malignant syndrome
+- D. Hyperkalaemia after suxamethonium
+- E. Propofol-related infusion syndrome
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** PRIS develops with propofol at > 4 mg/kg/h for > 48 h, especially in young patients, with TBI, catecholamines, steroids or low carbohydrate intake. Features are lactic acidosis, rhabdomyolysis, hyperkalaemia, AKI, hypertriglyceridaemia, a Brugada-like ECG and refractory bradycardia leading to collapse. The mechanism is impaired mitochondrial fatty-acid oxidation. Stop propofol and give supportive care (KRT, ECMO in extremis).
+
+**Why not the others:**
+- A – Sepsis does not explain the Brugada-like ECG and hypertriglyceridaemia in this exposure context.
+- B – Malignant hyperthermia follows volatile agents or suxamethonium, with hypercapnia, rigidity and hyperthermia.
+- C – NMS follows dopamine antagonists, with lead-pipe rigidity and hyperthermia.
+- D – Suxamethonium hyperkalaemia is acute and does not explain 3 days of rising lactate and CK.
+
+**Ref:** Devlin JW, et al. PADIS. *Crit Care Med* 2018;46:e825–e873.
+
+Review: [W16/D1](#W16-D1)
+
+</details>
+
+**22.** A 58-year-old ventilated patient (RASS −1) cannot self-report pain. During a nursing round his heart rate is 115/min and BP 160/90 mmHg, but his CPOT score is 1. Which interpretation is correct?
+
+- A. A CPOT of 1 does not indicate significant pain; vital signs alone are not valid pain indicators, so look for other causes and reassess
+- B. Tachycardia and hypertension prove significant pain, so an opioid bolus is needed
+- C. The CPOT cannot be used in intubated patients, so the BPS-NI is required
+- D. Significant pain on the CPOT is defined as a score above 5
+- E. Pain must be measured with BIS because the patient cannot self-report
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** When a patient cannot self-report but has observable behaviour, PADIS recommends the CPOT (0–8; > 2 = significant pain) or the BPS (3–12; > 5 = significant pain). Vital signs are not valid pain indicators; they are only a cue to assess. A CPOT of 1 does not support significant pain, so other causes of tachycardia and hypertension should be sought.
+
+**Why not the others:**
+- B – Heart rate and BP are non-specific (anxiety, delirium, hypovolaemia, fever).
+- C – The CPOT is validated in intubated patients; the BPS-NI is the version of the BPS for non-intubated patients.
+- D – > 5 is the BPS threshold; the CPOT threshold is > 2.
+- E – BIS and processed EEG are used for sedation depth when scales cannot be applied (e.g. NMB), not for pain.
+
+**Ref:** Devlin JW, et al. PADIS. *Crit Care Med* 2018;46:e825–e873.
+
+Review: [W16/D1](#W16-D1)
+
+</details>
+
+**23.** Regarding the 2025 PADIS focused update:
+
+- A. It recommends antipsychotics for the treatment of delirium in ICU patients. — T / F
+- B. It recommends benzodiazepines for anxiety in ICU patients. — T / F
+- C. It strongly recommends melatonin to prevent delirium. — T / F
+- D. It suggests dexmedetomidine over propofol when light sedation and less delirium are the priority. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – F, C – F, D – T.**
+
+- A (False) – There is no recommendation for or against antipsychotics for delirium (low certainty).
+- B (False) – There is no recommendation on benzodiazepines for anxiety (insufficient evidence); use validated assessment and non-pharmacological measures.
+- C (False) – Melatonin is suggested for sleep (conditional, low certainty), not strongly for delirium prevention. Pro-MEDIC did not reduce delirium.
+- D (True) – This is a conditional suggestion with moderate certainty; consider alternatives if deep sedation is needed or bradycardia risk is high.
+
+**EDIC trap:** A2B (2025) found no faster extubation with α2-agonists, and more agitation and bradycardia. Read the stem for the priority.
+
+**Ref:** Lewis K, et al. PADIS focused update. *Crit Care Med* 2025;53:e711–e727.
+
+Review: [W16/D1](#W16-D1), [W16/D2](#W16-D2)
+
+</details>
+
+**24.** A 70-year-old ventilated patient with septic shock is on day 3. He opens his eyes only to physical stimulation (RASS −4). The night nurse has documented "CAM-ICU negative". What is the correct interpretation?
+
+- A. He does not have delirium and needs no further screening
+- B. He has hypoactive delirium because he is unresponsive
+- C. Delirium cannot be assessed because he is comatose; reassess when RASS is −3 or above
+- D. An ICDSC score must be calculated instead, because the CAM-ICU is not valid in intubated patients
+- E. CAM-ICU is positive because his level of consciousness is altered (RASS ≠ 0)
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** Delirium assessment is a two-step process. First, arousal is assessed with RASS. At RASS −4 or −5 the patient is comatose and delirium cannot be assessed, so the correct record is "unable to assess", not "negative". Content of consciousness is assessed with the CAM-ICU or ICDSC only when RASS is −3 or higher.
+
+**Why not the others:**
+- A – Recording a comatose patient as CAM-ICU negative is wrong and stops the screening from being repeated.
+- B – Delirium is by definition not diagnosed in the context of severely reduced arousal (coma).
+- D – The CAM-ICU was validated in ventilated patients (sensitivity 93–100 %) and works with non-verbal answers.
+- E – CAM-ICU positivity requires features 1 + 2 + (3 or 4); at RASS −4 feature 2 cannot be tested.
+
+**Ref:** Ely EW, et al. CAM-ICU. *JAMA* 2001;286:2703–2710; Devlin JW, et al. PADIS. *Crit Care Med* 2018;46:e825–e873.
+
+Review: [W16/D2](#W16-D2)
+
+</details>
+
+**25.** Regarding the prevention and treatment of ICU delirium, all of the following are supported by trials or PADIS EXCEPT:
+
+- A. Prophylactic low-dose haloperidol to improve 28-day survival in high-risk patients
+- B. Multicomponent non-pharmacological prevention (reorientation, glasses and hearing aids, sleep hygiene, early mobilisation, family presence)
+- C. Dexmedetomidine for agitated delirium that prevents extubation
+- D. Minimising benzodiazepine use
+- E. Minimising physical restraints
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** REDUCE (n = 1789 at-risk patients without delirium) found that prophylactic haloperidol 1–2 mg did not change 28-day survival or delirium incidence. Haloperidol prophylaxis is not recommended.
+
+**Why not the others:**
+- B – Multicomponent non-pharmacological prevention is suggested by PADIS and is the only intervention with consistent benefit.
+- C – DahLIA: dexmedetomidine added to standard care increased ventilator-free hours at 7 days (144.8 vs 127.5 h) and resolved delirium faster.
+- D – Benzodiazepines are a modifiable delirium risk factor; reserve them for alcohol or benzodiazepine withdrawal and seizures.
+- E – Restraints are associated with more delirium and self-extubation.
+
+**EDIC trap:** "Haloperidol shortens delirium" (MIND-USA, AID-ICU) and "prophylactic haloperidol improves survival" (REDUCE) are both false.
+
+**Ref:** van den Boogaard M, et al. REDUCE. *JAMA* 2018;319:680–690; Reade MC, et al. DahLIA. *JAMA* 2016;315:1460–1468; Devlin JW, et al. PADIS. *Crit Care Med* 2018;46:e825–e873.
+
+Review: [W16/D2](#W16-D2)
+
+</details>
+
+**26.** Regarding delirium in the ICU:
+
+- A. The hypoactive subtype is the most common in the ICU and carries the worst prognosis. — T / F
+- B. An ICDSC score of 4 or more over a shift indicates delirium. — T / F
+- C. The CAM-ICU is positive when there is an acute change or fluctuating course plus inattention, plus either an altered level of consciousness or disorganised thinking. — T / F
+- D. In AID-ICU, haloperidol significantly increased days alive and out of hospital at 90 days. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – Hypoactive delirium is quiet, often missed and has the worst prognosis; pure hyperactive delirium is < 5 %.
+- B (True) – ICDSC has 8 items scored over 8–24 h; ≥ 4 = delirium (sensitivity 99 %, specificity 64 %), 1–3 = subsyndromal delirium.
+- C (True) – CAM-ICU = feature 1 + feature 2 + (feature 3 or 4). Inattention is > 2 errors on the "SAVEAHAART" letters test.
+- D (False) – AID-ICU: days alive and out of hospital 35.8 vs 32.9 (adjusted difference 2.9, 95 % CI −1.2 to 7.0, NS). Lower 90-day mortality (36.3 vs 43.3 %) was a secondary, fragile finding.
+
+**Ref:** Bergeron N, et al. ICDSC. *Intensive Care Med* 2001;27:859–864; Ely EW, et al. CAM-ICU. *JAMA* 2001;286:2703–2710; Andersen-Ranberg NC, et al. AID-ICU. *N Engl J Med* 2022;387:2425–2435.
+
+Review: [W16/D2](#W16-D2)
+
+</details>
+
+**27.** A 45-year-old man developed ascending weakness 10 days after a diarrhoeal illness. He is areflexic. Over 12 hours his vital capacity has fallen from 45 to 18 mL/kg and his MIP is −25 cmH₂O. He has a weak cough and staccato speech, and his PaCO₂ is 5.2 kPa (39 mmHg). What is the most appropriate next step?
+
+- A. Start NIV and reassess in 2 hours
+- B. Elective intubation using rocuronium
+- C. Continue monitoring until PaCO₂ rises above 6.5 kPa
+- D. Rapid sequence intubation with suxamethonium
+- E. Give a second course of IVIg to avoid intubation
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** He meets the "20/30/40 rule" (VC < 20 mL/kg, MIP weaker than −30 cmH₂O), his VC is falling fast, and he has bulbar signs. In neuromuscular failure, blood gases are late markers, so intubation should be elective, before hypercapnia and exhaustion. Use a non-depolarising agent (rocuronium) and have atropine ready because of dysautonomia.
+
+**Why not the others:**
+- A – NIV is generally avoided in GBS with bulbar weakness and autonomic instability; it is reasonable mainly in myasthenic crisis without bulbar failure.
+- C – Waiting for hypercapnia leads to emergency intubation in an exhausted patient.
+- D – Suxamethonium is contraindicated: upregulated extrajunctional ACh receptors cause life-threatening hyperkalaemia.
+- E – A second IVIg course is strongly recommended against (SID-GBS: no benefit, SAE 35 vs 16 %).
+
+**Ref:** Lawn ND, et al. *Arch Neurol* 2001;58:893–898; van Doorn PA, et al. EAN/PNS GBS. *Eur J Neurol* 2023;30:3646–3674.
+
+Review: [W16/D3](#W16-D3)
+
+</details>
+
+**28.** A 55-year-old woman with Guillain–Barré syndrome cannot walk unaided 5 days after onset. Regarding her treatment:
+
+- A. IVIg 0.4 g/kg/day for 5 days (2 g/kg) is appropriate, because she is within 2 weeks of onset. — T / F
+- B. Plasma exchange followed by IVIg is more effective than either treatment alone. — T / F
+- C. If her mEGOS predicts a poor prognosis, a second IVIg course is recommended. — T / F
+- D. Oral corticosteroids are strongly recommended against. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – T.**
+
+- A (True) – EAN/PNS 2023: IVIg for patients unable to walk unaided, started within 2 weeks. Plasma exchange (4–5 exchanges within 4 weeks) is equally effective.
+- B (False) – In the PSGBS trial, PE followed by IVIg was not better than either alone. Choose by availability and contraindications.
+- C (False) – SID-GBS (mEGOS ≥ 6): cOR 1.4 (NS), with serious adverse events 35 vs 16 % (including thromboembolism). EAN/PNS strongly recommends against it.
+- D (True) – Oral steroids are strongly recommended against; IV methylprednisolone is weakly recommended against.
+
+**Ref:** van Doorn PA, et al. EAN/PNS GBS. *Eur J Neurol* 2023;30:3646–3674; Walgaard C, et al. SID-GBS. *Lancet Neurol* 2021;20:275–283.
+
+Review: [W16/D3](#W16-D3)
+
+</details>
+
+**29.** A 34-year-old man who injects drugs presents with diplopia, ptosis and dysphagia, followed by symmetrical weakness of the arms. He has fixed dilated pupils, a dry mouth and urinary retention. He is alert and afebrile with no sensory loss. CSF is normal, and there is an infected injection site on his thigh. What is the most appropriate immediate treatment?
+
+- A. IVIg 2 g/kg
+- B. Plasma exchange
+- C. Pyridostigmine
+- D. Wait for toxin confirmation before specific treatment
+- E. Botulinum antitoxin now, plus wound debridement and penicillin
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** Descending paralysis that starts in the cranial nerves, with dilated pupils, autonomic features (dry mouth, ileus, urinary retention), a clear sensorium, no sensory loss and normal CSF, is botulism. Injection drug use suggests wound botulism. Give antitoxin as early as possible without waiting for confirmation, because it only neutralises circulating toxin. Debride the wound and give penicillin, and avoid aminoglycosides.
+
+**Why not the others:**
+- A – IVIg treats GBS, which is usually ascending, areflexic and spares the pupils.
+- B – Plasma exchange is a GBS or MG treatment and does not replace antitoxin.
+- C – Pyridostigmine treats MG, which does not cause dilated pupils or autonomic failure.
+- D – Waiting for confirmation delays the only specific therapy.
+
+**EDIC trap:** Descending paralysis with dilated pupils and normal CSF = botulism, not GBS.
+
+**Ref:** van Doorn PA, et al. EAN/PNS GBS. *Eur J Neurol* 2023;30:3646–3674.
+
+Review: [W16/D3](#W16-D3)
+
+</details>
+
+**30.** A 62-year-old woman with generalised myasthenia gravis on pyridostigmine is admitted with community-acquired pneumonia and increasing dysphagia. Which antibiotic is LEAST likely to worsen her myasthenia?
+
+- A. Gentamicin
+- B. Levofloxacin
+- C. Azithromycin
+- D. Ceftriaxone
+- E. Colistin
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** β-lactams are considered safe in myasthenia gravis and are preferred for treating the infection that triggers a crisis. Infection is the most common trigger (~30–40 %).
+
+**Why not the others:**
+- A – Aminoglycosides impair neuromuscular transmission and can precipitate a crisis.
+- B – Fluoroquinolones are a well-known cause of MG exacerbation.
+- C – Macrolides can worsen MG (telithromycin is contraindicated).
+- E – Colistin and other polymyxins have neuromuscular-blocking effects.
+
+**EDIC trap:** Also check magnesium sulphate, β-blockers, neuromuscular blockers and immune checkpoint inhibitors in every MG patient.
+
+**Ref:** Narayanaswami P, et al. International consensus MG 2020. *Neurology* 2021;96:114–122.
+
+Review: [W16/D3](#W16-D3)
+
+</details>
+
+**31.** Regarding neuromuscular blocking agents and immunotherapy in neuromuscular disease:
+
+- A. Patients with myasthenia gravis are relatively resistant to suxamethonium. — T / F
+- B. Patients with myasthenia gravis need lower doses of suxamethonium than healthy patients. — T / F
+- C. In Guillain–Barré syndrome, suxamethonium becomes safe once the patient has been weak for more than a week. — T / F
+- D. In myasthenic crisis, pyridostigmine should be continued at an increased dose while the patient is ventilated. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – F.**
+
+- A (True) – Fewer functional AChRs mean that about 2–2.5× the usual dose of suxamethonium is needed. Patients are very sensitive to non-depolarising agents such as rocuronium (sugammadex reverses it reliably).
+- B (False) – This is the opposite: they need higher doses.
+- C (False) – Denervation upregulates extrajunctional receptors over time, so the hyperkalaemia risk increases rather than disappears. Suxamethonium is contraindicated in GBS.
+- D (False) – Pyridostigmine is usually withheld while the patient is ventilated (it increases secretions) and reintroduced before weaning. Excess dosing risks a cholinergic crisis (miosis, bronchorrhoea, bradycardia, fasciculations).
+
+**Ref:** Narayanaswami P, et al. International consensus MG 2020. *Neurology* 2021;96:114–122; van Doorn PA, et al. EAN/PNS GBS. *Eur J Neurol* 2023;30:3646–3674.
+
+Review: [W16/D3](#W16-D3)
+
+</details>
+
+**32.** A 45-year-old man is apnoeic with fixed pupils 18 hours after a catastrophic traumatic brain injury confirmed on CT. Under the UK AoMRC 2025 code, clinical testing for death by neurological criteria may proceed with each of the following findings EXCEPT:
+
+- A. Serum sodium 122 mmol/L
+- B. Core temperature 36.3 °C
+- C. Blood glucose 14 mmol/L
+- D. MAP 72 mmHg on a noradrenaline infusion
+- E. Four twitches with no fade on train-of-four, 5 hours after a single dose of rocuronium
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** The UK 2025 code requires sodium of 125–160 mmol/L (raised from 115 in the 2008 code). Na 122 mmol/L is a confounder that must be corrected before testing, or an ancillary investigation is needed.
+
+**Why not the others:**
+- B – Temperature must be ≥ 36 °C; 36.3 °C is acceptable.
+- C – Glucose must be 3.0–20.0 mmol/L; 14 mmol/L is within range.
+- D – Circulation must not be contributing to coma; vasopressors are allowed.
+- E – Neuromuscular blockade must be excluded with a nerve stimulator; a TOF of 4/4 without fade does this.
+
+**EDIC trap:** MCQs often hide a single precondition just outside the limit (Na, temperature, glucose, residual thiopentone in renal failure, recent rocuronium).
+
+**Ref:** Academy of Medical Royal Colleges. Code of Practice for the Diagnosis and Confirmation of Death. *AoMRC* 2025.
+
+Review: [W16/D4](#W16-D4)
+
+</details>
+
+**33.** A 38-year-old woman is being tested for death by neurological criteria after a massive SAH. Regarding the clinical examination and apnoea test:
+
+- A. Triple flexion of the legs in response to pain is compatible with brain death. — T / F
+- B. Decerebrate (extensor) posturing is compatible with brain death. — T / F
+- C. The UK end-point is PaCO₂ ≥ 8.0 kPa with a rise of ≥ 2.7 kPa and pH < 7.30, with no respiratory effort. — T / F
+- D. The apnoea test should be performed on the ventilator in CPAP mode to avoid derecruitment. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – Spinal reflexes (deep tendon reflexes, plantar responses, triple flexion, the Lazarus sign) are compatible with brain death.
+- B (False) – Decerebrate or decorticate posturing and seizures require brainstem or cortical function and exclude the diagnosis.
+- C (True) – AoMRC 2025: start PaCO₂ ≥ 5.3 kPa, observe for ≥ 5 min, end-point PaCO₂ ≥ 8.0 kPa, rise ≥ 2.7 kPa and pH < 7.30. US 2023: PaCO₂ ≥ 60 mmHg and ≥ 20 mmHg above baseline.
+- D (False) – Test off the ventilator (CPAP circuit or catheter with O₂), because modern ventilators auto-trigger and can mimic breaths. Recruitment before and after prevents derecruitment.
+
+**Ref:** Academy of Medical Royal Colleges. Code of Practice. *AoMRC* 2025; Greer DM, et al. AAN/AAP/CNS/SCCM. *Neurology* 2023;101:1112–1132.
+
+Review: [W16/D4](#W16-D4)
+
+</details>
+
+**34.** A 30-year-old has catastrophic hypoxic brain injury and also a C2 fracture with high cervical cord injury. All brainstem reflexes are absent, but the apnoea test cannot be interpreted. According to AAN 2023, which ancillary test is most appropriate?
+
+- A. EEG showing electrocerebral silence
+- B. Radionuclide cerebral perfusion scintigraphy
+- C. Somatosensory evoked potentials
+- D. A repeat apnoea test after 6 hours
+- E. MRI with diffusion-weighted imaging
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** High cervical cord injury causes apnoea despite possible brainstem function, so the apnoea test cannot be interpreted and an ancillary test is needed. Blood-flow studies are preferred because drugs and hypothermia do not affect them. The AAN accepts catheter angiography, radionuclide perfusion scintigraphy ("empty skull") and TCD in adults.
+
+**Why not the others:**
+- A – EEG is no longer recommended as an ancillary test (UK 2025, AAN 2023); it is affected by drugs and hypothermia and tests cortex, not brainstem.
+- C – SSEPs are a prognostic tool after cardiac arrest, not an accepted ancillary test.
+- D – Repeating the apnoea test does not solve the cord-injury confounder.
+- E – DWI shows injury but not absent intracranial blood flow.
+
+
+**Ref:** Greer DM, et al. AAN/AAP/CNS/SCCM. *Neurology* 2023;101:1112–1132; Greer DM, et al. World Brain Death Project. *JAMA* 2020;324:1078–1097.
+
+Review: [W16/D4](#W16-D4)
+
+</details>
+
+**35.** A 33-year-old with severe TBI has ICP 15 mmHg and CPP 65 mmHg. PbtO₂ is 12 mmHg, and the probe position in perilesional tissue is confirmed on CT. Microdialysis shows a lactate/pyruvate ratio of 45 with low pyruvate. What is the most likely explanation, and what is the right response?
+
+- A. Mitochondrial (type 2) dysfunction – no change in O₂ delivery is needed
+- B. Probe artefact – ignore the readings
+- C. Cerebral hyperaemia – hyperventilate to PaCO₂ 30 mmHg
+- D. Raised metabolic demand – start barbiturate coma
+- E. Ischaemic (type 1) metabolic crisis – improve O₂ delivery (raise CPP, raise FiO₂/PaO₂, avoid hypocapnia, consider transfusion)
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** PbtO₂ < 20 mmHg is brain hypoxia (normal 25–35 mmHg). An LPR above 40 is a metabolic crisis, and a high LPR with low pyruvate together with low PbtO₂ is the ischaemic (type 1) pattern. With ICP controlled, the SIBICC 2020 approach is to improve delivery: raise CPP, increase FiO₂ (PaO₂ up to ~150 mmHg), normalise PaCO₂ towards the upper normal, treat fever and seizures, and consider transfusion.
+
+**Why not the others:**
+- A – Type 2 (mitochondrial) LPR elevation has normal or high pyruvate and normal PbtO₂.
+- B – Probe position has been confirmed, and both modalities agree.
+- C – Hypocapnia causes vasoconstriction and would worsen ischaemia.
+- D – SIBICC advises against using barbiturates or hypothermia solely to treat low PbtO₂.
+
+**Ref:** Chesnut R, et al. SIBICC ICP + PbtO₂. *Intensive Care Med* 2020;46:919–929; Hutchinson PJ, et al. Microdialysis consensus. *Intensive Care Med* 2015;41:1517–1528.
+
+Review: [W16/D5](#W16-D5)
+
+</details>
+
+**36.** Regarding multimodal neuromonitoring:
+
+- A. A positive PRx (e.g. +0.4) indicates intact cerebrovascular pressure reactivity. — T / F
+- B. A P2 wave higher than P1 on the ICP waveform suggests reduced intracranial compliance. — T / F
+- C. An EVD can be re-zeroed in situ and drain CSF, but it carries the highest infection risk of the ICP devices. — T / F
+- D. Transcranial Doppler measures cerebral blood flow directly in mL/100 g/min. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – T, C – T, D – F.**
+
+- A (False) – A positive PRx means ICP rises passively with MAP, i.e. impaired autoregulation. Sustained PRx > 0.25 is associated with mortality; a negative or near-zero value means intact reactivity.
+- B (True) – P1 is the percussion wave, P2 the tidal wave (compliance) and P3 the dicrotic wave. P2 > P1 can appear before mean ICP rises.
+- C (True) – The EVD is the gold standard, with ventriculitis in ~5–10 %. Intraparenchymal probes cannot be re-zeroed (zero drift).
+- D (False) – TCD measures flow velocity, not flow. Vasospasm is suggested by MCA > 120 cm/s with Lindegaard > 3.
+
+**Ref:** Le Roux P, et al. Multimodality monitoring consensus. *Intensive Care Med* 2014;40:1189–1209; Carney N, et al. BTF 4th edition. *Neurosurgery* 2017;80:6–15.
+
+Review: [W16/D5](#W16-D5)
+
+</details>
+
+**37.** A 24-year-old man has a complete C5 spinal cord injury after a diving accident. BP is 78/40 mmHg, HR 48/min, and his peripheries are warm and dry. FAST is negative, the pelvis is stable, and CT shows no other injury. After fluids to euvolaemia, which haemodynamic strategy follows the 2024 AO Spine/Praxis guideline?
+
+- A. MAP ≥ 65 mmHg, as in septic shock
+- B. MAP 85–90 mmHg for 7 days
+- C. MAP with a lower limit of 75–80 mmHg, not actively above 90–95 mmHg, for 3–7 days, using noradrenaline
+- D. Phenylephrine to a MAP above 100 mmHg
+- E. Further fluid boluses to a CVP of 15 mmHg without vasopressors
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** This is neurogenic shock: hypotension, bradycardia and warm peripheries from loss of sympathetic outflow above T6, with haemorrhage excluded. The 2024 guideline suggests augmenting MAP to a lower limit of 75–80 mmHg, not actively above 90–95 mmHg, for 3–7 days (weak, very low evidence). It makes no recommendation on the vasopressor, but noradrenaline (α + β1) is pragmatic because it also supports heart rate.
+
+**Why not the others:**
+- A – 65 mmHg is the sepsis target and is below the cord-perfusion target.
+- B – 85–90 mmHg for 7 days is the older AANS/CNS 2013 recommendation.
+- D – Pure α-agonists can worsen bradycardia in cervical injury, and MAP > 100 mmHg exceeds the upper limit.
+- E – Fluid overload risks pulmonary oedema in a patient with a weak cough; vasodilatory shock needs a vasopressor.
+
+**Ref:** Kwon BK, et al. AO Spine/Praxis haemodynamic guideline. *Global Spine J* 2024;14(3 Suppl):187S–211S.
+
+Review: [W17/D1](#W17-D1)
+
+</details>
+
+**38.** A 31-year-old man has an acute traumatic C6 complete spinal cord injury, admitted 3 hours after injury. Regarding his management:
+
+- A. If methylprednisolone is considered at all, only the 24-hour regimen started within 8 hours of injury is a guideline option. — T / F
+- B. Surgical decompression within 24 hours is recommended regardless of injury level. — T / F
+- C. Suxamethonium is considered safe for intubation within the first ~48–72 hours after injury. — T / F
+- D. His vital capacity is likely to be better supine than sitting. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – T.**
+
+- A (True) – AO Spine 2017 (weak): a 24-h infusion may be offered within 8 h; do not start it after 8 h and never give a 48-h infusion. Many societies recommend against routine use (infection, GI bleeding, hyperglycaemia).
+- B (True) – Fehlings 2024: early surgery < 24 h regardless of level. Badhiwala 2021 (n = 1548) showed a 4.0-point motor-score benefit at 1 year.
+- C (True) – Extrajunctional receptors proliferate after ~48–72 h, causing life-threatening hyperkalaemia for months.
+- D (True) – This is the tetraplegic paradox: when upright, the abdominal contents drop and the diaphragm flattens. An abdominal binder helps.
+
+**Ref:** Fehlings MG, et al. *Global Spine J* 2017;7(3 Suppl):203S–211S; Fehlings MG, et al. *Global Spine J* 2024;14(3 Suppl):174S–186S; Badhiwala JH, et al. *Lancet Neurol* 2021;20:117–126.
+
+Review: [W17/D1](#W17-D1)
+
+</details>
+
+**39.** A 35-year-old man with a complete T4 spinal cord injury 2 months ago develops a sudden pounding headache on the rehabilitation ward. BP is 210/110 mmHg and HR 50/min, and he is flushed and sweating above the level of the lesion. What is the most appropriate first action?
+
+- A. Sit him upright, loosen tight clothing and check the urinary catheter for blockage
+- B. Start an IV labetalol infusion and lay him flat
+- C. Give atropine for the bradycardia
+- D. Arrange urgent CT of the head before any other intervention
+- E. Give an IV fluid bolus
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** This is autonomic dysreflexia, seen with lesions at or above T6 once spinal shock has resolved. A noxious stimulus below the lesion – most often bladder distension or a blocked catheter, or faecal impaction – triggers massive sympathetic discharge with severe hypertension and reflex bradycardia. First sit the patient up, loosen clothing and find and remove the trigger. Use a short-acting antihypertensive (nifedipine, GTN) only if SBP stays ≥ 150 mmHg.
+
+**Why not the others:**
+- B – Lying flat worsens hypertension, and an infusion is not first-line before removing the trigger.
+- C – The bradycardia is a baroreflex response to hypertension, so atropine does not treat the cause.
+- D – CT delays the simple, effective first step; consider it only if symptoms persist after BP control.
+- E – Fluids would worsen the hypertension.
+
+**Ref:** Consortium for Spinal Cord Medicine. Early acute management in adults with SCI. *J Spinal Cord Med* 2008;31:403–479.
+
+Review: [W17/D1](#W17-D1)
+
+</details>
+
+**40.** A 78-year-old man with cervical spondylosis falls forward and hits his forehead (hyperextension). CT shows no fracture, but MRI shows cord oedema at C4–C5. All of the following are typical of the most likely incomplete cord syndrome EXCEPT:
+
+- A. Injury without a fracture in a spondylotic neck
+- B. Bladder dysfunction
+- C. Variable sensory loss below the lesion
+- D. Legs weaker than arms
+- E. A relatively good prognosis, with the legs recovering first
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** Hyperextension in an elderly spondylotic neck causes central cord syndrome. The centrally located cervical fibres for the arms are affected more than the laterally placed lumbosacral fibres, so the arms are weaker than the legs, not the other way round.
+
+**Why not the others:**
+- A – Central cord syndrome typically occurs without a fracture; MRI shows the cord injury.
+- B – Bladder dysfunction is common.
+- C – Sensory loss below the lesion is variable.
+- E – The prognosis is relatively good, and the legs recover first.
+
+**EDIC trap:** Age ≥ 65 is a high-risk criterion in the Canadian C-Spine Rule, so an alert elderly patient with neck pain after a low fall needs imaging even if he can rotate his neck.
+
+**Ref:** Stiell IG, et al. *N Engl J Med* 2003;349:2510–2518; Fehlings MG, et al. *Global Spine J* 2024;14(3 Suppl):174S–186S.
+
+Review: [W17/D1](#W17-D1)
+
+</details>
+
+**41.** Regarding ICU-acquired weakness (ICUAW):
+
+- A. An MRC sum score below 48 in a cooperative patient defines ICUAW. — T / F
+- B. Critical illness myopathy shows reduced compound muscle action potentials with normal sensory nerve action potentials. — T / F
+- C. Facial and ocular muscles are typically involved. — T / F
+- D. Critical illness polyneuropathy usually recovers faster than critical illness myopathy. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – Six muscle groups are tested bilaterally, each scored 0–5 (total 0–60). < 48 = ICUAW and < 36 = severe; the patient must be awake and cooperative.
+- B (True) – CIM causes myosin loss and inexcitable muscle on direct stimulation; CIP reduces both CMAP and SNAP amplitudes.
+- C (False) – ICUAW is symmetrical, proximal > distal and spares the face and eyes. Facial or ocular weakness suggests MG, botulism or GBS.
+- D (False) – CIM recovers better (weeks to months) than CIP or CINM (months to years, sometimes incomplete).
+
+**Ref:** Vanhorebeek I, et al. *Intensive Care Med* 2020;46:637–653; Fan E, et al. ATS ICUAW. *Am J Respir Crit Care Med* 2014;190:1437–1446.
+
+Review: [W17/D2](#W17-D2)
+
+</details>
+
+**42.** A unit is reviewing strategies to reduce ICU-acquired weakness in ventilated adults with multi-organ failure. Which intervention has randomised evidence of less weakness?
+
+- A. High protein provision (≥ 2.0 g/kg/day) from the first days
+- B. Withholding parenteral nutrition during the first week
+- C. Very early, high-intensity active mobilisation, as in TEAM
+- D. Routine neuromuscular electrical stimulation
+- E. Growth hormone
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** In the EPaNIC subanalysis (Hermans 2013), delaying parenteral nutrition until after the first week reduced ICUAW (34 vs 43 %) and led to faster recovery. Early PN is one of the modifiable risk factors listed by Vanhorebeek (with hyperglycaemia, immobility/deep sedation, steroids and prolonged NMBA).
+
+**Why not the others:**
+- A – EFFORT Protein (≥ 2.2 vs ≤ 1.2 g/kg/d) found no benefit and possible harm in AKI or high SOFA. PRECISe (2.0 vs 1.3) worsened quality of life and GI tolerance.
+- C – TEAM: days alive and out of hospital 143 vs 145 (NS), with more adverse events (9.2 vs 4.1 %).
+- D – NMES is not recommended routinely.
+- E – Growth hormone and anabolic steroids are not recommended.
+
+**EDIC trap:** More protein does not mean better muscle.
+
+**Ref:** Hermans G, et al. EPaNIC subanalysis. *Lancet Respir Med* 2013;1:621–629; Bels JLM, et al. PRECISe. *Lancet* 2024;404:659–669; TEAM. *N Engl J Med* 2022;387:1747–1758.
+
+Review: [W17/D2](#W17-D2)
+
+</details>
+
+**43.** A 65-year-old has been ventilated for 12 days for pneumonia. He fails a spontaneous breathing trial for the third time. He is awake and cooperative with an MRC sum score of 52. Diaphragm ultrasound shows a thickening fraction of 12 % and an excursion of 7 mm. Which statement is correct?
+
+- A. An MRC sum score above 48 excludes clinically relevant respiratory muscle weakness
+- B. A thickening fraction of 12 % is normal
+- C. Limb ICUAW, not the diaphragm, is the main determinant of weaning failure
+- D. A protein intake of 2.0 g/kg/day will reverse the problem
+- E. He probably has diaphragm dysfunction, which is common without limb ICUAW and is associated with weaning failure and death
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** A thickening fraction below 20–30 % and an excursion below 10 mm suggest diaphragm dysfunction. Dres (AJRCCM 2017) found diaphragm dysfunction about twice as often as limb ICUAW at liberation (≈ 63 vs 34 %), with only partial overlap. Diaphragm dysfunction, not limb weakness, was associated with weaning failure and death.
+
+**Why not the others:**
+- A – A normal MRC score does not exclude respiratory muscle weakness.
+- B – 12 % is well below the dysfunction threshold.
+- C – Dres showed the opposite.
+- D – High protein did not improve functional outcomes (EFFORT Protein, PRECISe).
+
+**EDIC trap:** Avoid both over-assistance (disuse atrophy) and under-assistance (load-induced injury) – diaphragm-protective ventilation.
+
+**Ref:** Dres M, et al. *Am J Respir Crit Care Med* 2017;195:57–66.
+
+Review: [W17/D2](#W17-D2)
+
+</details>
+
+**44.** A 70-year-old woman with pneumococcal septic shock becomes drowsy and inattentive on day 2. Which finding is LEAST consistent with sepsis-associated encephalopathy and should most strongly prompt a search for another cause?
+
+- A. Hypoactive delirium
+- B. EEG slowing in the theta–delta range
+- C. Triphasic waves on EEG
+- D. A new right hemiparesis
+- E. Fluctuating attention over 24 hours
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** SAE is diffuse brain dysfunction without direct CNS infection and is a diagnosis of exclusion. Focal signs (~1 %) and convulsive seizures (~2 %) are rare, so a new hemiparesis should prompt imaging for stroke, abscess, CNS infection or PRES. Pneumococcal sepsis also raises the possibility of meningitis.
+
+**Why not the others:**
+- A – Delirium, usually hypoactive, is the commonest presentation.
+- B – EEG slowing (theta to delta) is graded with severity.
+- C – Triphasic waves occur in 6–20 % of patients with SAE; they are not specific for hepatic encephalopathy.
+- E – Fluctuation is a core feature of delirium, the clinical expression of the encephalopathy.
+
+**Ref:** Sonneville R, et al. *Crit Care* 2023;27:386; Sonneville R, et al. *Intensive Care Med* 2017;43:1075–1084.
+
+Review: [W17/D3](#W17-D3)
+
+</details>
+
+**45.** Regarding metabolic encephalopathies in the ICU:
+
+- A. Suspected Wernicke encephalopathy is treated with thiamine 200 mg IV three times daily, given before any glucose. — T / F
+- B. A normal ammonia level in a patient with suspected overt hepatic encephalopathy should prompt the diagnosis to be reconsidered. — T / F
+- C. Triphasic waves on EEG are specific for hepatic encephalopathy. — T / F
+- D. Valproate can cause hyperammonaemic encephalopathy with normal liver tests. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – Do not wait for blood levels; correct magnesium as well (a thiamine cofactor). The classic triad is present only in a minority, and EFNS requires 2 of 4 criteria in alcoholics.
+- B (True) – EASL 2022: a normal ammonia should prompt re-evaluation, while a high level alone does not prove HE.
+- C (False) – Triphasic waves also occur in uraemia, sepsis, hyponatraemia and drug toxicity (e.g. cefepime) and can be confused with NCSE.
+- D (True) – Stop valproate and consider L-carnitine.
+
+**Ref:** Galvin R, et al. EFNS Wernicke. *Eur J Neurol* 2010;17:1408–1418; EASL HE guideline. *J Hepatol* 2022;77:807–824.
+
+Review: [W17/D3](#W17-D3)
+
+</details>
+
+**46.** A 40-year-old woman with Na 112 mmol/L has a generalised seizure. She receives two boluses of 150 mL 3 % NaCl over 40 minutes, and after 1 hour her Na is 117 mmol/L and the seizures have stopped. What is the highest serum Na that should be accepted 24 hours after treatment started?
+
+- A. 117 mmol/L
+- B. 120 mmol/L
+- C. 122 mmol/L
+- D. 125 mmol/L
+- E. 130 mmol/L
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** European guidance limits correction to ≤ 10 mmol/L in the first 24 h (and ≤ 8 mmol/L per 24 h after that). Starting at 112 mmol/L, the ceiling at 24 h is 122 mmol/L. The +5 mmol/L target is already reached, so the priority is to avoid overcorrection.
+
+**Why not the others:**
+- A – 117 mmol/L would mean no further rise at all, which is not required once symptoms have resolved.
+- B – 120 mmol/L is acceptable but is not the maximum.
+- D – 125 mmol/L is a 13 mmol/L rise, which exceeds the limit and risks osmotic demyelination.
+- E – 130 mmol/L is a dangerous overcorrection.
+
+**EDIC trap:** ODS appears 2–6 days after overcorrection; re-lower Na with hypotonic fluid ± desmopressin.
+
+**Ref:** Spasovski G, et al. Hyponatraemia guideline. *Eur J Endocrinol* 2014;170:G1–G47.
+
+Review: [W17/D3](#W17-D3)
+
+</details>
+
+**47.** A 61-year-old man remains comatose after ROSC following a 20-minute out-of-hospital VF arrest. His temperature on arrival is 35.2 °C. Regarding post-resuscitation neuroprotection (ERC–ESICM 2025):
+
+- A. In TTM2, 33 °C did not reduce 6-month mortality compared with normothermia and early treatment of fever. — T / F
+- B. He should be actively rewarmed to 37 °C as soon as possible. — T / F
+- C. In BOX, a MAP target of 77 mmHg gave no better outcome than 63 mmHg. — T / F
+- D. Fever (> 37.5 °C) should be actively prevented for at least 36–72 hours while he remains comatose. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – T.**
+
+- A (True) – TTM2 (n = 1900): 6-month mortality 50 vs 48 % (RR 1.04), with more arrhythmias causing haemodynamic compromise under hypothermia (24 vs 17 %).
+- B (False) – The 2025 guideline advises against actively rewarming patients with mild spontaneous hypothermia (32–36 °C) after ROSC.
+- C (True) – BOX: death or severe disability/coma 34 vs 32 % (HR 1.08). A default MAP > 60–65 mmHg is supported.
+- D (True) – Use a feedback-controlled device if needed. Hypothermia at 32–36 °C is no longer the routine target.
+
+**Ref:** Dankiewicz J, et al. TTM2. *N Engl J Med* 2021;384:2283–2294; Kjaergaard J, et al. BOX. *N Engl J Med* 2022;387:1456–1466; Nolan JP, et al. ERC–ESICM post-resuscitation care. *Intensive Care Med* 2025.
+
+Review: [W17/D4](#W17-D4)
+
+</details>
+
+**48.** A 58-year-old woman remains comatose (GCS motor 2) on day 4 after an out-of-hospital cardiac arrest. Sedation was stopped 48 hours ago, and her liver and kidney function are normal. Pupillary and corneal reflexes are absent bilaterally (pupillometer confirmed), and NSE at 48 hours is 85 µg/L in a non-haemolysed sample. Which statement best describes her prognosis under the 2025 algorithm?
+
+- A. Indeterminate, because at least three concordant predictors are needed
+- B. Poor outcome very likely, because two concordant predictors are present after confounders were excluded
+- C. Indeterminate, because pupillary reflexes are valid only within 24 hours
+- D. No conclusion is possible until SSEPs have been performed
+- E. NSE cannot be interpreted because she received sedation
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** Prognostication is done in patients who are unconscious (GCS motor ≤ 5) at ≥ 72 h after ROSC, once confounders are excluded. The 2025 algorithm says poor outcome is very likely when ≥ 2 predictors are present. She has two: bilaterally absent pupillary and corneal reflexes at ≥ 72 h, and NSE > 60 µg/L at 48–72 h.
+
+**Why not the others:**
+- A – Two concordant predictors are required, not three.
+- C – Pupillary and corneal reflexes are assessed at ≥ 72 h; they are not valid at 24 h.
+- D – SSEPs (bilaterally absent N20 from 24 h) are one option, not a mandatory test.
+- E – NSE is not affected by sedation; haemolysis and NSE-secreting tumours raise it falsely.
+
+**Ref:** Nolan JP, et al. ERC–ESICM post-resuscitation care. *Intensive Care Med* 2025; Sandroni C, et al. *Intensive Care Med* 2020;46:1803–1851.
+
+Review: [W17/D4](#W17-D4)
+
+</details>
+
+**49.** A 45-year-old woman had a hypoxic cardiac arrest during severe asthma. On day 5 she is awake and obeys commands, but she develops jerky myoclonic movements of her arms whenever she reaches for an object. What is the best interpretation?
+
+- A. Lance–Adams syndrome (chronic action myoclonus), which is compatible with a good recovery
+- B. Status myoclonus, which predicts poor neurological outcome
+- C. Non-convulsive status epilepticus requiring thiopental
+- D. An indication to withdraw life-sustaining treatment
+- E. Myoclonus that requires phenytoin as first-line therapy
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** Lance–Adams syndrome is action myoclonus in a patient who has regained consciousness, typically after a hypoxic (respiratory) arrest, and its prognosis can be good. It is treated with levetiracetam, valproate or clonazepam.
+
+**Why not the others:**
+- B – Status myoclonus is continuous, generalised myoclonus lasting ≥ 30 min within 72 h in a comatose patient, usually with a suppressed or burst-suppression EEG.
+- C – She is awake, and the movements are triggered by action; there is no indication for barbiturates.
+- D – WLST would be a fatal error in a patient who is recovering.
+- E – Phenytoin should be avoided for post-anoxic myoclonus.
+
+**EDIC trap:** Not all myoclonus is ominous – always get an EEG and look at the clinical context.
+
+**Ref:** Nolan JP, et al. ERC–ESICM post-resuscitation care. *Intensive Care Med* 2025.
+
+Review: [W17/D4](#W17-D4)
+
+</details>
+
+**50.** A 29-year-old woman on the combined oral contraceptive pill has a superior sagittal sinus thrombosis with a left parietal haemorrhagic venous infarct and has had one focal seizure. All of the following are appropriate EXCEPT:
+
+- A. Therapeutic LMWH despite the haemorrhage
+- B. Dexamethasone to reduce vasogenic oedema
+- C. An antiseizure drug, because she has had a seizure with a supratentorial lesion
+- D. Oral anticoagulation (VKA or a DOAC such as dabigatran) for 3–12 months after the acute phase
+- E. Stopping oestrogen-containing contraception
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** Steroids are not recommended in CVT. ISCVT showed no benefit and possible harm, except when there is an underlying inflammatory disease such as Behçet's or SLE.
+
+**Why not the others:**
+- A – The haemorrhage is caused by venous hypertension, so therapeutic heparin is given even with ICH; LMWH is preferred over UFH.
+- C – ASMs are indicated after seizures with supratentorial lesions to prevent early recurrence; there is no primary prophylaxis.
+- D – Dabigatran was comparable to warfarin in RE-SPECT CVT, and ACTION-CVT found less major haemorrhage with DOACs.
+- E – Oestrogen-containing contraception should be avoided after CVT.
+
+**Ref:** Ferro JM, et al. ESO CVT guideline. *Eur J Neurol* 2017;24:1203–1213; Saposnik G, et al. AHA CVT statement. *Stroke* 2024;55:e77–e90.
+
+Review: [W17/D5](#W17-D5)
+
+</details>
+
+**51.** A 48-year-old kidney transplant recipient on tacrolimus presents with seizures, confusion and cortical blindness. BP is 175/100 mmHg (baseline 130/80). Regarding posterior reversible encephalopathy syndrome:
+
+- A. Thunderclap headache is the typical headache of PRES. — T / F
+- B. Restricted diffusion on DWI is typical and indicates a good prognosis. — T / F
+- C. MAP should be reduced by about 20–25 % in the first hours, not normalised abruptly. — T / F
+- D. Tacrolimus is a recognised trigger, and stopping or switching it is part of treatment. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – F, C – T, D – T.**
+
+- A (False) – The headache of PRES is usually gradual. Thunderclap headache suggests RCVS or SAH.
+- B (False) – PRES is vasogenic oedema (ADC ↑). Restricted diffusion (15–30 %) means cytotoxic injury or infarction and a worse prognosis.
+- C (True) – Autoregulation may be right-shifted, so use titratable IV drugs (nicardipine, clevidipine, labetalol) and avoid abrupt normalisation.
+- D (True) – Calcineurin inhibitors (tacrolimus, ciclosporin), anti-VEGF drugs and chemotherapy are typical triggers. Correct hypomagnesaemia too.
+
+**Ref:** Fugate JE, Rabinstein AA. PRES. *Lancet Neurol* 2015;14:914–925.
+
+Review: [W17/D5](#W17-D5)
+
+</details>
+
+**52.** A 35-year-old woman presents 12 days after an adenoviral-vector COVID-19 vaccine with headache and a right hemiparesis. MRV confirms cerebral venous thrombosis. Platelets are 25 × 10⁹/L, D-dimer is very high, fibrinogen is low and anti-PF4 ELISA is positive. What is the most appropriate treatment?
+
+- A. Unfractionated heparin infusion
+- B. Platelet transfusion followed by LMWH
+- C. High-dose corticosteroids alone
+- D. Endovascular thrombectomy as first-line therapy
+- E. IVIG 1 g/kg with a non-heparin anticoagulant (e.g. argatroban or fondaparinux)
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** This is vaccine-induced immune thrombocytopenia and thrombosis (VITT): thrombosis at an unusual site 5–30 days after vaccination, thrombocytopenia, very high D-dimer, low fibrinogen and anti-PF4 antibodies. Treatment is IVIG 1 g/kg (repeated on day 2) with a non-heparin anticoagulant (argatroban, fondaparinux, a DOAC or bivalirudin), plus plasma exchange if refractory and fibrinogen replacement if very low.
+
+**Why not the others:**
+- A – Heparin should be avoided in anti-PF4 disorders.
+- B – Platelet transfusion should be avoided.
+- C – Steroids alone are not the treatment.
+- D – EVT is reserved for deterioration despite anticoagulation (TO-ACT was neutral).
+
+**EDIC trap:** In Pavord's series, mortality was 22 % overall and 73 % with platelets < 30 × 10⁹/L plus ICH.
+
+**Ref:** Pavord S, et al. VITT. *N Engl J Med* 2021;385:1680–1689.
+
+Review: [W17/D5](#W17-D5)
+
+</details>
+
+**53.** A 65-year-old woman has a baseline creatinine of 80 µmol/L (0.9 mg/dL). Forty-eight hours after emergency laparotomy her creatinine is 190 µmol/L (2.15 mg/dL), and her urine output has been below 0.3 mL/kg/h for the last 26 hours. What is her KDIGO stage?
+
+- A. Stage 1
+- B. Stage 2
+- C. Stage 3
+- D. No AKI, because the creatinine has not tripled
+- E. Acute kidney disease (AKD)
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** Her creatinine is 2.4× baseline, which is stage 2. Urine output < 0.3 mL/kg/h for ≥ 24 h is stage 3. KDIGO stages by the criterion that gives the highest stage, so she is stage 3.
+
+**Why not the others:**
+- A – Stage 1 is 1.5–1.9× baseline (or ≥ 26.5 µmol/L in 48 h), or UO < 0.5 mL/kg/h for 6–12 h.
+- B – Stage 2 matches the creatinine only and ignores the worse urine-output criterion.
+- D – Tripling defines stage 3, not AKI; a 1.5× rise within 7 days is enough for AKI.
+- E – AKD is ongoing dysfunction from 7 to 90 days; this is day 2.
+
+**Ref:** KDIGO AKI guideline. *Kidney Int Suppl* 2012;2:1–138.
+
+Review: [W18/D1](#W18-D1)
+
+</details>
+
+**54.** Regarding the diagnosis of AKI in the ICU:
+
+- A. Serum creatinine rises within hours once GFR falls by 25 %. — T / F
+- B. Trimethoprim can raise serum creatinine without a true fall in GFR. — T / F
+- C. Low-dose dopamine is recommended to prevent AKI in high-risk patients. — T / F
+- D. A fractional excretion of sodium below 1 % reliably identifies pre-renal AKI in septic ICU patients and should guide fluid therapy. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – T, C – F, D – F.**
+
+- A (False) – Creatinine is a late functional marker. It rises only after > 50 % of GFR is lost, lags 24–48 h behind the injury and is falsely low in sepsis, low muscle mass and fluid overload.
+- B (True) – Trimethoprim, cimetidine and dolutegravir block tubular creatinine secretion.
+- C (False) – KDIGO recommends against low-dose dopamine (1A); fenoldopam, ANP and NAC are not recommended either.
+- D (False) – Urinary indices (FENa < 1 %, FEurea < 35 %) discriminate poorly in the ICU (diuretics, sepsis) and are no longer recommended to guide management.
+
+**Ref:** KDIGO AKI guideline. *Kidney Int Suppl* 2012;2:1–138; Joannidis M, et al. ESICM AKI prevention. *Intensive Care Med* 2017;43:730–749.
+
+Review: [W18/D1](#W18-D1)
+
+</details>
+
+**55.** A 70-year-old man has urinary [TIMP-2]·[IGFBP7] of 1.2 (ng/mL)²/1000 four hours after coronary bypass surgery, and his creatinine is unchanged. Regarding AKI biomarkers and management:
+
+- A. This value indicates a high risk of KDIGO stage 2–3 AKI within the next 12 hours. — T / F
+- B. By definition, he now has KDIGO stage 1 AKI. — T / F
+- C. In PrevAKI, a KDIGO care bundle in biomarker-positive cardiac-surgery patients reduced AKI within 72 hours. — T / F
+- D. If he later develops severe metabolic acidaemia with moderate–severe AKI, BICARICU-2 shows that sodium bicarbonate reduces day-90 mortality. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – > 0.3 = high risk and > 2.0 = very high risk. The marker reflects G1 cell-cycle arrest (tubular stress).
+- B (False) – A positive biomarker with normal creatinine is "subclinical AKI" (ADQI 23). It identifies risk but does not define a KDIGO stage.
+- C (True) – PrevAKI: AKI 55.1 vs 71.7 % (ARR 16.6 %). The bundle avoids nephrotoxins, stops ACE inhibitors/ARBs for 48 h, optimises volume and perfusion and avoids hyperglycaemia.
+- D (False) – BICARICU-2 (n = 640): day-90 mortality 62.1 vs 61.7 %. The BICAR-ICU AKIN 2–3 subgroup signal was not confirmed.
+
+**Ref:** Meersch M, et al. PrevAKI. *Intensive Care Med* 2017;43:1551–1561; Ostermann M, et al. ADQI biomarkers. *JAMA Netw Open* 2020;3:e2019209; Jaber S, et al. BICARICU-2. *JAMA* 2025;334:2000–2010.
+
+Review: [W18/D1](#W18-D1)
+
+</details>
+
+**56.** A 67-year-old man with septic shock has KDIGO stage 3 AKI. Each of the following would justify starting kidney replacement therapy now EXCEPT:
+
+- A. KDIGO stage 3 for 24 hours with K⁺ 5.2 mmol/L, pH 7.30 and PaO₂/FiO₂ 280 mmHg
+- B. K⁺ 6.6 mmol/L persisting despite insulin–glucose and salbutamol
+- C. pH 7.12 with HCO₃⁻ 10 mmol/L
+- D. Diuretic-resistant pulmonary oedema with PaO₂/FiO₂ 150 mmHg
+- E. A pericardial rub with a new pericardial effusion and urea 48 mmol/L
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** Severe AKI without an urgent indication is managed by watchful waiting, with reassessment at least twice daily. AKIKI, IDEAL-ICU (septic shock), STARRT-AKI and the IPD meta-analysis showed no mortality benefit from pre-emptive KRT. Accelerated KRT increased KRT dependence in STARRT-AKI (10.4 vs 6.0 %).
+
+**Why not the others:**
+- B – Refractory hyperkalaemia (K⁺ ≥ 6.0) is a conventional indication.
+- C – pH ≤ 7.20 with HCO₃⁻ ≤ 12 mmol/L (STARRT) is a conventional indication.
+- D – Diuretic-resistant fluid overload with P/F ≤ 200 is a conventional indication.
+- E – Uraemic pericarditis is an absolute indication because of the risk of tamponade.
+
+**EDIC trap:** Do not wait forever – AKIKI 2 showed harm from waiting beyond oliguria > 72 h or BUN > 112 mg/dL.
+
+**Ref:** STARRT-AKI. *N Engl J Med* 2020;383:240–251; Barbar SD, et al. IDEAL-ICU. *N Engl J Med* 2018;379:1431–1442.
+
+Review: [W18/D2](#W18-D2)
+
+</details>
+
+**57.** Regarding trials of KRT timing in critically ill adults with severe AKI:
+
+- A. In STARRT-AKI, accelerated KRT led to more dependence on KRT at day 90 than the standard strategy. — T / F
+- B. In AKIKI, about half of the patients in the delayed arm never received KRT. — T / F
+- C. In AKIKI 2, waiting beyond oliguria for more than 72 hours or BUN above 112 mg/dL for mandatory criteria was associated with higher 60-day mortality. — T / F
+- D. ELAIN was a large multicentre trial in septic patients that showed no benefit of early KRT. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – STARRT-AKI (n ≈ 3000): 90-day mortality 43.9 vs 43.7 %, KRT dependence 10.4 vs 6.0 %, adverse events 23.0 vs 16.5 % (hypotension, hypophosphataemia).
+- B (True) – AKIKI: 49 % of the delayed arm never received KRT; catheter-related bloodstream infections were more frequent with early start (10 vs 5 %).
+- C (True) – AKIKI 2: 60-day mortality 55 vs 44 % (adjusted HR 1.65) for the "more-delayed" strategy.
+- D (False) – ELAIN was a single-centre trial (n = 231), mostly after cardiac surgery, with KDIGO stage 2 + NGAL. It favoured early KRT (90-day mortality 39.3 vs 54.7 %) and is the outlier.
+
+**Ref:** STARRT-AKI. *N Engl J Med* 2020;383:240–251; Gaudry S, et al. AKIKI. *N Engl J Med* 2016;375:122–133; Gaudry S, et al. AKIKI 2. *Lancet* 2021;397:1293–1300; Zarbock A, et al. ELAIN. *JAMA* 2016;315:2190–2199.
+
+Review: [W18/D2](#W18-D2)
+
+</details>
+
+**58.** A 60-year-old man has been on CRRT for 10 days for septic AKI. His shock has resolved, and the team is considering stopping CRRT. Which finding best predicts successful discontinuation?
+
+- A. A falling serum urea while on CRRT
+- B. A good urine output after a high-dose furosemide infusion started to hasten recovery
+- C. A spontaneous urine output above about 400–500 mL/24 h without diuretics
+- D. Serum creatinine below 150 µmol/L while on CRRT
+- E. FENa below 1 %
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** Spontaneous urine output without diuretics is the best single predictor of successful liberation from KRT. In BEST Kidney the threshold was > 436 mL/day; with diuretics a much higher volume (~2300 mL/day) was needed. A rising creatinine clearance on timed collection (> 15–20 mL/min) supports weaning.
+
+**Why not the others:**
+- A – Urea and creatinine on CRRT reflect extracorporeal clearance, not native kidney function.
+- B – KDIGO recommends against diuretics to enhance recovery or shorten KRT (2B).
+- D – As for A, the value depends on the dose of CRRT.
+- E – Urinary indices discriminate poorly in the ICU and do not predict liberation.
+
+**Ref:** KDIGO AKI guideline. *Kidney Int Suppl* 2012;2:1–138.
+
+Review: [W18/D2](#W18-D2)
+
+</details>
+
+**59.** Regarding KRT modality and dose (KDIGO 2012 and trials):
+
+- A. Continuous KRT is suggested rather than intermittent haemodialysis in patients with acute brain injury or raised intracranial pressure. — T / F
+- B. The recommended delivered effluent dose for CRRT is 20–25 mL/kg/h. — T / F
+- C. In RENAL, an effluent of 40 mL/kg/h reduced 90-day mortality compared with 25 mL/kg/h. — T / F
+- D. Predilution replacement increases solute clearance compared with postdilution at the same effluent flow. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – KDIGO 2B: IHD causes rapid urea shifts that move water into brain cells (dialysis disequilibrium). CRRT is also preferred for haemodynamic instability.
+- B (True) – KDIGO 1A. Prescribe more (25–30 mL/kg/h), because downtime and predilution make delivered dose about 70–80 % of prescribed.
+- C (False) – RENAL: 90-day mortality 44.7 vs 44.7 %, with more hypophosphataemia at the higher dose. ATN (35 vs 20 mL/kg/h) was also neutral.
+- D (False) – Predilution dilutes the blood and lowers efficiency by ~15–20 %, though it prolongs filter life. In postdilution, keep the filtration fraction < 20–25 %.
+
+**Ref:** KDIGO AKI guideline. *Kidney Int Suppl* 2012;2:1–138; RENAL. *N Engl J Med* 2009;361:1627–1638; ATN. *N Engl J Med* 2008;359:7–20.
+
+Review: [W18/D3](#W18-D3)
+
+</details>
+
+**60.** A 55-year-old woman with acute liver failure and shock (lactate 9 mmol/L) is on CVVHDF with regional citrate anticoagulation. Over 12 hours, systemic ionised Ca²⁺ has fallen to 0.95 mmol/L despite repeated increases in the calcium infusion. Total calcium is 2.9 mmol/L, and she has a worsening high anion gap metabolic acidosis. What is the most likely problem?
+
+- A. Excess citrate delivery relative to removal, causing metabolic alkalosis
+- B. An inadequate calcium infusion – increase the calcium rate further and continue
+- C. Filter clotting with reduced citrate clearance
+- D. Hypomagnesaemia from magnesium chelation
+- E. Citrate accumulation – reduce or stop citrate and switch anticoagulation strategy
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** The total/ionised Ca ratio is 2.9 / 0.95 ≈ 3.1, which is above 2.5. Together with falling systemic iCa despite more calcium and a high anion gap acidosis, this is citrate accumulation. Severe liver failure and shock with high lactate impair citrate metabolism to bicarbonate. Reduce or stop citrate, increase clearance, or switch anticoagulation. Liver failure is a relative, not absolute, contraindication.
+
+**Why not the others:**
+- A – Citrate excess with normal metabolism causes metabolic alkalosis (↑ HCO₃⁻), not acidosis.
+- B – Increasing calcium alone does not remove the accumulating citrate–calcium complexes.
+- C – Clotting shortens filter life but does not explain the Ca ratio.
+- D – Hypomagnesaemia occurs with citrate but does not explain this pattern.
+
+**Ref:** Zarbock A, et al. RICH. *JAMA* 2020;324:1629–1639; KDIGO AKI guideline. *Kidney Int Suppl* 2012;2:1–138.
+
+Review: [W18/D3](#W18-D3)
+
+</details>
+
+**61.** Regarding regional citrate anticoagulation for CRRT and the RICH trial:
+
+- A. In RICH, filter life was longer with citrate than with systemic heparin. — T / F
+- B. In RICH, citrate reduced 90-day mortality. — T / F
+- C. In RICH, new infections were more frequent with citrate. — T / F
+- D. Each citrate molecule that is metabolised yields three bicarbonate ions. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – T.**
+
+- A (True) – Filter life was 47 vs 26 h, and bleeding was 5.1 vs 16.9 %.
+- B (False) – 90-day mortality was 51.2 vs 53.6 % (NS).
+- C (True) – New infections were 68.0 vs 55.4 %, unexplained (possibly chance or an immune effect of calcium chelation).
+- D (True) – Citrate is metabolised in liver, muscle and kidney (Krebs cycle), so it also acts as a buffer. Replacement fluids therefore contain less bicarbonate and no calcium. Target post-filter iCa 0.25–0.35 mmol/L and systemic iCa 1.0–1.2 mmol/L.
+
+**EDIC trap:** KDIGO suggests citrate rather than heparin for CRRT (2B) in patients without contraindications. In HIT, the patient still needs non-heparin systemic anticoagulation.
+
+**Ref:** Zarbock A, et al. RICH. *JAMA* 2020;324:1629–1639; KDIGO AKI guideline. *Kidney Int Suppl* 2012;2:1–138.
+
+Review: [W18/D3](#W18-D3)
+
+</details>
+
+**62.** A 30-year-old man is extracted after 8 hours trapped under rubble. CK is 45 000 U/L, K⁺ 5.4 mmol/L, ionised Ca²⁺ 0.95 mmol/L without tetany or ECG changes, pH 7.31, and urine output 60 mL/h. The dipstick is strongly positive for blood, but there are no red cells on microscopy. What is the most appropriate management?
+
+- A. IV calcium gluconate to correct the hypocalcaemia
+- B. Isotonic crystalloid titrated to a urine output of ~200–300 mL/h, without treating the asymptomatic hypocalcaemia
+- C. Sodium bicarbonate infusion as the primary therapy to alkalinise the urine
+- D. Mannitol to promote diuresis
+- E. Early KRT with a high cut-off membrane to remove myoglobin
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** This is rhabdomyolysis with myoglobinuria (dipstick "blood" without red cells). The cornerstone is early, generous isotonic fluid, titrated to a urine output of ~200–300 mL/h (≈ 3 mL/kg/h) until CK is < 5000 U/L and myoglobinuria clears. Monitor closely for fluid overload if he becomes oliguric. Early hypocalcaemia is due to calcium phosphate deposition in muscle; treating it when asymptomatic worsens deposition and later hypercalcaemia.
+
+**Why not the others:**
+- A – Give calcium only for hyperkalaemia with ECG changes, tetany or seizures.
+- C – Bicarbonate has no proven benefit and may worsen hypocalcaemia.
+- D – Mannitol is not recommended (no evidence; hyperosmolality, AKI in oliguria).
+- E – Myoglobin removal by extracorporeal membranes has not been shown to improve outcome; KRT is for conventional indications.
+
+**Ref:** Bosch X, et al. Rhabdomyolysis and AKI. *N Engl J Med* 2009;361:62–72.
+
+Review: [W18/D4](#W18-D4)
+
+</details>
+
+**63.** Regarding contrast-associated AKI (CA-AKI):
+
+- A. In PRESERVE, IV sodium bicarbonate reduced the risk of death, dialysis or persistent renal decline compared with IV saline. — T / F
+- B. In AMACING, prophylactic IV hydration reduced CA-AKI compared with no prophylaxis in patients with eGFR 30–59. — T / F
+- C. A Bayesian meta-analysis in ICU patients found no significant increase in AKI attributable to IV contrast. — T / F
+- D. Haemodialysis immediately after contrast is recommended for patients with eGFR below 30 mL/min/1.73 m². — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – F, C – T, D – F.**
+
+- A (False) – PRESERVE (n = 5177): 4.4 vs 4.7 % (bicarbonate vs saline), and NAC was no better than placebo (4.6 vs 4.5 %).
+- B (False) – AMACING: CA-AKI 2.7 vs 2.6 %, so no prophylaxis was non-inferior; hydration caused heart failure in ~5 % and cost more.
+- C (True) – Ehrmann (ICM 2017): pooled OR 0.95. CA-AKI (association) is not the same as CI-AKI (causation).
+- D (False) – Prophylactic or post-contrast dialysis is not recommended, even in dialysis patients. IV saline is indicated for eGFR < 30 or AKI, and life-saving contrast imaging must never be withheld.
+
+**Ref:** Weisbord SD, et al. PRESERVE. *N Engl J Med* 2018;378:603–614; Nijssen EC, et al. AMACING. *Lancet* 2017;389:1312–1322; Ehrmann S, et al. *Intensive Care Med* 2017;43:785–794.
+
+Review: [W18/D4](#W18-D4)
+
+</details>
+
+**64.** A 72-year-old woman with AKI on ramipril and spironolactone has K⁺ 7.1 mmol/L. Her ECG shows absent P waves and a QRS of 160 ms, and she has a palpable pulse. What should be given first?
+
+- A. Insulin 10 units with 25 g glucose IV
+- B. Nebulised salbutamol 10–20 mg
+- C. Sodium zirconium cyclosilicate 10 g orally
+- D. 10 mL of 10 % calcium chloride IV over 5 minutes
+- E. 50 mmol sodium bicarbonate IV
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** Severe hyperkalaemia (≥ 6.5 mmol/L) with ECG changes needs immediate membrane stabilisation. ERC 2025 gives 10 mL of 10 % calcium chloride over 5 min (or 30 mL of 10 % calcium gluconate). It acts within 1–3 min and lasts 30–60 min. It does not lower K⁺, so shift and removal therapy must follow immediately.
+
+**Why not the others:**
+- A – Insulin–glucose is step 2 (onset 15–30 min, ↓ K⁺ 0.6–1.0 mmol/L), started right after calcium. Monitor glucose for ≥ 6 h.
+- B – Salbutamol is an adjunct to insulin.
+- C – SZC removes K⁺ (onset ~1 h) and is step 3.
+- E – Bicarbonate is not routine; consider it with severe metabolic acidosis or in hyperkalaemic cardiac arrest (50 mmol).
+
+**Ref:** Lott C, et al. ERC 2025 special circumstances. *Resuscitation* 2025;215(Suppl 1):110753.
+
+Review: [W18/D5](#W18-D5)
+
+</details>
+
+**65.** In severe poisoning, extracorporeal removal by haemodialysis is effective for all of the following EXCEPT:
+
+- A. Lithium
+- B. Methanol
+- C. Salicylate
+- D. Metformin
+- E. Digoxin
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** Dialysable toxins have a low molecular weight, low protein binding, a small volume of distribution (< 1 L/kg) and low endogenous clearance. Digoxin has a very large Vd, so dialysis removes little; digoxin toxicity is treated with digoxin-specific Fab.
+
+**Why not the others:**
+- A – Lithium: EXTRIP recommends ECTR with impaired kidney function and [Li⁺] > 4.0 mmol/L, or with decreased consciousness, seizures or life-threatening dysrhythmias.
+- B – Methanol: ECTR for coma, seizures, new visual deficit or pH ≤ 7.15, together with fomepizole.
+- C – Salicylate: ECTR for > 7.2 mmol/L, altered mental status, new hypoxaemia or pH ≤ 7.20 despite treatment.
+- D – Metformin: ECTR for lactate > 20 mmol/L, pH ≤ 7.0, shock or decreased consciousness.
+
+**EDIC trap:** BLAST (barbiturates, lithium, alcohols, salicylates, theophylline) + metformin, valproate; not tricyclics.
+
+**Ref:** Decker BS, et al. EXTRIP lithium. *Clin J Am Soc Nephrol* 2015;10:875–887.
+
+Review: [W18/D5](#W18-D5)
+
+</details>
+
+**66.** A 66-year-old man with AKI has K⁺ 6.8 mmol/L and peaked T waves. Regarding his treatment:
+
+- A. IV calcium lowers serum potassium within minutes. — T / F
+- B. After insulin 10 units with 25 g glucose, blood glucose should be monitored for at least 6 hours. — T / F
+- C. Calcium or sodium polystyrene sulphonate resins are first-line emergency treatment because they act within an hour. — T / F
+- D. After intermittent haemodialysis, serum potassium may rebound within hours. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – T, C – F, D – T.**
+
+- A (False) – Calcium stabilises the cardiac membrane (raises threshold potential) for 30–60 min but does not lower K⁺.
+- B (True) – Hypoglycaemia occurs in up to ~20 % (more often with low baseline glucose, no diabetes, AKI). If pre-treatment glucose is < 7 mmol/L, follow with 10 % glucose at 50 mL/h for 5 h.
+- C (False) – Resins act over hours to days and can cause colonic necrosis. SZC acts within ~1 h.
+- D (True) – K⁺ rises again by ~30 % within hours as it re-equilibrates from cells. Re-check at 2–6 h. IHD lowers K⁺ by ~1 mmol/L in the first hour.
+
+**Ref:** Lott C, et al. ERC 2025 special circumstances. *Resuscitation* 2025;215(Suppl 1):110753; Lindner G, et al. *Eur J Emerg Med* 2020;27:329–337.
+
+Review: [W18/D5](#W18-D5)
+
+</details>
+
+**67.** Suxamethonium carries a risk of life-threatening hyperkalaemia in which of the following patients?
+
+- A. A 40-year-old with Guillain–Barré syndrome and 10 days of progressive weakness — T / F
+- B. A 25-year-old with crush injury and rhabdomyolysis — T / F
+- C. A 30-year-old with a complete cervical spinal cord injury 3 weeks earlier — T / F
+- D. A 60-year-old with ICU-acquired weakness after 3 weeks of mechanical ventilation and immobilisation — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – T.**
+
+- A (True) – Denervation in GBS upregulates extrajunctional (immature) acetylcholine receptors; use rocuronium.
+- B (True) – Crush injury and rhabdomyolysis are on the list of high-risk states, and baseline K⁺ is often already raised.
+- C (True) – After SCI, suxamethonium is safe only for about the first 48–72 h; after that, receptor proliferation causes massive K⁺ release for months.
+- D (True) – Prolonged immobilisation and ICU-acquired weakness also upregulate receptors. Normally suxamethonium raises K⁺ by ~0.5 mmol/L; with upregulation the rise can be 5–10 mmol/L.
+
+**EDIC trap:** Myasthenia gravis is the opposite – resistance to suxamethonium and sensitivity to non-depolarising agents.
+
+**Ref:** van Doorn PA, et al. EAN/PNS GBS. *Eur J Neurol* 2023;30:3646–3674; Lott C, et al. ERC 2025 special circumstances. *Resuscitation* 2025;215(Suppl 1):110753.
+
+Review: [W16/D3](#W16-D3), [W17/D1](#W17-D1), [W18/D5](#W18-D5)
+
+</details>
+
+**68.** A 40-year-old man with severe TBI has an intraparenchymal ICP monitor. His ICP is 18 mmHg on tier 1 therapy. On day 3 he develops rhabdomyolysis with oligo-anuric AKI, K⁺ 6.6 mmol/L despite insulin–glucose, and pH 7.12. Which kidney replacement strategy is most appropriate?
+
+- A. Intermittent haemodialysis for 4 hours with high blood and dialysate flows
+- B. Continuous KRT, with regional citrate anticoagulation if there is no contraindication
+- C. Acute peritoneal dialysis
+- D. Defer KRT until oliguria has lasted more than 72 hours, as in AKIKI 2
+- E. A sodium bicarbonate infusion instead of KRT
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** He has two conventional indications (refractory K⁺ ≥ 6.0 and pH ≤ 7.20), so KRT should start now. KDIGO suggests CRRT rather than IHD for acute brain injury or raised ICP (2B), because the gradual osmolar shifts avoid dialysis disequilibrium and ICP surges. CRRT also suits an ongoing K⁺ load from rhabdomyolysis. Citrate is the default CRRT anticoagulant and avoids systemic heparin.
+
+**Why not the others:**
+- A – IHD removes K⁺ fastest, but rapid urea shifts can raise ICP in a patient whose compliance is already reduced.
+- C – PD is less efficient and slower, and is mainly for resource-poor settings.
+- D – AKIKI 2 applies to patients without urgent indications; these indications are present now.
+- E – Bicarbonate does not improve survival (BICARICU-2) and is not a reliable K⁺-lowering therapy.
+
+**Ref:** KDIGO AKI guideline. *Kidney Int Suppl* 2012;2:1–138; Zarbock A, et al. RICH. *JAMA* 2020;324:1629–1639.
+
+Review: [W18/D3](#W18-D3), [W18/D2](#W18-D2), [W18/D4](#W18-D4), [W15/D1](#W15-D1)
+
+</details>
+
+**69.** Regarding haemodynamic and transfusion targets in acute brain injury and after cardiac arrest:
+
+- A. In HEMOTION, a transfusion threshold of 10 g/dL significantly improved functional outcome after TBI. — T / F
+- B. In HIMALAIA, induced hypertension improved outcome in delayed cerebral ischaemia after SAH. — T / F
+- C. In BOX, a MAP target of 77 mmHg after cardiac arrest improved outcome compared with 63 mmHg. — T / F
+- D. ESO 2025 supports limiting treatment in the first 24 hours of ICH when the ICH score is 3 or more. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – F, C – F, D – F.**
+
+- A (False) – HEMOTION (n = 742): unfavourable GOS-E 68.4 vs 73.5 % (NS, trend to liberal). TRAIN (9 vs 7 g/dL) did show benefit.
+- B (False) – HIMALAIA was stopped early (n = 41) with no benefit on CBF or outcome. ESO 2026 makes no evidence-based recommendation, although AHA/NCS 2023 consider induced hypertension reasonable.
+- C (False) – BOX: death or severe disability 34 vs 32 % (HR 1.08). The 2025 guideline recommends MAP > 60–65 mmHg, individualised.
+- D (False) – ESO 2025 advises against general policies that limit treatment in the first 24 h. Prognostic scores must not be used alone (self-fulfilling prophecy).
+
+**Ref:** Turgeon AF, et al. HEMOTION. *N Engl J Med* 2024;391:722–735; Kjaergaard J, et al. BOX. *N Engl J Med* 2022;387:1456–1466; Steiner T, et al. ESO/EANS ICH. *Eur Stroke J* 2025;10:1007–1086.
+
+Review: [W15/D1](#W15-D1), [W15/D2](#W15-D2), [W15/D3](#W15-D3), [W17/D4](#W17-D4)
+
+</details>
+
+**70.** Regarding antiseizure drugs across acute neurological conditions in the ICU:
+
+- A. After cardiac arrest, ERC–ESICM 2025 advises against seizure prophylaxis; seizures are diagnosed on EEG and treated (e.g. levetiracetam or valproate). — T / F
+- B. In spontaneous ICH, prophylactic antiseizure medication is recommended for lobar haematomas. — T / F
+- C. In cerebral venous thrombosis, primary seizure prophylaxis is recommended for all patients with a parenchymal lesion, even without seizures. — T / F
+- D. In TBI, phenytoin prophylaxis prevents late post-traumatic epilepsy. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – F.**
+
+- A (True) – There is no prophylaxis, and EEG guides treatment. TELSTAR showed that aggressively treating rhythmic or periodic patterns did not improve outcome (poor outcome 90 vs 92 %).
+- B (False) – ESO 2025 is weakly against and AHA 2022 found no benefit; even though early seizures occur in ~10–15 %, mostly lobar, treat only clinical or EEG seizures.
+- C (False) – ASMs are given only to patients who have had seizures with supratentorial lesions; there is no primary prophylaxis.
+- D (False) – Phenytoin prevents early (< 7 days) seizures only. SAH: avoid phenytoin, and use a short course (≤ 7 days) only in high-risk patients.
+
+**Ref:** Nolan JP, et al. ERC–ESICM post-resuscitation care. *Intensive Care Med* 2025; Steiner T, et al. ESO/EANS ICH. *Eur Stroke J* 2025;10:1007–1086; Ferro JM, et al. ESO CVT. *Eur J Neurol* 2017;24:1203–1213; Carney N, et al. BTF 4th edition. *Neurosurgery* 2017;80:6–15.
+
+Review: [W17/D4](#W17-D4), [W15/D3](#W15-D3), [W17/D5](#W17-D5), [W15/D1](#W15-D1)
+
+</details>
