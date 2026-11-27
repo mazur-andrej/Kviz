@@ -7074,3 +7074,1730 @@ Review: [W15/D1](#W15-D1), [W15/D2](#W15-D2), [W15/D3](#W15-D3), [W17/D4](#W17-D
 Review: [W17/D4](#W17-D4), [W15/D3](#W15-D3), [W17/D5](#W17-D5), [W15/D1](#W15-D1)
 
 </details>
+
+
+## Monthly review – April (Sat 24 Apr 2027)
+
+**1.** A 24-year-old with type 1 diabetes presents after 2 days of vomiting. Glucose is 28 mmol/L, venous pH 7.12, HCO₃⁻ 9 mmol/L, β-hydroxybutyrate 5.8 mmol/L and K⁺ 3.1 mmol/L. The first litre of crystalloid is running. What is the most appropriate next step?
+
+- A. Start fixed-rate IV insulin at 0.1 U/kg/h and add 40 mmol K⁺ to the next litre
+- B. Give an IV insulin bolus of 0.1 U/kg, then start the infusion
+- C. Delay insulin and give IV potassium (~10–20 mmol/h, ECG monitoring) until K⁺ is above 3.5 mmol/L
+- D. Give IV sodium bicarbonate because the pH is below 7.20
+- E. Start insulin at 0.05 U/kg/h to limit the potassium shift
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** Total-body K⁺ is depleted in DKA (3–5 mmol/kg), and serum K⁺ is usually normal or high at presentation. A low K⁺ on admission therefore means a severe deficit. Insulin drives K⁺ into cells and can cause life-threatening hypokalaemia. The 2024 consensus and JBDS both say: if K⁺ is below 3.5 mmol/L, delay insulin and replace K⁺ IV (central line, ECG) until it rises above 3.5.
+
+**Why not the others:**
+- A – Insulin with only 40 mmol/L of K⁺ in the fluid is the rule for K⁺ 3.5–5.0, not for K⁺ below 3.5.
+- B – An insulin bolus is not required, and it would worsen the K⁺ shift.
+- D – Bicarbonate is allowed only if pH is below 7.0 (2024; JBDS never). It also worsens hypokalaemia.
+- E – 0.05 U/kg/h is the HHS dose. Halving the dose does not make insulin safe when K⁺ is below 3.5.
+
+**Ref:** Umpierrez GE, et al. Hyperglycemic crises consensus. *Diabetes Care* 2024;47:1257–1275; Dhatariya KK. JBDS DKA. *Diabet Med* 2022;39:e14788.
+
+Review: [W19/D1](#W19-D1)
+
+</details>
+
+**2.** Regarding the diagnosis and monitoring of diabetic ketoacidosis:
+
+- A. The 2024 international consensus uses HCO₃⁻ < 18 mmol/L (and/or pH < 7.30), whereas JBDS 2022 uses HCO₃⁻ < 15 mmol/L. — T / F
+- B. The nitroprusside urine test measures β-hydroxybutyrate and is the preferred way to monitor ketone clearance. — T / F
+- C. Resolution is defined as β-hydroxybutyrate < 0.6 mmol/L with venous pH ≥ 7.30 or HCO₃⁻ ≥ 18 mmol/L. — T / F
+- D. In euglycaemic DKA caused by an SGLT2 inhibitor, dextrose is given early so that enough insulin can be infused to clear the ketones. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – T.**
+
+- A (True) – Questions written before 2024 use < 15 mmol/L. The 2024 consensus also accepts glucose ≥ 11.1 mmol/L *or known diabetes*, so euglycaemic cases count.
+- B (False) – Nitroprusside detects acetoacetate and acetone, not BHB. It can even become "more positive" during recovery, as BHB is oxidised to acetoacetate. Measure BHB in blood.
+- C (True) – This is the 2024 definition (JBDS: BHB < 0.6 and pH > 7.3). A normal glucose is not a resolution criterion.
+- D (True) – Stop the SGLT2 inhibitor. Dextrose lets the insulin infusion continue at a dose that clears the ketones without causing hypoglycaemia.
+
+**Ref:** Umpierrez GE, et al. *Diabetes Care* 2024;47:1257–1275; Dhatariya KK. JBDS DKA. *Diabet Med* 2022;39:e14788.
+
+Review: [W19/D1](#W19-D1)
+
+</details>
+
+**3.** A 79-year-old nursing-home resident with type 2 diabetes is drowsy. Glucose is 48 mmol/L, Na⁺ 146 mmol/L, effective osmolality 340 mOsm/kg, β-hydroxybutyrate 0.6 mmol/L and pH 7.36. After 3 h of 0.9 % saline, glucose is falling by 5 mmol/L/h and osmolality is falling, but measured Na⁺ has risen to 149 mmol/L. According to JBDS, what is the most appropriate next step?
+
+- A. Continue 0.9 % saline without insulin for now, and monitor osmolality and Na⁺ closely
+- B. Switch to 0.45 % saline because Na⁺ is rising
+- C. Start fixed-rate insulin at 0.1 U/kg/h
+- D. Give 5 % dextrose to lower the Na⁺
+- E. Restrict fluids to prevent cerebral oedema
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** In HHS, fluid is the main treatment. It lowers glucose on its own, by dilution and by renal excretion. JBDS starts insulin (0.05 U/kg/h) only when glucose stops falling with fluids, unless ketones are above 1 mmol/L. As glucose falls, water moves out of cells, so a rising measured Na⁺ is expected and acceptable as long as osmolality falls. The targets are glucose falling 4–6 mmol/L/h, osmolality falling 3–8 mOsm/kg/h and Na⁺ falling ≤ 10 mmol/L in 24 h. Give LMWH.
+
+**Why not the others:**
+- B – Use 0.45 % saline only if osmolality stops falling despite an adequate positive balance.
+- C – 0.1 U/kg/h is the DKA dose. In HHS, early or high-dose insulin causes too rapid a fall in osmolality.
+- D – Hypotonic dextrose would lower osmolality too fast (cerebral oedema, ODS) at this stage.
+- E – These patients have a water deficit of 100–220 mL/kg. A positive balance of 3–6 L by 12 h is typical.
+
+**Ref:** Mustafa OG, et al. JBDS HHS. *Diabet Med* 2023;40:e15005.
+
+Review: [W19/D1](#W19-D1)
+
+</details>
+
+**4.** A 30-year-old with moderate DKA is being treated in the HDU. All of the following are recommended EXCEPT:
+
+- A. Continue his usual long-acting basal insulin alongside the IV infusion
+- B. Add 10 % glucose when glucose falls below 14 mmol/L, while keeping the insulin infusion running
+- C. Prefer a balanced crystalloid over 0.9 % saline where available
+- D. Routinely replace phosphate as soon as it falls to 0.6 mmol/L during treatment
+- E. Recheck K⁺ about 2 h after starting insulin
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** Phosphate falls during treatment, but routine replacement does not improve outcome. Replace it only if it falls below 0.32 mmol/L (1.0 mg/dL), or if there is respiratory muscle weakness, cardiac dysfunction or haemolysis. A level of 0.6 mmol/L with no symptoms needs no replacement.
+
+**Why not the others:**
+- A – Continuing basal insulin prevents rebound ketosis when the infusion stops.
+- B – The target is ketone clearance. Dextrose allows insulin to continue (JBDS: 10 % glucose at 125 mL/h when glucose is below 14 mmol/L).
+- C – In the SMART/SALT-ED DKA subgroup, balanced fluids shortened time to resolution (13.0 vs 16.9 h). Saline causes hyperchloraemic acidosis.
+- E – K⁺ is checked at baseline, at 2 h and then 2–4-hourly, because hypokalaemia is the most dangerous complication of treatment.
+
+**Ref:** Umpierrez GE, et al. *Diabetes Care* 2024;47:1257–1275; Self WH, et al. *JAMA Netw Open* 2020;3:e2024596.
+
+Review: [W19/D1](#W19-D1)
+
+</details>
+
+**5.** Regarding trials of glucose control in critically ill adults:
+
+- A. In NICE-SUGAR (n = 6,104), a target of 4.5–6.0 mmol/L increased 90-day mortality compared with a target of ≤ 10 mmol/L. — T / F
+- B. Leuven I patients were mainly surgical, received early IV glucose/parenteral nutrition, and had glucose measured on arterial blood in a blood-gas analyser. — T / F
+- C. TGC-fast (n = 9,230) showed that tight control without early parenteral nutrition shortened ICU length of stay. — T / F
+- D. In the NICE-SUGAR post hoc analysis, the link between hypoglycaemia and death was strongest when hypoglycaemia was spontaneous rather than insulin-induced. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – 90-day mortality was 27.5 vs 24.9 % (OR 1.14). Severe hypoglycaemia (≤ 2.2 mmol/L) was 6.8 vs 0.5 %.
+- B (True) – These features (63 % cardiac surgery, early PN, a single expert centre, accurate measurement, a very liberal control arm) explain why Leuven I found a benefit (ICU mortality 4.6 vs 8.0 %).
+- C (False) – TGC-fast was neutral: ICU length of stay HR 1.00 and 90-day mortality 10.5 vs 10.1 %.
+- D (False) – The association was strongest for *insulin-induced* hypoglycaemia, with a dose–response relationship (moderate HR ≈ 1.4; severe ≈ 2.1).
+
+**Ref:** NICE-SUGAR. *N Engl J Med* 2009;360:1283–1297 and 2012;367:1108–1118; Gunst J, et al. TGC-fast. *N Engl J Med* 2023;389:1180–1190.
+
+Review: [W19/D2](#W19-D2)
+
+</details>
+
+**6.** A 63-year-old with septic shock from pneumonia has arterial glucose readings of 12.4 and 11.8 mmol/L, 2 h apart, measured on the blood-gas analyser. He is enterally fed. What is the most appropriate glycaemic plan?
+
+- A. IV insulin to a target of 4.4–6.1 mmol/L
+- B. IV insulin by a validated protocol, targeting about 7.8–10 mmol/L
+- C. No insulin unless glucose exceeds 15 mmol/L
+- D. Subcutaneous sliding-scale insulin only
+- E. IV insulin to a target of 4.4–7.7 mmol/L, as SCCM 2024 suggests
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** SSC 2021, confirmed in 2026, recommends starting insulin when glucose is ≥ 10 mmol/L (180 mg/dL), with a typical target of 7.8–10 mmol/L. SCCM 2024 favours protocols with explicit decision support. In shock, an IV infusion is preferred because subcutaneous absorption is unpredictable.
+
+**Why not the others:**
+- A – This is the Leuven/NICE-SUGAR intensive range. It increased hypoglycaemia and, in NICE-SUGAR, mortality.
+- C – A threshold of 15 mmol/L is too permissive. Hyperglycaemia impairs neutrophil function and causes osmotic diuresis.
+- D – Sliding-scale-only regimens are discouraged, and absorption is erratic with vasopressors and oedema.
+- E – SCCM 2024 suggests *against* the intensive range of 4.4–7.7 mmol/L, in favour of 7.8–11.1 mmol/L (conditional).
+
+**Ref:** Evans L, et al. SSC 2021. *Intensive Care Med* 2021;47:1181–1247; Honarmand K, et al. SCCM glycemic control. *Crit Care Med* 2024;52:e161–e181.
+
+Review: [W19/D2](#W19-D2)
+
+</details>
+
+**7.** A ventilated 55-year-old is on an IV insulin infusion at 4 U/h. His enteral feed is stopped at 06:00 for a planned percutaneous tracheostomy, and at 08:00 his arterial glucose is 2.6 mmol/L. What is the most appropriate immediate management?
+
+- A. Glucagon 1 mg IM
+- B. Halve the insulin rate and restart feeding after the procedure
+- C. Octreotide 50 µg SC
+- D. Oral glucose gel via the nasogastric tube and recheck in 1 h
+- E. Stop the insulin, give IV dextrose (e.g. 10–25 g) and recheck glucose in 15 min
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** Glucose below 3.0 mmol/L is level 2 hypoglycaemia. The classic cause is stopping feeds while insulin continues. Treatment is to stop the insulin, give IV dextrose (50–100 mL of 20–50 % glucose), recheck in 15 min and find the cause. Prevent it by linking insulin to nutrition: if feeding stops, reduce the insulin and/or give dextrose.
+
+**Why not the others:**
+- A – Glucagon is for patients without IV access, and it fails when glycogen is depleted or the liver is failing.
+- B – Halving insulin does not treat a glucose of 2.6 mmol/L, and the feed is off.
+- C – Octreotide is for sulfonylurea-induced hypoglycaemia.
+- D – The gut route is slow and unreliable here, and a 1-hour recheck is too late. Sedated patients cannot report symptoms.
+
+**Ref:** Honarmand K, et al. *Crit Care Med* 2024;52:e161–e181; NICE-SUGAR. *N Engl J Med* 2012;367:1108–1118.
+
+Review: [W19/D2](#W19-D2)
+
+</details>
+
+**8.** A 38-year-old woman with Graves' disease stopped her antithyroid drug a month ago. She now has a temperature of 39.6 °C, atrial fibrillation at 160/min, agitation and jaundice. Regarding her management:
+
+- A. A Burch–Wartofsky score ≥ 45 is highly suggestive of thyroid storm, and treatment should not wait for thyroid function results. — T / F
+- B. Iodide (SSKI or Lugol's) should be given before the thionamide, to block hormone release as quickly as possible. — T / F
+- C. Propylthiouracil, unlike methimazole, also blocks peripheral conversion of T4 to T3. — T / F
+- D. Echocardiography is advisable before aggressive β-blockade, because β-blockers can precipitate collapse in low-output thyrotoxic cardiomyopathy. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – T.**
+
+- A (True) – Thyroid storm is a clinical diagnosis. Hormone levels are similar to those in uncomplicated thyrotoxicosis. A score of 25–44 means impending storm.
+- B (False) – Give the thionamide first and iodide **at least 1 h later**. Iodide given first becomes substrate for new hormone synthesis.
+- C (True) – PTU 500–1,000 mg load, then 250 mg every 4 h. Methimazole is less hepatotoxic and preferred after the acute phase. Both can cause agranulocytosis.
+- D (True) – Jaundice and heart failure signal severe disease. Use short-acting IV β1-selective agents (esmolol, landiolol), titrated with echo guidance.
+
+**Ref:** Ross DS, et al. ATA 2016. *Thyroid* 2016;26:1343–1421; Satoh T, et al. JTA/JES. *Endocr J* 2016;63:1025–1064.
+
+Review: [W19/D3](#W19-D3)
+
+</details>
+
+**9.** A 45-year-old develops thyroid storm after an emergency appendicectomy, with a temperature of 40.1 °C and heart rate of 145/min. All of the following are appropriate EXCEPT:
+
+- A. Aspirin to control the fever
+- B. Paracetamol and active cooling
+- C. Hydrocortisone 300 mg IV as a loading dose, then 100 mg every 8 h
+- D. Cholestyramine 4 g every 6 h
+- E. An IV short-acting β1-selective blocker such as esmolol or landiolol
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** Salicylates displace T4 from its binding proteins and raise free hormone levels, so they are avoided in thyroid storm. Use paracetamol and cooling instead.
+
+**Why not the others:**
+- B – Paracetamol and cooling are part of standard supportive care, along with fluids, glucose, thiamine and treating the precipitant.
+- C – Hydrocortisone reduces T4 → T3 conversion and treats relative adrenal insufficiency.
+- D – Cholestyramine interrupts the enterohepatic recirculation of thyroid hormone.
+- E – Esmolol and landiolol control heart rate and adrenergic symptoms. Landiolol is the JTA first choice in the ICU.
+
+**EDIC trap:** Thionamide first, iodide ≥ 1 h later. Escalation options are lithium, plasma exchange, VA-ECMO and urgent thyroidectomy.
+
+**Ref:** Ross DS, et al. ATA 2016. *Thyroid* 2016;26:1343–1421; Taylor P, et al. *Eur Thyroid J* 2026;15:e260043.
+
+Review: [W19/D3](#W19-D3)
+
+</details>
+
+**10.** Regarding hypothyroid emergencies and thyroid function tests in the ICU:
+
+- A. In myxoedema coma, IV levothyroxine is given as a 200–400 µg loading dose, with a lower dose in elderly or cardiac patients. — T / F
+- B. In hypothermic myxoedema coma, active external rewarming is preferred to restore metabolic rate quickly. — T / F
+- C. In non-thyroidal illness syndrome, T3 replacement improves outcome and is recommended when T3 is low. — T / F
+- D. Heparin can raise the measured free T4 in vitro. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – T.**
+
+- A (True) – After the load, give 1.6 µg/kg/day × 0.75 IV. Give hydrocortisone 100 mg every 8 h before or with it, because thyroid hormone speeds up cortisol metabolism.
+- B (False) – Use **passive** rewarming. Aggressive active external rewarming causes vasodilatation and circulatory collapse.
+- C (False) – NTIS (↓ T3, ↑ rT3, normal/low TSH) reflects how severe the illness is. RCTs show no benefit from thyroid hormone, so it is not treated.
+- D (True) – Heparin activates lipoprotein lipase, and the free fatty acids displace T4. Dopamine and glucocorticoids suppress TSH, and biotin interferes with immunoassays.
+
+**Ref:** Jonklaas J, et al. ATA hypothyroidism. *Thyroid* 2014;24:1670–1751; Fliers E, et al. *Lancet Diabetes Endocrinol* 2015;3:816–825.
+
+Review: [W19/D3](#W19-D3)
+
+</details>
+
+**11.** A 71-year-old has taken amiodarone for 2 years for ventricular tachycardia. He now has weight loss and new atrial fibrillation. TSH is suppressed and free T4 is high. Ultrasound shows a normal-sized gland with absent vascularity on colour Doppler. What is the most appropriate treatment?
+
+- A. Methimazole alone
+- B. Prednisolone about 40 mg/day
+- C. Radioiodine ablation
+- D. Potassium iodide (SSKI)
+- E. Levothyroxine
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** A normal gland with absent Doppler vascularity points to **type 2 AIT**. This is a destructive thyroiditis that releases preformed hormone, and it is treated with glucocorticoids (prednisolone 40 mg/day). Mixed or uncertain forms get a thionamide plus a steroid. Amiodarone may be continued if it is essential, a decision made with cardiology (ETA 2018).
+
+**Why not the others:**
+- A – Thionamides block new hormone synthesis. That is the treatment for type 1 AIT (Jod-Basedow in a nodular or Graves' gland, with increased vascularity).
+- C – Radioiodine does not treat a destructive release of preformed hormone, and it is avoided in acute thyrotoxicosis.
+- D – Amiodarone already supplies a large iodine load (37 % iodine by weight). More iodide adds to it.
+- E – Levothyroxine would worsen thyrotoxicosis.
+
+**Ref:** Bartalena L, et al. ETA amiodarone guideline. *Eur Thyroid J* 2018;7:55–66.
+
+Review: [W19/D3](#W19-D3)
+
+</details>
+
+**12.** A 52-year-old has taken prednisolone 10 mg daily for 3 years for rheumatoid arthritis. She stopped it 4 days ago because of vomiting and diarrhoea. She is confused, with BP 72/40 mmHg despite 2 L of crystalloid and noradrenaline 0.3 µg/kg/min, Na⁺ 127 mmol/L and glucose 3.1 mmol/L. What is the most appropriate next step?
+
+- A. A short Synacthen test, then hydrocortisone if peak cortisol is below 500 nmol/L
+- B. Dexamethasone 4 mg IV
+- C. Hydrocortisone 100 mg IV now, then 200 mg/24 h by infusion (or 50 mg every 6 h)
+- D. Fludrocortisone 100 µg via a nasogastric tube
+- E. Hydrocortisone only after a random cortisol confirms a level below 276 nmol/L
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** This is an adrenal crisis caused by glucocorticoid-induced adrenal insufficiency, the commonest cause of AI overall. She has refractory shock, hyponatraemia and hypoglycaemia. Draw cortisol (and ACTH) if this causes no delay. Then give **hydrocortisone 100 mg IV immediately**, followed by 200 mg/24 h, plus 1 L of saline in the first hour and dextrose. Never wait for test results.
+
+**Why not the others:**
+- A – Testing delays life-saving treatment, so test only after recovery if needed.
+- B – Dexamethasone does not cross-react with cortisol assays, but it has no mineralocorticoid activity. Hydrocortisone is preferred in a crisis.
+- D – At hydrocortisone doses above 50 mg/day, mineralocorticoid activity is sufficient. Fludrocortisone alone does not treat glucocorticoid deficiency.
+- E – The random-cortisol CIRCI cut-off does not apply to an adrenal crisis, and waiting for it is dangerous.
+
+**Ref:** Bornstein SR, et al. Endocrine Society. *J Clin Endocrinol Metab* 2016;101:364–389; Beuschlein F, et al. ESE/ES. *Eur J Endocrinol* 2024;190:G25–G51.
+
+Review: [W19/D4](#W19-D4)
+
+</details>
+
+**13.** Regarding adrenal insufficiency:
+
+- A. Primary adrenal insufficiency causes hyperkalaemia and hyperpigmentation, with a high ACTH. — T / F
+- B. Withdrawal of exogenous glucocorticoids is the commonest cause of adrenal insufficiency overall. — T / F
+- C. In secondary (pituitary) adrenal insufficiency, aldosterone deficiency typically causes hyperkalaemia. — T / F
+- D. Dexamethasone is preferred in adrenal crisis because its mineralocorticoid activity is stronger than that of hydrocortisone. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – Mineralocorticoid deficiency causes hyponatraemia, hyperkalaemia and hypovolaemia. High ACTH/POMC causes the hyperpigmentation.
+- B (True) – This includes high-dose inhaled, topical and intra-articular steroids. Anyone who has taken ≥ 5 mg prednisolone-equivalent for more than 4 weeks may have HPA suppression.
+- C (False) – Aldosterone is regulated mainly by renin–angiotensin and K⁺, so it is preserved in pituitary failure. There is no hyperkalaemia, although hyponatraemia (via ADH) and hypoglycaemia occur.
+- D (False) – Dexamethasone has no mineralocorticoid activity. Its only advantage is that it does not interfere with cortisol assays.
+
+**Ref:** Bornstein SR, et al. *J Clin Endocrinol Metab* 2016;101:364–389; Beuschlein F, et al. *Eur J Endocrinol* 2024;190:G25–G51.
+
+Review: [W19/D4](#W19-D4)
+
+</details>
+
+**14.** A 64-year-old with septic shock is still on noradrenaline 0.35 µg/kg/min 6 h after adequate fluids and source control. The team discusses corticosteroids. Which statement about the evidence is correct?
+
+- A. ADRENAL (hydrocortisone 200 mg/day) significantly reduced 90-day mortality
+- B. HYPRESS showed that hydrocortisone in sepsis without shock prevents progression to septic shock
+- C. In CORTICUS, the ACTH stimulation test identified the patients who benefited
+- D. The SCCM 2024 focused update suggests a short course of more than 400 mg/day hydrocortisone for less than 3 days
+- E. APROCCHSS (hydrocortisone plus fludrocortisone) reduced 90-day mortality (43.0 vs 49.1 %)
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** APROCCHSS (n = 1,241) gave hydrocortisone 50 mg every 6 h plus fludrocortisone 50 µg/day for 7 days, and lowered 90-day mortality (RR 0.88). It enrolled a sicker population (control mortality 49 vs 29 % in ADRENAL) and added fludrocortisone, which may explain the difference. SSC 2021/2026 suggests hydrocortisone 200 mg/day when noradrenaline is ≥ 0.25 µg/kg/min for ≥ 4 h.
+
+**Why not the others:**
+- A – ADRENAL (n = 3,800) found 27.9 vs 28.8 % (not significant). Shock resolved faster (3 vs 4 days) and ventilation was shorter.
+- B – HYPRESS was negative: shock developed in 21.2 vs 22.9 %.
+- C – In CORTICUS the ACTH test did not predict response, and mortality was not different.
+- D – SCCM 2024 recommends **against** high-dose, short-course regimens (strong).
+
+**Ref:** Annane D, et al. APROCCHSS. *N Engl J Med* 2018;378:809–818; Venkatesh B, et al. ADRENAL. *N Engl J Med* 2018;378:797–808; Chaudhuri D, et al. *Crit Care Med* 2024;52:e219–e233.
+
+Review: [W19/D4](#W19-D4)
+
+</details>
+
+**15.** Regarding CIRCI, etomidate and corticosteroids in pneumonia:
+
+- A. SCCM/ESICM 2017 criteria for CIRCI are a Δ cortisol < 9 µg/dL (250 nmol/L) 60 min after 250 µg cosyntropin, or a random total cortisol < 10 µg/dL (276 nmol/L). — T / F
+- B. The decision to give hydrocortisone in septic shock should be based on the cosyntropin test result. — T / F
+- C. In the 2025 RSI trial, ketamine caused less cardiovascular collapse than etomidate. — T / F
+- D. The REMAP-CAP corticosteroid domain (2025) confirmed the mortality benefit of hydrocortisone in severe CAP that was seen in CAPE COD. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – F.**
+
+- A (True) – These are conditional recommendations based on low-quality evidence. Total cortisol is unreliable when CBG and albumin are low.
+- B (False) – Steroids for septic shock do not depend on testing. In CORTICUS, the test did not predict response.
+- C (False) – Cardiovascular collapse was **more** frequent with ketamine (22.1 vs 17.0 %). 28-day mortality was similar (28.1 vs 29.1 %), so a single dose of etomidate is acceptable.
+- D (False) – REMAP-CAP (hydrocortisone 50 mg every 6 h for 7 days) was stopped for futility. 90-day mortality was 15 vs 9.8 %, with an 84–91 % probability of harm. CAPE COD (6.2 vs 11.9 %) excluded septic shock and influenza.
+
+**Ref:** Annane D, et al. CIRCI. *Intensive Care Med* 2017;43:1751–1763; Casey JD, et al. RSI. *N Engl J Med* 2025; REMAP-CAP. *Intensive Care Med* 2025;51:665–680.
+
+Review: [W19/D4](#W19-D4)
+
+</details>
+
+**16.** Two days after CABG, a 58-year-old develops sudden severe headache, vomiting, right ptosis with ophthalmoplegia and a bitemporal field defect. BP is 88/50 mmHg, Na⁺ 129 mmol/L and glucose 3.6 mmol/L. MRI shows a haemorrhagic pituitary macroadenoma. What is the most urgent treatment?
+
+- A. Levothyroxine 100 µg IV
+- B. Desmopressin 1 µg IV
+- C. Transsphenoidal decompression before any drug therapy
+- D. Hydrocortisone 100 mg IV, then 50 mg every 6 h (or a 2–4 mg/h infusion)
+- E. Wait for a 09:00 cortisol result before giving steroids
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** This is pituitary apoplexy, and cardiac surgery is a known trigger. Acute ACTH deficiency (≈ 70 %) is the life-threatening part: here it causes hypotension, hyponatraemia and hypoglycaemia. The UK guideline gives hydrocortisone 100 mg IV immediately, then 50 mg every 6 h, before results are back.
+
+**Why not the others:**
+- A – Glucocorticoid must always be replaced before thyroxine. Thyroxine increases cortisol clearance and can precipitate adrenal crisis.
+- B – There is no polyuria or hypernatraemia. Hyponatraemia here reflects cortisol deficiency.
+- C – Decompression is indicated for severely reduced acuity, persistent field defects or falling consciousness. It comes after hydrocortisone, not instead of it.
+- E – Waiting for a cortisol level risks death from adrenal crisis.
+
+**Ref:** Rajasekaran S, et al. UK pituitary apoplexy guideline. *Clin Endocrinol* 2011;74:9–20.
+
+Review: [W19/D5](#W19-D5)
+
+</details>
+
+**17.** Regarding polyuria and diabetes insipidus (AVP deficiency / AVP resistance):
+
+- A. Polyuria with a urine osmolality above 300 mOsm/kg suggests a solute diuresis (e.g. mannitol, glucose, urea) rather than DI. — T / F
+- B. Lithium-induced AVP resistance responds well to desmopressin. — T / F
+- C. A hypertonic saline–stimulated copeptin above 4.9 pmol/L indicates primary polydipsia rather than AVP deficiency. — T / F
+- D. After pituitary surgery, a triphasic response may occur: DI, then SIADH around days 6–11, then permanent DI. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – T.**
+
+- A (True) – DI is a water diuresis with dilute urine (Uosm < 300, often < 200) and a rising Na⁺. Uosm > 300 points to solutes: glucose, mannitol, high-protein feeds, recovery from AKI, saline loading, post-obstructive diuresis.
+- B (False) – In AVP resistance, desmopressin is ineffective. Treat the cause and use thiazides, amiloride (which blocks lithium entry via ENaC) and NSAIDs.
+- C (True) – Accuracy was 96.5 vs 76.6 % for water deprivation (Fenske 2018). A baseline copeptin ≥ 21.4 pmol/L indicates AVP resistance.
+- D (True) – Phase 2 is the release of stored AVP from degenerating neurons. Permanent DI follows if more than 80–90 % of AVP neurons are lost.
+
+**Ref:** Fenske W, et al. *N Engl J Med* 2018;379:428–439; Christ-Crain M, et al. *Nat Rev Dis Primers* 2019;5:54.
+
+Review: [W19/D5](#W19-D5)
+
+</details>
+
+**18.** A 66-year-old with small-cell lung cancer has a generalised seizure on the ward. Na⁺ is 114 mmol/L, serum osmolality 238 mOsm/kg, urine osmolality 520 mOsm/kg and urine Na⁺ 62 mmol/L. She appears euvolaemic. What is the most appropriate immediate treatment?
+
+- A. Fluid restriction to 800 mL/day
+- B. 150 mL of 3 % saline IV over 20 min, then recheck Na⁺ and repeat (up to 2–3 times) until Na⁺ has risen by 5 mmol/L
+- C. 1 L of 0.9 % saline over 1 h
+- D. Tolvaptan 15 mg orally
+- E. A 3 % saline infusion to bring Na⁺ back to 135 mmol/L within 24 h
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** She has SIADH: hypotonic, euvolaemic, Uosm > 100 and UNa > 30. A seizure makes these severe symptoms, which are treated with 3 % saline boluses whatever the chronicity (European guideline 2014). In SALSA, bolus therapy did not cause more overcorrection than a slow infusion. Limits: ≤ 10 mmol/L in the first 24 h and ≤ 8 mmol/L in each later 24 h.
+
+**Why not the others:**
+- A – Fluid restriction is first line for chronic SIADH without severe symptoms, and it fails when Uosm > 500.
+- C – With a fixed high Uosm, isotonic saline is excreted and can lower Na⁺ further.
+- D – The guideline does not recommend vaptans (overcorrection, hepatotoxicity), and an oral drug is too slow for seizures.
+- E – A rise of 21 mmol/L in 24 h far exceeds the limit and risks osmotic demyelination.
+
+**Ref:** Spasovski G, et al. *Eur J Endocrinol* 2014;170:G1–G47; Baek SH, et al. SALSA. *JAMA Intern Med* 2021;181:81–92.
+
+Review: [W19/D5](#W19-D5)
+
+</details>
+
+**19.** A 67-year-old presents with melaena and dizziness: HR 112/min, BP 98/60 mmHg, Hb 8.1 g/dL, raised urea and a Glasgow–Blatchford score of 13. He has no liver disease. After fluid resuscitation he is haemodynamically stable. According to ESGE 2021, when should endoscopy be performed?
+
+- A. Within 6 h of presentation, regardless of haemodynamics
+- B. Within 2 h, as an emergency, because the GBS is ≥ 12
+- C. After CT angiography, which should be done first
+- D. Electively within 72 h, once Hb is above 9 g/dL
+- E. Within 24 h, after haemodynamic resuscitation
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** For non-variceal UGIB, ESGE recommends early endoscopy (≤ 24 h) after resuscitation, and recommends against emergent (≤ 6 h) endoscopy. In Lau 2020 (n = 516, all GBS ≥ 12), endoscopy within 6 h vs 6–24 h did not reduce 30-day mortality (8.9 vs 6.6 %) or rebleeding.
+
+**Why not the others:**
+- A – This is "urgent" endoscopy. It was not better, and scoping an under-resuscitated patient may be harmful.
+- B – A high GBS predicts the need for intervention. It is not an indication for emergency endoscopy once the patient is stable. Only instability that persists despite resuscitation calls for immediate intervention.
+- C – CT angiography is used when endoscopy is non-diagnostic, or to guide TAE.
+- D – Delaying beyond 24 h is not recommended, and Hb is not a prerequisite.
+
+**Ref:** Gralnek IM, et al. ESGE NVUGIH 2021. *Endoscopy* 2021;53:300–332; Lau JYW, et al. *N Engl J Med* 2020;382:1299–1308.
+
+Review: [W20/D1](#W20-D1)
+
+</details>
+
+**20.** Regarding non-variceal upper GI bleeding (ESGE 2021):
+
+- A. A Glasgow–Blatchford score ≤ 1 identifies very-low-risk patients who can be managed as outpatients without urgent endoscopy. — T / F
+- B. High-dose IV PPI before endoscopy reduces mortality, and endoscopy should be delayed until it has been given. — T / F
+- C. Adrenaline injection alone is adequate therapy for a Forrest IIa non-bleeding visible vessel. — T / F
+- D. After successful endoscopic haemostasis of high-risk stigmata, high-dose PPI (80 mg bolus + 8 mg/h, or equivalent) is given for 72 h. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – T.**
+
+- A (True) – The GBS uses no endoscopic data and predicts the need for intervention. Discharging patients with GBS 0–1 is its main validated use (ESGE strong).
+- B (False) – Pre-endoscopic PPI reduces high-risk stigmata, but not rebleeding, surgery or mortality (weak recommendation), and it must not delay endoscopy.
+- C (False) – Adrenaline must be combined with a thermal or mechanical modality. Adrenaline alone is never adequate.
+- D (True) – After 72 h, give an oral PPI twice daily to about day 14, then once daily, and test and treat *H. pylori*. Routine second-look endoscopy is not recommended.
+
+**Ref:** Gralnek IM, et al. ESGE NVUGIH 2021. *Endoscopy* 2021;53:300–332.
+
+Review: [W20/D1](#W20-D1)
+
+</details>
+
+**21.** A 74-year-old with a spurting duodenal ulcer (Forrest Ia) was treated with adrenaline plus clips. On day 2 he rebleeds with haemodynamic instability, and a second endoscopy fails to secure haemostasis. What is the most appropriate next step?
+
+- A. A third endoscopic attempt the following morning
+- B. Tranexamic acid 1 g IV, then 3 g over 24 h
+- C. Increase the PPI infusion to 16 mg/h
+- D. Transcatheter angiographic embolisation, guided by CT angiography
+- E. Immediate laparotomy as the first rescue
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** The ESGE sequence for recurrent bleeding is a repeat endoscopy first. If the second attempt fails, the next step is **transcatheter angiographic embolisation (TAE)**. Surgery is reserved for when TAE fails or is unavailable. CT angiography localises active bleeding (≥ 0.3–0.5 mL/min) and guides embolisation.
+
+**Why not the others:**
+- A – After two failed endoscopies, delaying for a third attempt in an unstable patient is inappropriate.
+- B – TXA is not recommended in GI bleeding. In HALT-IT, death from bleeding was 4 % in both arms, and VTE was 0.8 vs 0.4 %.
+- C – Increasing the PPI dose does not stop arterial bleeding.
+- E – Surgery comes after TAE, not before it.
+
+**Ref:** Gralnek IM, et al. ESGE 2021. *Endoscopy* 2021;53:300–332; HALT-IT. *Lancet* 2020;395:1927–1936.
+
+Review: [W20/D1](#W20-D1)
+
+</details>
+
+**22.** A 56-year-old with alcohol-related cirrhosis presents with haematemesis, HR 118/min and BP 92/55 mmHg. INR is 2.0, platelets 85 × 10⁹/L and Hb 7.4 g/dL. All of the following belong in initial management EXCEPT:
+
+- A. FFP to correct the INR before endoscopy
+- B. Terlipressin started before endoscopy
+- C. Ceftriaxone 1 g/24 h
+- D. Endoscopy with band ligation within 12 h, once resuscitated
+- E. Lactulose to prevent hepatic encephalopathy
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** In cirrhosis, the INR does not reflect bleeding risk, because haemostasis is rebalanced. FFP does not correct the coagulopathy, and the extra volume raises portal pressure and the risk of rebleeding. Baveno VIII does not recommend FFP, and also advises against rFVIIa and TXA. The transfusion target is a restrictive Hb of 7–8 g/dL.
+
+**Why not the others:**
+- B – Start a vasoactive drug as soon as possible, before endoscopy, and continue it for 2–5 days. Monitor Na⁺ on terlipressin.
+- C – Antibiotic prophylaxis reduces infection, rebleeding and mortality.
+- D – Endoscopy within 12 h, with erythromycin 30–90 min before, and band ligation of oesophageal varices.
+- E – Lactulose is part of the Baveno VIII bundle to prevent or treat overt HE.
+
+**Ref:** Berzigotti A, et al. Baveno VIII. *J Hepatol* 2026; Villanueva C, et al. *N Engl J Med* 2013;368:11–21.
+
+Review: [W20/D1](#W20-D1)
+
+</details>
+
+**23.** A patient with cirrhosis has had oesophageal variceal bleeding controlled with terlipressin and band ligation. Regarding pre-emptive TIPS (Baveno VIII):
+
+- A. Child–Pugh C 10–13 is an indication for a covered TIPS within 72 h (ideally < 24 h). — T / F
+- B. Child–Pugh B > 7 with active bleeding at endoscopy is an indication. — T / F
+- C. An HVPG ≥ 20 mmHg is an indication. — T / F
+- D. Overt hepatic encephalopathy and ACLF are absolute contraindications. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – F.**
+
+- A (True) – In García-Pagán 2010, early TIPS reduced failure to control bleeding or rebleeding (3 vs 50 %) and improved 1-year survival (86 vs 61 %). Child C ≥ 14 is generally excluded as futile.
+- B (True) – This is the second high-risk group. If the 72-h window is missed, TIPS within 1 week (Child B) or 2 weeks (Child C) may still help.
+- C (True) – HVPG ≥ 20 mmHg at the time of bleeding predicts treatment failure and death.
+- D (False) – Baveno VIII states that ACLF, overt HE, hyperbilirubinaemia, a high MELD and severe alcohol-related hepatitis are **not** absolute contraindications.
+
+**Ref:** Berzigotti A, et al. Baveno VIII. *J Hepatol* 2026; García-Pagán JC, et al. *N Engl J Med* 2010;362:2370–2379.
+
+Review: [W20/D1](#W20-D1)
+
+</details>
+
+**24.** A 49-year-old with cirrhosis keeps vomiting fresh blood despite terlipressin, antibiotics and two band-ligation sessions. Rescue TIPS cannot be performed for another 18 h. Which bridging measure is preferred by Baveno VIII?
+
+- A. A Sengstaken–Blakemore tube left inflated until TIPS
+- B. Recombinant factor VIIa
+- C. A covered self-expanding metal oesophageal stent
+- D. FFP and platelets to normalise the INR and platelet count
+- E. Cyanoacrylate injection into the oesophageal varices
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** For refractory oesophageal variceal bleeding, a covered SEMS is preferred over balloon tamponade as a bridge to TIPS or transplant. In Escorsell 2016 (n = 28), the stent achieved control of bleeding without rebleeding at 15 days in 66 vs 20 %, with fewer serious adverse events. Rescue TIPS is considered case by case, whatever the age, Child score or MELD.
+
+**Why not the others:**
+- A – Balloon tamponade is limited to about 24 h, needs a protected airway, often fails on deflation (~50 % rebleed) and risks oesophageal necrosis or perforation.
+- B – rFVIIa is not recommended (Baveno VIII).
+- D – The INR does not reflect bleeding risk, and the volume raises portal pressure.
+- E – Cyanoacrylate is for gastric varices (GOV2/IGV1). GOV1 and oesophageal varices are treated by ligation.
+
+**Ref:** Berzigotti A, et al. Baveno VIII. *J Hepatol* 2026; Escorsell À, et al. *Hepatology* 2016;63:1957–1967.
+
+Review: [W20/D1](#W20-D1)
+
+</details>
+
+**25.** A 45-year-old with alcohol-related acute pancreatitis has a creatinine of 205 µmol/L on admission, which returns to normal within 36 h with fluids. Contrast CT on day 4 shows an acute peripancreatic fluid collection without necrosis. By the revised Atlanta classification, his pancreatitis is:
+
+- A. Mild
+- B. Moderately severe
+- C. Severe
+- D. Critical
+- E. Not classifiable until 4 weeks
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** In the modified Marshall score, creatinine ≥ 170 µmol/L counts as renal organ failure. Here it resolved in less than 48 h, so it was **transient**. Transient organ failure and/or a local complication (the APFC) define **moderately severe** AP.
+
+**Why not the others:**
+- A – Mild AP has no organ failure and no local or systemic complications.
+- C – Severe AP requires **persistent** organ failure (> 48 h).
+- D – "Critical" is not a category of the revised Atlanta classification.
+- E – The 4-week cut-off classifies collections (APFC vs pseudocyst, ANC vs walled-off necrosis), not severity.
+
+**EDIC trap:** A pseudocyst requires both no necrosis and more than 4 weeks. An early collection without necrosis is an APFC.
+
+**Ref:** Banks PA, et al. Revised Atlanta 2012. *Gut* 2013;62:102–111.
+
+Review: [W20/D2](#W20-D2)
+
+</details>
+
+**26.** Regarding fluid resuscitation in acute pancreatitis and the WATERFALL trial:
+
+- A. The aggressive arm received a 20 mL/kg bolus followed by 3 mL/kg/h of Lactated Ringer's. — T / F
+- B. The trial was stopped early because fluid overload was more frequent with aggressive resuscitation (20.5 vs 6.3 %). — T / F
+- C. Patients with established organ failure or heart failure at enrolment were included. — T / F
+- D. Aggressive resuscitation reduced progression to moderately severe or severe pancreatitis. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – F.**
+
+- A (True) – The moderate arm received 1.5 mL/kg/h, with a 10 mL/kg bolus only if hypovolaemic. Patients were reassessed at 12, 24, 48 and 72 h.
+- B (True) – The DSMB stopped it at n = 249 (planned n = 744) for harm without benefit (aRR 2.85 for fluid overload).
+- C (False) – Patients with organ failure, heart failure or severe disease at enrolment were excluded. This limits how far the results can be generalised, but practice changed anyway.
+- D (False) – Moderately severe or severe AP occurred in 22.1 vs 17.3 % (aRR 1.30; 95 % CI 0.78–2.18), so there was no benefit. Guidelines (ACG 2024, IAP 2025) now advise moderate, goal-directed LR.
+
+**Ref:** de-Madaria E, et al. WATERFALL. *N Engl J Med* 2022;387:989–1000; Tenner S, et al. ACG. *Am J Gastroenterol* 2024;119:419–437.
+
+Review: [W20/D2](#W20-D2)
+
+</details>
+
+**27.** A 52-year-old with necrotising gallstone pancreatitis is ventilated on day 10 with a persistent fever. Which of the following is LEAST appropriate?
+
+- A. Goal-directed, moderate fluid therapy with Lactated Ringer's
+- B. Nasogastric enteral feeding
+- C. Antibiotics that penetrate necrosis (e.g. a carbapenem) for suspected infected necrosis
+- D. Immediate open surgical necrosectomy
+- E. ERCP within 24 h if he develops cholangitis
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** Infected necrosis is managed with antibiotics first. Invasive intervention is then delayed until the collection is walled off (≥ 4 weeks) and done step-up: percutaneous or endoscopic drainage, then minimally invasive necrosectomy. In PANTER, the step-up approach reduced major complications or death (40 vs 69 %), and 35 % of patients needed drainage only. Open necrosectomy is the last resort.
+
+**Why not the others:**
+- A – Moderate, goal-directed LR is recommended (WATERFALL, ACG 2024).
+- B – Enteral nutrition is preferred in severe AP, and nasogastric feeding is as safe as nasojejunal.
+- C – Antibiotics are indicated for suspected infected necrosis (gas on CT, sepsis after day 7–10), but not as prophylaxis.
+- E – Urgent ERCP is indicated only for cholangitis. APEC was negative without it.
+
+**Ref:** van Santvoort HC, et al. PANTER. *N Engl J Med* 2010;362:1491–1502; Boxhoorn L, et al. POINTER. *N Engl J Med* 2021;385:1372–1381.
+
+Review: [W20/D2](#W20-D2)
+
+</details>
+
+**28.** A 48-year-old with severe acute pancreatitis is on day 3. His bladder pressure is 24 mmHg on three measurements over 6 h, with new oliguria and a rising plateau pressure. Ultrasound shows a large volume of ascites. Nasogastric and rectal tubes are in place and he is sedated. What is the most appropriate next step?
+
+- A. Immediate decompressive laparotomy
+- B. A 20 mL/kg crystalloid bolus for the oliguria
+- C. Raise the head of the bed to 45° to improve ventilation
+- D. A furosemide infusion to remove fluid
+- E. Ultrasound-guided percutaneous catheter drainage of the ascites
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** A sustained IAP above 20 mmHg with new organ dysfunction is ACS. Here it is primary ACS (pancreatitis), and much of the pressure comes from ascites. The WSACS medical algorithm, after emptying the bowel lumen, is to **evacuate intra-abdominal space-occupying fluid by percutaneous catheter drainage**. PCD is suggested over nothing (2C) and over immediate laparotomy (2D), because it may avoid surgery.
+
+**Why not the others:**
+- A – Decompressive laparotomy (1D) is for ACS that is refractory to medical measures, including PCD when technically feasible.
+- B – A positive fluid balance worsens IAH. Oliguria here comes from the falling filtration gradient, not from hypovolaemia.
+- C – Raising the head of the bed increases IAP. In severe IAH, avoid elevation above 20–30°.
+- D – WSACS makes no recommendation for diuretics, and they do not remove the ascites quickly.
+
+**Ref:** Kirkpatrick AW, et al. WSACS 2013. *Intensive Care Med* 2013;39:1190–1206.
+
+Review: [W20/D5](#W20-D5), [W20/D2](#W20-D2)
+
+</details>
+
+**29.** Regarding gallstone pancreatitis and other aspects of acute pancreatitis:
+
+- A. Urgent ERCP (< 24 h) is indicated in gallstone pancreatitis when there is cholangitis. — T / F
+- B. In mild gallstone pancreatitis, cholecystectomy should be postponed for about 6 weeks. — T / F
+- C. Contrast-enhanced CT on admission is recommended to assess the extent of necrosis. — T / F
+- D. The serum lipase level correlates with the severity of pancreatitis. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – F.**
+
+- A (True) – Without cholangitis, APEC (predicted severe gallstone AP, n = 232) found no benefit from urgent ERCP (major complications or death 38 vs 44 %).
+- B (False) – PONCHO: same-admission cholecystectomy reduced readmission for gallstone complications or death (5 vs 17 %). Delay it only in necrotising AP, until collections resolve or about 6 weeks.
+- C (False) – Early CT underestimates necrosis. CECT is best done 72–96 h after onset, and earlier only for diagnostic doubt or suspected complications.
+- D (False) – Lipase or amylase above 3 × ULN helps with the diagnosis (2 of 3 criteria), but the level does not predict severity.
+
+**Ref:** Schepens NJ, et al. APEC. *Lancet* 2020;396:167–176; da Costa DW, et al. PONCHO. *Lancet* 2015;386:1261–1268; Banks PA, et al. *Gut* 2013;62:102–111.
+
+Review: [W20/D2](#W20-D2)
+
+</details>
+
+**30.** A 23-year-old is in the ICU 3 days after a staggered paracetamol overdose. After adequate fluid resuscitation, which single finding fulfils the King's College criteria for emergency transplant listing?
+
+- A. INR 4.2
+- B. Creatinine 320 µmol/L
+- C. Arterial pH 7.24
+- D. Grade II hepatic encephalopathy
+- E. ALT 9,800 IU/L
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** In paracetamol ALF, an arterial pH below 7.30 after adequate fluid resuscitation is enough on its own (the lactate modification adds arterial lactate > 3.0 mmol/L). The alternative is all three of INR > 6.5, creatinine > 300 µmol/L and HE grade III–IV within 24 h.
+
+**Why not the others:**
+- A – The INR criterion is > 6.5, and only as part of the triad.
+- B – Creatinine > 300 µmol/L counts only together with INR > 6.5 and HE grade III–IV.
+- D – Grade III–IV HE is required, again only within the triad.
+- E – Very high ALT is typical of paracetamol toxicity, but it is not a prognostic criterion.
+
+**EDIC trap:** The KCC are highly specific but only modestly sensitive, so not meeting them does not guarantee survival. Transfer early, at the first sign of HE.
+
+**Ref:** O'Grady JG, et al. *Gastroenterology* 1989;97:439–445; EASL ALF guideline. *J Hepatol* 2017;66:1047–1081.
+
+Review: [W20/D3](#W20-D3)
+
+</details>
+
+**31.** A 26-year-old with hyperacute paracetamol-induced acute liver failure has grade IV encephalopathy and an arterial ammonia of 240 µmol/L. She is intubated and sedated with propofol. Which measure is LEAST appropriate?
+
+- A. Lactulose via the nasogastric tube to lower ammonia
+- B. Hypertonic saline to keep Na⁺ at 145–150 mmol/L
+- C. Early continuous kidney replacement therapy to lower ammonia
+- D. Normocapnia (PaCO₂ 4.5–5.5 kPa) with the head up at 30°
+- E. Avoiding fever, without prophylactic hypothermia
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** Lactulose is not recommended in ALF. It causes bowel distension and aspiration and has no proven benefit, unlike in cirrhosis. Rifaximin and LOLA also have no proven role.
+
+**Why not the others:**
+- B – With ammonia above 150–200 µmol/L and grade III–IV HE, prophylactic hypernatraemia (Na⁺ 145–150) reduces ICP surges.
+- C – Early high-dose CRRT is associated with lower ammonia and better 21-day transplant-free survival (Cardoso 2018).
+- D – These are general neuroprotective measures, together with normoglycaemia and avoiding hypotonic fluids.
+- E – Moderate hypothermia at 34 °C did not prevent intracranial hypertension (Bernal 2016), so avoid fever but do not cool prophylactically.
+
+**Ref:** EASL ALF guideline. *J Hepatol* 2017;66:1047–1081; Cardoso FS, et al. *Hepatology* 2018;67:711–720; Bernal W, et al. *J Hepatol* 2016;65:273–279.
+
+Review: [W20/D3](#W20-D3)
+
+</details>
+
+**32.** Regarding acute liver failure:
+
+- A. Hyperacute ALF (jaundice to encephalopathy ≤ 7 days) carries the highest risk of cerebral oedema but the best chance of spontaneous survival. — T / F
+- B. In non-paracetamol ALF, IV N-acetylcysteine improved transplant-free survival mainly in coma grades III–IV. — T / F
+- C. High-volume plasma exchange (Larsen 2016) improved hospital transplant-free survival (58.7 vs 47.8 %). — T / F
+- D. FFP should be given to keep the INR below 1.5 and prevent spontaneous bleeding. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – Paracetamol, HAV and HEV typically cause hyperacute ALF. Subacute ALF has little cerebral oedema but the poorest prognosis without transplantation.
+- B (False) – In Lee 2009, the benefit was confined to coma grades I–II (52 vs 30 %), with none in grades III–IV.
+- C (True) – Exchange was 8–12 L/day (15 % of ideal body weight) for 3 days, with fewer vasopressors and lower SIRS and organ failure scores (EASL 2017).
+- D (False) – Spontaneous bleeding is uncommon despite a high INR (rebalanced haemostasis). The INR is a prognostic marker needed for the transplant criteria, and FFP adds volume and raises ICP. Correct coagulation only for bleeding or procedures.
+
+**Ref:** Lee WM, et al. *Gastroenterology* 2009;137:856–864; Larsen FS, et al. *J Hepatol* 2016;64:69–78.
+
+Review: [W20/D3](#W20-D3)
+
+</details>
+
+**33.** A 54-year-old with alcohol-related cirrhosis is admitted with spontaneous bacterial peritonitis. Creatinine is 2.4 mg/dL (212 µmol/L), bilirubin 6 mg/dL and INR 1.9. He has no encephalopathy, MAP 70 mmHg without vasopressors and PaO₂/FiO₂ 320. What is his EASL-CLIF grade?
+
+- A. No ACLF
+- B. ACLF-2
+- C. ACLF-3
+- D. It cannot be graded until days 3–7
+- E. ACLF-1
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** EASL-CLIF defines kidney failure as creatinine ≥ 2.0 mg/dL (or KRT). The other values here are below the organ-failure thresholds: bilirubin ≥ 12 mg/dL, INR ≥ 2.5, HE III–IV, vasopressors, PaO₂/FiO₂ ≤ 200. **Single kidney failure = ACLF-1**, with a 28-day mortality of about 22 %.
+
+**Why not the others:**
+- A – "No ACLF" applies to a single *non-kidney* organ failure with creatinine < 1.5 mg/dL and no HE.
+- B – ACLF-2 requires two organ failures (≈ 32 % mortality).
+- C – ACLF-3 requires three or more (≈ 77 %).
+- D – ACLF is graded at diagnosis. Regrading at days 3–7 predicts outcome better, and this is when futility is assessed.
+
+**Ref:** Moreau R, et al. CANONIC. *Gastroenterology* 2013;144:1426–1437; EASL ACLF guideline. *J Hepatol* 2023;79:461–491.
+
+Review: [W20/D4](#W20-D4)
+
+</details>
+
+**34.** A 61-year-old with cirrhosis and tense ascites develops AKI, with creatinine rising from 1.1 to 2.6 mg/dL. Diuretics have been stopped, there is no shock and no nephrotoxin, and creatinine has not improved 24 h after albumin. He now has crackles, SpO₂ 88 % on 4 L/min of oxygen and pulmonary oedema on chest X-ray. Which treatment is most appropriate?
+
+- A. Terlipressin 2 mg/day by infusion plus albumin 40 g/day
+- B. Noradrenaline in the ICU instead of terlipressin, with cautious albumin dosing
+- C. Another 48 h of albumin 1 g/kg/day before diagnosing HRS-AKI
+- D. Albumin infusions to target a serum albumin ≥ 30 g/L
+- E. No vasoconstrictor; wait for spontaneous recovery
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** This meets the 2024 ADQI-ICA criteria for HRS-AKI: ascites, AKI, no response within 24 h of volume, and no alternative cause. In CONFIRM, terlipressin doubled HRS reversal (32 vs 17 %) but increased deaths from respiratory disorders (11 vs 2 %). Terlipressin should be avoided with SpO₂ < 90 % or volume overload. **Noradrenaline plus albumin** is an effective alternative in the ICU.
+
+**Why not the others:**
+- A – Terlipressin is contraindicated by the hypoxaemia and pulmonary oedema.
+- C – The mandatory 48-h albumin challenge was dropped in 2024. Non-response at 24 h is enough.
+- D – In ATTIRE, targeting albumin ≥ 30 g/L gave no benefit and caused more pulmonary oedema.
+- E – Untreated HRS-AKI has a poor prognosis. Vasoconstrictor therapy (or KRT as a bridge to transplant) is indicated.
+
+**Ref:** Wong F, et al. CONFIRM. *N Engl J Med* 2021;384:818–828; Francoz C, et al. ADQI-ICA. *J Hepatol* 2024;81:163–183.
+
+Review: [W20/D4](#W20-D4)
+
+</details>
+
+**35.** Regarding albumin and supportive care in decompensated cirrhosis:
+
+- A. In spontaneous bacterial peritonitis, albumin 1.5 g/kg on day 1 and 1 g/kg on day 3 reduces renal impairment and mortality. — T / F
+- B. ATTIRE showed that daily albumin targeting ≥ 30 g/L reduced infection, renal dysfunction or death. — T / F
+- C. After large-volume paracentesis (> 5 L), albumin 8 g per litre removed is recommended. — T / F
+- D. Dietary protein should be restricted to < 0.8 g/kg/day in hepatic encephalopathy. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – Sort 1999: renal impairment 10 vs 33 % and hospital mortality 10 vs 29 %. SBP is defined as ascitic neutrophils ≥ 250/mm³.
+- B (False) – The composite was 29.7 vs 30.2 %, with more pulmonary oedema and fluid overload. Albumin should not be given just to correct hypoalbuminaemia.
+- C (True) – Albumin prevents post-paracentesis circulatory dysfunction. Paracentesis also lowers IAP and improves renal perfusion.
+- D (False) – Protein is not restricted: 1.2–1.5 g/kg/day (up to 2 g/kg in the critically ill), with 30–35 kcal/kg/day and a late-evening snack.
+
+**Ref:** Sort P, et al. *N Engl J Med* 1999;341:403–409; China L, et al. ATTIRE. *N Engl J Med* 2021;384:808–817; EASL decompensated cirrhosis. *J Hepatol* 2018;69:406–460.
+
+Review: [W20/D4](#W20-D4)
+
+</details>
+
+**36.** A 39-year-old with 45 % TBSA burns has received 14 L of crystalloid in 24 h. Regarding intra-abdominal pressure in this patient (WSACS 2013):
+
+- A. Bladder pressure should be measured with ≤ 25 mL of saline, in mmHg, at end-expiration, supine, with the transducer zeroed at the mid-axillary line. — T / F
+- B. A sustained IAP of 22 mmHg with new oliguria meets the definition of abdominal compartment syndrome. — T / F
+- C. ACS in this patient would be classified as primary, because the abdomen is the compartment affected. — T / F
+- D. The filtration gradient (MAP − 2 × IAP) falls faster than the abdominal perfusion pressure as IAP rises, which explains early oliguria. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – Larger instillation volumes overestimate IAP. Read 30–60 s after instillation, with no abdominal muscle contraction.
+- B (True) – ACS is a sustained IAP above 20 mmHg with new organ dysfunction. IAP 22 mmHg with stable organs would be IAH grade III.
+- C (False) – Burns and massive resuscitation cause **secondary** ACS, because the condition does not originate in the abdomen. Primary ACS comes from abdominopelvic disease. In burns, torso escharotomy improves wall compliance.
+- D (True) – Oliguria appears at about 15 mmHg and anuria at about 30 mmHg. Raised IAP also falsely raises CVP and PAOP.
+
+**Ref:** Kirkpatrick AW, et al. WSACS 2013. *Intensive Care Med* 2013;39:1190–1206.
+
+Review: [W20/D5](#W20-D5)
+
+</details>
+
+**37.** A 62-year-old is intubated for septic shock. He has been stable on noradrenaline 0.4 µg/kg/min for 12 h, with a falling lactate. Which nutritional strategy for the first days is best supported by current evidence?
+
+- A. EN at 25 kcal/kg/day and 1.3 g/kg/day protein from day 1
+- B. Start low-dose EN and increase it progressively, keeping energy at ≤ 70 % of expenditure in the early acute phase
+- C. Supplemental PN from day 2 if EN is below target
+- D. No nutrition at all for the first 7 days
+- E. An energy-dense 1.5 kcal/mL formula to reach the target faster
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** Once shock is controlled, ESPEN and ESICM recommend low-dose EN within 48 h, advanced over 3–7 days. Energy is kept at ≤ 70 % of expenditure early, then raised to 80–100 % of measured expenditure after day 3. In NUTRIREA-3, low intake (6 kcal/kg, 0.2–0.4 g/kg protein) in ventilated shock patients shortened time to readiness for ICU discharge, with fewer GI complications and similar 90-day mortality (41.3 vs 42.8 %).
+
+**Why not the others:**
+- A – Full-dose early feeding adds calories on top of unsuppressed endogenous glucose production. In NUTRIREA-2, full early EN in shock caused more bowel ischaemia.
+- C – In EPaNIC, early supplemental PN increased infections.
+- D – Prolonged starvation builds up an energy and protein deficit. Even the NUTRIREA-3 low arm was fed.
+- E – In TARGET, energy-dense EN gave no benefit and more GI intolerance.
+
+**Ref:** Reignier J, et al. NUTRIREA-3. *Lancet Respir Med* 2023;11:602–612; Singer P, et al. ESPEN 2023. *Clin Nutr* 2023;42:1671–1689.
+
+Review: [W21/D1](#W21-D1)
+
+</details>
+
+**38.** Regarding nutrition trials in critically ill adults:
+
+- A. In EPaNIC, delaying supplemental PN to day 8 reduced infections and sped up discharge alive. — T / F
+- B. In CALORIES, early PN caused more infections than early EN. — T / F
+- C. In NUTRIREA-2, full-dose early EN in ventilated patients with shock caused more bowel ischaemia than early PN. — T / F
+- D. In TARGET, energy-dense EN (1.5 kcal/mL) reduced 90-day mortality. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – F.**
+
+- A (True) – Infections were 22.8 vs 26.2 %, with shorter ventilation and KRT. Mortality was equal (n = 4,640).
+- B (False) – At equal calories, route did not matter: 30-day mortality was 33.1 vs 34.1 % and infections were similar. The infections seen in older PN trials were due to overfeeding.
+- C (True) – Bowel ischaemia was 2 vs < 1 %, with more vomiting, diarrhoea and colonic pseudo-obstruction. Day-28 mortality was 37 vs 35 % (not different).
+- D (False) – 90-day mortality was 26.8 vs 25.7 %. More calories brought no benefit and more GI intolerance.
+
+**Ref:** Casaer MP, et al. EPaNIC. *N Engl J Med* 2011;365:506–517; Harvey SE, et al. CALORIES. *N Engl J Med* 2014;371:1673–1684; Reignier J, et al. NUTRIREA-2. *Lancet* 2018;391:133–143; TARGET. *N Engl J Med* 2018;379:1823–1834.
+
+Review: [W21/D1](#W21-D1)
+
+</details>
+
+**39.** A 70-kg ventilated patient receives a continuous infusion of propofol 1 % at 25 mL/h. Approximately how many non-nutritional kilocalories does the propofol provide per day?
+
+- A. ~260 kcal
+- B. ~440 kcal
+- C. ~660 kcal
+- D. ~900 kcal
+- E. ~1,100 kcal
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** Propofol 1 % is a lipid emulsion that provides 1.1 kcal/mL. 25 mL/h × 24 h = 600 mL/day, and 600 × 1.1 ≈ 660 kcal/day. That is roughly 9–10 kcal/kg/day, close to half of an early target, so EN must be reduced to avoid overfeeding (> 110 % of expenditure). A high-protein, lower-energy formula can help.
+
+**Why not the others:**
+- A – This underestimates the volume, using about 10 mL/h.
+- B – This uses about 0.75 kcal/mL or a shorter infusion time.
+- D – This would need about 34 mL/h.
+- E – This doubles the true value, as if the infusion were 2 % propofol.
+
+**EDIC trap:** Citrate in CRRT (~3 kcal/g) and glucose in infusions or dialysate also count as non-nutritional calories.
+
+**Ref:** Singer P, et al. ESPEN 2019. *Clin Nutr* 2019;38:48–79.
+
+Review: [W21/D1](#W21-D1)
+
+</details>
+
+**40.** In critically ill adults, ESICM 2017 recommends delaying early enteral nutrition in all of the following situations EXCEPT:
+
+- A. Absent bowel sounds in a haemodynamically stable ventilated patient
+- B. Uncontrolled shock with escalating vasopressor doses and a rising lactate
+- C. Active upper GI bleeding
+- D. Gastric residual volume above 500 mL in 6 h
+- E. Overt bowel ischaemia
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** Bowel sounds are unreliable. Their absence alone neither defines ileus nor contraindicates EN, and the same applies to diarrhoea. Low-dose EN is also allowed during hypothermia, ECMO, prone positioning, neuromuscular blockade, open abdomen, IAH without ACS, after GI surgery, and in pancreatitis, TBI and stroke.
+
+**Why not the others:**
+- B – Uncontrolled shock is a reason to delay EN. Start low-dose EN as soon as shock is controlled.
+- C – Active upper GI bleeding is a reason to delay.
+- D – A GRV above 500 mL/6 h is a reason to hold EN and start prokinetics (IV erythromycin first line, for 24–72 h).
+- E – Overt bowel ischaemia is a reason to delay, as are bowel obstruction and ACS.
+
+**Ref:** Reintam Blaser A, et al. ESICM early EN guideline. *Intensive Care Med* 2017;43:380–398.
+
+Review: [W21/D1](#W21-D1), [W21/D5](#W21-D5)
+
+</details>
+
+**41.** A 48-year-old malnourished patient with alcohol-use disorder started EN 2 days ago at 25 kcal/kg/day. Serum phosphate has fallen from 1.05 to 0.42 mmol/L, with K⁺ 3.2 and Mg²⁺ 0.6 mmol/L. What is the most appropriate change?
+
+- A. Continue full feeding and add oral phosphate only
+- B. Stop all nutrition for 5 days
+- C. Switch to parenteral nutrition at the same calorie target
+- D. Restrict calories (~20 kcal/h) for 48 h while replacing phosphate, K⁺, Mg²⁺ and thiamine, then increase gradually
+- E. Increase calories to correct the catabolism
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** This is refeeding hypophosphataemia: phosphate below 0.65 mmol/L, or a fall of more than 0.16 mmol/L after feeding starts. In Doig 2015 (n = 339), restricting calories to about 20 kcal/h for 48 h, with phosphate replacement, reduced 60-day mortality compared with continuing standard intake. Measure phosphate daily in the first week, and check K⁺, Mg²⁺ and thiamine.
+
+**Why not the others:**
+- A – Continuing full calories was the inferior arm in Doig's trial.
+- B – Stopping nutrition for 5 days is not necessary and causes an energy and protein deficit.
+- C – The route does not matter. The carbohydrate load drives the intracellular phosphate shift.
+- E – More calories worsen refeeding.
+
+**Ref:** Doig GS, et al. *Lancet Respir Med* 2015;3:943–952; Singer P, et al. ESPEN 2023. *Clin Nutr* 2023;42:1671–1689.
+
+Review: [W21/D1](#W21-D1)
+
+</details>
+
+**42.** Regarding protein dosing in critical illness:
+
+- A. EFFORT Protein (1.6 vs 0.9 g/kg/day delivered) showed no benefit, with a signal of harm in patients with AKI and high SOFA scores. — T / F
+- B. PRECISe, a double-blind isocaloric trial (target 2.0 vs 1.3 g/kg/day), found worse health-related quality of life with high protein. — T / F
+- C. TARGET Protein increased days alive and out of hospital with augmented protein. — T / F
+- D. One gram of urinary nitrogen corresponds to about 6.25 g of protein. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – 46.1 vs 50.2 % were discharged alive (HR 0.91). In patients with baseline AKI not on KRT, high protein was associated with higher 60-day mortality (HR ≈ 1.4) and higher urea.
+- B (True) – EQ-5D-5L mean difference −0.05 (P = 0.031), with more GI intolerance (9 vs 6 %). 180-day mortality was 42 vs 38 % (not significant).
+- C (False) – 62 vs 64 days (difference −1.97), with a longer ICU stay and harm signals in ventilated patients and those starting KRT.
+- D (True) – Protein provides 4 kcal/g. Nitrogen balance stays negative early, whatever the intake (anabolic resistance).
+
+**EDIC trap:** Current practice is protein increased progressively over about 5 days to ~1.2–1.3 g/kg/day, not ≥ 2 g/kg early.
+
+**Ref:** Heyland DK, et al. EFFORT Protein. *Lancet* 2023;401:568–576; Bels JLM, et al. PRECISe. *Lancet* 2024;404:659–669; Summers MJ, et al. TARGET Protein. *JAMA* 2025.
+
+Review: [W21/D2](#W21-D2)
+
+</details>
+
+**43.** A 75-kg hypercatabolic patient with septic AKI is on CRRT on day 6. He is haemodynamically stable and tolerating EN. According to ESPEN renal guidance, what protein intake is appropriate?
+
+- A. 0.6–0.8 g/kg/day to limit urea generation
+- B. No protein until CRRT is stopped
+- C. 2.5 g/kg/day to offset all losses
+- D. 2.0 g/kg/day of actual weight, as ASPEN 2022 allowed
+- E. About 1.0–1.5 g/kg/day, up to 1.7 g/kg/day, to compensate amino acid losses of about 10–20 g/day
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** CRRT removes about 10–20 g of amino acids a day, more with a high effluent dose. ESPEN renal guidance gives 1.0–1.5 g/kg/day for patients on dialysis, rising to 1.7 g/kg/day on CRRT in hypercatabolic patients. In EFFORT Protein, patients already on KRT were not harmed by higher protein. The harm signal was in AKI *without* KRT.
+
+**Why not the others:**
+- A – Protein restriction to avoid or delay dialysis is not recommended, and on CRRT it would deepen the deficit.
+- B – Withholding protein worsens muscle wasting.
+- C – 2.5 g/kg/day is the ASPEN figure for obesity (per kg IBW, BMI ≥ 40), not a CRRT target.
+- D – ASPEN's upper limit of 2.0 g/kg/day is no longer supported in the acute phase, after EFFORT, PRECISe and TARGET Protein.
+
+**Ref:** Fiaccadori E, et al. ESPEN renal. *Clin Nutr* 2021;40:1644–1668; Stoppe C, et al. *Crit Care* 2023;27:399.
+
+Review: [W21/D2](#W21-D2)
+
+</details>
+
+**44.** A 58-year-old is ventilated for pneumonia with septic shock on noradrenaline. His INR is 1.8 and he is receiving EN. Regarding stress-ulcer prophylaxis, which of the following is LEAST appropriate?
+
+- A. Pantoprazole 40 mg IV or enterally once daily
+- B. Low-dose famotidine as an alternative to a PPI
+- C. Withholding SUP because enteral nutrition is protective
+- D. Stopping SUP once shock and coagulopathy have resolved
+- E. Not continuing the PPI after ICU discharge if there is no other indication
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** Shock and coagulopathy are the 2024 SCCM/ASHP risk factors, along with chronic liver disease. The guideline suggests SUP for at-risk patients **even if they are enterally fed** (conditional, very low certainty). EN reduces bleeding and is recommended, but it does not replace SUP in high-risk patients. SUP is suggested against only in low-risk fed patients.
+
+**Why not the others:**
+- A – Low-dose PPI (≤ 40 mg/day), IV or enteral, is first line.
+- B – An H₂RA (famotidine ≤ 40 mg/day) is an acceptable alternative. It may be preferred in the most severely ill, where PPI mortality signals exist.
+- D – Stop SUP when risk factors resolve (good practice).
+- E – Up to a third of patients leave hospital on an ICU-started PPI without an indication, so deprescribe.
+
+**Ref:** MacLaren R, et al. SCCM/ASHP SUP guideline. *Crit Care Med* 2024;52:e421–e430.
+
+Review: [W21/D3](#W21-D3)
+
+</details>
+
+**45.** Regarding stress-ulcer prophylaxis trials:
+
+- A. In REVISE (ventilated adults), pantoprazole reduced clinically important upper GI bleeding (1.0 vs 3.5 %). — T / F
+- B. In REVISE, pantoprazole reduced 90-day mortality. — T / F
+- C. In PEPTIC, the PPI strategy resulted in more clinically important bleeding than the H₂RA strategy. — T / F
+- D. SUP-ICU showed that pantoprazole increased pneumonia and *C. difficile* infection. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – F.**
+
+- A (True) – HR 0.30, about a 70 % reduction (NNT ≈ 40), with no increase in VAP or *C. difficile*.
+- B (False) – 90-day mortality was 29.1 vs 30.9 % (HR 0.94, not significant). A subgroup signal of possible harm in APACHE II ≥ 25 is only hypothesis-generating.
+- C (False) – PPIs gave **fewer** bleeds (1.3 vs 1.8 %), with a borderline mortality signal (18.3 vs 17.5 %; RR 1.05, 1.00–1.10).
+- D (False) – SUP-ICU (n = 3,298) reduced bleeding (2.5 vs 4.2 %) without increasing pneumonia or *C. difficile*. 90-day mortality was 31.1 vs 30.4 %.
+
+**EDIC trap:** PPIs reduce bleeding but not mortality.
+
+**Ref:** Cook D, et al. REVISE. *N Engl J Med* 2024;391:9–20; PEPTIC. *JAMA* 2020;323:616–626; Krag M, et al. SUP-ICU. *N Engl J Med* 2018;379:2199–2208.
+
+Review: [W21/D3](#W21-D3)
+
+</details>
+
+**46.** A 76-year-old with atrial fibrillation (not anticoagulated) has had sudden severe periumbilical pain for 4 h. The abdomen is soft with mild tenderness. Lactate is 1.5 mmol/L, WBC 13 × 10⁹/L and creatinine 175 µmol/L (baseline 90). What is the most appropriate next step?
+
+- A. Observe and repeat the lactate in 4 h
+- B. Abdominal ultrasound
+- C. A plain abdominal radiograph to exclude perforation
+- D. Immediate biphasic CT angiography and IV unfractionated heparin
+- E. MR angiography once the creatinine improves
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** AF with sudden pain out of proportion to the examination suggests embolic acute mesenteric ischaemia. Biphasic (arterial + portal venous) CTA is the first-line test. ESVS Class I says it must be done **without delay, even with impaired renal function**, because missing AMI is more dangerous than contrast-associated AKI. Therapeutic heparin is started immediately, followed by revascularisation and then resection if needed.
+
+**Why not the others:**
+- A – Lactate is often normal early and rises only with necrosis. "Time is bowel."
+- B – Ultrasound is not sufficient to diagnose AMI.
+- C – A plain radiograph is not sufficient either, and normal early.
+- E – Waiting for renal recovery delays diagnosis while the bowel infarcts.
+
+**Ref:** Koelemay MJW, et al. ESVS 2025. *Eur J Vasc Endovasc Surg* 2025;70:153–218; Bala M, et al. WSES AMI. *World J Emerg Surg* 2022;17:54.
+
+Review: [W21/D4](#W21-D4)
+
+</details>
+
+**47.** Regarding acute mesenteric ischaemia:
+
+- A. A normal lactate excludes AMI in a patient with severe abdominal pain. — T / F
+- B. Surgery is the mainstay of treatment for mesenteric venous thrombosis without peritonitis. — T / F
+- C. An embolic SMA occlusion typically involves the entire midgut, including the proximal jejunum, because the embolus lodges at the SMA ostium. — T / F
+- D. In arterial occlusion with suspected bowel necrosis, non-viable bowel should be resected before any revascularisation is attempted. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – F, C – F, D – F.**
+
+- A (False) – Lactate is normal in early AMI. A normal **D-dimer** (sensitivity ~95 %) is what makes AMI unlikely.
+- B (False) – Anticoagulation is the mainstay of MVT treatment (heparin, then oral anticoagulation for ≥ 3–6 months). Surgery is only for peritonitis, and thrombolysis is used if the patient deteriorates.
+- C (False) – Emboli lodge 3–10 cm distal to the SMA origin and often spare the proximal jejunum and transverse colon. Ostial **thrombosis** affects the whole midgut, often after chronic post-prandial pain.
+- D (False) – The principle is to **revascularise first, then resect** non-viable bowel, with a planned second look at 24–48 h.
+
+**Ref:** Koelemay MJW, et al. ESVS 2025. *Eur J Vasc Endovasc Surg* 2025;70:153–218; Bala M, et al. *World J Emerg Surg* 2022;17:54.
+
+Review: [W21/D4](#W21-D4)
+
+</details>
+
+**48.** A 64-year-old undergoes a Hartmann's procedure for perforated sigmoid diverticulitis with purulent peritonitis, and source control is judged adequate. He is now stable on piperacillin–tazobactam. Which antibiotic duration is best supported?
+
+- A. About 4 days after source control
+- B. Until the CRP has normalised
+- C. 10 days
+- D. 14–15 days
+- E. Until SIRS has resolved and the WBC is normal
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** In STOP-IT (n = 518), a fixed course of about 4 days after adequate source control was as good as treatment until SIRS resolved (median 8 days). The composite of surgical site infection, recurrent IAI or death was 21.8 vs 22.3 %, with half the antibiotic exposure.
+
+**Why not the others:**
+- B – Waiting for CRP to normalise prolongs exposure without benefit, and CRP was not a trial strategy.
+- C – 10 days is longer than needed after adequate source control.
+- D – In DURAPOP, even for postoperative ICU IAI, 8 days was non-inferior to 15.
+- E – This was the control arm of STOP-IT, and it was not superior.
+
+**EDIC trap:** Short courses assume **adequate source control**. Antibiotics alone fail in secondary peritonitis.
+
+**Ref:** Sawyer RG, et al. STOP-IT. *N Engl J Med* 2015;372:1996–2005; Montravers P, et al. DURAPOP. *Intensive Care Med* 2018;44:300–310.
+
+Review: [W21/D4](#W21-D4)
+
+</details>
+
+**49.** A 59-year-old with cirrhosis and ascites has abdominal pain and fever. Ascitic fluid shows neutrophils 3,400/mm³, multiple organisms on Gram stain, glucose 1.9 mmol/L, total protein 18 g/L and an LDH above the serum upper limit. What is the most appropriate next step?
+
+- A. Cefotaxime and albumin only, with a repeat paracentesis in 48 h
+- B. Albumin 1.5 g/kg alone
+- C. Fluconazole
+- D. An immediate repeat diagnostic paracentesis to confirm the result
+- E. Urgent CT to look for a surgical source, with broad-spectrum antibiotics that include anaerobic cover
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** Polymicrobial ascites with glucose < 2.8 mmol/L, protein > 10 g/L and LDH above the serum upper limit meets the Runyon criteria for **secondary peritonitis**, such as a perforation. This needs imaging and **source control**, plus antibiotics with anaerobic cover. It is not SBP.
+
+**Why not the others:**
+- A – Treating this as SBP (cephalosporin + albumin, which reduced renal impairment and mortality in Sort 1999) would miss a surgical source. SBP is monomicrobial.
+- B – Albumin alone does not treat the infection.
+- C – *Candida* is a concern in tertiary and healthcare-associated peritonitis, not as first-line therapy here.
+- D – The diagnosis is already clear, and repeating the tap delays CT and surgery.
+
+**Ref:** Sartelli M, et al. WSES/GAIS/SIS-E pathways. *World J Emerg Surg* 2021;16:49; Sort P, et al. *N Engl J Med* 1999;341:403–409.
+
+Review: [W21/D4](#W21-D4), [W20/D4](#W20-D4)
+
+</details>
+
+**50.** On day 8 of ceftriaxone, a 72-year-old develops 6 liquid stools a day. *C. difficile* toxin is positive, WBC is 18 × 10⁹/L and creatinine 160 µmol/L (baseline 85). There is no hypotension or ileus. All of the following are appropriate EXCEPT:
+
+- A. Fidaxomicin 200 mg twice daily for 10 days
+- B. IV vancomycin
+- C. Stopping or narrowing ceftriaxone if possible
+- D. Contact precautions and hand-washing with soap and water
+- E. Avoiding loperamide
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** IV vancomycin is not excreted into the colon, so it does not treat CDI. Vancomycin must be given orally or via an NG tube (125 mg qds for 10 days as an alternative to fidaxomicin). By contrast, **IV metronidazole** does reach the colon and is used as an adjunct in fulminant disease.
+
+**Why not the others:**
+- A – Fidaxomicin is the preferred first-line treatment (ESCMID 2021, IDSA–SHEA 2021). This is severe, not fulminant, disease (WBC > 15, creatinine > 133 µmol/L).
+- C – Stopping or narrowing the inciting antibiotic is always part of treatment.
+- D – Spores resist alcohol, so soap and water plus chlorine-based cleaning are needed.
+- E – Antimotility agents are avoided in severe disease.
+
+**Ref:** van Prehn J, et al. ESCMID CDI 2021. *Clin Microbiol Infect* 2021;27(Suppl 2):S1–S21; Johnson S, et al. IDSA/SHEA 2021. *Clin Infect Dis* 2021;73:e1029–e1044.
+
+Review: [W21/D5](#W21-D5)
+
+</details>
+
+**51.** Regarding *Clostridioides difficile* infection in the ICU:
+
+- A. Alcohol hand rub does not reliably remove spores; soap-and-water hand-washing and chlorine-based cleaning are needed. — T / F
+- B. A test of cure should be performed after treatment. — T / F
+- C. Fulminant CDI with ileus is treated with oral/NG vancomycin 500 mg qds, IV metronidazole and rectal vancomycin. — T / F
+- D. Diagnosis uses a two-step algorithm: a sensitive screen (GDH or NAAT) followed by a toxin A/B immunoassay. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – T, D – T.**
+
+- A (True) – Spores survive for months on surfaces. Contact precautions and antimicrobial stewardship complete the infection-control bundle.
+- B (False) – There is no test of cure, and testing should not be repeated within 7 days. Colonisation is common (10–20 %).
+- C (True) – This is the IDSA 2017 regimen. Early surgery (subtotal colectomy, or loop ileostomy with colonic lavage) is needed for perforation, megacolon or refractory shock, ideally before lactate exceeds 5 mmol/L.
+- D (True) – NAAT-positive/toxin-negative may mean colonisation. Test only unformed stool from patients with ≥ 3 unexplained loose stools in 24 h.
+
+**Ref:** Crobach MJT, et al. ESCMID diagnosis. *Clin Microbiol Infect* 2016;22(Suppl 4):S63–S81; McDonald LC, et al. IDSA/SHEA 2017. *Clin Infect Dis* 2018;66:e1–e48.
+
+Review: [W21/D5](#W21-D5)
+
+</details>
+
+**52.** Regarding GI dysmotility in the ICU (ESICM 2012 definitions and Ogilvie syndrome):
+
+- A. Lower GI paralysis is defined as no stool for ≥ 3 consecutive days without mechanical obstruction. — T / F
+- B. Feeding intolerance is defined as < 20 kcal/kg/day by the enteral route within 72 h of feeding attempts, or EN stopped for clinical reasons. — T / F
+- C. In acute colonic pseudo-obstruction, the risk of perforation rises when the caecal diameter exceeds 12 cm. — T / F
+- D. Neostigmine 2 mg IV is given with ECG monitoring and atropine to hand, after mechanical obstruction has been excluded. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – T.**
+
+- A (True) – Bowel sounds may be present or absent. Their absence does not define ileus.
+- B (True) – Diarrhoea is defined as ≥ 3 loose stools a day (> 200–250 g/day), and its commonest cause is drugs, not EN.
+- C (True) – Risk also rises with a duration over 6 days, and mortality with perforation is about 40 %. Manage conservatively for 24–48 h if the caecum is below 12 cm.
+- D (True) – In Ponec 1999, neostigmine decompressed 10/11 patients vs 0/10 with placebo. Bradycardia and bronchospasm are the risks, and colonoscopic decompression follows if it fails.
+
+**Ref:** Reintam Blaser A, et al. ESICM WGAP. *Intensive Care Med* 2012;38:384–394; Ponec RJ, et al. *N Engl J Med* 1999;341:137–141.
+
+Review: [W21/D5](#W21-D5)
+
+</details>
+
+**53.** A 71-year-old is on day 2 after an acute STEMI treated with PCI. He is not bleeding, and his Hb is 8.4 g/dL. Which transfusion strategy is best supported by current evidence?
+
+- A. No transfusion unless Hb falls below 7 g/dL
+- B. Transfuse only if Hb falls below 8 g/dL
+- C. Transfuse to keep Hb at about 10 g/dL
+- D. Transfuse to keep Hb above 12 g/dL
+- E. Give IV iron and erythropoietin instead of red cells
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** The myocardium already extracts about 70 % of the oxygen delivered to it, and a stenosed coronary artery cannot increase flow. In MINT (n = 3,504, MI with Hb < 10), a restrictive strategy (7–8 g/dL) vs liberal (10 g/dL) gave death or MI at 30 days of 16.9 vs 14.5 % (RR 1.15; P = 0.07). The point estimates favoured liberal transfusion. ESICM 2020 already suggested 9–10 g/dL in ACS (conditional, low).
+
+**Why not the others:**
+- A – 7 g/dL is the general ICU threshold (TRICC, TRISS). MINT did not show that a restrictive strategy is safe in MI.
+- B – 8 g/dL is the AABB option for orthopaedic surgery or pre-existing cardiovascular disease, not for acute MI.
+- D – No trial supports a target above 12 g/dL.
+- E – ESICM 2020 suggests against EPO and iron to prevent transfusion. In EPO-3, EPO increased thrombosis.
+
+**Ref:** Carson JL, et al. MINT. *N Engl J Med* 2023;389:2446–2456; Vlaar AP, et al. ESICM transfusion. *Intensive Care Med* 2020;46:673–696.
+
+Review: [W22/D1](#W22-D1)
+
+</details>
+
+**54.** Regarding red-cell transfusion trials in critically ill and surgical patients:
+
+- A. TRICC showed a significant reduction in 30-day mortality with a restrictive threshold of 7 g/dL. — T / F
+- B. TRISS showed better survival in septic shock with a liberal threshold of 9 g/dL. — T / F
+- C. TRICS-III found a restrictive threshold of 7.5 g/dL inferior to liberal transfusion in high-risk cardiac surgery. — T / F
+- D. ABLE and TRANSFUSE showed that fresher red cells improve survival. — T / F
+
+<details><summary>Answer</summary>
+
+**A – F, B – F, C – F, D – F.**
+
+- A (False) – 30-day mortality was 18.7 vs 23.3 % (p = 0.11, not significant). TRICC showed that a restrictive threshold is at least as effective, with benefit in less sick (APACHE II ≤ 20) and younger patients.
+- B (False) – 90-day mortality was 43.0 vs 45.0 % (not significant), with half as many units transfused. Septic shock needs no higher threshold.
+- C (False) – The restrictive strategy was **non-inferior**: death/MI/stroke/dialysis 11.4 vs 12.5 % (n = 5,243). ESICM 2020 recommends 7.5 g/dL (strong).
+- D (False) – ABLE, RECESS, TRANSFUSE and INFORM all found no benefit from fresher blood. The age of stored blood is not a target you can change.
+
+**Ref:** Hébert PC, et al. TRICC. *N Engl J Med* 1999;340:409–417; Holst LB, et al. TRISS. *N Engl J Med* 2014;371:1381–1391; Mazer CD, et al. TRICS-III. *N Engl J Med* 2017;377:2133–2144.
+
+Review: [W22/D1](#W22-D1)
+
+</details>
+
+**55.** Ninety minutes after receiving 2 units of FFP before a procedure, a 46-year-old becomes acutely hypoxaemic (PaO₂/FiO₂ 110), with bilateral infiltrates, fever and BP 84/50 mmHg. Echocardiography shows normal LV function and no left atrial hypertension. What is the most likely diagnosis and appropriate management?
+
+- A. TRALI – stop the transfusion and give supportive, lung-protective ventilation, without diuretics
+- B. TACO – give furosemide
+- C. Anaphylaxis – give adrenaline and use washed products in future
+- D. Acute haemolytic reaction – check identity and force a diuresis
+- E. Febrile non-haemolytic reaction – give an antipyretic and continue
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** TRALI occurs within 6 h. It causes hypoxaemia, bilateral infiltrates, **hypotension** and fever without left atrial hypertension. It is caused by anti-HLA/HNA antibodies, typically in female donor plasma. Treatment is supportive, and diuretics do not help. Report it to haemovigilance.
+
+**Why not the others:**
+- B – TACO (within 12 h) causes **hypertension**, a raised JVP and BNP, and responds to diuretics. It is the leading cause of transfusion-related death.
+- C – Anaphylaxis (e.g. anti-IgA) starts within minutes with urticaria and bronchospasm, not infiltrates with fever.
+- D – Haemolysis presents within minutes, with loin pain, haemoglobinuria and DIC. It is almost always an identification error.
+- E – A febrile non-haemolytic reaction causes fever only, without hypoxaemia or shock.
+
+**Ref:** Vlaar AP, et al. *Intensive Care Med* 2020;46:673–696.
+
+Review: [W22/D1](#W22-D1)
+
+</details>
+
+**56.** A 60-year-old non-bleeding ICU patient has platelets of 35 × 10⁹/L and an INR of 1.9 and needs an internal jugular CVC. Which of the following is LEAST appropriate?
+
+- A. Ultrasound guidance by an experienced operator
+- B. One unit of platelets before insertion
+- C. Choosing a compressible site where possible
+- D. FFP 15 mL/kg to correct the INR before insertion
+- E. Later in the stay, no prophylactic platelets while the count stays above 10 × 10⁹/L and there is no bleeding or procedure
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** ESICM 2020 recommends **no prophylactic FFP** for coagulopathy or before bedside procedures in non-bleeding patients. The INR is a poor predictor of procedural bleeding, and FFP adds volume and the risks of TACO and TRALI.
+
+**Why not the others:**
+- A – Ultrasound reduces complications, and it was used in all PACER procedures.
+- B – In PACER (platelets 10–50 × 10⁹/L, ultrasound-guided CVC), withholding platelets was not non-inferior: grade 2–4 bleeding was 11.9 vs 4.8 %. One unit before insertion is recommended.
+- C – A compressible site lowers the consequences of bleeding.
+- E – Prophylactic platelet transfusion is indicated only below 10 × 10⁹/L (ESICM 2020).
+
+**Ref:** van Baarle FLF, et al. PACER. *N Engl J Med* 2023;388:1956–1965; Vlaar AP, et al. *Intensive Care Med* 2020;46:673–696.
+
+Review: [W22/D1](#W22-D1)
+
+</details>
+
+**57.** A 59-year-old with septic shock has platelets of 42 × 10⁹/L, a strongly increased D-dimer, a PT prolonged by 4 s and fibrinogen 3.4 g/L. What is the ISTH overt DIC score and its interpretation?
+
+- A. 4 – non-overt DIC
+- B. 5 – overt DIC, but only if fibrinogen is low
+- C. 3 – no DIC
+- D. Not applicable in sepsis; only the SIC score can be used
+- E. 6 – overt DIC
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** Platelets < 50 × 10⁹/L score 2, a strong rise in fibrin markers 3, PT prolonged 3–6 s 1 and fibrinogen > 1.0 g/L 0, giving **6**. A score ≥ 5 means overt DIC. Fibrinogen is an acute-phase reactant and is often normal in septic, thrombotic-type DIC. The score should be repeated daily.
+
+**Why not the others:**
+- A – This undercounts: a strong rise in fibrin markers scores 3, not 2.
+- B – A low fibrinogen is not required for the diagnosis.
+- C – This miscounts the score.
+- D – The ISTH score needs a compatible underlying disorder, and sepsis is the commonest. The SIC score (≥ 4) identifies an earlier phase and is complementary, not exclusive.
+
+**EDIC trap:** Septic DIC has suppressed fibrinolysis (high PAI-1), so tranexamic acid is contraindicated. Treat the cause.
+
+**Ref:** Taylor FB Jr, et al. ISTH DIC. *Thromb Haemost* 2001;86:1327–1330; Iba T, et al. ISTH 2025. *J Thromb Haemost* 2025;23:2356–2362.
+
+Review: [W22/D2](#W22-D2)
+
+</details>
+
+**58.** Regarding DIC and anticoagulant reversal:
+
+- A. In sepsis-associated DIC, fibrinolysis is suppressed, so tranexamic acid is contraindicated. — T / F
+- B. In suspected acute promyelocytic leukaemia with DIC, ATRA should be started immediately on clinical suspicion. — T / F
+- C. In KyberSept, high-dose antithrombin reduced 28-day mortality in severe sepsis. — T / F
+- D. Warfarin-associated major bleeding is reversed with 4-factor PCC plus IV vitamin K rather than FFP alone. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – Sepsis DIC is the thrombotic, organ-failure phenotype. TXA may be considered only in hyperfibrinolytic DIC with bleeding (trauma, obstetric, prostate cancer).
+- B (True) – APL causes hyperfibrinolytic, bleeding DIC, so starting ATRA cannot wait for confirmation.
+- C (False) – Mortality was 38.9 vs 38.7 %, with more bleeding, especially with heparin. Activated protein C (withdrawn) and thrombomodulin (SCARLET) also failed.
+- D (True) – Give 4F-PCC 25–50 IU/kg with vitamin K 5–10 mg IV. PCC corrects the INR within 30 min with less volume, and vitamin K is needed because PCC lasts only 6–8 h.
+
+**Ref:** Warren BL, et al. KyberSept. *JAMA* 2001;286:1869–1878; Vlaar AP, et al. ESICM bleeding. *Intensive Care Med* 2021;47:1368–1392.
+
+Review: [W22/D2](#W22-D2)
+
+</details>
+
+**59.** A 79-year-old with no previous bleeding history develops a large spontaneous thigh haematoma, and his Hb falls by 3 g/dL. PT is normal; aPTT is 82 s and is not corrected by 1 : 1 mixing (worse after incubation). Platelets are 210 × 10⁹/L and he takes no anticoagulants. What is the most appropriate treatment?
+
+- A. FFP 15 mL/kg and vitamin K
+- B. A bypassing agent (rFVIIa or aPCC) plus immunosuppression with steroids
+- C. Therapeutic anticoagulation for a lupus anticoagulant
+- D. Desmopressin for von Willebrand disease
+- E. Protamine for occult heparin
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** An isolated prolonged aPTT with bleeding that does not correct on mixing (time- and temperature-dependent) points to an inhibitor. In an elderly patient with soft-tissue or muscle bleeding, this is **acquired haemophilia A**: an anti-FVIII autoantibody, confirmed by a low FVIII and a Bethesda titre. Treat with bypassing agents (rFVIIa, aPCC), recombinant porcine FVIII or emicizumab, plus immunosuppression (steroids ± rituximab or cyclophosphamide). Avoid IM injections and invasive procedures.
+
+**Why not the others:**
+- A – FFP cannot overcome an inhibitor, and the PT is normal, so vitamin K is not relevant.
+- C – A lupus anticoagulant prolongs the aPTT but causes **thrombosis**, not bleeding.
+- D – vWD is usually lifelong and mucosal, and a mixing study would correct a factor deficiency.
+- E – He has no heparin exposure.
+
+**Ref:** Vlaar AP, et al. ESICM bleeding. *Intensive Care Med* 2021;47:1368–1392.
+
+Review: [W22/D2](#W22-D2)
+
+</details>
+
+**60.** A 31-year-old woman presents with confusion. Platelets are 11 × 10⁹/L and Hb 7.9 g/dL, with schistocytes, LDH 1,450 U/L, undetectable haptoglobin and a negative DAT. INR is 1.1, MCV 86 fL and creatinine 105 µmol/L. She has no cancer and no transplant. What is the most appropriate management?
+
+- A. Platelet transfusion to above 50 × 10⁹/L before any line insertion
+- B. Wait for the ADAMTS13 activity result before starting therapy
+- C. Eculizumab
+- D. Draw ADAMTS13, then start daily plasma exchange with corticosteroids and add caplacizumab
+- E. Therapeutic heparin for the microthrombi
+
+<details><summary>Answer</summary>
+
+**D.**
+
+**Why D:** Her PLASMIC score is 7/7 (high risk; ADAMTS13 < 10 % in about 80 %). Untreated immune TTP has a mortality of about 90 %, and most deaths occur in the first days. Draw ADAMTS13 **before the first exchange**, then start PEX (1–1.5 plasma volumes daily) and steroids. In HERCULES, caplacizumab cut the composite of TTP death, recurrence or major thromboembolism (12 vs 49 %). Rituximab reduces relapse.
+
+**Why not the others:**
+- A – Platelets are given only for life-threatening bleeding or high-risk procedures. Use ultrasound and a compressible site.
+- B – ISTH 2020 says to start treatment on clinical grounds if the result will take more than 72 h.
+- C – Anti-C5 therapy is for complement-mediated HUS once TTP is excluded (ADAMTS13 > 10 %). Severe AKI would favour HUS.
+- E – Heparin has no role in the acute phase. Give LMWH prophylaxis once platelets are above 50 × 10⁹/L.
+
+**Ref:** Zheng XL, et al. ISTH TTP. *J Thromb Haemost* 2020;18:2486–2502; Scully M, et al. HERCULES. *N Engl J Med* 2019;380:335–346.
+
+Review: [W22/D3](#W22-D3)
+
+</details>
+
+**61.** Regarding heparin-induced thrombocytopenia (ASH 2018):
+
+- A. With a 4Ts score of 0–3, HIT is very unlikely: no testing is needed and heparin can continue. — T / F
+- B. A positive PF4–heparin ELISA alone confirms HIT. — T / F
+- C. Platelet transfusion is recommended in HIT when platelets fall below 50 × 10⁹/L, even without bleeding. — T / F
+- D. Bleeding, rather than thrombosis, is the main complication of untreated HIT. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – F.**
+
+- A (True) – A low 4Ts score has a negative predictive value of about 99 %. With an intermediate or high score, stop heparin, start a non-heparin anticoagulant and send an immunoassay.
+- B (False) – The ELISA is sensitive but not specific, and non-pathogenic antibodies are common after cardiac surgery. Confirm with a functional assay (SRA or HIPA).
+- C (False) – Platelets are given only for bleeding or high-risk procedures. The nadir is usually 20–100 × 10⁹/L.
+- D (False) – HIT is prothrombotic (FcγRIIa platelet activation). Thrombosis occurs in about 50 % of untreated patients, venous more than arterial, and bleeding is rare.
+
+**Ref:** Cuker A, et al. ASH HIT 2018. *Blood Adv* 2018;2:3360–3392; Greinacher A. *N Engl J Med* 2015;373:252–261.
+
+Review: [W22/D3](#W22-D3)
+
+</details>
+
+**62.** On day 7 after cardiac surgery, a 66-year-old on UFH prophylaxis has a platelet count of 48 × 10⁹/L (from 210), a new left-leg DVT and a positive functional assay. Warfarin was started yesterday and the INR is 1.6. Creatinine clearance is 25 mL/min. What is the most appropriate management?
+
+- A. Switch UFH to enoxaparin and continue warfarin
+- B. Stop heparin and continue warfarin, overlapping with fondaparinux for 5 days
+- C. Stop all heparin and the warfarin, give vitamin K, and start argatroban
+- D. Stop heparin and give platelets before starting anticoagulation
+- E. Stop heparin and observe without anticoagulation until the platelets recover
+
+<details><summary>Answer</summary>
+
+**C.**
+
+**Why C:** This is confirmed HIT with thrombosis. All heparin must stop, including flushes and coated catheters. Early warfarin depletes protein C and can cause venous limb gangrene, so it is stopped and **reversed with vitamin K**. It should restart only once platelets are ≥ 150 × 10⁹/L, with a 5-day overlap. Argatroban is cleared by the liver and is preferred in renal failure, with bivalirudin as an alternative. Treat for 3 months.
+
+**Why not the others:**
+- A – LMWH cross-reacts with HIT antibodies, and the warfarin problem remains.
+- B – Continuing warfarin in acute HIT is the error, even with a non-heparin anticoagulant overlap.
+- D – Platelets are given only for bleeding or high-risk procedures.
+- E – Even isolated HIT needs therapeutic non-heparin anticoagulation, and this patient already has a DVT.
+
+**Ref:** Cuker A, et al. ASH HIT 2018. *Blood Adv* 2018;2:3360–3392.
+
+Review: [W22/D3](#W22-D3)
+
+</details>
+
+**63.** A 64-year-old with acute PE has BP 118/72 mmHg, HR 108/min, an RV/LV ratio of 1.2 on CT, a raised troponin and an sPESI of 1. Which of the following is LEAST appropriate?
+
+- A. Routine full-dose systemic thrombolysis now
+- B. Anticoagulation with LMWH (or UFH if reperfusion is anticipated)
+- C. Monitoring in the HDU/ICU for haemodynamic decompensation
+- D. Rescue reperfusion if he decompensates
+- E. A PE response team discussion about catheter-directed therapy
+
+<details><summary>Answer</summary>
+
+**A.**
+
+**Why A:** RV dysfunction plus a raised troponin in a normotensive patient is **intermediate-high-risk** PE (ESC 2019). In PEITHO (n = 1,005), tenecteplase reduced death or decompensation (2.6 vs 5.6 %). It also caused major extracranial bleeding (6.3 vs 1.2 %) and stroke (2.4 vs 0.2 %), and did not lower mortality. ESC therefore does not recommend routine full-dose lysis in this group (III B).
+
+**Why not the others:**
+- B – LMWH is preferred, and UFH is used if instability, reperfusion or CrCl < 30 mL/min is likely.
+- C – Intermediate-high risk means close monitoring.
+- D – Systemic lysis is indicated as **rescue** if he deteriorates.
+- E – HI-PEITHO (4.0 vs 10.3 %, no intracranial haemorrhage) and PRAGUE-26 support catheter therapy in selected patients through a PERT. The AHA/ACC 2026 guideline gives class 2b for C3/D.
+
+**Ref:** Konstantinides SV, et al. ESC PE 2019. *Eur Heart J* 2020;41:543–603; Meyer G, et al. PEITHO. *N Engl J Med* 2014;370:1402–1411.
+
+Review: [W22/D4](#W22-D4)
+
+</details>
+
+**64.** Regarding VTE prophylaxis in critically ill adults:
+
+- A. In PROTECT, dalteparin reduced pulmonary embolism compared with UFH, although rates of proximal DVT were similar. — T / F
+- B. In PREVENT, adding intermittent pneumatic compression to pharmacological prophylaxis reduced proximal DVT. — T / F
+- C. Based on PREVENT CLOT, aspirin is a recommended alternative to LMWH in ICU patients. — T / F
+- D. A prophylactic IVC filter is recommended in severely injured trauma patients. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – F.**
+
+- A (True) – PE was 1.3 vs 2.3 % (HR 0.51) and proximal DVT 5.1 vs 5.8 % (not significant), with a trend towards less HIT. LMWH is preferred.
+- B (False) – Proximal DVT was 3.9 vs 4.2 % (not significant). IPC is used **alone** when anticoagulants are contraindicated.
+- C (False) – PREVENT CLOT was in orthopaedic trauma: aspirin was non-inferior for death but caused more DVT (2.5 vs 1.7 %). It is not recommended for ICU patients.
+- D (False) – In the trauma RCT (Ho 2019), prophylactic filters did not reduce PE or death. Filters are for VTE with an absolute contraindication to anticoagulation (PREPIC2 found no routine benefit).
+
+**Ref:** Cook D, et al. PROTECT. *N Engl J Med* 2011;364:1305–1314; Arabi YM, et al. PREVENT. *N Engl J Med* 2019;380:1305–1315; Duranteau J, et al. ESA ICU VTE. *Eur J Anaesthesiol* 2018;35:142–146.
+
+Review: [W22/D4](#W22-D4)
+
+</details>
+
+**65.** A 34-year-old with pelvic fractures has received 6 units of RBC and 4 units of plasma and is still bleeding. ROTEM shows EXTEM CT 70 s (normal), EXTEM MCF 41 mm (low), FIBTEM A5 5 mm and ML 6 %, with similar INTEM and HEPTEM results. Which targeted therapy is most appropriate?
+
+- A. Platelet transfusion
+- B. Further plasma, 15 mL/kg
+- C. An additional bolus of tranexamic acid
+- D. Protamine
+- E. Fibrinogen concentrate 3–4 g (or cryoprecipitate)
+
+<details><summary>Answer</summary>
+
+**E.**
+
+**Why E:** Low clot strength (MCF) with a low **FIBTEM** points to a functional fibrinogen deficit. FIBTEM blocks platelets with cytochalasin D, so its clot strength reflects fibrinogen. The European trauma guideline gives 3–4 g fibrinogen concentrate, or 15–20 single-donor units of cryoprecipitate, when FIBTEM A5 is ≤ 7 mm or plasma fibrinogen ≤ 1.5 g/L. Fibrinogen is the first factor to fall in trauma.
+
+**Why not the others:**
+- A – Platelets are indicated when MCF is low but FIBTEM is **normal**.
+- B – Plasma or PCC is for a prolonged CT/R time, and the CT is normal here.
+- C – ML 6 % is not hyperfibrinolysis (ML > 15 % or LY30 > 3 %). TXA is given early as 1 g + 1 g over 8 h.
+- D – Protamine is for a prolonged INTEM CT with a normal HEPTEM CT (heparin effect).
+
+**Ref:** Rossaint R, et al. European trauma guideline, 6th ed. *Crit Care* 2023;27:80.
+
+Review: [W22/D5](#W22-D5)
+
+</details>
+
+**66.** Regarding massive haemorrhage in trauma:
+
+- A. In CRASH-2, tranexamic acid given more than 3 h after injury increased the risk of death from bleeding. — T / F
+- B. In PROPPR, a 1:1:1 ratio significantly reduced 30-day mortality compared with 1:1:2. — T / F
+- C. Permissive hypotension (SBP 80–90 mmHg) is recommended for patients with severe TBI. — T / F
+- D. Viscoelastic tests do not detect the effect of aspirin or clopidogrel. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – T.**
+
+- A (True) – The benefit was greatest within 1 h (all-cause death 14.5 vs 16.0 % overall). Give it as early as possible and within 3 h.
+- B (False) – 24-h mortality (12.7 vs 17.0 %) and 30-day mortality (22.4 vs 26.1 %) were not significantly different. The 1:1:1 ratio did improve haemostasis (86 vs 78 %) and reduced exsanguination death at 24 h (9.2 vs 14.6 %).
+- C (False) – Permissive hypotension applies only **without TBI**. With severe TBI, keep MAP ≥ 80 mmHg (European guideline 1C).
+- D (True) – VHAs run at 37 °C and miss antiplatelet drugs, vWD and (reliably) DOACs. Platelet-function tests are needed for antiplatelet effects.
+
+**Ref:** CRASH-2. *Lancet* 2010;376:23–32; Holcomb JB, et al. PROPPR. *JAMA* 2015;313:471–482; Rossaint R, et al. *Crit Care* 2023;27:80.
+
+Review: [W22/D5](#W22-D5)
+
+</details>
+
+**67.** Tranexamic acid is being considered for five patients in the ICU. In which of them is it best supported by RCT evidence?
+
+- A. A 58-year-old with acute variceal bleeding and Child–Pugh C cirrhosis
+- B. A 30-year-old in haemorrhagic shock 1 h after a motorcycle crash
+- C. A 66-year-old with septic shock and DIC who is oozing from line sites
+- D. A 72-year-old with a bleeding duodenal ulcer awaiting endoscopy
+- E. A 40-year-old trauma patient arriving 5 h after injury
+
+<details><summary>Answer</summary>
+
+**B.**
+
+**Why B:** In CRASH-2 (n = 20,211), TXA (1 g over 10 min, then 1 g over 8 h) reduced all-cause death (14.5 vs 16.0 %) and death from bleeding. The greatest benefit was within 1 h, and the European trauma guideline gives it a 1A recommendation within 3 h.
+
+**Why not the others:**
+- A – Baveno VIII does not recommend TXA in variceal bleeding.
+- C – Septic DIC has suppressed fibrinolysis, so antifibrinolytics are contraindicated.
+- D – In HALT-IT (n = 12,009), death from bleeding was 4 % in both arms and VTE 0.8 vs 0.4 %. ESGE recommends against it (strong).
+- E – Given after 3 h, TXA increased death from bleeding in CRASH-2.
+
+**Ref:** CRASH-2. *Lancet* 2010;376:23–32; HALT-IT. *Lancet* 2020;395:1927–1936; Rossaint R, et al. *Crit Care* 2023;27:80.
+
+Review: [W22/D5](#W22-D5), [W20/D1](#W20-D1), [W22/D2](#W22-D2)
+
+</details>
+
+**68.** Regarding corticosteroid use in the conditions covered this month:
+
+- A. In adrenal crisis, hydrocortisone 100 mg IV is given immediately, without waiting for test results. — T / F
+- B. In type 2 amiodarone-induced thyrotoxicosis, prednisolone is the treatment of choice. — T / F
+- C. In severe alcohol-related hepatitis with ACLF-3, prednisolone 40 mg/day is recommended. — T / F
+- D. In immune TTP, corticosteroids are given together with plasma exchange. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – F, D – T.**
+
+- A (True) – Follow it with 200 mg/24 h and saline. Draw cortisol and ACTH first only if that causes no delay.
+- B (True) – Type 2 AIT is a destructive thyroiditis, treated with prednisolone about 40 mg/day. Type 1 is treated with thionamides.
+- C (False) – EASL 2023 advises against steroids in ACLF-3 or uncontrolled infection, where the response rate is only about 8 %. If steroids are used in alcohol-related hepatitis, stop them if the Lille score is above 0.45 at day 7.
+- D (True) – ISTH 2020 gives a strong recommendation for methylprednisolone 1 g/day for 3 days, or prednisolone 1 mg/kg, together with PEX, plus caplacizumab ± rituximab.
+
+**Ref:** Bornstein SR, et al. *J Clin Endocrinol Metab* 2016;101:364–389; Bartalena L, et al. *Eur Thyroid J* 2018;7:55–66; EASL ACLF. *J Hepatol* 2023;79:461–491; Zheng XL, et al. *J Thromb Haemost* 2020;18:2496–2502.
+
+Review: [W19/D4](#W19-D4), [W19/D3](#W19-D3), [W20/D4](#W20-D4), [W22/D3](#W22-D3)
+
+</details>
+
+**69.** Regarding sodium targets and correction rates in the ICU:
+
+- A. In acute liver failure with a high risk of intracranial hypertension, hypertonic saline is used to keep Na⁺ at 145–150 mmol/L. — T / F
+- B. In SAH with hyponatraemia and a high urine Na⁺, fluid restriction is the first-line treatment. — T / F
+- C. Chronic hypernatraemia caused by AVP deficiency may be corrected by up to 20 mmol/L per 24 h. — T / F
+- D. In HHS, a rising measured Na⁺ during treatment is acceptable provided osmolality falls, but the fall in Na⁺ should not exceed 10 mmol/L in 24 h. — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – F, C – F, D – T.**
+
+- A (True) – This applies with ammonia above 150 µmol/L, grade III–IV HE, AKI or vasopressors. It reduces ICP surges.
+- B (False) – Never fluid-restrict in SAH, because it increases delayed cerebral ischaemia. Cerebral salt wasting is hypovolaemic. Give isotonic or hypertonic saline (± fludrocortisone).
+- C (False) – Chronic hypernatraemia (> 48 h) is corrected by ≤ 10–12 mmol/L per 24 h (about 0.5 mmol/L/h) to avoid cerebral oedema. Acute post-operative DI can be corrected faster.
+- D (True) – Measured Na⁺ rises as glucose falls and water returns to the cells. Effective osmolality (2 × Na⁺ + glucose) is the target, falling 3–8 mOsm/kg/h.
+
+**Ref:** EASL ALF. *J Hepatol* 2017;66:1047–1081; Spasovski G, et al. *Eur J Endocrinol* 2014;170:G1–G47; Mustafa OG, et al. JBDS HHS. *Diabet Med* 2023;40:e15005.
+
+Review: [W20/D3](#W20-D3), [W19/D5](#W19-D5), [W19/D1](#W19-D1)
+
+</details>
+
+**70.** Regarding nutrition in the GI and metabolic conditions covered this month:
+
+- A. In severe acute pancreatitis, nasogastric feeding is as safe as nasojejunal feeding. — T / F
+- B. With an IAP of 12–20 mmHg, low-rate EN may be started or continued with IAP monitoring; EN is delayed when IAP exceeds 20 mmHg or ACS develops. — T / F
+- C. In hepatic encephalopathy due to cirrhosis, protein should not be restricted. — T / F
+- D. In refeeding hypophosphataemia, restricting calories for 48 h with phosphate replacement reduced mortality (Doig 2015). — T / F
+
+<details><summary>Answer</summary>
+
+**A – T, B – T, C – T, D – T.**
+
+- A (True) – EN is preferred over PN in severe AP. Use nasojejunal feeding only if gastric feeding is not tolerated. In mild AP, start a low-fat oral diet within 24–48 h.
+- B (True) – This is ESICM 2017. IAH grade I corresponds to AGI II, IAH grades II–III to AGI III, and ACS to AGI IV.
+- C (True) – Give 1.2–1.5 g/kg/day, up to 2 g/kg in the critically ill. Protein is also not restricted in ALF, where ammonia is monitored.
+- D (True) – Calories were restricted to about 20 kcal/h for 48 h, which lowered 60-day mortality. Check phosphate daily in the first week, along with K⁺, Mg²⁺ and thiamine.
+
+**Ref:** Reintam Blaser A, et al. ESICM early EN. *Intensive Care Med* 2017;43:380–398; Tenner S, et al. ACG. *Am J Gastroenterol* 2024;119:419–437; Doig GS, et al. *Lancet Respir Med* 2015;3:943–952.
+
+Review: [W20/D2](#W20-D2), [W20/D5](#W20-D5), [W20/D4](#W20-D4), [W21/D1](#W21-D1)
+
+</details>
