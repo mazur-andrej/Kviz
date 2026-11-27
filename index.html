@@ -208,7 +208,7 @@ async function submit(){
   ATT[x.id]=rec;save(rec);
 }
 async function save(rec){
-  try{localStorage.setItem('edic-att',JSON.stringify(ATT))}catch(e){}
+  try{localStorage.setItem('edic-att',JSON.stringify(ATT))}catch(e){}gsQueue();
   if(!db)return;
   try{await db.doc('attempts/'+rec.id).set(rec)}catch(e){console.log('db save failed',e)}
 }
@@ -224,7 +224,7 @@ CANDIDATE ANSWER: ${a.text}
 Return JSON only: {"mark": integer 0-10, "feedback": "2-3 sentences", "missing": ["key points missed"]}`,{modelTier:'default'});
     Object.assign(a,{mark:r.mark,fb:r.feedback,missing:r.missing||[]});answers[k]=a;
     document.getElementById('og'+n).innerHTML=fbH(a);
-    const rec=ATT[cur.id];if(rec){rec.answers=answers;rec.open=Object.assign(rec.open||{},{[k]:a.mark});save(rec)}
+    const rec=ATT[cur.id];if(rec){rec.answers=answers;rec.open=Object.assign(rec.open||{},{[k]:a.mark});rec.upd=Date.now();save(rec)}
   }catch(e){document.getElementById('og'+n).innerHTML=`<p class="note">Could not mark right now (${esc(e.code||'error')}). Compare with the model answer.</p>`}
   btn.disabled=false;btn.textContent='Mark again';
 }
@@ -236,7 +236,7 @@ function srsUpdate(x){
     else if(SRS[k]){const b=SRS[k].box+1;if(b>=IV.length)delete SRS[k];else SRS[k]=Object.assign(SRS[k],{box:b,due:addDays(today,IV[b])})}});
   saveSRS();
 }
-function saveSRS(){try{localStorage.setItem('edic-srs',JSON.stringify(SRS))}catch(e){}
+function saveSRS(){try{localStorage.setItem('edic-srs',JSON.stringify(SRS));localStorage.setItem('edic-srs-ts',String(Date.now()))}catch(e){}gsQueue();
   if(db)db.doc('attempts/_srs').set({id:'_srs',kind:'srs',items:SRS}).catch(e=>console.log('srs save failed',e));misBadge()}
 function seedSRS(){if(Object.keys(SRS).length)return;
   Object.values(ATT).forEach(r=>{const x=BY[r.id];if(!x||!r.answers)return;
@@ -327,7 +327,7 @@ function bookSet(lid){setNav('home');const qs=BOOK[lid]||[];const W=BOOK._weeks|
   document.getElementById('bsub').onclick=async()=>{if(bDone){bDone=false;bAns={_id:lid};bookSet(lid);scrollTo(0,0);return}
     bDone=true;const t=bTotal(qs);bookSet(lid);
     const rec={id:'book-'+lid,title:'Benington '+lid,kind:'book',score:t.s,max:qs.length,pct:t.pct,date:new Date().toISOString(),answers:Object.fromEntries(qs.map((q,i)=>[q.ref,bAns[i]||null]))};
-    ATT[rec.id]=rec;try{localStorage.setItem('edic-att',JSON.stringify(ATT))}catch(e){}
+    ATT[rec.id]=rec;try{localStorage.setItem('edic-att',JSON.stringify(ATT))}catch(e){}gsQueue();
     if(db)db.doc('attempts/'+rec.id).set(rec).catch(e=>console.log(e))};
 }
 function bScore(q,a){if(q.type==='MTF'){if(!a)return 0;let c=0;for(let j=0;j<5;j++)if(a[j]===q.key[j])c++;return c/5}return a&&a===q.key.toLowerCase()?1:0}
@@ -338,6 +338,50 @@ function qResults(){const out={};
   Object.values(ATT).forEach(r=>{if(r.qres){Object.entries(r.qres).forEach(([k,v])=>out[k]=v);return}
     const x=BY[r.id];if(x&&r.answers)x.questions.forEach(q=>out[q.key]=score(q,r.answers[q.n]))});return out}
 
+/* ---------- cross-device sync: progress is kept in a private GitHub gist (token with the "gist" scope only) ---------- */
+const GS={tok:null,id:null,timer:null,state:'off',msg:'',last:null};
+try{GS.tok=localStorage.getItem('edic-gh-token');GS.id=localStorage.getItem('edic-gist-id')}catch(e){}
+const GH='https://api.github.com',GF='edic-progress.json';
+const ghH=()=>({'Authorization':'Bearer '+GS.tok,'Accept':'application/vnd.github+json','Content-Type':'application/json'});
+async function ghFetch(u,o){const r=await fetch(GH+u,Object.assign({headers:ghH(),cache:'no-store'},o||{}));
+  if(r.status===401)throw new Error('token rejected (401) – create a new one');if(!r.ok&&r.status!==404)throw new Error('GitHub error '+r.status);return r}
+async function gistId(){if(GS.id)return GS.id;
+  for(let p=1;p<=10&&!GS.id;p++){const a=await (await ghFetch('/gists?per_page=100&page='+p)).json();const g=a.find(g=>g.files&&g.files[GF]);if(g)GS.id=g.id;if(a.length<100)break}
+  if(!GS.id){const r=await ghFetch('/gists',{method:'POST',body:JSON.stringify({description:'EDIC quiz progress (sync)',public:false,files:{[GF]:{content:'{}'}}})});GS.id=(await r.json()).id}
+  try{localStorage.setItem('edic-gist-id',GS.id)}catch(e){}return GS.id}
+async function gistRead(){let id=await gistId(),r=await ghFetch('/gists/'+id);
+  if(r.status===404){GS.id=null;try{localStorage.removeItem('edic-gist-id')}catch(e){}id=await gistId();r=await ghFetch('/gists/'+id)}
+  const f=((await r.json()).files||{})[GF];if(!f)return{};let t=f.content;if(f.truncated)t=await (await fetch(f.raw_url,{cache:'no-store'})).text();
+  try{return JSON.parse(t||'{}')}catch(e){return{}}}
+function srsTs(){try{return +localStorage.getItem('edic-srs-ts')||0}catch(e){return 0}}
+function mergeRemote(d){let changed=false;
+  Object.entries(d.att||{}).forEach(([k,v])=>{const l=ATT[k];if(v&&v.id&&(!l||(v.date||'')>(l.date||'')||((v.date||'')===(l.date||'')&&JSON.stringify(v)!==JSON.stringify(l)&&(v.upd||0)>(l.upd||0)))){ATT[k]=v;changed=true}});
+  if(GS.first){GS.first=false;const u=Object.assign({},d.srs||{},SRS);if(JSON.stringify(u)!==JSON.stringify(SRS)){SRS=u;changed=true}
+    try{localStorage.setItem('edic-srs',JSON.stringify(SRS));localStorage.setItem('edic-srs-ts',String(Date.now()))}catch(e){}}
+  else if(d.srs&&(d.srsTs||0)>srsTs()){SRS=d.srs;try{localStorage.setItem('edic-srs',JSON.stringify(SRS));localStorage.setItem('edic-srs-ts',String(d.srsTs))}catch(e){}changed=true}
+  if(changed)try{localStorage.setItem('edic-att',JSON.stringify(ATT))}catch(e){}
+  return changed}
+async function gsSync(){if(!GS.tok)return;GS.state='busy';gsShow();
+  try{const d=await gistRead(),changed=mergeRemote(d);
+    const mine={v:1,att:ATT,srs:SRS,srsTs:srsTs()||Date.now(),saved:new Date().toISOString()};
+    const differs=JSON.stringify({a:d.att||{},s:d.srs||{}})!==JSON.stringify({a:ATT,s:SRS});
+    if(differs)await ghFetch('/gists/'+GS.id,{method:'PATCH',body:JSON.stringify({files:{[GF]:{content:JSON.stringify(mine)}}})});
+    GS.state='ok';GS.msg='';GS.last=new Date();
+    if(changed){misBadge();const h=location.hash.slice(1);if(!h||h==='scores'||h==='mistakes'||h==='janek')route()}
+  }catch(e){GS.state='err';GS.msg=e.message||String(e);console.log('sync failed',e)}
+  gsShow()}
+function gsQueue(){if(!GS.tok)return;clearTimeout(GS.timer);GS.timer=setTimeout(gsSync,2500)}
+function gsShow(){const el=document.getElementById('gsBox');if(el)el.innerHTML=gsHTML()}
+function gsHTML(){if(!GS.tok)return`<p class="note">Your results are saved only in this browser. To see them on every device (phone, laptop…), connect a GitHub token once on each device – results are kept in a private gist in your GitHub account.</p>
+  <ol class="note" style="margin:6px 0 10px 18px"><li><a href="https://github.com/settings/tokens/new?scopes=gist&amp;description=EDIC%20quiz%20sync" target="_blank" rel="noopener" style="color:var(--teal)">Create a token</a> (classic, tick only <b>gist</b>, set expiry as you like) and copy it.</li><li>Paste it here and press Connect. Use the same token on your other devices.</li></ol>
+  <form id="gsF" style="display:flex;gap:8px;flex-wrap:wrap"><input id="gsT" type="password" autocomplete="off" placeholder="ghp_…" style="flex:1;min-width:180px;font:15px 'IBM Plex Sans',system-ui,sans-serif;padding:9px;border:1.5px solid var(--rule);border-radius:10px;background:var(--paper);color:var(--ink)"><button class="btn" type="submit">Connect</button></form>`;
+  const st=GS.state==='busy'?'Syncing…':GS.state==='err'?`<span style="color:var(--red)">Sync failed: ${esc(GS.msg)}</span>`:GS.last?`Synced ${GS.last.toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})}`:'Connected';
+  return`<p class="note">✓ Sync across devices is on – results are kept in a private gist in your GitHub account. ${st}</p><p style="display:flex;gap:8px;flex-wrap:wrap"><button class="btn ghost" id="gsNow" type="button">Sync now</button><button class="btn ghost" id="gsOff" type="button">Disconnect this device</button></p>`}
+document.addEventListener('submit',e=>{if(e.target.id!=='gsF')return;e.preventDefault();const t=document.getElementById('gsT').value.trim();if(!t)return;
+  GS.tok=t;GS.id=null;GS.first=true;try{localStorage.setItem('edic-gh-token',t);localStorage.removeItem('edic-gist-id')}catch(err){}gsSync()});
+document.addEventListener('click',e=>{if(e.target.id==='gsNow')gsSync();
+  if(e.target.id==='gsOff'){GS.tok=null;GS.id=null;GS.state='off';try{localStorage.removeItem('edic-gh-token');localStorage.removeItem('edic-gist-id')}catch(err){}gsShow()}});
+document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible'&&GS.tok)gsSync()});
 function progress(){
   setNav('prog');
   const xs=DATA.concat(Object.values(CASES)).filter(x=>ATT[x.id]);const tot=xs.reduce((t,x)=>t+ATT[x.id].score,0),max=xs.reduce((t,x)=>t+ATT[x.id].max,0);
@@ -352,6 +396,7 @@ function progress(){
   <h2>By blueprint domain</h2><p class="note">Share of the EDIC disease-management blueprint shown on the right. Weak domains (&lt; 60 %) are where to spend revision time.</p>${Object.keys(dom).length?domH:'<p class="note">No results yet.</p>'}
   <h2>By week</h2>${Object.entries(by).map(([w,v])=>`<div style="display:grid;grid-template-columns:5em minmax(0,1fr) 3.5em;gap:10px;align-items:center;margin:6px 0"><b>${w}</b><div class="meter"><i style="width:${pct(v.s,v.m)}%;background:${pct(v.s,v.m)>=70?'var(--ok)':pct(v.s,v.m)>=60?'var(--half)':'var(--red)'}"></i></div><span style="text-align:right">${pct(v.s,v.m)}%</span></div>`).join('')||'<p class="note">No results yet.</p>'}
   <h2>All attempts</h2>${xs.map(rowH).join('')}
+  <h2>Sync across devices</h2><div id="gsBox">${gsHTML()}</div>
   <p class="note">${db?'Saved to your account.':'Saved on this device (browser storage).'}</p>`;
 }
 /* ---------- Janek otázky: verbatim questions from a friend (lessons/janek/) ---------- */
@@ -392,7 +437,7 @@ addEventListener('hashchange',route);
   try{DATA=await (await fetch('questions.json')).json()}catch(e){app.innerHTML='<p>Could not load questions.</p>';return}
   BOOK={}
   await loadJanek();
-  mergeCases();DATA.forEach(x=>{BY[x.id]=x;x.questions.forEach(q=>{q.src=x.id;QK[q.key]=q})});Object.values(CASES).forEach(c=>{BY[c.id]=c});seedSRS();misBadge();route();
+  mergeCases();DATA.forEach(x=>{BY[x.id]=x;x.questions.forEach(q=>{q.src=x.id;QK[q.key]=q})});Object.values(CASES).forEach(c=>{BY[c.id]=c});seedSRS();misBadge();route();gsSync();
   if(window.claude){
     claude.use('sample').then(s=>{sample=s;if(cur&&tab==='quiz')app.querySelectorAll('[data-grade]').forEach(b=>b.hidden=!s)}).catch(()=>{});
     const t=setTimeout(()=>{},10000);
