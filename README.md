@@ -8,7 +8,7 @@ Original practice questions for the European Diploma in Intensive Care (EDIC) Pa
 
 | | |
 |---|---|
-| Sets | 302 (daily lessons W01–W14, weekly & monthly reviews, case-style sets) |
-| MCQs | 2609 (single best answer + 4-statement true/false) |
+| Sets | 308 (daily lessons W01–W14, weekly & monthly reviews, case-style sets) |
+| MCQs | 2679 (single best answer + 4-statement true/false) |
 
 Not medical advice; check current local protocols.
